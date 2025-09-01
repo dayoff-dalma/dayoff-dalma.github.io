@@ -1,0 +1,278 @@
+1:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/faaaebde45bfcdd4.css",{"as":"style"}]
+0:["FL5qPEDR-MTJ47-06Xiua",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%EC%9A%B0%EB%B0%94%ED%88%AC%EB%B0%94-%ED%95%AB%EC%8A%A4%ED%8C%9F-%ED%98%B8%ED%85%94-%EC%B6%94%EC%B2%9C-6149e99b","d"],{"children":["__PAGE__?{\"slug\":\"우바투바-핫스팟-호텔-추천-6149e99b\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/faaaebde45bfcdd4.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-21fed9d4f5b142b6.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_e8ce0c","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%EC%9A%B0%EB%B0%94%ED%88%AC%EB%B0%94-%ED%95%AB%EC%8A%A4%ED%8C%9F-%ED%98%B8%ED%85%94-%EC%B6%94%EC%B2%9C-6149e99b","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"우바투바-핫스팟-호텔-추천-6149e99b\"}"},"styles":[]}],"segment":["slug","%EC%9A%B0%EB%B0%94%ED%88%AC%EB%B0%94-%ED%95%AB%EC%8A%A4%ED%8C%9F-%ED%98%B8%ED%85%94-%EC%B6%94%EC%B2%9C-6149e99b","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"우바투바 핫스팟 호텔 추천, 브라질에서 잊지 못할 휴가를! | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"브라질의 태양과 해변을 만끽하고 싶다면, 우바투바에서의 숙박을 계획해보세요. Ubatuba Praia Hotel, Ubatuba Eco Hotel, Nacional Inn Ubatuba Praia das Toninhas, 그리고 Chales Ceu e Mar Ubatuba는 각각 독특한 매력을 가진 호텔입니다. 해변과 가까운 위치에서 편안함과 즐거움을 동시에 추구할 수 있으며, 방문객들에게 잊을 수 없는 추억을 선사할 것입니다."}],["$","meta","3",{"name":"keywords","content":"남미,해변,편안함,자연,모험,서비스,조용함,현지 재료,서핑,휴양지,휴식,매력,힐링,특별한휴식,편의시설"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%EC%9A%B0%EB%B0%94%ED%88%AC%EB%B0%94-%ED%95%AB%EC%8A%A4%ED%8C%9F-%ED%98%B8%ED%85%94-%EC%B6%94%EC%B2%9C-6149e99b"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"우바투바 핫스팟 호텔 추천, 브라질에서 잊지 못할 휴가를! | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"우바투바 핫스팟 호텔 추천, 브라질에서 잊지 못할 휴가를! | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"브라질의 태양과 해변을 만끽하고 싶다면, 우바투바에서의 숙박을 계획해보세요. Ubatuba Praia Hotel, Ubatuba Eco Hotel, Nacional Inn Ubatuba Praia das Toninhas, 그리고 Chales Ceu e Mar Ubatuba는 각각 독특한 매력을 가진 호텔입니다. 해변과 가까운 위치에서 편안함과 즐거움을 동시에 추구할 수 있으며, 방문객들에게 잊을 수 없는 추억을 선사할 것입니다."}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%EC%9A%B0%EB%B0%94%ED%88%AC%EB%B0%94-%ED%95%AB%EC%8A%A4%ED%8C%9F-%ED%98%B8%ED%85%94-%EC%B6%94%EC%B2%9C-6149e99b"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/ubatuba.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"우바투바 핫스팟 호텔 추천, 브라질에서 잊지 못할 휴가를! | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"브라질의 태양과 해변을 만끽하고 싶다면, 우바투바에서의 숙박을 계획해보세요. Ubatuba Praia Hotel, Ubatuba Eco Hotel, Nacional Inn Ubatuba Praia das Toninhas, 그리고 Chales Ceu e Mar Ubatuba는 각각 독특한 매력을 가진 호텔입니다. 해변과 가까운 위치에서 편안함과 즐거움을 동시에 추구할 수 있으며, 방문객들에게 잊을 수 없는 추억을 선사할 것입니다."}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/ubatuba.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+11:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+d:T1eff,
+    
+
+
+## 우바투바 핫스팟 호텔로 떠나는 브라질 휴가
+
+안녕하세요. 달마야 여행가자의 달마예요. 이번 여행지는 **브라질의 헛되지 않은 보석**인 우바투바로, 매혹적인 해변들과 함께 확 트인 자연을 경험할 수 있는 곳이에요. 그 중심에 있는 여러 호텔들 중, 추천하고 싶은 네 곳의 멋진 호텔들을 소개할게요. 여러분의 마음에 꼭 맞는 **환상적인 휴양지**를 찾는 기회가 될 거예요! 각 호텔마다 독특한 매력과 편리함을 제공하니, 이곳에서 보내는 휴가가 잊지 못할 추억으로 남을 거랍니다. 이제 이 매력적인 호텔들을 살펴보면서, 여러분의 브라질 모험을 시작해 볼까요?
+
+
+## 해변의 낭만을 만끽하다
+Ubatuba Praia Hotel
+    ![Ubatuba Praia Hotel_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/309696816.jpg)
+![Ubatuba Praia Hotel_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/699800397.jpg)
+![Ubatuba Praia Hotel_2_image](https://pix8.agoda.net/property/69907875/0/5e688d85e9ff47afedba245d28e0bc54.jpeg)
+
+파란 하늘과 맞닿은 무한한 바다가 펼쳐진 이곳에서 휴가를 보내보세요. 당신이 꿈꾸던 모든 것이 여기에 있답니다! 해변의 덜컹거리는 파도 소리와 부드러운 모래 사이를 걷다 보면, 모든 걱정은 잠시 잊힐 거예요. 이 호텔에서는 편안한 휴식과 함께, **친절한 직원**들이 여러분을 반겨주며, 맛있는 조식이 아침을 활기차게 시작하도록 도와줘요. 
+
+주변에 위치한 **자연의 경이로움**을 탐험하는 즐거움을 놓치지 마세요. 호텔 근처에는 즐길 거리도 가득하여 하루하루가 다채로운 모험이 될 것이에요. 객실은 깔끔하고 아늑하며, 따뜻한 감성이 담긴 공간이어서 마음을 편하게 해 준답니다. **세심한 서비스**와 **포근한 분위기** 속에서 소중한 사람들과 함께 섬세한 이야기를 나눠보세요. 행복은 바로 여기서 시작될 거예요.
+
+[Ubatuba Praia Hotel](https://www.agoda.com/ko-kr/ubatuba-praia-hotel/hotel/all/ubatuba-br.html)
+ 
+
+## 열대 낙원에서의 편안함
+Ubatuba Eco Hotel
+    ![Ubatuba Eco Hotel_0_image](https://pix8.agoda.net/hotelImages/358313/0/480e9fb2d2b854fad7e1baa024dc1549.jpeg)
+![Ubatuba Eco Hotel_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/484710902.jpg)
+![Ubatuba Eco Hotel_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/495456603.jpg)
+
+브라질의 우바투바에 위치한 에코 호텔은 *자연과 교감*할 수 있는 곳이에요. 이곳은 울창한 숲과 해변이 어우러져 있어, 자연의 품속에서 편안함을 찾는 여행자들에게 추천할 만한 곳이죠. 객실은 모던하면서도 편안함을 주는 인테리어로 구성되어 있어요. 모든 방에서는 자연의 소리와 바다의 풍경을 감상할 수 있는데요, 특히 발코니에 앉아있는 기분은 정말 말로 다 설명할 수 없을 정도로 좋답니다. 
+
+조식은 현지의 신선한 재료를 사용해 제공되며, 다양한 옵션으로 모든 여행자의 입맛을 사로잡을 수 있답니다. 또한, 근처 해변에서 다양한 활동을 즐길 수 있어요. 서핑을 하거나 햇볕 아래 독서를 즐기거나, 어떤 선택을 하더라도 만족할 겁니다. 에코 호텔은 고객들에게 최고의 서비스와 잊지 못할 경험을 제공하기 위해 꾸준히 노력하고 있어요. 한번 숙박해 보면 자연과 함께하는 여행의 진정한 매력을 경험하게 될 거예요.
+
+[Ubatuba Eco Hotel](https://www.agoda.com/ko-kr/ubatuba-eco-hotel/hotel/all/ubatuba-br.html)
+ 
+
+## 파도 소리와 함께 하는 낭만적인 휴양지
+Hotel Nacional Inn Ubatuba - Praia das Toninhas
+    ![Hotel Nacional Inn Ubatuba - Praia das Toninhas_0_image](https://pix8.agoda.net/hotelImages/435294/0/4144b9e437fd413644de97e0448ac78f.jpeg)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/464446792.jpg)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_2_image](https://pix8.agoda.net/property/39525606/0/108de70d9543ba600a8c68fe1411d16a.png)
+
+브라질의 아름다운 해변 도시, 우바투바에 위치한 Nacional Inn Ubatuba Praia das Toninhas는 자연과 어우러진 휴양지예요. 이 호텔은 매력적인 해변 근처에 있어서, 서핑과 산책을 즐기기에 정말 좋아요. 깨끗하게 관리된 수영장은 물론이고, 넉넉한 객실 공간 덕분에 편안한 휴식을 기대할 수 있어요. 특히 호텔의 레스토랑에서는 지역 특색을 살린 다양한 요리를 맛볼 수 있어서 만족도가 높답니다.
+
+게다가 친절한 직원들이 투숙객을 환영해주는 모습이 정말 인상 깊어요. 필요할 때마다 도움을 주고, 지역 명소 추천도 해주어 여행이 더욱 특별해져요. 무엇보다 이곳에서의 하이라이트는 바로 매일 아침 파도 소리에 깨어나는 거예요. 실제로 해변이 가까워서 발길 닿는 대로 모래사장을 느낄 수 있어요. 여유로운 분위기에서 오전 산책을 하며, 하루를 기분 좋게 시작할 수 있는 그런 곳이랍니다.
+
+[Hotel Nacional Inn Ubatuba - Praia das Toninhas](https://www.agoda.com/ko-kr/nacional-inn-ubatuba-praia-das-toninhas/hotel/all/ubatuba-br.html)
+ 
+
+## 파라다이스 같은 해변 휴양지
+Chales Ceu e Mar Ubatuba
+    ![Chales Ceu e Mar Ubatuba_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/696621601.jpg)
+![Chales Ceu e Mar Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/696617584.jpg)
+![Chales Ceu e Mar Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/696621615.jpg)
+
+브라질의 숨겨진 보석, 우바투바에 위치한 이 호텔은 자연과 조화를 이루며 평화로운 휴양을 제공합니다. 도시의 일상에서 벗어나 따뜻한 남쪽 해변의 햇살을 느낄 수 있는 이곳은 아름다운 바다 전망과 함께 여행자들에게 여유로운 휴식을 선사합니다. 객실은 군더더기 없이 깔끔하며 편안함을 더해 줍니다. 특히 해변가 코테지의 창밖으로는 드넓은 바다가 펼쳐져 그 자체로 힐링을 선사합니다.
+
+여행객들은 이곳의 풍부한 자연환경과 함께 제공되는 다양한 방레이스를 즐길 수 있어요. 아침에는 신선한 현지 재료로 만든 조식을 먹으며 하루를 시작하고, 해가 질 무렵에는 오직 이곳에서만 경험할 수 있는 일몰을 감상해보세요. 와이파이 같은 기본적인 편의시설도 완벽하게 갖추어져 있어 여유를 만끽할 수 있는 최적의 선택이에요. 서비스는 친절하고 섬세하며, 로컬 문화를 체험할 수 있는 기회도 제공합니다.
+
+[Chales Ceu e Mar Ubatuba](https://www.agoda.com/ko-kr/chales-ceu-e-mar-ubatuba/hotel/all/ubatuba-br.html)
+ 
+
+
+## 결론
+
+우바투바에서 **완벽한 휴가**를 즐기고 싶다면, 여러 매력을 가진 다양한 호텔들이 당신을 기다리고 있습니다. 파도 소리와 함께 *휴식을 만끽*할 수 있는 Ubatuba Praia Hotel은 친절한 서비스와 자연 탐방의 기회를 제공합니다. 자연 속에서 편안함을 느끼고 현지 재료로 만든 조식을 즐기고 싶다면, Ubatuba Eco Hotel이 제격입니다. 해변과 가까이에서 여유로운 휴식을 원하신다면, Hotel Nacional Inn Ubatuba - Praia das Toninhas는 친절한 서비스로 당신을 맞이할 것입니다. 마지막으로, Chales Ceu e Mar Ubatuba는 자연 속 *평화로운 휴식*과 풍부한 방레이스를 제공합니다. 다양한 호텔들이 제공하는 *특별한 경험*을 통해 우바투바에서 잊지 못할 추억을 만들어보세요. *지금 바로* 예약하세요!
+
+e:T1eff,
+    
+
+
+## 우바투바 핫스팟 호텔로 떠나는 브라질 휴가
+
+안녕하세요. 달마야 여행가자의 달마예요. 이번 여행지는 **브라질의 헛되지 않은 보석**인 우바투바로, 매혹적인 해변들과 함께 확 트인 자연을 경험할 수 있는 곳이에요. 그 중심에 있는 여러 호텔들 중, 추천하고 싶은 네 곳의 멋진 호텔들을 소개할게요. 여러분의 마음에 꼭 맞는 **환상적인 휴양지**를 찾는 기회가 될 거예요! 각 호텔마다 독특한 매력과 편리함을 제공하니, 이곳에서 보내는 휴가가 잊지 못할 추억으로 남을 거랍니다. 이제 이 매력적인 호텔들을 살펴보면서, 여러분의 브라질 모험을 시작해 볼까요?
+
+
+## 해변의 낭만을 만끽하다
+Ubatuba Praia Hotel
+    ![Ubatuba Praia Hotel_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/309696816.jpg)
+![Ubatuba Praia Hotel_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/699800397.jpg)
+![Ubatuba Praia Hotel_2_image](https://pix8.agoda.net/property/69907875/0/5e688d85e9ff47afedba245d28e0bc54.jpeg)
+
+파란 하늘과 맞닿은 무한한 바다가 펼쳐진 이곳에서 휴가를 보내보세요. 당신이 꿈꾸던 모든 것이 여기에 있답니다! 해변의 덜컹거리는 파도 소리와 부드러운 모래 사이를 걷다 보면, 모든 걱정은 잠시 잊힐 거예요. 이 호텔에서는 편안한 휴식과 함께, **친절한 직원**들이 여러분을 반겨주며, 맛있는 조식이 아침을 활기차게 시작하도록 도와줘요. 
+
+주변에 위치한 **자연의 경이로움**을 탐험하는 즐거움을 놓치지 마세요. 호텔 근처에는 즐길 거리도 가득하여 하루하루가 다채로운 모험이 될 것이에요. 객실은 깔끔하고 아늑하며, 따뜻한 감성이 담긴 공간이어서 마음을 편하게 해 준답니다. **세심한 서비스**와 **포근한 분위기** 속에서 소중한 사람들과 함께 섬세한 이야기를 나눠보세요. 행복은 바로 여기서 시작될 거예요.
+
+[Ubatuba Praia Hotel](https://www.agoda.com/ko-kr/ubatuba-praia-hotel/hotel/all/ubatuba-br.html)
+ 
+
+## 열대 낙원에서의 편안함
+Ubatuba Eco Hotel
+    ![Ubatuba Eco Hotel_0_image](https://pix8.agoda.net/hotelImages/358313/0/480e9fb2d2b854fad7e1baa024dc1549.jpeg)
+![Ubatuba Eco Hotel_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/484710902.jpg)
+![Ubatuba Eco Hotel_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/495456603.jpg)
+
+브라질의 우바투바에 위치한 에코 호텔은 *자연과 교감*할 수 있는 곳이에요. 이곳은 울창한 숲과 해변이 어우러져 있어, 자연의 품속에서 편안함을 찾는 여행자들에게 추천할 만한 곳이죠. 객실은 모던하면서도 편안함을 주는 인테리어로 구성되어 있어요. 모든 방에서는 자연의 소리와 바다의 풍경을 감상할 수 있는데요, 특히 발코니에 앉아있는 기분은 정말 말로 다 설명할 수 없을 정도로 좋답니다. 
+
+조식은 현지의 신선한 재료를 사용해 제공되며, 다양한 옵션으로 모든 여행자의 입맛을 사로잡을 수 있답니다. 또한, 근처 해변에서 다양한 활동을 즐길 수 있어요. 서핑을 하거나 햇볕 아래 독서를 즐기거나, 어떤 선택을 하더라도 만족할 겁니다. 에코 호텔은 고객들에게 최고의 서비스와 잊지 못할 경험을 제공하기 위해 꾸준히 노력하고 있어요. 한번 숙박해 보면 자연과 함께하는 여행의 진정한 매력을 경험하게 될 거예요.
+
+[Ubatuba Eco Hotel](https://www.agoda.com/ko-kr/ubatuba-eco-hotel/hotel/all/ubatuba-br.html)
+ 
+
+## 파도 소리와 함께 하는 낭만적인 휴양지
+Hotel Nacional Inn Ubatuba - Praia das Toninhas
+    ![Hotel Nacional Inn Ubatuba - Praia das Toninhas_0_image](https://pix8.agoda.net/hotelImages/435294/0/4144b9e437fd413644de97e0448ac78f.jpeg)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/464446792.jpg)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_2_image](https://pix8.agoda.net/property/39525606/0/108de70d9543ba600a8c68fe1411d16a.png)
+
+브라질의 아름다운 해변 도시, 우바투바에 위치한 Nacional Inn Ubatuba Praia das Toninhas는 자연과 어우러진 휴양지예요. 이 호텔은 매력적인 해변 근처에 있어서, 서핑과 산책을 즐기기에 정말 좋아요. 깨끗하게 관리된 수영장은 물론이고, 넉넉한 객실 공간 덕분에 편안한 휴식을 기대할 수 있어요. 특히 호텔의 레스토랑에서는 지역 특색을 살린 다양한 요리를 맛볼 수 있어서 만족도가 높답니다.
+
+게다가 친절한 직원들이 투숙객을 환영해주는 모습이 정말 인상 깊어요. 필요할 때마다 도움을 주고, 지역 명소 추천도 해주어 여행이 더욱 특별해져요. 무엇보다 이곳에서의 하이라이트는 바로 매일 아침 파도 소리에 깨어나는 거예요. 실제로 해변이 가까워서 발길 닿는 대로 모래사장을 느낄 수 있어요. 여유로운 분위기에서 오전 산책을 하며, 하루를 기분 좋게 시작할 수 있는 그런 곳이랍니다.
+
+[Hotel Nacional Inn Ubatuba - Praia das Toninhas](https://www.agoda.com/ko-kr/nacional-inn-ubatuba-praia-das-toninhas/hotel/all/ubatuba-br.html)
+ 
+
+## 파라다이스 같은 해변 휴양지
+Chales Ceu e Mar Ubatuba
+    ![Chales Ceu e Mar Ubatuba_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/696621601.jpg)
+![Chales Ceu e Mar Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/696617584.jpg)
+![Chales Ceu e Mar Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/696621615.jpg)
+
+브라질의 숨겨진 보석, 우바투바에 위치한 이 호텔은 자연과 조화를 이루며 평화로운 휴양을 제공합니다. 도시의 일상에서 벗어나 따뜻한 남쪽 해변의 햇살을 느낄 수 있는 이곳은 아름다운 바다 전망과 함께 여행자들에게 여유로운 휴식을 선사합니다. 객실은 군더더기 없이 깔끔하며 편안함을 더해 줍니다. 특히 해변가 코테지의 창밖으로는 드넓은 바다가 펼쳐져 그 자체로 힐링을 선사합니다.
+
+여행객들은 이곳의 풍부한 자연환경과 함께 제공되는 다양한 방레이스를 즐길 수 있어요. 아침에는 신선한 현지 재료로 만든 조식을 먹으며 하루를 시작하고, 해가 질 무렵에는 오직 이곳에서만 경험할 수 있는 일몰을 감상해보세요. 와이파이 같은 기본적인 편의시설도 완벽하게 갖추어져 있어 여유를 만끽할 수 있는 최적의 선택이에요. 서비스는 친절하고 섬세하며, 로컬 문화를 체험할 수 있는 기회도 제공합니다.
+
+[Chales Ceu e Mar Ubatuba](https://www.agoda.com/ko-kr/chales-ceu-e-mar-ubatuba/hotel/all/ubatuba-br.html)
+ 
+
+
+## 결론
+
+우바투바에서 **완벽한 휴가**를 즐기고 싶다면, 여러 매력을 가진 다양한 호텔들이 당신을 기다리고 있습니다. 파도 소리와 함께 *휴식을 만끽*할 수 있는 Ubatuba Praia Hotel은 친절한 서비스와 자연 탐방의 기회를 제공합니다. 자연 속에서 편안함을 느끼고 현지 재료로 만든 조식을 즐기고 싶다면, Ubatuba Eco Hotel이 제격입니다. 해변과 가까이에서 여유로운 휴식을 원하신다면, Hotel Nacional Inn Ubatuba - Praia das Toninhas는 친절한 서비스로 당신을 맞이할 것입니다. 마지막으로, Chales Ceu e Mar Ubatuba는 자연 속 *평화로운 휴식*과 풍부한 방레이스를 제공합니다. 다양한 호텔들이 제공하는 *특별한 경험*을 통해 우바투바에서 잊지 못할 추억을 만들어보세요. *지금 바로* 예약하세요!
+
+f:T1eff,
+    
+
+
+## 우바투바 핫스팟 호텔로 떠나는 브라질 휴가
+
+안녕하세요. 달마야 여행가자의 달마예요. 이번 여행지는 **브라질의 헛되지 않은 보석**인 우바투바로, 매혹적인 해변들과 함께 확 트인 자연을 경험할 수 있는 곳이에요. 그 중심에 있는 여러 호텔들 중, 추천하고 싶은 네 곳의 멋진 호텔들을 소개할게요. 여러분의 마음에 꼭 맞는 **환상적인 휴양지**를 찾는 기회가 될 거예요! 각 호텔마다 독특한 매력과 편리함을 제공하니, 이곳에서 보내는 휴가가 잊지 못할 추억으로 남을 거랍니다. 이제 이 매력적인 호텔들을 살펴보면서, 여러분의 브라질 모험을 시작해 볼까요?
+
+
+## 해변의 낭만을 만끽하다
+Ubatuba Praia Hotel
+    ![Ubatuba Praia Hotel_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/309696816.jpg)
+![Ubatuba Praia Hotel_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/699800397.jpg)
+![Ubatuba Praia Hotel_2_image](https://pix8.agoda.net/property/69907875/0/5e688d85e9ff47afedba245d28e0bc54.jpeg)
+
+파란 하늘과 맞닿은 무한한 바다가 펼쳐진 이곳에서 휴가를 보내보세요. 당신이 꿈꾸던 모든 것이 여기에 있답니다! 해변의 덜컹거리는 파도 소리와 부드러운 모래 사이를 걷다 보면, 모든 걱정은 잠시 잊힐 거예요. 이 호텔에서는 편안한 휴식과 함께, **친절한 직원**들이 여러분을 반겨주며, 맛있는 조식이 아침을 활기차게 시작하도록 도와줘요. 
+
+주변에 위치한 **자연의 경이로움**을 탐험하는 즐거움을 놓치지 마세요. 호텔 근처에는 즐길 거리도 가득하여 하루하루가 다채로운 모험이 될 것이에요. 객실은 깔끔하고 아늑하며, 따뜻한 감성이 담긴 공간이어서 마음을 편하게 해 준답니다. **세심한 서비스**와 **포근한 분위기** 속에서 소중한 사람들과 함께 섬세한 이야기를 나눠보세요. 행복은 바로 여기서 시작될 거예요.
+
+[Ubatuba Praia Hotel](https://www.agoda.com/ko-kr/ubatuba-praia-hotel/hotel/all/ubatuba-br.html)
+ 
+
+## 열대 낙원에서의 편안함
+Ubatuba Eco Hotel
+    ![Ubatuba Eco Hotel_0_image](https://pix8.agoda.net/hotelImages/358313/0/480e9fb2d2b854fad7e1baa024dc1549.jpeg)
+![Ubatuba Eco Hotel_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/484710902.jpg)
+![Ubatuba Eco Hotel_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/495456603.jpg)
+
+브라질의 우바투바에 위치한 에코 호텔은 *자연과 교감*할 수 있는 곳이에요. 이곳은 울창한 숲과 해변이 어우러져 있어, 자연의 품속에서 편안함을 찾는 여행자들에게 추천할 만한 곳이죠. 객실은 모던하면서도 편안함을 주는 인테리어로 구성되어 있어요. 모든 방에서는 자연의 소리와 바다의 풍경을 감상할 수 있는데요, 특히 발코니에 앉아있는 기분은 정말 말로 다 설명할 수 없을 정도로 좋답니다. 
+
+조식은 현지의 신선한 재료를 사용해 제공되며, 다양한 옵션으로 모든 여행자의 입맛을 사로잡을 수 있답니다. 또한, 근처 해변에서 다양한 활동을 즐길 수 있어요. 서핑을 하거나 햇볕 아래 독서를 즐기거나, 어떤 선택을 하더라도 만족할 겁니다. 에코 호텔은 고객들에게 최고의 서비스와 잊지 못할 경험을 제공하기 위해 꾸준히 노력하고 있어요. 한번 숙박해 보면 자연과 함께하는 여행의 진정한 매력을 경험하게 될 거예요.
+
+[Ubatuba Eco Hotel](https://www.agoda.com/ko-kr/ubatuba-eco-hotel/hotel/all/ubatuba-br.html)
+ 
+
+## 파도 소리와 함께 하는 낭만적인 휴양지
+Hotel Nacional Inn Ubatuba - Praia das Toninhas
+    ![Hotel Nacional Inn Ubatuba - Praia das Toninhas_0_image](https://pix8.agoda.net/hotelImages/435294/0/4144b9e437fd413644de97e0448ac78f.jpeg)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/464446792.jpg)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_2_image](https://pix8.agoda.net/property/39525606/0/108de70d9543ba600a8c68fe1411d16a.png)
+
+브라질의 아름다운 해변 도시, 우바투바에 위치한 Nacional Inn Ubatuba Praia das Toninhas는 자연과 어우러진 휴양지예요. 이 호텔은 매력적인 해변 근처에 있어서, 서핑과 산책을 즐기기에 정말 좋아요. 깨끗하게 관리된 수영장은 물론이고, 넉넉한 객실 공간 덕분에 편안한 휴식을 기대할 수 있어요. 특히 호텔의 레스토랑에서는 지역 특색을 살린 다양한 요리를 맛볼 수 있어서 만족도가 높답니다.
+
+게다가 친절한 직원들이 투숙객을 환영해주는 모습이 정말 인상 깊어요. 필요할 때마다 도움을 주고, 지역 명소 추천도 해주어 여행이 더욱 특별해져요. 무엇보다 이곳에서의 하이라이트는 바로 매일 아침 파도 소리에 깨어나는 거예요. 실제로 해변이 가까워서 발길 닿는 대로 모래사장을 느낄 수 있어요. 여유로운 분위기에서 오전 산책을 하며, 하루를 기분 좋게 시작할 수 있는 그런 곳이랍니다.
+
+[Hotel Nacional Inn Ubatuba - Praia das Toninhas](https://www.agoda.com/ko-kr/nacional-inn-ubatuba-praia-das-toninhas/hotel/all/ubatuba-br.html)
+ 
+
+## 파라다이스 같은 해변 휴양지
+Chales Ceu e Mar Ubatuba
+    ![Chales Ceu e Mar Ubatuba_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/696621601.jpg)
+![Chales Ceu e Mar Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/696617584.jpg)
+![Chales Ceu e Mar Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/696621615.jpg)
+
+브라질의 숨겨진 보석, 우바투바에 위치한 이 호텔은 자연과 조화를 이루며 평화로운 휴양을 제공합니다. 도시의 일상에서 벗어나 따뜻한 남쪽 해변의 햇살을 느낄 수 있는 이곳은 아름다운 바다 전망과 함께 여행자들에게 여유로운 휴식을 선사합니다. 객실은 군더더기 없이 깔끔하며 편안함을 더해 줍니다. 특히 해변가 코테지의 창밖으로는 드넓은 바다가 펼쳐져 그 자체로 힐링을 선사합니다.
+
+여행객들은 이곳의 풍부한 자연환경과 함께 제공되는 다양한 방레이스를 즐길 수 있어요. 아침에는 신선한 현지 재료로 만든 조식을 먹으며 하루를 시작하고, 해가 질 무렵에는 오직 이곳에서만 경험할 수 있는 일몰을 감상해보세요. 와이파이 같은 기본적인 편의시설도 완벽하게 갖추어져 있어 여유를 만끽할 수 있는 최적의 선택이에요. 서비스는 친절하고 섬세하며, 로컬 문화를 체험할 수 있는 기회도 제공합니다.
+
+[Chales Ceu e Mar Ubatuba](https://www.agoda.com/ko-kr/chales-ceu-e-mar-ubatuba/hotel/all/ubatuba-br.html)
+ 
+
+
+## 결론
+
+우바투바에서 **완벽한 휴가**를 즐기고 싶다면, 여러 매력을 가진 다양한 호텔들이 당신을 기다리고 있습니다. 파도 소리와 함께 *휴식을 만끽*할 수 있는 Ubatuba Praia Hotel은 친절한 서비스와 자연 탐방의 기회를 제공합니다. 자연 속에서 편안함을 느끼고 현지 재료로 만든 조식을 즐기고 싶다면, Ubatuba Eco Hotel이 제격입니다. 해변과 가까이에서 여유로운 휴식을 원하신다면, Hotel Nacional Inn Ubatuba - Praia das Toninhas는 친절한 서비스로 당신을 맞이할 것입니다. 마지막으로, Chales Ceu e Mar Ubatuba는 자연 속 *평화로운 휴식*과 풍부한 방레이스를 제공합니다. 다양한 호텔들이 제공하는 *특별한 경험*을 통해 우바투바에서 잊지 못할 추억을 만들어보세요. *지금 바로* 예약하세요!
+
+10:T1eff,
+    
+
+
+## 우바투바 핫스팟 호텔로 떠나는 브라질 휴가
+
+안녕하세요. 달마야 여행가자의 달마예요. 이번 여행지는 **브라질의 헛되지 않은 보석**인 우바투바로, 매혹적인 해변들과 함께 확 트인 자연을 경험할 수 있는 곳이에요. 그 중심에 있는 여러 호텔들 중, 추천하고 싶은 네 곳의 멋진 호텔들을 소개할게요. 여러분의 마음에 꼭 맞는 **환상적인 휴양지**를 찾는 기회가 될 거예요! 각 호텔마다 독특한 매력과 편리함을 제공하니, 이곳에서 보내는 휴가가 잊지 못할 추억으로 남을 거랍니다. 이제 이 매력적인 호텔들을 살펴보면서, 여러분의 브라질 모험을 시작해 볼까요?
+
+
+## 해변의 낭만을 만끽하다
+Ubatuba Praia Hotel
+    ![Ubatuba Praia Hotel_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/309696816.jpg)
+![Ubatuba Praia Hotel_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/699800397.jpg)
+![Ubatuba Praia Hotel_2_image](https://pix8.agoda.net/property/69907875/0/5e688d85e9ff47afedba245d28e0bc54.jpeg)
+
+파란 하늘과 맞닿은 무한한 바다가 펼쳐진 이곳에서 휴가를 보내보세요. 당신이 꿈꾸던 모든 것이 여기에 있답니다! 해변의 덜컹거리는 파도 소리와 부드러운 모래 사이를 걷다 보면, 모든 걱정은 잠시 잊힐 거예요. 이 호텔에서는 편안한 휴식과 함께, **친절한 직원**들이 여러분을 반겨주며, 맛있는 조식이 아침을 활기차게 시작하도록 도와줘요. 
+
+주변에 위치한 **자연의 경이로움**을 탐험하는 즐거움을 놓치지 마세요. 호텔 근처에는 즐길 거리도 가득하여 하루하루가 다채로운 모험이 될 것이에요. 객실은 깔끔하고 아늑하며, 따뜻한 감성이 담긴 공간이어서 마음을 편하게 해 준답니다. **세심한 서비스**와 **포근한 분위기** 속에서 소중한 사람들과 함께 섬세한 이야기를 나눠보세요. 행복은 바로 여기서 시작될 거예요.
+
+[Ubatuba Praia Hotel](https://www.agoda.com/ko-kr/ubatuba-praia-hotel/hotel/all/ubatuba-br.html)
+ 
+
+## 열대 낙원에서의 편안함
+Ubatuba Eco Hotel
+    ![Ubatuba Eco Hotel_0_image](https://pix8.agoda.net/hotelImages/358313/0/480e9fb2d2b854fad7e1baa024dc1549.jpeg)
+![Ubatuba Eco Hotel_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/484710902.jpg)
+![Ubatuba Eco Hotel_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/495456603.jpg)
+
+브라질의 우바투바에 위치한 에코 호텔은 *자연과 교감*할 수 있는 곳이에요. 이곳은 울창한 숲과 해변이 어우러져 있어, 자연의 품속에서 편안함을 찾는 여행자들에게 추천할 만한 곳이죠. 객실은 모던하면서도 편안함을 주는 인테리어로 구성되어 있어요. 모든 방에서는 자연의 소리와 바다의 풍경을 감상할 수 있는데요, 특히 발코니에 앉아있는 기분은 정말 말로 다 설명할 수 없을 정도로 좋답니다. 
+
+조식은 현지의 신선한 재료를 사용해 제공되며, 다양한 옵션으로 모든 여행자의 입맛을 사로잡을 수 있답니다. 또한, 근처 해변에서 다양한 활동을 즐길 수 있어요. 서핑을 하거나 햇볕 아래 독서를 즐기거나, 어떤 선택을 하더라도 만족할 겁니다. 에코 호텔은 고객들에게 최고의 서비스와 잊지 못할 경험을 제공하기 위해 꾸준히 노력하고 있어요. 한번 숙박해 보면 자연과 함께하는 여행의 진정한 매력을 경험하게 될 거예요.
+
+[Ubatuba Eco Hotel](https://www.agoda.com/ko-kr/ubatuba-eco-hotel/hotel/all/ubatuba-br.html)
+ 
+
+## 파도 소리와 함께 하는 낭만적인 휴양지
+Hotel Nacional Inn Ubatuba - Praia das Toninhas
+    ![Hotel Nacional Inn Ubatuba - Praia das Toninhas_0_image](https://pix8.agoda.net/hotelImages/435294/0/4144b9e437fd413644de97e0448ac78f.jpeg)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/464446792.jpg)
+![Hotel Nacional Inn Ubatuba - Praia das Toninhas_2_image](https://pix8.agoda.net/property/39525606/0/108de70d9543ba600a8c68fe1411d16a.png)
+
+브라질의 아름다운 해변 도시, 우바투바에 위치한 Nacional Inn Ubatuba Praia das Toninhas는 자연과 어우러진 휴양지예요. 이 호텔은 매력적인 해변 근처에 있어서, 서핑과 산책을 즐기기에 정말 좋아요. 깨끗하게 관리된 수영장은 물론이고, 넉넉한 객실 공간 덕분에 편안한 휴식을 기대할 수 있어요. 특히 호텔의 레스토랑에서는 지역 특색을 살린 다양한 요리를 맛볼 수 있어서 만족도가 높답니다.
+
+게다가 친절한 직원들이 투숙객을 환영해주는 모습이 정말 인상 깊어요. 필요할 때마다 도움을 주고, 지역 명소 추천도 해주어 여행이 더욱 특별해져요. 무엇보다 이곳에서의 하이라이트는 바로 매일 아침 파도 소리에 깨어나는 거예요. 실제로 해변이 가까워서 발길 닿는 대로 모래사장을 느낄 수 있어요. 여유로운 분위기에서 오전 산책을 하며, 하루를 기분 좋게 시작할 수 있는 그런 곳이랍니다.
+
+[Hotel Nacional Inn Ubatuba - Praia das Toninhas](https://www.agoda.com/ko-kr/nacional-inn-ubatuba-praia-das-toninhas/hotel/all/ubatuba-br.html)
+ 
+
+## 파라다이스 같은 해변 휴양지
+Chales Ceu e Mar Ubatuba
+    ![Chales Ceu e Mar Ubatuba_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/696621601.jpg)
+![Chales Ceu e Mar Ubatuba_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/696617584.jpg)
+![Chales Ceu e Mar Ubatuba_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/696621615.jpg)
+
+브라질의 숨겨진 보석, 우바투바에 위치한 이 호텔은 자연과 조화를 이루며 평화로운 휴양을 제공합니다. 도시의 일상에서 벗어나 따뜻한 남쪽 해변의 햇살을 느낄 수 있는 이곳은 아름다운 바다 전망과 함께 여행자들에게 여유로운 휴식을 선사합니다. 객실은 군더더기 없이 깔끔하며 편안함을 더해 줍니다. 특히 해변가 코테지의 창밖으로는 드넓은 바다가 펼쳐져 그 자체로 힐링을 선사합니다.
+
+여행객들은 이곳의 풍부한 자연환경과 함께 제공되는 다양한 방레이스를 즐길 수 있어요. 아침에는 신선한 현지 재료로 만든 조식을 먹으며 하루를 시작하고, 해가 질 무렵에는 오직 이곳에서만 경험할 수 있는 일몰을 감상해보세요. 와이파이 같은 기본적인 편의시설도 완벽하게 갖추어져 있어 여유를 만끽할 수 있는 최적의 선택이에요. 서비스는 친절하고 섬세하며, 로컬 문화를 체험할 수 있는 기회도 제공합니다.
+
+[Chales Ceu e Mar Ubatuba](https://www.agoda.com/ko-kr/chales-ceu-e-mar-ubatuba/hotel/all/ubatuba-br.html)
+ 
+
+
+## 결론
+
+우바투바에서 **완벽한 휴가**를 즐기고 싶다면, 여러 매력을 가진 다양한 호텔들이 당신을 기다리고 있습니다. 파도 소리와 함께 *휴식을 만끽*할 수 있는 Ubatuba Praia Hotel은 친절한 서비스와 자연 탐방의 기회를 제공합니다. 자연 속에서 편안함을 느끼고 현지 재료로 만든 조식을 즐기고 싶다면, Ubatuba Eco Hotel이 제격입니다. 해변과 가까이에서 여유로운 휴식을 원하신다면, Hotel Nacional Inn Ubatuba - Praia das Toninhas는 친절한 서비스로 당신을 맞이할 것입니다. 마지막으로, Chales Ceu e Mar Ubatuba는 자연 속 *평화로운 휴식*과 풍부한 방레이스를 제공합니다. 다양한 호텔들이 제공하는 *특별한 경험*을 통해 우바투바에서 잊지 못할 추억을 만들어보세요. *지금 바로* 예약하세요!
+
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"우바투바 핫스팟 호텔 추천, 브라질에서 잊지 못할 휴가를!"}],["$","data",null,{"children":"2025-08-12T01:00:03.903Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"남미"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"해변"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"편안함"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"자연"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"모험"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"서비스"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"조용함"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"현지 재료"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"서핑"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"휴양지"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"휴식"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"매력"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"힐링"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"특별한휴식"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"편의시설"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"19363485","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"우바투바 핫스팟 호텔로 떠나는 브라질 휴가"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요. 달마야 여행가자의 달마예요. 이번 여행지는 ",["$","strong",null,{"className":"font-black","children":"브라질의 헛되지 않은 보석"}],"인 우바투바로, 매혹적인 해변들과 함께 확 트인 자연을 경험할 수 있는 곳이에요. 그 중심에 있는 여러 호텔들 중, 추천하고 싶은 네 곳의 멋진 호텔들을 소개할게요. 여러분의 마음에 꼭 맞는 ",["$","strong",null,{"className":"font-black","children":"환상적인 휴양지"}],"를 찾는 기회가 될 거예요! 각 호텔마다 독특한 매력과 편리함을 제공하니, 이곳에서 보내는 휴가가 잊지 못할 추억으로 남을 거랍니다. 이제 이 매력적인 호텔들을 살펴보면서, 여러분의 브라질 모험을 시작해 볼까요?"]}],"\n",["$","h2",null,{"id":"b9e068da","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"해변의 낭만을 만끽하다"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Ubatuba Praia Hotel\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/309696816.jpg","alt":"Ubatuba Praia Hotel_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/699800397.jpg","alt":"Ubatuba Praia Hotel_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/property/69907875/0/5e688d85e9ff47afedba245d28e0bc54.jpeg","alt":"Ubatuba Praia Hotel_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["파란 하늘과 맞닿은 무한한 바다가 펼쳐진 이곳에서 휴가를 보내보세요. 당신이 꿈꾸던 모든 것이 여기에 있답니다! 해변의 덜컹거리는 파도 소리와 부드러운 모래 사이를 걷다 보면, 모든 걱정은 잠시 잊힐 거예요. 이 호텔에서는 편안한 휴식과 함께, ",["$","strong",null,{"className":"font-black","children":"친절한 직원"}],"들이 여러분을 반겨주며, 맛있는 조식이 아침을 활기차게 시작하도록 도와줘요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["주변에 위치한 ",["$","strong",null,{"className":"font-black","children":"자연의 경이로움"}],"을 탐험하는 즐거움을 놓치지 마세요. 호텔 근처에는 즐길 거리도 가득하여 하루하루가 다채로운 모험이 될 것이에요. 객실은 깔끔하고 아늑하며, 따뜻한 감성이 담긴 공간이어서 마음을 편하게 해 준답니다. ",["$","strong",null,{"className":"font-black","children":"세심한 서비스"}],"와 ",["$","strong",null,{"className":"font-black","children":"포근한 분위기"}]," 속에서 소중한 사람들과 함께 섬세한 이야기를 나눠보세요. 행복은 바로 여기서 시작될 거예요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/ubatuba-praia-hotel/hotel/all/ubatuba-br.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/ubatuba-praia-hotel/hotel/all/ubatuba-br.html"},"children":[{"type":"text","value":"Ubatuba Praia Hotel","position":{"start":{"line":20,"column":2,"offset":1076},"end":{"line":20,"column":21,"offset":1095}}}],"position":{"start":{"line":20,"column":1,"offset":1075},"end":{"line":20,"column":97,"offset":1171}}},"children":"Ubatuba Praia Hotel"},"post":{"id":"6149e99b-5453-4a92-9bd2-95cc8e29ea80","title":"우바투바 핫스팟 호텔 추천, 브라질에서 잊지 못할 휴가를!","fileName":"우바투바-핫스팟-호텔-추천-6149e99b","description":"브라질의 태양과 해변을 만끽하고 싶다면, 우바투바에서의 숙박을 계획해보세요. Ubatuba Praia Hotel, Ubatuba Eco Hotel, Nacional Inn Ubatuba Praia das Toninhas, 그리고 Chales Ceu e Mar Ubatuba는 각각 독특한 매력을 가진 호텔입니다. 해변과 가까운 위치에서 편안함과 즐거움을 동시에 추구할 수 있으며, 방문객들에게 잊을 수 없는 추억을 선사할 것입니다.","date":"2025-08-12T01:00:03.903Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"조용함","path":"$$/kr/tags/조용함","id":"조용함"},{"name":"현지 재료","path":"$$/kr/tags/현지-재료","id":"현지-재료"},{"name":"서핑","path":"$$/kr/tags/서핑","id":"서핑"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"매력","path":"$$/kr/tags/매력","id":"매력"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"특별한휴식","path":"$$/kr/tags/특별한휴식","id":"특별한휴식"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"}],"banner":"https://dalmapping.com/images/ubatuba.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"우바투바-핫스팟-호텔-추천-6149e99b","content":"$d","category":"articles","readMin":"6.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"a676955f","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"열대 낙원에서의 편안함"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Ubatuba Eco Hotel\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/358313/0/480e9fb2d2b854fad7e1baa024dc1549.jpeg","alt":"Ubatuba Eco Hotel_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/484710902.jpg","alt":"Ubatuba Eco Hotel_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/495456603.jpg","alt":"Ubatuba Eco Hotel_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["브라질의 우바투바에 위치한 에코 호텔은 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"자연과 교감"}],"할 수 있는 곳이에요. 이곳은 울창한 숲과 해변이 어우러져 있어, 자연의 품속에서 편안함을 찾는 여행자들에게 추천할 만한 곳이죠. 객실은 모던하면서도 편안함을 주는 인테리어로 구성되어 있어요. 모든 방에서는 자연의 소리와 바다의 풍경을 감상할 수 있는데요, 특히 발코니에 앉아있는 기분은 정말 말로 다 설명할 수 없을 정도로 좋답니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"조식은 현지의 신선한 재료를 사용해 제공되며, 다양한 옵션으로 모든 여행자의 입맛을 사로잡을 수 있답니다. 또한, 근처 해변에서 다양한 활동을 즐길 수 있어요. 서핑을 하거나 햇볕 아래 독서를 즐기거나, 어떤 선택을 하더라도 만족할 겁니다. 에코 호텔은 고객들에게 최고의 서비스와 잊지 못할 경험을 제공하기 위해 꾸준히 노력하고 있어요. 한번 숙박해 보면 자연과 함께하는 여행의 진정한 매력을 경험하게 될 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/ubatuba-eco-hotel/hotel/all/ubatuba-br.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/ubatuba-eco-hotel/hotel/all/ubatuba-br.html"},"children":[{"type":"text","value":"Ubatuba Eco Hotel","position":{"start":{"line":33,"column":2,"offset":1970},"end":{"line":33,"column":19,"offset":1987}}}],"position":{"start":{"line":33,"column":1,"offset":1969},"end":{"line":33,"column":93,"offset":2061}}},"children":"Ubatuba Eco Hotel"},"post":{"id":"6149e99b-5453-4a92-9bd2-95cc8e29ea80","title":"우바투바 핫스팟 호텔 추천, 브라질에서 잊지 못할 휴가를!","fileName":"우바투바-핫스팟-호텔-추천-6149e99b","description":"브라질의 태양과 해변을 만끽하고 싶다면, 우바투바에서의 숙박을 계획해보세요. Ubatuba Praia Hotel, Ubatuba Eco Hotel, Nacional Inn Ubatuba Praia das Toninhas, 그리고 Chales Ceu e Mar Ubatuba는 각각 독특한 매력을 가진 호텔입니다. 해변과 가까운 위치에서 편안함과 즐거움을 동시에 추구할 수 있으며, 방문객들에게 잊을 수 없는 추억을 선사할 것입니다.","date":"2025-08-12T01:00:03.903Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"조용함","path":"$$/kr/tags/조용함","id":"조용함"},{"name":"현지 재료","path":"$$/kr/tags/현지-재료","id":"현지-재료"},{"name":"서핑","path":"$$/kr/tags/서핑","id":"서핑"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"매력","path":"$$/kr/tags/매력","id":"매력"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"특별한휴식","path":"$$/kr/tags/특별한휴식","id":"특별한휴식"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"}],"banner":"https://dalmapping.com/images/ubatuba.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"우바투바-핫스팟-호텔-추천-6149e99b","content":"$e","category":"articles","readMin":"6.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"d0cc402e","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"파도 소리와 함께 하는 낭만적인 휴양지"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Hotel Nacional Inn Ubatuba - Praia das Toninhas\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/435294/0/4144b9e437fd413644de97e0448ac78f.jpeg","alt":"Hotel Nacional Inn Ubatuba - Praia das Toninhas_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/464446792.jpg","alt":"Hotel Nacional Inn Ubatuba - Praia das Toninhas_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/property/39525606/0/108de70d9543ba600a8c68fe1411d16a.png","alt":"Hotel Nacional Inn Ubatuba - Praia das Toninhas_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"브라질의 아름다운 해변 도시, 우바투바에 위치한 Nacional Inn Ubatuba Praia das Toninhas는 자연과 어우러진 휴양지예요. 이 호텔은 매력적인 해변 근처에 있어서, 서핑과 산책을 즐기기에 정말 좋아요. 깨끗하게 관리된 수영장은 물론이고, 넉넉한 객실 공간 덕분에 편안한 휴식을 기대할 수 있어요. 특히 호텔의 레스토랑에서는 지역 특색을 살린 다양한 요리를 맛볼 수 있어서 만족도가 높답니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"게다가 친절한 직원들이 투숙객을 환영해주는 모습이 정말 인상 깊어요. 필요할 때마다 도움을 주고, 지역 명소 추천도 해주어 여행이 더욱 특별해져요. 무엇보다 이곳에서의 하이라이트는 바로 매일 아침 파도 소리에 깨어나는 거예요. 실제로 해변이 가까워서 발길 닿는 대로 모래사장을 느낄 수 있어요. 여유로운 분위기에서 오전 산책을 하며, 하루를 기분 좋게 시작할 수 있는 그런 곳이랍니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/nacional-inn-ubatuba-praia-das-toninhas/hotel/all/ubatuba-br.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/nacional-inn-ubatuba-praia-das-toninhas/hotel/all/ubatuba-br.html"},"children":[{"type":"text","value":"Hotel Nacional Inn Ubatuba - Praia das Toninhas","position":{"start":{"line":46,"column":2,"offset":3003},"end":{"line":46,"column":49,"offset":3050}}}],"position":{"start":{"line":46,"column":1,"offset":3002},"end":{"line":46,"column":145,"offset":3146}}},"children":"Hotel Nacional Inn Ubatuba - Praia das Toninhas"},"post":{"id":"6149e99b-5453-4a92-9bd2-95cc8e29ea80","title":"우바투바 핫스팟 호텔 추천, 브라질에서 잊지 못할 휴가를!","fileName":"우바투바-핫스팟-호텔-추천-6149e99b","description":"브라질의 태양과 해변을 만끽하고 싶다면, 우바투바에서의 숙박을 계획해보세요. Ubatuba Praia Hotel, Ubatuba Eco Hotel, Nacional Inn Ubatuba Praia das Toninhas, 그리고 Chales Ceu e Mar Ubatuba는 각각 독특한 매력을 가진 호텔입니다. 해변과 가까운 위치에서 편안함과 즐거움을 동시에 추구할 수 있으며, 방문객들에게 잊을 수 없는 추억을 선사할 것입니다.","date":"2025-08-12T01:00:03.903Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"조용함","path":"$$/kr/tags/조용함","id":"조용함"},{"name":"현지 재료","path":"$$/kr/tags/현지-재료","id":"현지-재료"},{"name":"서핑","path":"$$/kr/tags/서핑","id":"서핑"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"매력","path":"$$/kr/tags/매력","id":"매력"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"특별한휴식","path":"$$/kr/tags/특별한휴식","id":"특별한휴식"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"}],"banner":"https://dalmapping.com/images/ubatuba.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"우바투바-핫스팟-호텔-추천-6149e99b","content":"$f","category":"articles","readMin":"6.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"fdeb0cb2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"파라다이스 같은 해변 휴양지"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Chales Ceu e Mar Ubatuba\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/696621601.jpg","alt":"Chales Ceu e Mar Ubatuba_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/696617584.jpg","alt":"Chales Ceu e Mar Ubatuba_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/696621615.jpg","alt":"Chales Ceu e Mar Ubatuba_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"브라질의 숨겨진 보석, 우바투바에 위치한 이 호텔은 자연과 조화를 이루며 평화로운 휴양을 제공합니다. 도시의 일상에서 벗어나 따뜻한 남쪽 해변의 햇살을 느낄 수 있는 이곳은 아름다운 바다 전망과 함께 여행자들에게 여유로운 휴식을 선사합니다. 객실은 군더더기 없이 깔끔하며 편안함을 더해 줍니다. 특히 해변가 코테지의 창밖으로는 드넓은 바다가 펼쳐져 그 자체로 힐링을 선사합니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"여행객들은 이곳의 풍부한 자연환경과 함께 제공되는 다양한 방레이스를 즐길 수 있어요. 아침에는 신선한 현지 재료로 만든 조식을 먹으며 하루를 시작하고, 해가 질 무렵에는 오직 이곳에서만 경험할 수 있는 일몰을 감상해보세요. 와이파이 같은 기본적인 편의시설도 완벽하게 갖추어져 있어 여유를 만끽할 수 있는 최적의 선택이에요. 서비스는 친절하고 섬세하며, 로컬 문화를 체험할 수 있는 기회도 제공합니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/chales-ceu-e-mar-ubatuba/hotel/all/ubatuba-br.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/chales-ceu-e-mar-ubatuba/hotel/all/ubatuba-br.html"},"children":[{"type":"text","value":"Chales Ceu e Mar Ubatuba","position":{"start":{"line":59,"column":2,"offset":3944},"end":{"line":59,"column":26,"offset":3968}}}],"position":{"start":{"line":59,"column":1,"offset":3943},"end":{"line":59,"column":107,"offset":4049}}},"children":"Chales Ceu e Mar Ubatuba"},"post":{"id":"6149e99b-5453-4a92-9bd2-95cc8e29ea80","title":"우바투바 핫스팟 호텔 추천, 브라질에서 잊지 못할 휴가를!","fileName":"우바투바-핫스팟-호텔-추천-6149e99b","description":"브라질의 태양과 해변을 만끽하고 싶다면, 우바투바에서의 숙박을 계획해보세요. Ubatuba Praia Hotel, Ubatuba Eco Hotel, Nacional Inn Ubatuba Praia das Toninhas, 그리고 Chales Ceu e Mar Ubatuba는 각각 독특한 매력을 가진 호텔입니다. 해변과 가까운 위치에서 편안함과 즐거움을 동시에 추구할 수 있으며, 방문객들에게 잊을 수 없는 추억을 선사할 것입니다.","date":"2025-08-12T01:00:03.903Z","tags":[{"name":"남미","path":"$$/kr/tags/남미","id":"남미"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"조용함","path":"$$/kr/tags/조용함","id":"조용함"},{"name":"현지 재료","path":"$$/kr/tags/현지-재료","id":"현지-재료"},{"name":"서핑","path":"$$/kr/tags/서핑","id":"서핑"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"매력","path":"$$/kr/tags/매력","id":"매력"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"특별한휴식","path":"$$/kr/tags/특별한휴식","id":"특별한휴식"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"}],"banner":"https://dalmapping.com/images/ubatuba.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"우바투바-핫스팟-호텔-추천-6149e99b","content":"$10","category":"articles","readMin":"6.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["우바투바에서 ",["$","strong",null,{"className":"font-black","children":"완벽한 휴가"}],"를 즐기고 싶다면, 여러 매력을 가진 다양한 호텔들이 당신을 기다리고 있습니다. 파도 소리와 함께 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"휴식을 만끽"}],"할 수 있는 Ubatuba Praia Hotel은 친절한 서비스와 자연 탐방의 기회를 제공합니다. 자연 속에서 편안함을 느끼고 현지 재료로 만든 조식을 즐기고 싶다면, Ubatuba Eco Hotel이 제격입니다. 해변과 가까이에서 여유로운 휴식을 원하신다면, Hotel Nacional Inn Ubatuba - Praia das Toninhas는 친절한 서비스로 당신을 맞이할 것입니다. 마지막으로, Chales Ceu e Mar Ubatuba는 자연 속 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"평화로운 휴식"}],"과 풍부한 방레이스를 제공합니다. 다양한 호텔들이 제공하는 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"특별한 경험"}],"을 통해 우바투바에서 잊지 못할 추억을 만들어보세요. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"지금 바로"}]," 예약하세요!"]}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L11",null,{"articleTitle":"우바투바 핫스팟 호텔 추천, 브라질에서 잊지 못할 휴가를!","toc":[{"tagName":"h2","title":"우바투바 핫스팟 호텔로 떠나는 브라질 휴가","id":"19363485"},{"tagName":"h2","title":"해변의 낭만을 만끽하다","id":"b9e068da"},{"tagName":"h2","title":"열대 낙원에서의 편안함","id":"a676955f"},{"tagName":"h2","title":"파도 소리와 함께 하는 낭만적인 휴양지","id":"d0cc402e"},{"tagName":"h2","title":"파라다이스 같은 해변 휴양지","id":"fdeb0cb2"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

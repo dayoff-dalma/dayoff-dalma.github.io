@@ -1,0 +1,409 @@
+1:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/faaaebde45bfcdd4.css",{"as":"style"}]
+0:["FL5qPEDR-MTJ47-06Xiua",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%EA%B5%B0%EC%82%B0-%EA%B0%90%EC%84%B1-%EC%88%99%EC%86%8C-5%EC%84%A0-%ED%9E%90%EB%A7%81%ED%83%80%EC%9E%84-c693025a","d"],{"children":["__PAGE__?{\"slug\":\"군산-감성-숙소-5선-힐링타임-c693025a\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/faaaebde45bfcdd4.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-21fed9d4f5b142b6.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_e8ce0c","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%EA%B5%B0%EC%82%B0-%EA%B0%90%EC%84%B1-%EC%88%99%EC%86%8C-5%EC%84%A0-%ED%9E%90%EB%A7%81%ED%83%80%EC%9E%84-c693025a","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"군산-감성-숙소-5선-힐링타임-c693025a\"}"},"styles":[]}],"segment":["slug","%EA%B5%B0%EC%82%B0-%EA%B0%90%EC%84%B1-%EC%88%99%EC%86%8C-5%EC%84%A0-%ED%9E%90%EB%A7%81%ED%83%80%EC%9E%84-c693025a","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"군산 감성 숙소 5선, 슬기로운 힐링타임을 위한 추천 | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"군산에서 특별한 힐링타임을 보낼 수 있는 감성 가득한 숙소 5곳을 소개합니다. 다심스테이와 염이랑 게스트하우스, 화담 인, 군산 쿨쿨달몽 게스트하우스, 윤슬로우풀스파펜션은 각각 독특한 매력을 선보이며 다양한 여행 컨셉에 부합합니다. 각 호텔의 장점을 살펴보고, 소중한 시간을 더욱 멋지게 만들어 보세요!"}],["$","meta","3",{"name":"keywords","content":"아시아,현대적,편안함,아늑함,비즈니스,가족여행,편의시설,조용함,숨겨진 보석,한적함,친절한 호스트,고즈넉한 분위기,현대적 시설,군산,조용한,아늑한,친절,중심,명소,탐방,포근한,전주,게스트하우스,전통,현지음식,문화,경치,힐링,수영장,스파,자연"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%EA%B5%B0%EC%82%B0-%EA%B0%90%EC%84%B1-%EC%88%99%EC%86%8C-5%EC%84%A0-%ED%9E%90%EB%A7%81%ED%83%80%EC%9E%84-c693025a"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"군산 감성 숙소 5선, 슬기로운 힐링타임을 위한 추천 | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"군산 감성 숙소 5선, 슬기로운 힐링타임을 위한 추천 | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"군산에서 특별한 힐링타임을 보낼 수 있는 감성 가득한 숙소 5곳을 소개합니다. 다심스테이와 염이랑 게스트하우스, 화담 인, 군산 쿨쿨달몽 게스트하우스, 윤슬로우풀스파펜션은 각각 독특한 매력을 선보이며 다양한 여행 컨셉에 부합합니다. 각 호텔의 장점을 살펴보고, 소중한 시간을 더욱 멋지게 만들어 보세요!"}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%EA%B5%B0%EC%82%B0-%EA%B0%90%EC%84%B1-%EC%88%99%EC%86%8C-5%EC%84%A0-%ED%9E%90%EB%A7%81%ED%83%80%EC%9E%84-c693025a"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/212538-1x1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"군산 감성 숙소 5선, 슬기로운 힐링타임을 위한 추천 | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"군산에서 특별한 힐링타임을 보낼 수 있는 감성 가득한 숙소 5곳을 소개합니다. 다심스테이와 염이랑 게스트하우스, 화담 인, 군산 쿨쿨달몽 게스트하우스, 윤슬로우풀스파펜션은 각각 독특한 매력을 선보이며 다양한 여행 컨셉에 부합합니다. 각 호텔의 장점을 살펴보고, 소중한 시간을 더욱 멋지게 만들어 보세요!"}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/212538-1x1.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+12:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+d:T24f6,
+    
+
+
+## 군산 감성 숙소 5선: 슬기로운 힐링타임을 만끽하세요!
+
+안녕하세요, 달마야 여행가자의 달마입니다. 오늘은 여러분께 특별한 힐링과 감성을 제공할 군산의 숙소 5곳을 소개하려고 해요. 군산은 역사와 자연이 어우러진 도시로, 다양한 매력을 경험할 수 있는 곳이죠. **다양한 테마**를 가진 숙소에서 편안한 휴식을 취하며 일상의 스트레스를 날려보세요. 다채로운 인테리어와 독특한 매력이 가득한 이 숙소들은 마치 꿈속을 여행하는 듯한 기분을 선사할 것입니다. 준비되셨나요? 그럼 다 같이 군산의 숨은 보석 같은 숙소로 떠나 봅시다!
+
+
+## 군산의 숨은 보석, 스타일리시 호텔
+다쉼 게스트하우스 (Dashim Stay)
+    ![다쉼 게스트하우스 (Dashim Stay)_0_image](https://pix8.agoda.net/hotelImages/25133122/-1/e8ccdfe67b2566edbe248a5870301ad8.jpg)
+![다쉼 게스트하우스 (Dashim Stay)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/547649695.jpg?k=9119bb959c1b9ec76484bd7e4d8d13141f7f0e1eba21862060a62e32c8fe1f72&s=50x50)
+![다쉼 게스트하우스 (Dashim Stay)_2_image](https://pix8.agoda.net/hotelImages/25133122/-1/74654b0979fe73fea06331c860ead739.jpg)
+
+군산에 오신 것을 환영합니다. 운치 있는 골목길을 지나쳐 도착한 이곳에서는 **현대와 전통이 절묘하게 조화를 이루고** 있어요. 객실은 세련된 인테리어와 함께 아늑함을 제공하죠. 특히, 창문을 통해 들어오는 일조량은 아침을 **더욱 활기차게** 만들어 줍니다. 비즈니스 출장이나 가족 여행에 최적화되어 있어 **모든 방문객들을 감동시킬 준비가 되어 있답니다.**
+
+다양한 편의시설 또한 이 호텔을 특별하게 만들어주는 요소지요. 이곳을 찾는 여행자들은 **편안한 휴식을 취할 수 있는 환경**을 높이 평가하는데요. 제대로 하루를 보내고 나면, 인근 지역의 풍부한 먹거리와 명소들을 탐험해 볼 수 있어요. 특히, 호텔 주변의 맛있는 음식을 놓치지 말고 즐겨 보세요. 이곳의 매력은 방문 후에도 오래 기억에 남을 것입니다.
+
+[다쉼 게스트하우스 (Dashim Stay)](https://www.agoda.com/ko-kr/dashim-stay/hotel/gunsan-si-kr.html)
+ 
+
+## 군산의 숨겨진 보석 같은 여정
+군산 여미랑 (Gunsan Yeomirang)
+    ![군산 여미랑 (Gunsan Yeomirang)_0_image](https://pix8.agoda.net/property/10589998/0/07996556b3cbcff942d01146326fe47c.jpeg)
+![군산 여미랑 (Gunsan Yeomirang)_1_image](https://pix8.agoda.net/property/10589998/372769019/8c0b4a68fcd3c35028a421ce8eb1a068.jpeg)
+![군산 여미랑 (Gunsan Yeomirang)_2_image](https://pix8.agoda.net/property/10589998/0/f63490ca1ba9cc47b4533e896cc136fa.jpeg)
+
+군산의 매력적인 거리를 걷다 보면 *특별한 장소*를 찾게 될 수도 있어요. 이 *한적하고 편안한* 게스트하우스는 여행자들이 잠시 쉴 수 있는 안식처로, 따뜻한 온기를 느낄 수 있는 공간이에요. 이곳에서는 친절한 호스트와 함께 군산의 진짜 이야기를 나눌 수 있어 즐거운 대화를 나누기에도 좋은 곳이랍니다.
+
+객실에서는 깨끗하고 *편안한 침구* 속에서 아늑한 시간을 보낼 수 있어 휴식에 적합해요. 또한, 오래된 흔적이 남아 있는 고즈넉한 분위기도 있지만, 필요한 모든 현대적인 시설도 갖추고 있어요. 이런 조화 속에서 새로운 추억을 쌓아보세요! 아마도 다음 여정에서는 또다시 여기를 찾게 될지도 몰라요.
+
+[군산 여미랑 (Gunsan Yeomirang)](https://www.agoda.com/ko-kr/gunsan-yeomirang-guesthouse/hotel/gunsan-si-kr.html)
+ 
+
+## 편안한 여행의 시작점
+화담여관 (Hwadam Inn)
+    ![화담여관 (Hwadam Inn)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/116368456.jpg?k=31f08d7994b67a24ff310c18dba74cdad2307cc1585a4d771caa70fc1aa7967a&s=450x450)
+![화담여관 (Hwadam Inn)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/329450129.jpg?k=8d8b589de56092795c2a7bdc113df1b2eaff2256ac613535f9b3abab31bf8741&s=50x50)
+![화담여관 (Hwadam Inn)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/329449857.jpg?k=d4e6975efa7faef1b42f5e27b727e2ef021dcc18ea68527732e4d44d7a54127c&s=50x50)
+
+군산의 중심에서 조용한 쉼터를 찾고 있다면 이 호텔은 이상적인 선택이에요. 섬세한 인테리어와 아늑한 분위기는 마치 집에서 쉬는듯 편안한 느낌을 줘요. 여러 여행 명소들이 근접해 있어서 군산 시내 탐방도 매우 수월하답니다. 피곤한 여행 후에도 걱정 없어요. 포근한 침대와 깔끔한 객실이 여러분을 기다리고 있으니까요.
+
+호텔에 머무르는 동안 친절한 직원들 덕분에 마치 오랜 친구를 만난 듯한 기분을 느낄 수 있어요. 민첩한 서비스와 환영하는 태도가 인상적이죠. 아침 식사는 깔끔하고 간소하지만 품질이 좋다는 평이 많아요. 군산에서 편안함과 따뜻함을 동시에 느끼고 싶다면 이곳에서의 숙박을 추천드려요.
+
+[화담여관 (Hwadam Inn)](https://www.agoda.com/ko-kr/hwadam-inn/hotel/all/gunsan-si-kr.html)
+ 
+
+## 전주 여행의 숨은 보석 찾기
+군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)
+    ![군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_0_image](https://pix8.agoda.net/hotelImages/27877677/0/0c72eb2ad824c8354e7b864d8b17affe.jpeg)
+![군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_1_image](https://pix8.agoda.net/hotelImages/27877677/946915392/31e35505d13e49fe4dd14d0704325871.jpeg)
+![군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_2_image](https://pix8.agoda.net/hotelImages/27877677/0/350d2475046b9f04f4547276836d5193.jpeg)
+
+전주의 고즈넉한 거리와 어우러지는 숙소를 찾고 있다면, 이곳은 훌륭한 선택이에요. 이 게스트하우스는 역사와 문화가 살아 숨 쉬는 전통적인 느낌을 잘 살려냈답니다. 방문자들은 곳곳에서 마주치는 친근한 미소와 세심한 서비스에 큰 만족감을 느끼고 있어요.
+
+아침 식사로 제공되는 현지 음식을 맛보며 하루를 시작해 보세요. 깔끔한 숙소는 여행의 재미를 더하고, 주변의 아름다운 경치를 감상하며 잠시 여유를 즐길 수 있어요. 몰랐던 전주의 매력을 새롭게 발견하는 기회가 될 거예요.
+
+[군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)](https://www.agoda.com/ko-kr/gunsan-koolkooldalmong-guest-house/hotel/jeonju-si-kr.html)
+ 
+
+## 현대적 감각의 특별한 휴식
+군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)
+    ![군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_0_image](https://pix8.agoda.net/property/34413289/0/3abe602ffeb5a440b059fe594407e9a3.jpg)
+![군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_1_image](https://pix8.agoda.net/property/34413289/568779011/b9068e74eadcc716aa55293973a701f7.jpg)
+![군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_2_image](https://pix8.agoda.net/property/34413289/0/932e4da220883c6e5d7d935258212b28.jpg)
+
+일상의 번잡함에서 벗어나 특별한 평화와 안식을 발견할 준비가 되셨나요? 군산에 위치한 이곳의 펜션은 물과 자연의 조화 속에서 현대적인 감각을 한껏 느낄 수 있는 곳이에요. *넓게 펼쳐진 수영장*과 *아늑한 스파*는 몸과 마음을 따뜻하게 감싸 안아줍니다. 이곳을 찾는 많은 방문객들은 깨끗하고 잘 관리된 *아름다운 인테리어*에 감탄한답니다.
+
+아이들이나 장난꾸러기 친구들과 함께라면 이 더운 여름에도 시원한 물놀이를 마음껏 즐길 수 있답니다. 친절한 직원들과 세심하게 준비된 시설 덕분에 *편안한 휴식*이 가능하죠. 최상의 휴식 공간이 필요하다면, 이곳만한 곳이 있을까요? 아름다운 경치와 현대적 시설, 그리고 정성 어린 서비스가 있는 이곳에서 마음의 평화를 찾아보세요. **진정한 힐링**이 무엇인지 알 수 있을 거예요!
+
+[군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)](https://www.agoda.com/ko-kr/gunsan-yoon-slow-pool-spa-pension/hotel/gunsan-si-kr.html)
+ 
+
+
+## 결론
+
+군산은 다양한 매력을 가진 숙소들이 많습니다. *다쉼 게스트하우스*는 현대적 인테리어와 편안한 편의시설로 스타일리시한 휴식을 원하는 여행객에게 제격이며, *군산 여미랑*에서는 한적한 분위기에서 특별한 경험을 즐길 수 있습니다. *화담여관*은 아늑한 공간과 친절한 서비스로 조용한 쉼터를 원하는 분들에게 추천할 만합니다. 전주의 전통미를 담고 있는 *군산 쿨쿨달몽 게스트하우스*에서는 여유로운 숙박을 경험할 수 있으며, *군산(선유도) 윤슬로풀엔스파펜션*에서는 물과 자연 속에서의 현대적 편안함을 만끽할 수 있습니다. 각기 다른 개성과 매력을 가진 숙소에서 특별한 시간을 보내세요. 지금 바로 예약해보세요!
+
+e:T24f6,
+    
+
+
+## 군산 감성 숙소 5선: 슬기로운 힐링타임을 만끽하세요!
+
+안녕하세요, 달마야 여행가자의 달마입니다. 오늘은 여러분께 특별한 힐링과 감성을 제공할 군산의 숙소 5곳을 소개하려고 해요. 군산은 역사와 자연이 어우러진 도시로, 다양한 매력을 경험할 수 있는 곳이죠. **다양한 테마**를 가진 숙소에서 편안한 휴식을 취하며 일상의 스트레스를 날려보세요. 다채로운 인테리어와 독특한 매력이 가득한 이 숙소들은 마치 꿈속을 여행하는 듯한 기분을 선사할 것입니다. 준비되셨나요? 그럼 다 같이 군산의 숨은 보석 같은 숙소로 떠나 봅시다!
+
+
+## 군산의 숨은 보석, 스타일리시 호텔
+다쉼 게스트하우스 (Dashim Stay)
+    ![다쉼 게스트하우스 (Dashim Stay)_0_image](https://pix8.agoda.net/hotelImages/25133122/-1/e8ccdfe67b2566edbe248a5870301ad8.jpg)
+![다쉼 게스트하우스 (Dashim Stay)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/547649695.jpg?k=9119bb959c1b9ec76484bd7e4d8d13141f7f0e1eba21862060a62e32c8fe1f72&s=50x50)
+![다쉼 게스트하우스 (Dashim Stay)_2_image](https://pix8.agoda.net/hotelImages/25133122/-1/74654b0979fe73fea06331c860ead739.jpg)
+
+군산에 오신 것을 환영합니다. 운치 있는 골목길을 지나쳐 도착한 이곳에서는 **현대와 전통이 절묘하게 조화를 이루고** 있어요. 객실은 세련된 인테리어와 함께 아늑함을 제공하죠. 특히, 창문을 통해 들어오는 일조량은 아침을 **더욱 활기차게** 만들어 줍니다. 비즈니스 출장이나 가족 여행에 최적화되어 있어 **모든 방문객들을 감동시킬 준비가 되어 있답니다.**
+
+다양한 편의시설 또한 이 호텔을 특별하게 만들어주는 요소지요. 이곳을 찾는 여행자들은 **편안한 휴식을 취할 수 있는 환경**을 높이 평가하는데요. 제대로 하루를 보내고 나면, 인근 지역의 풍부한 먹거리와 명소들을 탐험해 볼 수 있어요. 특히, 호텔 주변의 맛있는 음식을 놓치지 말고 즐겨 보세요. 이곳의 매력은 방문 후에도 오래 기억에 남을 것입니다.
+
+[다쉼 게스트하우스 (Dashim Stay)](https://www.agoda.com/ko-kr/dashim-stay/hotel/gunsan-si-kr.html)
+ 
+
+## 군산의 숨겨진 보석 같은 여정
+군산 여미랑 (Gunsan Yeomirang)
+    ![군산 여미랑 (Gunsan Yeomirang)_0_image](https://pix8.agoda.net/property/10589998/0/07996556b3cbcff942d01146326fe47c.jpeg)
+![군산 여미랑 (Gunsan Yeomirang)_1_image](https://pix8.agoda.net/property/10589998/372769019/8c0b4a68fcd3c35028a421ce8eb1a068.jpeg)
+![군산 여미랑 (Gunsan Yeomirang)_2_image](https://pix8.agoda.net/property/10589998/0/f63490ca1ba9cc47b4533e896cc136fa.jpeg)
+
+군산의 매력적인 거리를 걷다 보면 *특별한 장소*를 찾게 될 수도 있어요. 이 *한적하고 편안한* 게스트하우스는 여행자들이 잠시 쉴 수 있는 안식처로, 따뜻한 온기를 느낄 수 있는 공간이에요. 이곳에서는 친절한 호스트와 함께 군산의 진짜 이야기를 나눌 수 있어 즐거운 대화를 나누기에도 좋은 곳이랍니다.
+
+객실에서는 깨끗하고 *편안한 침구* 속에서 아늑한 시간을 보낼 수 있어 휴식에 적합해요. 또한, 오래된 흔적이 남아 있는 고즈넉한 분위기도 있지만, 필요한 모든 현대적인 시설도 갖추고 있어요. 이런 조화 속에서 새로운 추억을 쌓아보세요! 아마도 다음 여정에서는 또다시 여기를 찾게 될지도 몰라요.
+
+[군산 여미랑 (Gunsan Yeomirang)](https://www.agoda.com/ko-kr/gunsan-yeomirang-guesthouse/hotel/gunsan-si-kr.html)
+ 
+
+## 편안한 여행의 시작점
+화담여관 (Hwadam Inn)
+    ![화담여관 (Hwadam Inn)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/116368456.jpg?k=31f08d7994b67a24ff310c18dba74cdad2307cc1585a4d771caa70fc1aa7967a&s=450x450)
+![화담여관 (Hwadam Inn)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/329450129.jpg?k=8d8b589de56092795c2a7bdc113df1b2eaff2256ac613535f9b3abab31bf8741&s=50x50)
+![화담여관 (Hwadam Inn)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/329449857.jpg?k=d4e6975efa7faef1b42f5e27b727e2ef021dcc18ea68527732e4d44d7a54127c&s=50x50)
+
+군산의 중심에서 조용한 쉼터를 찾고 있다면 이 호텔은 이상적인 선택이에요. 섬세한 인테리어와 아늑한 분위기는 마치 집에서 쉬는듯 편안한 느낌을 줘요. 여러 여행 명소들이 근접해 있어서 군산 시내 탐방도 매우 수월하답니다. 피곤한 여행 후에도 걱정 없어요. 포근한 침대와 깔끔한 객실이 여러분을 기다리고 있으니까요.
+
+호텔에 머무르는 동안 친절한 직원들 덕분에 마치 오랜 친구를 만난 듯한 기분을 느낄 수 있어요. 민첩한 서비스와 환영하는 태도가 인상적이죠. 아침 식사는 깔끔하고 간소하지만 품질이 좋다는 평이 많아요. 군산에서 편안함과 따뜻함을 동시에 느끼고 싶다면 이곳에서의 숙박을 추천드려요.
+
+[화담여관 (Hwadam Inn)](https://www.agoda.com/ko-kr/hwadam-inn/hotel/all/gunsan-si-kr.html)
+ 
+
+## 전주 여행의 숨은 보석 찾기
+군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)
+    ![군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_0_image](https://pix8.agoda.net/hotelImages/27877677/0/0c72eb2ad824c8354e7b864d8b17affe.jpeg)
+![군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_1_image](https://pix8.agoda.net/hotelImages/27877677/946915392/31e35505d13e49fe4dd14d0704325871.jpeg)
+![군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_2_image](https://pix8.agoda.net/hotelImages/27877677/0/350d2475046b9f04f4547276836d5193.jpeg)
+
+전주의 고즈넉한 거리와 어우러지는 숙소를 찾고 있다면, 이곳은 훌륭한 선택이에요. 이 게스트하우스는 역사와 문화가 살아 숨 쉬는 전통적인 느낌을 잘 살려냈답니다. 방문자들은 곳곳에서 마주치는 친근한 미소와 세심한 서비스에 큰 만족감을 느끼고 있어요.
+
+아침 식사로 제공되는 현지 음식을 맛보며 하루를 시작해 보세요. 깔끔한 숙소는 여행의 재미를 더하고, 주변의 아름다운 경치를 감상하며 잠시 여유를 즐길 수 있어요. 몰랐던 전주의 매력을 새롭게 발견하는 기회가 될 거예요.
+
+[군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)](https://www.agoda.com/ko-kr/gunsan-koolkooldalmong-guest-house/hotel/jeonju-si-kr.html)
+ 
+
+## 현대적 감각의 특별한 휴식
+군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)
+    ![군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_0_image](https://pix8.agoda.net/property/34413289/0/3abe602ffeb5a440b059fe594407e9a3.jpg)
+![군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_1_image](https://pix8.agoda.net/property/34413289/568779011/b9068e74eadcc716aa55293973a701f7.jpg)
+![군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_2_image](https://pix8.agoda.net/property/34413289/0/932e4da220883c6e5d7d935258212b28.jpg)
+
+일상의 번잡함에서 벗어나 특별한 평화와 안식을 발견할 준비가 되셨나요? 군산에 위치한 이곳의 펜션은 물과 자연의 조화 속에서 현대적인 감각을 한껏 느낄 수 있는 곳이에요. *넓게 펼쳐진 수영장*과 *아늑한 스파*는 몸과 마음을 따뜻하게 감싸 안아줍니다. 이곳을 찾는 많은 방문객들은 깨끗하고 잘 관리된 *아름다운 인테리어*에 감탄한답니다.
+
+아이들이나 장난꾸러기 친구들과 함께라면 이 더운 여름에도 시원한 물놀이를 마음껏 즐길 수 있답니다. 친절한 직원들과 세심하게 준비된 시설 덕분에 *편안한 휴식*이 가능하죠. 최상의 휴식 공간이 필요하다면, 이곳만한 곳이 있을까요? 아름다운 경치와 현대적 시설, 그리고 정성 어린 서비스가 있는 이곳에서 마음의 평화를 찾아보세요. **진정한 힐링**이 무엇인지 알 수 있을 거예요!
+
+[군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)](https://www.agoda.com/ko-kr/gunsan-yoon-slow-pool-spa-pension/hotel/gunsan-si-kr.html)
+ 
+
+
+## 결론
+
+군산은 다양한 매력을 가진 숙소들이 많습니다. *다쉼 게스트하우스*는 현대적 인테리어와 편안한 편의시설로 스타일리시한 휴식을 원하는 여행객에게 제격이며, *군산 여미랑*에서는 한적한 분위기에서 특별한 경험을 즐길 수 있습니다. *화담여관*은 아늑한 공간과 친절한 서비스로 조용한 쉼터를 원하는 분들에게 추천할 만합니다. 전주의 전통미를 담고 있는 *군산 쿨쿨달몽 게스트하우스*에서는 여유로운 숙박을 경험할 수 있으며, *군산(선유도) 윤슬로풀엔스파펜션*에서는 물과 자연 속에서의 현대적 편안함을 만끽할 수 있습니다. 각기 다른 개성과 매력을 가진 숙소에서 특별한 시간을 보내세요. 지금 바로 예약해보세요!
+
+f:T24f6,
+    
+
+
+## 군산 감성 숙소 5선: 슬기로운 힐링타임을 만끽하세요!
+
+안녕하세요, 달마야 여행가자의 달마입니다. 오늘은 여러분께 특별한 힐링과 감성을 제공할 군산의 숙소 5곳을 소개하려고 해요. 군산은 역사와 자연이 어우러진 도시로, 다양한 매력을 경험할 수 있는 곳이죠. **다양한 테마**를 가진 숙소에서 편안한 휴식을 취하며 일상의 스트레스를 날려보세요. 다채로운 인테리어와 독특한 매력이 가득한 이 숙소들은 마치 꿈속을 여행하는 듯한 기분을 선사할 것입니다. 준비되셨나요? 그럼 다 같이 군산의 숨은 보석 같은 숙소로 떠나 봅시다!
+
+
+## 군산의 숨은 보석, 스타일리시 호텔
+다쉼 게스트하우스 (Dashim Stay)
+    ![다쉼 게스트하우스 (Dashim Stay)_0_image](https://pix8.agoda.net/hotelImages/25133122/-1/e8ccdfe67b2566edbe248a5870301ad8.jpg)
+![다쉼 게스트하우스 (Dashim Stay)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/547649695.jpg?k=9119bb959c1b9ec76484bd7e4d8d13141f7f0e1eba21862060a62e32c8fe1f72&s=50x50)
+![다쉼 게스트하우스 (Dashim Stay)_2_image](https://pix8.agoda.net/hotelImages/25133122/-1/74654b0979fe73fea06331c860ead739.jpg)
+
+군산에 오신 것을 환영합니다. 운치 있는 골목길을 지나쳐 도착한 이곳에서는 **현대와 전통이 절묘하게 조화를 이루고** 있어요. 객실은 세련된 인테리어와 함께 아늑함을 제공하죠. 특히, 창문을 통해 들어오는 일조량은 아침을 **더욱 활기차게** 만들어 줍니다. 비즈니스 출장이나 가족 여행에 최적화되어 있어 **모든 방문객들을 감동시킬 준비가 되어 있답니다.**
+
+다양한 편의시설 또한 이 호텔을 특별하게 만들어주는 요소지요. 이곳을 찾는 여행자들은 **편안한 휴식을 취할 수 있는 환경**을 높이 평가하는데요. 제대로 하루를 보내고 나면, 인근 지역의 풍부한 먹거리와 명소들을 탐험해 볼 수 있어요. 특히, 호텔 주변의 맛있는 음식을 놓치지 말고 즐겨 보세요. 이곳의 매력은 방문 후에도 오래 기억에 남을 것입니다.
+
+[다쉼 게스트하우스 (Dashim Stay)](https://www.agoda.com/ko-kr/dashim-stay/hotel/gunsan-si-kr.html)
+ 
+
+## 군산의 숨겨진 보석 같은 여정
+군산 여미랑 (Gunsan Yeomirang)
+    ![군산 여미랑 (Gunsan Yeomirang)_0_image](https://pix8.agoda.net/property/10589998/0/07996556b3cbcff942d01146326fe47c.jpeg)
+![군산 여미랑 (Gunsan Yeomirang)_1_image](https://pix8.agoda.net/property/10589998/372769019/8c0b4a68fcd3c35028a421ce8eb1a068.jpeg)
+![군산 여미랑 (Gunsan Yeomirang)_2_image](https://pix8.agoda.net/property/10589998/0/f63490ca1ba9cc47b4533e896cc136fa.jpeg)
+
+군산의 매력적인 거리를 걷다 보면 *특별한 장소*를 찾게 될 수도 있어요. 이 *한적하고 편안한* 게스트하우스는 여행자들이 잠시 쉴 수 있는 안식처로, 따뜻한 온기를 느낄 수 있는 공간이에요. 이곳에서는 친절한 호스트와 함께 군산의 진짜 이야기를 나눌 수 있어 즐거운 대화를 나누기에도 좋은 곳이랍니다.
+
+객실에서는 깨끗하고 *편안한 침구* 속에서 아늑한 시간을 보낼 수 있어 휴식에 적합해요. 또한, 오래된 흔적이 남아 있는 고즈넉한 분위기도 있지만, 필요한 모든 현대적인 시설도 갖추고 있어요. 이런 조화 속에서 새로운 추억을 쌓아보세요! 아마도 다음 여정에서는 또다시 여기를 찾게 될지도 몰라요.
+
+[군산 여미랑 (Gunsan Yeomirang)](https://www.agoda.com/ko-kr/gunsan-yeomirang-guesthouse/hotel/gunsan-si-kr.html)
+ 
+
+## 편안한 여행의 시작점
+화담여관 (Hwadam Inn)
+    ![화담여관 (Hwadam Inn)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/116368456.jpg?k=31f08d7994b67a24ff310c18dba74cdad2307cc1585a4d771caa70fc1aa7967a&s=450x450)
+![화담여관 (Hwadam Inn)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/329450129.jpg?k=8d8b589de56092795c2a7bdc113df1b2eaff2256ac613535f9b3abab31bf8741&s=50x50)
+![화담여관 (Hwadam Inn)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/329449857.jpg?k=d4e6975efa7faef1b42f5e27b727e2ef021dcc18ea68527732e4d44d7a54127c&s=50x50)
+
+군산의 중심에서 조용한 쉼터를 찾고 있다면 이 호텔은 이상적인 선택이에요. 섬세한 인테리어와 아늑한 분위기는 마치 집에서 쉬는듯 편안한 느낌을 줘요. 여러 여행 명소들이 근접해 있어서 군산 시내 탐방도 매우 수월하답니다. 피곤한 여행 후에도 걱정 없어요. 포근한 침대와 깔끔한 객실이 여러분을 기다리고 있으니까요.
+
+호텔에 머무르는 동안 친절한 직원들 덕분에 마치 오랜 친구를 만난 듯한 기분을 느낄 수 있어요. 민첩한 서비스와 환영하는 태도가 인상적이죠. 아침 식사는 깔끔하고 간소하지만 품질이 좋다는 평이 많아요. 군산에서 편안함과 따뜻함을 동시에 느끼고 싶다면 이곳에서의 숙박을 추천드려요.
+
+[화담여관 (Hwadam Inn)](https://www.agoda.com/ko-kr/hwadam-inn/hotel/all/gunsan-si-kr.html)
+ 
+
+## 전주 여행의 숨은 보석 찾기
+군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)
+    ![군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_0_image](https://pix8.agoda.net/hotelImages/27877677/0/0c72eb2ad824c8354e7b864d8b17affe.jpeg)
+![군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_1_image](https://pix8.agoda.net/hotelImages/27877677/946915392/31e35505d13e49fe4dd14d0704325871.jpeg)
+![군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_2_image](https://pix8.agoda.net/hotelImages/27877677/0/350d2475046b9f04f4547276836d5193.jpeg)
+
+전주의 고즈넉한 거리와 어우러지는 숙소를 찾고 있다면, 이곳은 훌륭한 선택이에요. 이 게스트하우스는 역사와 문화가 살아 숨 쉬는 전통적인 느낌을 잘 살려냈답니다. 방문자들은 곳곳에서 마주치는 친근한 미소와 세심한 서비스에 큰 만족감을 느끼고 있어요.
+
+아침 식사로 제공되는 현지 음식을 맛보며 하루를 시작해 보세요. 깔끔한 숙소는 여행의 재미를 더하고, 주변의 아름다운 경치를 감상하며 잠시 여유를 즐길 수 있어요. 몰랐던 전주의 매력을 새롭게 발견하는 기회가 될 거예요.
+
+[군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)](https://www.agoda.com/ko-kr/gunsan-koolkooldalmong-guest-house/hotel/jeonju-si-kr.html)
+ 
+
+## 현대적 감각의 특별한 휴식
+군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)
+    ![군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_0_image](https://pix8.agoda.net/property/34413289/0/3abe602ffeb5a440b059fe594407e9a3.jpg)
+![군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_1_image](https://pix8.agoda.net/property/34413289/568779011/b9068e74eadcc716aa55293973a701f7.jpg)
+![군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_2_image](https://pix8.agoda.net/property/34413289/0/932e4da220883c6e5d7d935258212b28.jpg)
+
+일상의 번잡함에서 벗어나 특별한 평화와 안식을 발견할 준비가 되셨나요? 군산에 위치한 이곳의 펜션은 물과 자연의 조화 속에서 현대적인 감각을 한껏 느낄 수 있는 곳이에요. *넓게 펼쳐진 수영장*과 *아늑한 스파*는 몸과 마음을 따뜻하게 감싸 안아줍니다. 이곳을 찾는 많은 방문객들은 깨끗하고 잘 관리된 *아름다운 인테리어*에 감탄한답니다.
+
+아이들이나 장난꾸러기 친구들과 함께라면 이 더운 여름에도 시원한 물놀이를 마음껏 즐길 수 있답니다. 친절한 직원들과 세심하게 준비된 시설 덕분에 *편안한 휴식*이 가능하죠. 최상의 휴식 공간이 필요하다면, 이곳만한 곳이 있을까요? 아름다운 경치와 현대적 시설, 그리고 정성 어린 서비스가 있는 이곳에서 마음의 평화를 찾아보세요. **진정한 힐링**이 무엇인지 알 수 있을 거예요!
+
+[군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)](https://www.agoda.com/ko-kr/gunsan-yoon-slow-pool-spa-pension/hotel/gunsan-si-kr.html)
+ 
+
+
+## 결론
+
+군산은 다양한 매력을 가진 숙소들이 많습니다. *다쉼 게스트하우스*는 현대적 인테리어와 편안한 편의시설로 스타일리시한 휴식을 원하는 여행객에게 제격이며, *군산 여미랑*에서는 한적한 분위기에서 특별한 경험을 즐길 수 있습니다. *화담여관*은 아늑한 공간과 친절한 서비스로 조용한 쉼터를 원하는 분들에게 추천할 만합니다. 전주의 전통미를 담고 있는 *군산 쿨쿨달몽 게스트하우스*에서는 여유로운 숙박을 경험할 수 있으며, *군산(선유도) 윤슬로풀엔스파펜션*에서는 물과 자연 속에서의 현대적 편안함을 만끽할 수 있습니다. 각기 다른 개성과 매력을 가진 숙소에서 특별한 시간을 보내세요. 지금 바로 예약해보세요!
+
+10:T24f6,
+    
+
+
+## 군산 감성 숙소 5선: 슬기로운 힐링타임을 만끽하세요!
+
+안녕하세요, 달마야 여행가자의 달마입니다. 오늘은 여러분께 특별한 힐링과 감성을 제공할 군산의 숙소 5곳을 소개하려고 해요. 군산은 역사와 자연이 어우러진 도시로, 다양한 매력을 경험할 수 있는 곳이죠. **다양한 테마**를 가진 숙소에서 편안한 휴식을 취하며 일상의 스트레스를 날려보세요. 다채로운 인테리어와 독특한 매력이 가득한 이 숙소들은 마치 꿈속을 여행하는 듯한 기분을 선사할 것입니다. 준비되셨나요? 그럼 다 같이 군산의 숨은 보석 같은 숙소로 떠나 봅시다!
+
+
+## 군산의 숨은 보석, 스타일리시 호텔
+다쉼 게스트하우스 (Dashim Stay)
+    ![다쉼 게스트하우스 (Dashim Stay)_0_image](https://pix8.agoda.net/hotelImages/25133122/-1/e8ccdfe67b2566edbe248a5870301ad8.jpg)
+![다쉼 게스트하우스 (Dashim Stay)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/547649695.jpg?k=9119bb959c1b9ec76484bd7e4d8d13141f7f0e1eba21862060a62e32c8fe1f72&s=50x50)
+![다쉼 게스트하우스 (Dashim Stay)_2_image](https://pix8.agoda.net/hotelImages/25133122/-1/74654b0979fe73fea06331c860ead739.jpg)
+
+군산에 오신 것을 환영합니다. 운치 있는 골목길을 지나쳐 도착한 이곳에서는 **현대와 전통이 절묘하게 조화를 이루고** 있어요. 객실은 세련된 인테리어와 함께 아늑함을 제공하죠. 특히, 창문을 통해 들어오는 일조량은 아침을 **더욱 활기차게** 만들어 줍니다. 비즈니스 출장이나 가족 여행에 최적화되어 있어 **모든 방문객들을 감동시킬 준비가 되어 있답니다.**
+
+다양한 편의시설 또한 이 호텔을 특별하게 만들어주는 요소지요. 이곳을 찾는 여행자들은 **편안한 휴식을 취할 수 있는 환경**을 높이 평가하는데요. 제대로 하루를 보내고 나면, 인근 지역의 풍부한 먹거리와 명소들을 탐험해 볼 수 있어요. 특히, 호텔 주변의 맛있는 음식을 놓치지 말고 즐겨 보세요. 이곳의 매력은 방문 후에도 오래 기억에 남을 것입니다.
+
+[다쉼 게스트하우스 (Dashim Stay)](https://www.agoda.com/ko-kr/dashim-stay/hotel/gunsan-si-kr.html)
+ 
+
+## 군산의 숨겨진 보석 같은 여정
+군산 여미랑 (Gunsan Yeomirang)
+    ![군산 여미랑 (Gunsan Yeomirang)_0_image](https://pix8.agoda.net/property/10589998/0/07996556b3cbcff942d01146326fe47c.jpeg)
+![군산 여미랑 (Gunsan Yeomirang)_1_image](https://pix8.agoda.net/property/10589998/372769019/8c0b4a68fcd3c35028a421ce8eb1a068.jpeg)
+![군산 여미랑 (Gunsan Yeomirang)_2_image](https://pix8.agoda.net/property/10589998/0/f63490ca1ba9cc47b4533e896cc136fa.jpeg)
+
+군산의 매력적인 거리를 걷다 보면 *특별한 장소*를 찾게 될 수도 있어요. 이 *한적하고 편안한* 게스트하우스는 여행자들이 잠시 쉴 수 있는 안식처로, 따뜻한 온기를 느낄 수 있는 공간이에요. 이곳에서는 친절한 호스트와 함께 군산의 진짜 이야기를 나눌 수 있어 즐거운 대화를 나누기에도 좋은 곳이랍니다.
+
+객실에서는 깨끗하고 *편안한 침구* 속에서 아늑한 시간을 보낼 수 있어 휴식에 적합해요. 또한, 오래된 흔적이 남아 있는 고즈넉한 분위기도 있지만, 필요한 모든 현대적인 시설도 갖추고 있어요. 이런 조화 속에서 새로운 추억을 쌓아보세요! 아마도 다음 여정에서는 또다시 여기를 찾게 될지도 몰라요.
+
+[군산 여미랑 (Gunsan Yeomirang)](https://www.agoda.com/ko-kr/gunsan-yeomirang-guesthouse/hotel/gunsan-si-kr.html)
+ 
+
+## 편안한 여행의 시작점
+화담여관 (Hwadam Inn)
+    ![화담여관 (Hwadam Inn)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/116368456.jpg?k=31f08d7994b67a24ff310c18dba74cdad2307cc1585a4d771caa70fc1aa7967a&s=450x450)
+![화담여관 (Hwadam Inn)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/329450129.jpg?k=8d8b589de56092795c2a7bdc113df1b2eaff2256ac613535f9b3abab31bf8741&s=50x50)
+![화담여관 (Hwadam Inn)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/329449857.jpg?k=d4e6975efa7faef1b42f5e27b727e2ef021dcc18ea68527732e4d44d7a54127c&s=50x50)
+
+군산의 중심에서 조용한 쉼터를 찾고 있다면 이 호텔은 이상적인 선택이에요. 섬세한 인테리어와 아늑한 분위기는 마치 집에서 쉬는듯 편안한 느낌을 줘요. 여러 여행 명소들이 근접해 있어서 군산 시내 탐방도 매우 수월하답니다. 피곤한 여행 후에도 걱정 없어요. 포근한 침대와 깔끔한 객실이 여러분을 기다리고 있으니까요.
+
+호텔에 머무르는 동안 친절한 직원들 덕분에 마치 오랜 친구를 만난 듯한 기분을 느낄 수 있어요. 민첩한 서비스와 환영하는 태도가 인상적이죠. 아침 식사는 깔끔하고 간소하지만 품질이 좋다는 평이 많아요. 군산에서 편안함과 따뜻함을 동시에 느끼고 싶다면 이곳에서의 숙박을 추천드려요.
+
+[화담여관 (Hwadam Inn)](https://www.agoda.com/ko-kr/hwadam-inn/hotel/all/gunsan-si-kr.html)
+ 
+
+## 전주 여행의 숨은 보석 찾기
+군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)
+    ![군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_0_image](https://pix8.agoda.net/hotelImages/27877677/0/0c72eb2ad824c8354e7b864d8b17affe.jpeg)
+![군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_1_image](https://pix8.agoda.net/hotelImages/27877677/946915392/31e35505d13e49fe4dd14d0704325871.jpeg)
+![군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_2_image](https://pix8.agoda.net/hotelImages/27877677/0/350d2475046b9f04f4547276836d5193.jpeg)
+
+전주의 고즈넉한 거리와 어우러지는 숙소를 찾고 있다면, 이곳은 훌륭한 선택이에요. 이 게스트하우스는 역사와 문화가 살아 숨 쉬는 전통적인 느낌을 잘 살려냈답니다. 방문자들은 곳곳에서 마주치는 친근한 미소와 세심한 서비스에 큰 만족감을 느끼고 있어요.
+
+아침 식사로 제공되는 현지 음식을 맛보며 하루를 시작해 보세요. 깔끔한 숙소는 여행의 재미를 더하고, 주변의 아름다운 경치를 감상하며 잠시 여유를 즐길 수 있어요. 몰랐던 전주의 매력을 새롭게 발견하는 기회가 될 거예요.
+
+[군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)](https://www.agoda.com/ko-kr/gunsan-koolkooldalmong-guest-house/hotel/jeonju-si-kr.html)
+ 
+
+## 현대적 감각의 특별한 휴식
+군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)
+    ![군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_0_image](https://pix8.agoda.net/property/34413289/0/3abe602ffeb5a440b059fe594407e9a3.jpg)
+![군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_1_image](https://pix8.agoda.net/property/34413289/568779011/b9068e74eadcc716aa55293973a701f7.jpg)
+![군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_2_image](https://pix8.agoda.net/property/34413289/0/932e4da220883c6e5d7d935258212b28.jpg)
+
+일상의 번잡함에서 벗어나 특별한 평화와 안식을 발견할 준비가 되셨나요? 군산에 위치한 이곳의 펜션은 물과 자연의 조화 속에서 현대적인 감각을 한껏 느낄 수 있는 곳이에요. *넓게 펼쳐진 수영장*과 *아늑한 스파*는 몸과 마음을 따뜻하게 감싸 안아줍니다. 이곳을 찾는 많은 방문객들은 깨끗하고 잘 관리된 *아름다운 인테리어*에 감탄한답니다.
+
+아이들이나 장난꾸러기 친구들과 함께라면 이 더운 여름에도 시원한 물놀이를 마음껏 즐길 수 있답니다. 친절한 직원들과 세심하게 준비된 시설 덕분에 *편안한 휴식*이 가능하죠. 최상의 휴식 공간이 필요하다면, 이곳만한 곳이 있을까요? 아름다운 경치와 현대적 시설, 그리고 정성 어린 서비스가 있는 이곳에서 마음의 평화를 찾아보세요. **진정한 힐링**이 무엇인지 알 수 있을 거예요!
+
+[군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)](https://www.agoda.com/ko-kr/gunsan-yoon-slow-pool-spa-pension/hotel/gunsan-si-kr.html)
+ 
+
+
+## 결론
+
+군산은 다양한 매력을 가진 숙소들이 많습니다. *다쉼 게스트하우스*는 현대적 인테리어와 편안한 편의시설로 스타일리시한 휴식을 원하는 여행객에게 제격이며, *군산 여미랑*에서는 한적한 분위기에서 특별한 경험을 즐길 수 있습니다. *화담여관*은 아늑한 공간과 친절한 서비스로 조용한 쉼터를 원하는 분들에게 추천할 만합니다. 전주의 전통미를 담고 있는 *군산 쿨쿨달몽 게스트하우스*에서는 여유로운 숙박을 경험할 수 있으며, *군산(선유도) 윤슬로풀엔스파펜션*에서는 물과 자연 속에서의 현대적 편안함을 만끽할 수 있습니다. 각기 다른 개성과 매력을 가진 숙소에서 특별한 시간을 보내세요. 지금 바로 예약해보세요!
+
+11:T24f6,
+    
+
+
+## 군산 감성 숙소 5선: 슬기로운 힐링타임을 만끽하세요!
+
+안녕하세요, 달마야 여행가자의 달마입니다. 오늘은 여러분께 특별한 힐링과 감성을 제공할 군산의 숙소 5곳을 소개하려고 해요. 군산은 역사와 자연이 어우러진 도시로, 다양한 매력을 경험할 수 있는 곳이죠. **다양한 테마**를 가진 숙소에서 편안한 휴식을 취하며 일상의 스트레스를 날려보세요. 다채로운 인테리어와 독특한 매력이 가득한 이 숙소들은 마치 꿈속을 여행하는 듯한 기분을 선사할 것입니다. 준비되셨나요? 그럼 다 같이 군산의 숨은 보석 같은 숙소로 떠나 봅시다!
+
+
+## 군산의 숨은 보석, 스타일리시 호텔
+다쉼 게스트하우스 (Dashim Stay)
+    ![다쉼 게스트하우스 (Dashim Stay)_0_image](https://pix8.agoda.net/hotelImages/25133122/-1/e8ccdfe67b2566edbe248a5870301ad8.jpg)
+![다쉼 게스트하우스 (Dashim Stay)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/547649695.jpg?k=9119bb959c1b9ec76484bd7e4d8d13141f7f0e1eba21862060a62e32c8fe1f72&s=50x50)
+![다쉼 게스트하우스 (Dashim Stay)_2_image](https://pix8.agoda.net/hotelImages/25133122/-1/74654b0979fe73fea06331c860ead739.jpg)
+
+군산에 오신 것을 환영합니다. 운치 있는 골목길을 지나쳐 도착한 이곳에서는 **현대와 전통이 절묘하게 조화를 이루고** 있어요. 객실은 세련된 인테리어와 함께 아늑함을 제공하죠. 특히, 창문을 통해 들어오는 일조량은 아침을 **더욱 활기차게** 만들어 줍니다. 비즈니스 출장이나 가족 여행에 최적화되어 있어 **모든 방문객들을 감동시킬 준비가 되어 있답니다.**
+
+다양한 편의시설 또한 이 호텔을 특별하게 만들어주는 요소지요. 이곳을 찾는 여행자들은 **편안한 휴식을 취할 수 있는 환경**을 높이 평가하는데요. 제대로 하루를 보내고 나면, 인근 지역의 풍부한 먹거리와 명소들을 탐험해 볼 수 있어요. 특히, 호텔 주변의 맛있는 음식을 놓치지 말고 즐겨 보세요. 이곳의 매력은 방문 후에도 오래 기억에 남을 것입니다.
+
+[다쉼 게스트하우스 (Dashim Stay)](https://www.agoda.com/ko-kr/dashim-stay/hotel/gunsan-si-kr.html)
+ 
+
+## 군산의 숨겨진 보석 같은 여정
+군산 여미랑 (Gunsan Yeomirang)
+    ![군산 여미랑 (Gunsan Yeomirang)_0_image](https://pix8.agoda.net/property/10589998/0/07996556b3cbcff942d01146326fe47c.jpeg)
+![군산 여미랑 (Gunsan Yeomirang)_1_image](https://pix8.agoda.net/property/10589998/372769019/8c0b4a68fcd3c35028a421ce8eb1a068.jpeg)
+![군산 여미랑 (Gunsan Yeomirang)_2_image](https://pix8.agoda.net/property/10589998/0/f63490ca1ba9cc47b4533e896cc136fa.jpeg)
+
+군산의 매력적인 거리를 걷다 보면 *특별한 장소*를 찾게 될 수도 있어요. 이 *한적하고 편안한* 게스트하우스는 여행자들이 잠시 쉴 수 있는 안식처로, 따뜻한 온기를 느낄 수 있는 공간이에요. 이곳에서는 친절한 호스트와 함께 군산의 진짜 이야기를 나눌 수 있어 즐거운 대화를 나누기에도 좋은 곳이랍니다.
+
+객실에서는 깨끗하고 *편안한 침구* 속에서 아늑한 시간을 보낼 수 있어 휴식에 적합해요. 또한, 오래된 흔적이 남아 있는 고즈넉한 분위기도 있지만, 필요한 모든 현대적인 시설도 갖추고 있어요. 이런 조화 속에서 새로운 추억을 쌓아보세요! 아마도 다음 여정에서는 또다시 여기를 찾게 될지도 몰라요.
+
+[군산 여미랑 (Gunsan Yeomirang)](https://www.agoda.com/ko-kr/gunsan-yeomirang-guesthouse/hotel/gunsan-si-kr.html)
+ 
+
+## 편안한 여행의 시작점
+화담여관 (Hwadam Inn)
+    ![화담여관 (Hwadam Inn)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/116368456.jpg?k=31f08d7994b67a24ff310c18dba74cdad2307cc1585a4d771caa70fc1aa7967a&s=450x450)
+![화담여관 (Hwadam Inn)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/329450129.jpg?k=8d8b589de56092795c2a7bdc113df1b2eaff2256ac613535f9b3abab31bf8741&s=50x50)
+![화담여관 (Hwadam Inn)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/329449857.jpg?k=d4e6975efa7faef1b42f5e27b727e2ef021dcc18ea68527732e4d44d7a54127c&s=50x50)
+
+군산의 중심에서 조용한 쉼터를 찾고 있다면 이 호텔은 이상적인 선택이에요. 섬세한 인테리어와 아늑한 분위기는 마치 집에서 쉬는듯 편안한 느낌을 줘요. 여러 여행 명소들이 근접해 있어서 군산 시내 탐방도 매우 수월하답니다. 피곤한 여행 후에도 걱정 없어요. 포근한 침대와 깔끔한 객실이 여러분을 기다리고 있으니까요.
+
+호텔에 머무르는 동안 친절한 직원들 덕분에 마치 오랜 친구를 만난 듯한 기분을 느낄 수 있어요. 민첩한 서비스와 환영하는 태도가 인상적이죠. 아침 식사는 깔끔하고 간소하지만 품질이 좋다는 평이 많아요. 군산에서 편안함과 따뜻함을 동시에 느끼고 싶다면 이곳에서의 숙박을 추천드려요.
+
+[화담여관 (Hwadam Inn)](https://www.agoda.com/ko-kr/hwadam-inn/hotel/all/gunsan-si-kr.html)
+ 
+
+## 전주 여행의 숨은 보석 찾기
+군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)
+    ![군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_0_image](https://pix8.agoda.net/hotelImages/27877677/0/0c72eb2ad824c8354e7b864d8b17affe.jpeg)
+![군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_1_image](https://pix8.agoda.net/hotelImages/27877677/946915392/31e35505d13e49fe4dd14d0704325871.jpeg)
+![군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_2_image](https://pix8.agoda.net/hotelImages/27877677/0/350d2475046b9f04f4547276836d5193.jpeg)
+
+전주의 고즈넉한 거리와 어우러지는 숙소를 찾고 있다면, 이곳은 훌륭한 선택이에요. 이 게스트하우스는 역사와 문화가 살아 숨 쉬는 전통적인 느낌을 잘 살려냈답니다. 방문자들은 곳곳에서 마주치는 친근한 미소와 세심한 서비스에 큰 만족감을 느끼고 있어요.
+
+아침 식사로 제공되는 현지 음식을 맛보며 하루를 시작해 보세요. 깔끔한 숙소는 여행의 재미를 더하고, 주변의 아름다운 경치를 감상하며 잠시 여유를 즐길 수 있어요. 몰랐던 전주의 매력을 새롭게 발견하는 기회가 될 거예요.
+
+[군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)](https://www.agoda.com/ko-kr/gunsan-koolkooldalmong-guest-house/hotel/jeonju-si-kr.html)
+ 
+
+## 현대적 감각의 특별한 휴식
+군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)
+    ![군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_0_image](https://pix8.agoda.net/property/34413289/0/3abe602ffeb5a440b059fe594407e9a3.jpg)
+![군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_1_image](https://pix8.agoda.net/property/34413289/568779011/b9068e74eadcc716aa55293973a701f7.jpg)
+![군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_2_image](https://pix8.agoda.net/property/34413289/0/932e4da220883c6e5d7d935258212b28.jpg)
+
+일상의 번잡함에서 벗어나 특별한 평화와 안식을 발견할 준비가 되셨나요? 군산에 위치한 이곳의 펜션은 물과 자연의 조화 속에서 현대적인 감각을 한껏 느낄 수 있는 곳이에요. *넓게 펼쳐진 수영장*과 *아늑한 스파*는 몸과 마음을 따뜻하게 감싸 안아줍니다. 이곳을 찾는 많은 방문객들은 깨끗하고 잘 관리된 *아름다운 인테리어*에 감탄한답니다.
+
+아이들이나 장난꾸러기 친구들과 함께라면 이 더운 여름에도 시원한 물놀이를 마음껏 즐길 수 있답니다. 친절한 직원들과 세심하게 준비된 시설 덕분에 *편안한 휴식*이 가능하죠. 최상의 휴식 공간이 필요하다면, 이곳만한 곳이 있을까요? 아름다운 경치와 현대적 시설, 그리고 정성 어린 서비스가 있는 이곳에서 마음의 평화를 찾아보세요. **진정한 힐링**이 무엇인지 알 수 있을 거예요!
+
+[군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)](https://www.agoda.com/ko-kr/gunsan-yoon-slow-pool-spa-pension/hotel/gunsan-si-kr.html)
+ 
+
+
+## 결론
+
+군산은 다양한 매력을 가진 숙소들이 많습니다. *다쉼 게스트하우스*는 현대적 인테리어와 편안한 편의시설로 스타일리시한 휴식을 원하는 여행객에게 제격이며, *군산 여미랑*에서는 한적한 분위기에서 특별한 경험을 즐길 수 있습니다. *화담여관*은 아늑한 공간과 친절한 서비스로 조용한 쉼터를 원하는 분들에게 추천할 만합니다. 전주의 전통미를 담고 있는 *군산 쿨쿨달몽 게스트하우스*에서는 여유로운 숙박을 경험할 수 있으며, *군산(선유도) 윤슬로풀엔스파펜션*에서는 물과 자연 속에서의 현대적 편안함을 만끽할 수 있습니다. 각기 다른 개성과 매력을 가진 숙소에서 특별한 시간을 보내세요. 지금 바로 예약해보세요!
+
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"군산 감성 숙소 5선, 슬기로운 힐링타임을 위한 추천"}],["$","data",null,{"children":"2025-07-20T01:04:19.214Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"아시아"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"현대적"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"편안함"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"아늑함"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"비즈니스"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"가족여행"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"편의시설"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"조용함"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"숨겨진 보석"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"한적함"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"친절한 호스트"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"고즈넉한 분위기"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"현대적 시설"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"군산"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"조용한"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"아늑한"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"친절"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"중심"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"명소"}]}],["$","li","[object Object]_19",{"children":["$","span",null,{"children":"탐방"}]}],["$","li","[object Object]_20",{"children":["$","span",null,{"children":"포근한"}]}],["$","li","[object Object]_21",{"children":["$","span",null,{"children":"전주"}]}],["$","li","[object Object]_22",{"children":["$","span",null,{"children":"게스트하우스"}]}],["$","li","[object Object]_23",{"children":["$","span",null,{"children":"전통"}]}],["$","li","[object Object]_24",{"children":["$","span",null,{"children":"현지음식"}]}],["$","li","[object Object]_25",{"children":["$","span",null,{"children":"문화"}]}],["$","li","[object Object]_26",{"children":["$","span",null,{"children":"경치"}]}],["$","li","[object Object]_27",{"children":["$","span",null,{"children":"힐링"}]}],["$","li","[object Object]_28",{"children":["$","span",null,{"children":"수영장"}]}],["$","li","[object Object]_29",{"children":["$","span",null,{"children":"스파"}]}],["$","li","[object Object]_30",{"children":["$","span",null,{"children":"자연"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"4208405e","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"군산 감성 숙소 5선: 슬기로운 힐링타임을 만끽하세요!"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요, 달마야 여행가자의 달마입니다. 오늘은 여러분께 특별한 힐링과 감성을 제공할 군산의 숙소 5곳을 소개하려고 해요. 군산은 역사와 자연이 어우러진 도시로, 다양한 매력을 경험할 수 있는 곳이죠. ",["$","strong",null,{"className":"font-black","children":"다양한 테마"}],"를 가진 숙소에서 편안한 휴식을 취하며 일상의 스트레스를 날려보세요. 다채로운 인테리어와 독특한 매력이 가득한 이 숙소들은 마치 꿈속을 여행하는 듯한 기분을 선사할 것입니다. 준비되셨나요? 그럼 다 같이 군산의 숨은 보석 같은 숙소로 떠나 봅시다!"]}],"\n",["$","h2",null,{"id":"2c5cbd68","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"군산의 숨은 보석, 스타일리시 호텔"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["다쉼 게스트하우스 (Dashim Stay)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/25133122/-1/e8ccdfe67b2566edbe248a5870301ad8.jpg","alt":"다쉼 게스트하우스 (Dashim Stay)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/547649695.jpg?k=9119bb959c1b9ec76484bd7e4d8d13141f7f0e1eba21862060a62e32c8fe1f72&s=50x50","alt":"다쉼 게스트하우스 (Dashim Stay)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/25133122/-1/74654b0979fe73fea06331c860ead739.jpg","alt":"다쉼 게스트하우스 (Dashim Stay)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["군산에 오신 것을 환영합니다. 운치 있는 골목길을 지나쳐 도착한 이곳에서는 ",["$","strong",null,{"className":"font-black","children":"현대와 전통이 절묘하게 조화를 이루고"}]," 있어요. 객실은 세련된 인테리어와 함께 아늑함을 제공하죠. 특히, 창문을 통해 들어오는 일조량은 아침을 ",["$","strong",null,{"className":"font-black","children":"더욱 활기차게"}]," 만들어 줍니다. 비즈니스 출장이나 가족 여행에 최적화되어 있어 ",["$","strong",null,{"className":"font-black","children":"모든 방문객들을 감동시킬 준비가 되어 있답니다."}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["다양한 편의시설 또한 이 호텔을 특별하게 만들어주는 요소지요. 이곳을 찾는 여행자들은 ",["$","strong",null,{"className":"font-black","children":"편안한 휴식을 취할 수 있는 환경"}],"을 높이 평가하는데요. 제대로 하루를 보내고 나면, 인근 지역의 풍부한 먹거리와 명소들을 탐험해 볼 수 있어요. 특히, 호텔 주변의 맛있는 음식을 놓치지 말고 즐겨 보세요. 이곳의 매력은 방문 후에도 오래 기억에 남을 것입니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/dashim-stay/hotel/gunsan-si-kr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/dashim-stay/hotel/gunsan-si-kr.html"},"children":[{"type":"text","value":"다쉼 게스트하우스 (Dashim Stay)","position":{"start":{"line":20,"column":2,"offset":1180},"end":{"line":20,"column":25,"offset":1203}}}],"position":{"start":{"line":20,"column":1,"offset":1179},"end":{"line":20,"column":91,"offset":1269}}},"children":"다쉼 게스트하우스 (Dashim Stay)"},"post":{"id":"c693025a-ba65-4f40-ac33-fb96185fe008","title":"군산 감성 숙소 5선, 슬기로운 힐링타임을 위한 추천","fileName":"군산-감성-숙소-5선-힐링타임-c693025a","description":"군산에서 특별한 힐링타임을 보낼 수 있는 감성 가득한 숙소 5곳을 소개합니다. 다심스테이와 염이랑 게스트하우스, 화담 인, 군산 쿨쿨달몽 게스트하우스, 윤슬로우풀스파펜션은 각각 독특한 매력을 선보이며 다양한 여행 컨셉에 부합합니다. 각 호텔의 장점을 살펴보고, 소중한 시간을 더욱 멋지게 만들어 보세요!","date":"2025-07-20T01:04:19.214Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"아늑함","path":"$$/kr/tags/아늑함","id":"아늑함"},{"name":"비즈니스","path":"$$/kr/tags/비즈니스","id":"비즈니스"},{"name":"가족여행","path":"$$/kr/tags/가족여행","id":"가족여행"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"조용함","path":"$$/kr/tags/조용함","id":"조용함"},{"name":"숨겨진 보석","path":"$$/kr/tags/숨겨진-보석","id":"숨겨진-보석"},{"name":"한적함","path":"$$/kr/tags/한적함","id":"한적함"},{"name":"친절한 호스트","path":"$$/kr/tags/친절한-호스트","id":"친절한-호스트"},{"name":"고즈넉한 분위기","path":"$$/kr/tags/고즈넉한-분위기","id":"고즈넉한-분위기"},{"name":"현대적 시설","path":"$$/kr/tags/현대적-시설","id":"현대적-시설"},{"name":"군산","path":"$$/kr/tags/군산","id":"군산"},{"name":"조용한","path":"$$/kr/tags/조용한","id":"조용한"},{"name":"아늑한","path":"$$/kr/tags/아늑한","id":"아늑한"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"중심","path":"$$/kr/tags/중심","id":"중심"},{"name":"명소","path":"$$/kr/tags/명소","id":"명소"},{"name":"탐방","path":"$$/kr/tags/탐방","id":"탐방"},{"name":"포근한","path":"$$/kr/tags/포근한","id":"포근한"},{"name":"전주","path":"$$/kr/tags/전주","id":"전주"},{"name":"게스트하우스","path":"$$/kr/tags/게스트하우스","id":"게스트하우스"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"현지음식","path":"$$/kr/tags/현지음식","id":"현지음식"},{"name":"문화","path":"$$/kr/tags/문화","id":"문화"},{"name":"경치","path":"$$/kr/tags/경치","id":"경치"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"}],"banner":"/images/212538-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"군산-감성-숙소-5선-힐링타임-c693025a","content":"$d","category":"articles","readMin":"6.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"16c01241","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"군산의 숨겨진 보석 같은 여정"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["군산 여미랑 (Gunsan Yeomirang)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/property/10589998/0/07996556b3cbcff942d01146326fe47c.jpeg","alt":"군산 여미랑 (Gunsan Yeomirang)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/property/10589998/372769019/8c0b4a68fcd3c35028a421ce8eb1a068.jpeg","alt":"군산 여미랑 (Gunsan Yeomirang)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/property/10589998/0/f63490ca1ba9cc47b4533e896cc136fa.jpeg","alt":"군산 여미랑 (Gunsan Yeomirang)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["군산의 매력적인 거리를 걷다 보면 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"특별한 장소"}],"를 찾게 될 수도 있어요. 이 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"한적하고 편안한"}]," 게스트하우스는 여행자들이 잠시 쉴 수 있는 안식처로, 따뜻한 온기를 느낄 수 있는 공간이에요. 이곳에서는 친절한 호스트와 함께 군산의 진짜 이야기를 나눌 수 있어 즐거운 대화를 나누기에도 좋은 곳이랍니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["객실에서는 깨끗하고 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"편안한 침구"}]," 속에서 아늑한 시간을 보낼 수 있어 휴식에 적합해요. 또한, 오래된 흔적이 남아 있는 고즈넉한 분위기도 있지만, 필요한 모든 현대적인 시설도 갖추고 있어요. 이런 조화 속에서 새로운 추억을 쌓아보세요! 아마도 다음 여정에서는 또다시 여기를 찾게 될지도 몰라요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/gunsan-yeomirang-guesthouse/hotel/gunsan-si-kr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/gunsan-yeomirang-guesthouse/hotel/gunsan-si-kr.html"},"children":[{"type":"text","value":"군산 여미랑 (Gunsan Yeomirang)","position":{"start":{"line":33,"column":2,"offset":2028},"end":{"line":33,"column":27,"offset":2053}}}],"position":{"start":{"line":33,"column":1,"offset":2027},"end":{"line":33,"column":109,"offset":2135}}},"children":"군산 여미랑 (Gunsan Yeomirang)"},"post":{"id":"c693025a-ba65-4f40-ac33-fb96185fe008","title":"군산 감성 숙소 5선, 슬기로운 힐링타임을 위한 추천","fileName":"군산-감성-숙소-5선-힐링타임-c693025a","description":"군산에서 특별한 힐링타임을 보낼 수 있는 감성 가득한 숙소 5곳을 소개합니다. 다심스테이와 염이랑 게스트하우스, 화담 인, 군산 쿨쿨달몽 게스트하우스, 윤슬로우풀스파펜션은 각각 독특한 매력을 선보이며 다양한 여행 컨셉에 부합합니다. 각 호텔의 장점을 살펴보고, 소중한 시간을 더욱 멋지게 만들어 보세요!","date":"2025-07-20T01:04:19.214Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"아늑함","path":"$$/kr/tags/아늑함","id":"아늑함"},{"name":"비즈니스","path":"$$/kr/tags/비즈니스","id":"비즈니스"},{"name":"가족여행","path":"$$/kr/tags/가족여행","id":"가족여행"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"조용함","path":"$$/kr/tags/조용함","id":"조용함"},{"name":"숨겨진 보석","path":"$$/kr/tags/숨겨진-보석","id":"숨겨진-보석"},{"name":"한적함","path":"$$/kr/tags/한적함","id":"한적함"},{"name":"친절한 호스트","path":"$$/kr/tags/친절한-호스트","id":"친절한-호스트"},{"name":"고즈넉한 분위기","path":"$$/kr/tags/고즈넉한-분위기","id":"고즈넉한-분위기"},{"name":"현대적 시설","path":"$$/kr/tags/현대적-시설","id":"현대적-시설"},{"name":"군산","path":"$$/kr/tags/군산","id":"군산"},{"name":"조용한","path":"$$/kr/tags/조용한","id":"조용한"},{"name":"아늑한","path":"$$/kr/tags/아늑한","id":"아늑한"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"중심","path":"$$/kr/tags/중심","id":"중심"},{"name":"명소","path":"$$/kr/tags/명소","id":"명소"},{"name":"탐방","path":"$$/kr/tags/탐방","id":"탐방"},{"name":"포근한","path":"$$/kr/tags/포근한","id":"포근한"},{"name":"전주","path":"$$/kr/tags/전주","id":"전주"},{"name":"게스트하우스","path":"$$/kr/tags/게스트하우스","id":"게스트하우스"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"현지음식","path":"$$/kr/tags/현지음식","id":"현지음식"},{"name":"문화","path":"$$/kr/tags/문화","id":"문화"},{"name":"경치","path":"$$/kr/tags/경치","id":"경치"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"}],"banner":"/images/212538-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"군산-감성-숙소-5선-힐링타임-c693025a","content":"$e","category":"articles","readMin":"6.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"cc35b49b","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"편안한 여행의 시작점"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["화담여관 (Hwadam Inn)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/116368456.jpg?k=31f08d7994b67a24ff310c18dba74cdad2307cc1585a4d771caa70fc1aa7967a&s=450x450","alt":"화담여관 (Hwadam Inn)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/329450129.jpg?k=8d8b589de56092795c2a7bdc113df1b2eaff2256ac613535f9b3abab31bf8741&s=50x50","alt":"화담여관 (Hwadam Inn)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/329449857.jpg?k=d4e6975efa7faef1b42f5e27b727e2ef021dcc18ea68527732e4d44d7a54127c&s=50x50","alt":"화담여관 (Hwadam Inn)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"군산의 중심에서 조용한 쉼터를 찾고 있다면 이 호텔은 이상적인 선택이에요. 섬세한 인테리어와 아늑한 분위기는 마치 집에서 쉬는듯 편안한 느낌을 줘요. 여러 여행 명소들이 근접해 있어서 군산 시내 탐방도 매우 수월하답니다. 피곤한 여행 후에도 걱정 없어요. 포근한 침대와 깔끔한 객실이 여러분을 기다리고 있으니까요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"호텔에 머무르는 동안 친절한 직원들 덕분에 마치 오랜 친구를 만난 듯한 기분을 느낄 수 있어요. 민첩한 서비스와 환영하는 태도가 인상적이죠. 아침 식사는 깔끔하고 간소하지만 품질이 좋다는 평이 많아요. 군산에서 편안함과 따뜻함을 동시에 느끼고 싶다면 이곳에서의 숙박을 추천드려요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/hwadam-inn/hotel/all/gunsan-si-kr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/hwadam-inn/hotel/all/gunsan-si-kr.html"},"children":[{"type":"text","value":"화담여관 (Hwadam Inn)","position":{"start":{"line":46,"column":2,"offset":3025},"end":{"line":46,"column":19,"offset":3042}}}],"position":{"start":{"line":46,"column":1,"offset":3024},"end":{"line":46,"column":88,"offset":3111}}},"children":"화담여관 (Hwadam Inn)"},"post":{"id":"c693025a-ba65-4f40-ac33-fb96185fe008","title":"군산 감성 숙소 5선, 슬기로운 힐링타임을 위한 추천","fileName":"군산-감성-숙소-5선-힐링타임-c693025a","description":"군산에서 특별한 힐링타임을 보낼 수 있는 감성 가득한 숙소 5곳을 소개합니다. 다심스테이와 염이랑 게스트하우스, 화담 인, 군산 쿨쿨달몽 게스트하우스, 윤슬로우풀스파펜션은 각각 독특한 매력을 선보이며 다양한 여행 컨셉에 부합합니다. 각 호텔의 장점을 살펴보고, 소중한 시간을 더욱 멋지게 만들어 보세요!","date":"2025-07-20T01:04:19.214Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"아늑함","path":"$$/kr/tags/아늑함","id":"아늑함"},{"name":"비즈니스","path":"$$/kr/tags/비즈니스","id":"비즈니스"},{"name":"가족여행","path":"$$/kr/tags/가족여행","id":"가족여행"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"조용함","path":"$$/kr/tags/조용함","id":"조용함"},{"name":"숨겨진 보석","path":"$$/kr/tags/숨겨진-보석","id":"숨겨진-보석"},{"name":"한적함","path":"$$/kr/tags/한적함","id":"한적함"},{"name":"친절한 호스트","path":"$$/kr/tags/친절한-호스트","id":"친절한-호스트"},{"name":"고즈넉한 분위기","path":"$$/kr/tags/고즈넉한-분위기","id":"고즈넉한-분위기"},{"name":"현대적 시설","path":"$$/kr/tags/현대적-시설","id":"현대적-시설"},{"name":"군산","path":"$$/kr/tags/군산","id":"군산"},{"name":"조용한","path":"$$/kr/tags/조용한","id":"조용한"},{"name":"아늑한","path":"$$/kr/tags/아늑한","id":"아늑한"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"중심","path":"$$/kr/tags/중심","id":"중심"},{"name":"명소","path":"$$/kr/tags/명소","id":"명소"},{"name":"탐방","path":"$$/kr/tags/탐방","id":"탐방"},{"name":"포근한","path":"$$/kr/tags/포근한","id":"포근한"},{"name":"전주","path":"$$/kr/tags/전주","id":"전주"},{"name":"게스트하우스","path":"$$/kr/tags/게스트하우스","id":"게스트하우스"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"현지음식","path":"$$/kr/tags/현지음식","id":"현지음식"},{"name":"문화","path":"$$/kr/tags/문화","id":"문화"},{"name":"경치","path":"$$/kr/tags/경치","id":"경치"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"}],"banner":"/images/212538-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"군산-감성-숙소-5선-힐링타임-c693025a","content":"$f","category":"articles","readMin":"6.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"d2c735f1","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"전주 여행의 숨은 보석 찾기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/27877677/0/0c72eb2ad824c8354e7b864d8b17affe.jpeg","alt":"군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/27877677/946915392/31e35505d13e49fe4dd14d0704325871.jpeg","alt":"군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/27877677/0/350d2475046b9f04f4547276836d5193.jpeg","alt":"군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"전주의 고즈넉한 거리와 어우러지는 숙소를 찾고 있다면, 이곳은 훌륭한 선택이에요. 이 게스트하우스는 역사와 문화가 살아 숨 쉬는 전통적인 느낌을 잘 살려냈답니다. 방문자들은 곳곳에서 마주치는 친근한 미소와 세심한 서비스에 큰 만족감을 느끼고 있어요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"아침 식사로 제공되는 현지 음식을 맛보며 하루를 시작해 보세요. 깔끔한 숙소는 여행의 재미를 더하고, 주변의 아름다운 경치를 감상하며 잠시 여유를 즐길 수 있어요. 몰랐던 전주의 매력을 새롭게 발견하는 기회가 될 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/gunsan-koolkooldalmong-guest-house/hotel/jeonju-si-kr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/gunsan-koolkooldalmong-guest-house/hotel/jeonju-si-kr.html"},"children":[{"type":"text","value":"군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)","position":{"start":{"line":59,"column":2,"offset":3910},"end":{"line":59,"column":53,"offset":3961}}}],"position":{"start":{"line":59,"column":1,"offset":3909},"end":{"line":59,"column":142,"offset":4050}}},"children":"군산 쿨쿨달몽 게스트하우스 (Gunsan Koolkooldalmong Guest House)"},"post":{"id":"c693025a-ba65-4f40-ac33-fb96185fe008","title":"군산 감성 숙소 5선, 슬기로운 힐링타임을 위한 추천","fileName":"군산-감성-숙소-5선-힐링타임-c693025a","description":"군산에서 특별한 힐링타임을 보낼 수 있는 감성 가득한 숙소 5곳을 소개합니다. 다심스테이와 염이랑 게스트하우스, 화담 인, 군산 쿨쿨달몽 게스트하우스, 윤슬로우풀스파펜션은 각각 독특한 매력을 선보이며 다양한 여행 컨셉에 부합합니다. 각 호텔의 장점을 살펴보고, 소중한 시간을 더욱 멋지게 만들어 보세요!","date":"2025-07-20T01:04:19.214Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"아늑함","path":"$$/kr/tags/아늑함","id":"아늑함"},{"name":"비즈니스","path":"$$/kr/tags/비즈니스","id":"비즈니스"},{"name":"가족여행","path":"$$/kr/tags/가족여행","id":"가족여행"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"조용함","path":"$$/kr/tags/조용함","id":"조용함"},{"name":"숨겨진 보석","path":"$$/kr/tags/숨겨진-보석","id":"숨겨진-보석"},{"name":"한적함","path":"$$/kr/tags/한적함","id":"한적함"},{"name":"친절한 호스트","path":"$$/kr/tags/친절한-호스트","id":"친절한-호스트"},{"name":"고즈넉한 분위기","path":"$$/kr/tags/고즈넉한-분위기","id":"고즈넉한-분위기"},{"name":"현대적 시설","path":"$$/kr/tags/현대적-시설","id":"현대적-시설"},{"name":"군산","path":"$$/kr/tags/군산","id":"군산"},{"name":"조용한","path":"$$/kr/tags/조용한","id":"조용한"},{"name":"아늑한","path":"$$/kr/tags/아늑한","id":"아늑한"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"중심","path":"$$/kr/tags/중심","id":"중심"},{"name":"명소","path":"$$/kr/tags/명소","id":"명소"},{"name":"탐방","path":"$$/kr/tags/탐방","id":"탐방"},{"name":"포근한","path":"$$/kr/tags/포근한","id":"포근한"},{"name":"전주","path":"$$/kr/tags/전주","id":"전주"},{"name":"게스트하우스","path":"$$/kr/tags/게스트하우스","id":"게스트하우스"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"현지음식","path":"$$/kr/tags/현지음식","id":"현지음식"},{"name":"문화","path":"$$/kr/tags/문화","id":"문화"},{"name":"경치","path":"$$/kr/tags/경치","id":"경치"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"}],"banner":"/images/212538-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"군산-감성-숙소-5선-힐링타임-c693025a","content":"$10","category":"articles","readMin":"6.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"f7442faf","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"현대적 감각의 특별한 휴식"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/property/34413289/0/3abe602ffeb5a440b059fe594407e9a3.jpg","alt":"군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/property/34413289/568779011/b9068e74eadcc716aa55293973a701f7.jpg","alt":"군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/property/34413289/0/932e4da220883c6e5d7d935258212b28.jpg","alt":"군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["일상의 번잡함에서 벗어나 특별한 평화와 안식을 발견할 준비가 되셨나요? 군산에 위치한 이곳의 펜션은 물과 자연의 조화 속에서 현대적인 감각을 한껏 느낄 수 있는 곳이에요. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"넓게 펼쳐진 수영장"}],"과 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"아늑한 스파"}],"는 몸과 마음을 따뜻하게 감싸 안아줍니다. 이곳을 찾는 많은 방문객들은 깨끗하고 잘 관리된 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"아름다운 인테리어"}],"에 감탄한답니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["아이들이나 장난꾸러기 친구들과 함께라면 이 더운 여름에도 시원한 물놀이를 마음껏 즐길 수 있답니다. 친절한 직원들과 세심하게 준비된 시설 덕분에 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"편안한 휴식"}],"이 가능하죠. 최상의 휴식 공간이 필요하다면, 이곳만한 곳이 있을까요? 아름다운 경치와 현대적 시설, 그리고 정성 어린 서비스가 있는 이곳에서 마음의 평화를 찾아보세요. ",["$","strong",null,{"className":"font-black","children":"진정한 힐링"}],"이 무엇인지 알 수 있을 거예요!"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/gunsan-yoon-slow-pool-spa-pension/hotel/gunsan-si-kr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/gunsan-yoon-slow-pool-spa-pension/hotel/gunsan-si-kr.html"},"children":[{"type":"text","value":"군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)","position":{"start":{"line":72,"column":2,"offset":5015},"end":{"line":72,"column":63,"offset":5076}}}],"position":{"start":{"line":72,"column":1,"offset":5014},"end":{"line":72,"column":151,"offset":5164}}},"children":"군산(선유도) 윤슬로풀엔스파펜션 (Gunsan (Seonyudo) Yunslo Pool Spa Pension)"},"post":{"id":"c693025a-ba65-4f40-ac33-fb96185fe008","title":"군산 감성 숙소 5선, 슬기로운 힐링타임을 위한 추천","fileName":"군산-감성-숙소-5선-힐링타임-c693025a","description":"군산에서 특별한 힐링타임을 보낼 수 있는 감성 가득한 숙소 5곳을 소개합니다. 다심스테이와 염이랑 게스트하우스, 화담 인, 군산 쿨쿨달몽 게스트하우스, 윤슬로우풀스파펜션은 각각 독특한 매력을 선보이며 다양한 여행 컨셉에 부합합니다. 각 호텔의 장점을 살펴보고, 소중한 시간을 더욱 멋지게 만들어 보세요!","date":"2025-07-20T01:04:19.214Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"아늑함","path":"$$/kr/tags/아늑함","id":"아늑함"},{"name":"비즈니스","path":"$$/kr/tags/비즈니스","id":"비즈니스"},{"name":"가족여행","path":"$$/kr/tags/가족여행","id":"가족여행"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"조용함","path":"$$/kr/tags/조용함","id":"조용함"},{"name":"숨겨진 보석","path":"$$/kr/tags/숨겨진-보석","id":"숨겨진-보석"},{"name":"한적함","path":"$$/kr/tags/한적함","id":"한적함"},{"name":"친절한 호스트","path":"$$/kr/tags/친절한-호스트","id":"친절한-호스트"},{"name":"고즈넉한 분위기","path":"$$/kr/tags/고즈넉한-분위기","id":"고즈넉한-분위기"},{"name":"현대적 시설","path":"$$/kr/tags/현대적-시설","id":"현대적-시설"},{"name":"군산","path":"$$/kr/tags/군산","id":"군산"},{"name":"조용한","path":"$$/kr/tags/조용한","id":"조용한"},{"name":"아늑한","path":"$$/kr/tags/아늑한","id":"아늑한"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"중심","path":"$$/kr/tags/중심","id":"중심"},{"name":"명소","path":"$$/kr/tags/명소","id":"명소"},{"name":"탐방","path":"$$/kr/tags/탐방","id":"탐방"},{"name":"포근한","path":"$$/kr/tags/포근한","id":"포근한"},{"name":"전주","path":"$$/kr/tags/전주","id":"전주"},{"name":"게스트하우스","path":"$$/kr/tags/게스트하우스","id":"게스트하우스"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"현지음식","path":"$$/kr/tags/현지음식","id":"현지음식"},{"name":"문화","path":"$$/kr/tags/문화","id":"문화"},{"name":"경치","path":"$$/kr/tags/경치","id":"경치"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"}],"banner":"/images/212538-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"군산-감성-숙소-5선-힐링타임-c693025a","content":"$11","category":"articles","readMin":"6.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["군산은 다양한 매력을 가진 숙소들이 많습니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"다쉼 게스트하우스"}],"는 현대적 인테리어와 편안한 편의시설로 스타일리시한 휴식을 원하는 여행객에게 제격이며, ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"군산 여미랑"}],"에서는 한적한 분위기에서 특별한 경험을 즐길 수 있습니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"화담여관"}],"은 아늑한 공간과 친절한 서비스로 조용한 쉼터를 원하는 분들에게 추천할 만합니다. 전주의 전통미를 담고 있는 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"군산 쿨쿨달몽 게스트하우스"}],"에서는 여유로운 숙박을 경험할 수 있으며, ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"군산(선유도) 윤슬로풀엔스파펜션"}],"에서는 물과 자연 속에서의 현대적 편안함을 만끽할 수 있습니다. 각기 다른 개성과 매력을 가진 숙소에서 특별한 시간을 보내세요. 지금 바로 예약해보세요!"]}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"군산 감성 숙소 5선, 슬기로운 힐링타임을 위한 추천","toc":[{"tagName":"h2","title":"군산 감성 숙소 5선: 슬기로운 힐링타임을 만끽하세요!","id":"4208405e"},{"tagName":"h2","title":"군산의 숨은 보석, 스타일리시 호텔","id":"2c5cbd68"},{"tagName":"h2","title":"군산의 숨겨진 보석 같은 여정","id":"16c01241"},{"tagName":"h2","title":"편안한 여행의 시작점","id":"cc35b49b"},{"tagName":"h2","title":"전주 여행의 숨은 보석 찾기","id":"d2c735f1"},{"tagName":"h2","title":"현대적 감각의 특별한 휴식","id":"f7442faf"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

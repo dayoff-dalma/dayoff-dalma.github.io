@@ -1,0 +1,439 @@
+1:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/faaaebde45bfcdd4.css",{"as":"style"}]
+0:["FL5qPEDR-MTJ47-06Xiua",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%EC%84%A0%EC%83%A4%EC%9D%B8%EC%BD%94%EC%8A%A4%ED%8A%B8-%ED%98%B8%ED%85%94-%EC%B6%94%EC%B2%9C-%ED%9E%88%ED%94%BC-%EC%8A%A4%ED%83%80%EC%9D%BC-%ED%9C%B4%EA%B0%80-f01f8cf2","d"],{"children":["__PAGE__?{\"slug\":\"선샤인코스트-호텔-추천-히피-스타일-휴가-f01f8cf2\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/faaaebde45bfcdd4.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-21fed9d4f5b142b6.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_e8ce0c","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%EC%84%A0%EC%83%A4%EC%9D%B8%EC%BD%94%EC%8A%A4%ED%8A%B8-%ED%98%B8%ED%85%94-%EC%B6%94%EC%B2%9C-%ED%9E%88%ED%94%BC-%EC%8A%A4%ED%83%80%EC%9D%BC-%ED%9C%B4%EA%B0%80-f01f8cf2","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"선샤인코스트-호텔-추천-히피-스타일-휴가-f01f8cf2\"}"},"styles":[]}],"segment":["slug","%EC%84%A0%EC%83%A4%EC%9D%B8%EC%BD%94%EC%8A%A4%ED%8A%B8-%ED%98%B8%ED%85%94-%EC%B6%94%EC%B2%9C-%ED%9E%88%ED%94%BC-%EC%8A%A4%ED%83%80%EC%9D%BC-%ED%9C%B4%EA%B0%80-f01f8cf2","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"선샤인코스트 호텔 추천, 히피 스타일로 특별한 휴가 즐기기 | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"선샤인코스트에서 히피 스타일로 특별한 휴가를 즐기세요. 자연과 어우러진 Holiday Inn Express & Suites는 만족스러운 프리미엄 서비스를 제공합니다. Ocean Views Resort와 Ramada Resort by Wyndham Golden Beach에서도 해양 전망을 만끽할 수 있습니다. 또한, Top Spot Motel과 At The Sound Apartments는 캐주얼한 분위기로 편안한 시간을 보장합니다. 각 호텔은 다양한 매력과 함께 선샤인코스트만의 여유로운 분위기를 선사합니다."}],["$","meta","3",{"name":"keywords","content":"태평양 지역 및 호주,해변,자연,휴양,편안함,레저,모던,친절,휴식,뷰,평온,휴양지,서비스,리조트,가족,스파,청결,편의성,비치리조트,아늑한,수영장,바닷가,깔끔함,주방"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%EC%84%A0%EC%83%A4%EC%9D%B8%EC%BD%94%EC%8A%A4%ED%8A%B8-%ED%98%B8%ED%85%94-%EC%B6%94%EC%B2%9C-%ED%9E%88%ED%94%BC-%EC%8A%A4%ED%83%80%EC%9D%BC-%ED%9C%B4%EA%B0%80-f01f8cf2"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"선샤인코스트 호텔 추천, 히피 스타일로 특별한 휴가 즐기기 | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"선샤인코스트 호텔 추천, 히피 스타일로 특별한 휴가 즐기기 | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"선샤인코스트에서 히피 스타일로 특별한 휴가를 즐기세요. 자연과 어우러진 Holiday Inn Express & Suites는 만족스러운 프리미엄 서비스를 제공합니다. Ocean Views Resort와 Ramada Resort by Wyndham Golden Beach에서도 해양 전망을 만끽할 수 있습니다. 또한, Top Spot Motel과 At The Sound Apartments는 캐주얼한 분위기로 편안한 시간을 보장합니다. 각 호텔은 다양한 매력과 함께 선샤인코스트만의 여유로운 분위기를 선사합니다."}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%EC%84%A0%EC%83%A4%EC%9D%B8%EC%BD%94%EC%8A%A4%ED%8A%B8-%ED%98%B8%ED%85%94-%EC%B6%94%EC%B2%9C-%ED%9E%88%ED%94%BC-%EC%8A%A4%ED%83%80%EC%9D%BC-%ED%9C%B4%EA%B0%80-f01f8cf2"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/19930-1x1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"선샤인코스트 호텔 추천, 히피 스타일로 특별한 휴가 즐기기 | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"선샤인코스트에서 히피 스타일로 특별한 휴가를 즐기세요. 자연과 어우러진 Holiday Inn Express & Suites는 만족스러운 프리미엄 서비스를 제공합니다. Ocean Views Resort와 Ramada Resort by Wyndham Golden Beach에서도 해양 전망을 만끽할 수 있습니다. 또한, Top Spot Motel과 At The Sound Apartments는 캐주얼한 분위기로 편안한 시간을 보장합니다. 각 호텔은 다양한 매력과 함께 선샤인코스트만의 여유로운 분위기를 선사합니다."}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/19930-1x1.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+12:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+d:T2976,
+    
+
+
+## 선샤인 코스트의 히피 스타일 호텔에서 진정한 휴가를 즐기세요
+
+안녕하세요, 달마야 여행가자의 달마입니다! 오늘은 **호주 선샤인 코스트**에서 새로운 경험을 찾는 여러분들을 위한 특별한 추천을 준비했어요. 히피 스타일로 여유로운 휴가를 보내기에 딱 좋은 호텔들을 소개하려고 해요. 선샤인 코스트는 멋진 해변과 따스한 햇살로 유명하지만, 이곳에서 히피 감성을 만끽할 수 있는 호텔들도 무궁무진하답니다. 일반 호텔의 틀을 벗어나 개성 넘치는 스타일을 추구하는 분들께 꼭 맞는 장소들이니 기대해 주세요. 조금은 색다른 휴가를 원하시나요? 그렇다면 제가 추천하는 호텔들에서 **자유로운 영혼**을 마음껏 표출해보세요!
+
+
+## 해변의 즐거움과 편안함
+홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)
+    ![홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_0_image](https://pix8.agoda.net/hotelImages/31570537/0/654bce0f94cc69e83df95dbb6ea7e95d.jpg)
+![홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_1_image](https://pix8.agoda.net/hotelImages/32613046/1153984945/5908bf206017777ac12d66e50e5c34b7.jpeg)
+![홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/357900192.jpg)
+
+선샤인 코스트에서 지친 몸과 마음을 힐링할 수 있는 최적의 장소를 찾고 계신가요? 다양한 활동과 멋진 자연 환경을 자랑하는 이곳은 휴가를 위한 최고의 선택지에요. 휴양을 원하는 분이라면 이곳에서는 편안하고 세련된 경험을 누릴 수 있을 거예요. 넓고 푹신한 침대에서 좋은 밤의 휴식을 취하고, 아침에는 맛있는 조식을 즐겨보세요. 특히 호텔 직원들은 친절하고 세심한 서비스를 제공해, 머무는 내내 기분 좋은 시간을 보낼 수 있도록 해줘요.
+
+건물 외부의 디자인은 모던하면서도 고급스러운 느낌을 주고, 내부 시설은 최신식으로 잘 갖춰져 있어요. 체육관이나 수영장 등 레저 시설도 잘 관리되어 있어 여러분의 활력을 충전할 수 있는 다양한 기회를 제공합니다. 주변 해변은 도보로 이동할 수 있을 만큼 가까워 햇살 가득한 해변에서의 산책을 즐기며 자연의 아름다움을 느껴보세요. 자연과 인간이 조화롭게 어우러지는 이곳에서 특별한 휴가를 계획해보세요!
+
+[홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)](https://www.agoda.com/ko-kr/holiday-inn-express-suites-sunshine-coast-an-ihg-hotel/hotel/sunshine-coast-au.html)
+ 
+
+## 눈부신 해변과 휴식의 발코니
+오션 뷰 리조트 (Ocean Views Resort)
+    ![오션 뷰 리조트 (Ocean Views Resort)_0_image](https://pix8.agoda.net/hotelImages/235525/-1/ab780a9aea1e01ec3ea42737fd256fee.jpg)
+![오션 뷰 리조트 (Ocean Views Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/336005822.jpg)
+![오션 뷰 리조트 (Ocean Views Resort)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/216159241.jpg)
+
+푹신한 침대에 몸을 누이고 창문을 열어보세요. 부드러운 해변의 바람이 방 안을 가득 채울 거예요. 하루의 피로를 씻어주는 멋진 바다의 광경, 이를 감상하면서 커피 한 잔의 여유를 느껴보세요. 바쁜 일상에서 벗어나 *평온한 시간을 보내고 싶은 여행객*들에게 오션 뷰 리조트는 최고의 선택이 될 것입니다.
+
+이곳에선 도시의 번잡함을 잠시 뒤로하고 내면의 평화를 발견할 수 있어요. 휴식이 필요한 분들에겐 잘 꾸며진 스파와 야외 풀장이 눈길을 끌어야 마땅하지요. 그리고 호텔 스태프의 세심한 서비스는 방문객들을 따뜻하게 환영해줘요. *최고의 휴양지에서 보내는 완벽한 하루*, 상상만으로도 행복이 가득하죠.
+
+[오션 뷰 리조트 (Ocean Views Resort)](https://www.agoda.com/ko-kr/ocean-views-resort_2/hotel/sunshine-coast-au.html)
+ 
+
+## 해변 앞 낙원에서의 쉼표
+라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)
+    ![라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/194415703.jpg)
+![라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_1_image](https://pix8.agoda.net/hotelImages/182077/3537859/23a8816f0970a826c50e1e37970b7321.jpg)
+![라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_2_image](https://pix8.agoda.net/hotelImages/182077/-1/196d99e5d9b925c19529c9b01852b955.jpg)
+
+임시의 도시 복잡함에서 벗어나 바다의 파도 소리를 들으며 아침을 맞이하는 상상을 해 보신 적 있나요? 해변에서 잠을 깨고 바다의 냄새를 맡으며 하루를 시작할 수 있는 곳이 바로 여기라고 할 수 있습니다. 이곳에서는 주변 자연환경과 함께 여유로운 시간을 보내기 좋으며, 가족과 함께 온다면 아이들에게도 색다른 경험을 선사할 수 있어요.
+
+피로를 풀고 싶다면 고급스러운 스파와 다양한 시설들이 여러분을 기다리고 있어요. 특히, 리조트 내의 청결함과 편안함은 높은 평가를 받고 있답니다. 다양한 액티비티를 즐기며 하루를 보낸 후에는 바다를 바라보며 저녁을 즐겨보세요. 기억에 남을 휴식과 즐거움을 모두 경험할 수 있는 이곳에서의 시간을 놓치지 마세요.
+
+[라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)](https://www.agoda.com/ko-kr/ramada-resort-by-wyndham-golden-beach/hotel/sunshine-coast-au.html)
+ 
+
+## 호주의 해변 숨은 보석
+탑 스폿 모텔 (Top Spot Motel)
+    ![탑 스폿 모텔 (Top Spot Motel)_0_image](https://pix8.agoda.net/hotelImages/182/182062/182062_16102012310047961489.jpg)
+![탑 스폿 모텔 (Top Spot Motel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/375763375.jpg)
+![탑 스폿 모텔 (Top Spot Motel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/375763214.jpg)
+
+해변을 사랑하는 사람들에게 무한한 여유와 재미를 선사하는 매력적인 장소, **선샤인 코스트**. 이곳에 위치한 이 호텔은 해변까지 도보 거리로, 바다가 주는 웅장함과 평화로움을 쉽게 느낄 수 있어요. 객실은 신선한 바다 공기를 만끽할 수 있도록 설계되어 있으며, 깔끔하고 아늑한 분위기를 제공합니다. 주변에는 다양한 식당과 쇼핑 센터가 있어 언제든지 산책하며 활기를 느낄 수 있어요.
+
+호텔 직원들은 친절하고 세심한 서비스로 투숙객들을 반겨주어 머무는 동안 기분 좋은 시간을 보낼 수 있어요. 또한 가족 단위 여행객들에게 적합한 시설과 편의 서비스를 제공하여 아주 편안하고 즐거운 시간을 보낼 수 있습니다. 아이들은 물론 어른들까지 만족할 수 있는 다채로운 활동들이 준비되어 있어, 모든 세대가 만족스러운 여행을 즐길 수 있답니다. **편안함과 즐거움**, 모든 것을 한자리에서 경험할 수 있는 장소, 바로 여기입니다.
+
+[탑 스폿 모텔 (Top Spot Motel)](https://www.agoda.com/ko-kr/top-spot-motel/hotel/sunshine-coast-au.html)
+ 
+
+## 소박한 매력을 가진 숙소의 즐거움
+엣 더 사운드 아파트먼트 (At The Sound Apartments)
+    ![엣 더 사운드 아파트먼트 (At The Sound Apartments)_0_image](https://pix8.agoda.net/hotelImages/149182/-1/93c13f28ca41027f325079112d7446ba.jpg)
+![엣 더 사운드 아파트먼트 (At The Sound Apartments)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/340846503.jpg)
+![엣 더 사운드 아파트먼트 (At The Sound Apartments)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/59432450.jpg)
+
+여행을 떠나기 좋은 때가 온 것 같아요. 이번 여행에서는 평범함 속에 특별한 운치를 간직한 호주 선샤인 코스트의 소리 아파트먼트를 소개할게요. 이곳은 *깔끔함*과 *편리함*이 돋보이는 곳이에요. 가벼운 아침 산책을 즐기고 싶다면 가까운 바닷가를 걸어보세요. 아침 햇살이 당신의 여정을 반짝이게 할 테니까요. 
+
+그리고 여러분의 피로를 풀어줄 여유로운 수영장을 이용해 보세요. *아늑한 분위기*에서 여유롭게 하루를 마무리 하다 보면 어느새 편안함이 온몸에 퍼지는 것을 느낄 수 있죠. 세심하게 갖춰진 주방에서는 간단한 요리를 시도해볼 수도 있어요. 이름만큼이나 소박하지만 여유로운 이곳에서 제한 없는 시간을 보낼 준비가 되셨나요?
+
+[엣 더 사운드 아파트먼트 (At The Sound Apartments)](https://www.agoda.com/ko-kr/at-the-sound-apartments/hotel/sunshine-coast-au.html)
+ 
+
+
+## 결론
+
+선샤인 코스트에서의 완벽한 휴가를 계획 중이시라면, 다양한 매력을 지닌 호텔들을 만나보세요. 자연과 휴양을 함께 즐길 수 있는 *홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG*에서는 아름다운 자연 속에서 여유로운 휴식을 취할 수 있습니다. 
+
+바다 전망을 자랑하는 *오션 뷰 리조트*는 특별한 서비스로 멋진 휴가를 선사합니다. 파도 소리를 들으며 아침을 맞이하고 싶다면 해변 가까이의 *라마다 리조트 바이 윈덤 골든 비치*를 추천합니다. 
+
+또한, 선샤인 코스트의 해변 근처에 위치한 *탑 스폿 모텔*에서는 편안함과 즐거움을 모두 경험하실 수 있습니다. 마지막으로, *엣 더 사운드 아파트먼트*는 깔끔한 객실과 수영장, 바닷가 근처의 위치로 편안한 숙박을 보장합니다. 
+
+각 호텔들은 각자의 매력으로 여행자들의 기대를 충족시키고자 하므로, 이들 중 마음에 드는 호텔을 선택해 예약해보세요. 지금 바로 예약하여 잊지 못할 여행을 시작하세요!
+
+e:T2976,
+    
+
+
+## 선샤인 코스트의 히피 스타일 호텔에서 진정한 휴가를 즐기세요
+
+안녕하세요, 달마야 여행가자의 달마입니다! 오늘은 **호주 선샤인 코스트**에서 새로운 경험을 찾는 여러분들을 위한 특별한 추천을 준비했어요. 히피 스타일로 여유로운 휴가를 보내기에 딱 좋은 호텔들을 소개하려고 해요. 선샤인 코스트는 멋진 해변과 따스한 햇살로 유명하지만, 이곳에서 히피 감성을 만끽할 수 있는 호텔들도 무궁무진하답니다. 일반 호텔의 틀을 벗어나 개성 넘치는 스타일을 추구하는 분들께 꼭 맞는 장소들이니 기대해 주세요. 조금은 색다른 휴가를 원하시나요? 그렇다면 제가 추천하는 호텔들에서 **자유로운 영혼**을 마음껏 표출해보세요!
+
+
+## 해변의 즐거움과 편안함
+홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)
+    ![홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_0_image](https://pix8.agoda.net/hotelImages/31570537/0/654bce0f94cc69e83df95dbb6ea7e95d.jpg)
+![홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_1_image](https://pix8.agoda.net/hotelImages/32613046/1153984945/5908bf206017777ac12d66e50e5c34b7.jpeg)
+![홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/357900192.jpg)
+
+선샤인 코스트에서 지친 몸과 마음을 힐링할 수 있는 최적의 장소를 찾고 계신가요? 다양한 활동과 멋진 자연 환경을 자랑하는 이곳은 휴가를 위한 최고의 선택지에요. 휴양을 원하는 분이라면 이곳에서는 편안하고 세련된 경험을 누릴 수 있을 거예요. 넓고 푹신한 침대에서 좋은 밤의 휴식을 취하고, 아침에는 맛있는 조식을 즐겨보세요. 특히 호텔 직원들은 친절하고 세심한 서비스를 제공해, 머무는 내내 기분 좋은 시간을 보낼 수 있도록 해줘요.
+
+건물 외부의 디자인은 모던하면서도 고급스러운 느낌을 주고, 내부 시설은 최신식으로 잘 갖춰져 있어요. 체육관이나 수영장 등 레저 시설도 잘 관리되어 있어 여러분의 활력을 충전할 수 있는 다양한 기회를 제공합니다. 주변 해변은 도보로 이동할 수 있을 만큼 가까워 햇살 가득한 해변에서의 산책을 즐기며 자연의 아름다움을 느껴보세요. 자연과 인간이 조화롭게 어우러지는 이곳에서 특별한 휴가를 계획해보세요!
+
+[홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)](https://www.agoda.com/ko-kr/holiday-inn-express-suites-sunshine-coast-an-ihg-hotel/hotel/sunshine-coast-au.html)
+ 
+
+## 눈부신 해변과 휴식의 발코니
+오션 뷰 리조트 (Ocean Views Resort)
+    ![오션 뷰 리조트 (Ocean Views Resort)_0_image](https://pix8.agoda.net/hotelImages/235525/-1/ab780a9aea1e01ec3ea42737fd256fee.jpg)
+![오션 뷰 리조트 (Ocean Views Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/336005822.jpg)
+![오션 뷰 리조트 (Ocean Views Resort)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/216159241.jpg)
+
+푹신한 침대에 몸을 누이고 창문을 열어보세요. 부드러운 해변의 바람이 방 안을 가득 채울 거예요. 하루의 피로를 씻어주는 멋진 바다의 광경, 이를 감상하면서 커피 한 잔의 여유를 느껴보세요. 바쁜 일상에서 벗어나 *평온한 시간을 보내고 싶은 여행객*들에게 오션 뷰 리조트는 최고의 선택이 될 것입니다.
+
+이곳에선 도시의 번잡함을 잠시 뒤로하고 내면의 평화를 발견할 수 있어요. 휴식이 필요한 분들에겐 잘 꾸며진 스파와 야외 풀장이 눈길을 끌어야 마땅하지요. 그리고 호텔 스태프의 세심한 서비스는 방문객들을 따뜻하게 환영해줘요. *최고의 휴양지에서 보내는 완벽한 하루*, 상상만으로도 행복이 가득하죠.
+
+[오션 뷰 리조트 (Ocean Views Resort)](https://www.agoda.com/ko-kr/ocean-views-resort_2/hotel/sunshine-coast-au.html)
+ 
+
+## 해변 앞 낙원에서의 쉼표
+라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)
+    ![라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/194415703.jpg)
+![라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_1_image](https://pix8.agoda.net/hotelImages/182077/3537859/23a8816f0970a826c50e1e37970b7321.jpg)
+![라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_2_image](https://pix8.agoda.net/hotelImages/182077/-1/196d99e5d9b925c19529c9b01852b955.jpg)
+
+임시의 도시 복잡함에서 벗어나 바다의 파도 소리를 들으며 아침을 맞이하는 상상을 해 보신 적 있나요? 해변에서 잠을 깨고 바다의 냄새를 맡으며 하루를 시작할 수 있는 곳이 바로 여기라고 할 수 있습니다. 이곳에서는 주변 자연환경과 함께 여유로운 시간을 보내기 좋으며, 가족과 함께 온다면 아이들에게도 색다른 경험을 선사할 수 있어요.
+
+피로를 풀고 싶다면 고급스러운 스파와 다양한 시설들이 여러분을 기다리고 있어요. 특히, 리조트 내의 청결함과 편안함은 높은 평가를 받고 있답니다. 다양한 액티비티를 즐기며 하루를 보낸 후에는 바다를 바라보며 저녁을 즐겨보세요. 기억에 남을 휴식과 즐거움을 모두 경험할 수 있는 이곳에서의 시간을 놓치지 마세요.
+
+[라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)](https://www.agoda.com/ko-kr/ramada-resort-by-wyndham-golden-beach/hotel/sunshine-coast-au.html)
+ 
+
+## 호주의 해변 숨은 보석
+탑 스폿 모텔 (Top Spot Motel)
+    ![탑 스폿 모텔 (Top Spot Motel)_0_image](https://pix8.agoda.net/hotelImages/182/182062/182062_16102012310047961489.jpg)
+![탑 스폿 모텔 (Top Spot Motel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/375763375.jpg)
+![탑 스폿 모텔 (Top Spot Motel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/375763214.jpg)
+
+해변을 사랑하는 사람들에게 무한한 여유와 재미를 선사하는 매력적인 장소, **선샤인 코스트**. 이곳에 위치한 이 호텔은 해변까지 도보 거리로, 바다가 주는 웅장함과 평화로움을 쉽게 느낄 수 있어요. 객실은 신선한 바다 공기를 만끽할 수 있도록 설계되어 있으며, 깔끔하고 아늑한 분위기를 제공합니다. 주변에는 다양한 식당과 쇼핑 센터가 있어 언제든지 산책하며 활기를 느낄 수 있어요.
+
+호텔 직원들은 친절하고 세심한 서비스로 투숙객들을 반겨주어 머무는 동안 기분 좋은 시간을 보낼 수 있어요. 또한 가족 단위 여행객들에게 적합한 시설과 편의 서비스를 제공하여 아주 편안하고 즐거운 시간을 보낼 수 있습니다. 아이들은 물론 어른들까지 만족할 수 있는 다채로운 활동들이 준비되어 있어, 모든 세대가 만족스러운 여행을 즐길 수 있답니다. **편안함과 즐거움**, 모든 것을 한자리에서 경험할 수 있는 장소, 바로 여기입니다.
+
+[탑 스폿 모텔 (Top Spot Motel)](https://www.agoda.com/ko-kr/top-spot-motel/hotel/sunshine-coast-au.html)
+ 
+
+## 소박한 매력을 가진 숙소의 즐거움
+엣 더 사운드 아파트먼트 (At The Sound Apartments)
+    ![엣 더 사운드 아파트먼트 (At The Sound Apartments)_0_image](https://pix8.agoda.net/hotelImages/149182/-1/93c13f28ca41027f325079112d7446ba.jpg)
+![엣 더 사운드 아파트먼트 (At The Sound Apartments)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/340846503.jpg)
+![엣 더 사운드 아파트먼트 (At The Sound Apartments)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/59432450.jpg)
+
+여행을 떠나기 좋은 때가 온 것 같아요. 이번 여행에서는 평범함 속에 특별한 운치를 간직한 호주 선샤인 코스트의 소리 아파트먼트를 소개할게요. 이곳은 *깔끔함*과 *편리함*이 돋보이는 곳이에요. 가벼운 아침 산책을 즐기고 싶다면 가까운 바닷가를 걸어보세요. 아침 햇살이 당신의 여정을 반짝이게 할 테니까요. 
+
+그리고 여러분의 피로를 풀어줄 여유로운 수영장을 이용해 보세요. *아늑한 분위기*에서 여유롭게 하루를 마무리 하다 보면 어느새 편안함이 온몸에 퍼지는 것을 느낄 수 있죠. 세심하게 갖춰진 주방에서는 간단한 요리를 시도해볼 수도 있어요. 이름만큼이나 소박하지만 여유로운 이곳에서 제한 없는 시간을 보낼 준비가 되셨나요?
+
+[엣 더 사운드 아파트먼트 (At The Sound Apartments)](https://www.agoda.com/ko-kr/at-the-sound-apartments/hotel/sunshine-coast-au.html)
+ 
+
+
+## 결론
+
+선샤인 코스트에서의 완벽한 휴가를 계획 중이시라면, 다양한 매력을 지닌 호텔들을 만나보세요. 자연과 휴양을 함께 즐길 수 있는 *홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG*에서는 아름다운 자연 속에서 여유로운 휴식을 취할 수 있습니다. 
+
+바다 전망을 자랑하는 *오션 뷰 리조트*는 특별한 서비스로 멋진 휴가를 선사합니다. 파도 소리를 들으며 아침을 맞이하고 싶다면 해변 가까이의 *라마다 리조트 바이 윈덤 골든 비치*를 추천합니다. 
+
+또한, 선샤인 코스트의 해변 근처에 위치한 *탑 스폿 모텔*에서는 편안함과 즐거움을 모두 경험하실 수 있습니다. 마지막으로, *엣 더 사운드 아파트먼트*는 깔끔한 객실과 수영장, 바닷가 근처의 위치로 편안한 숙박을 보장합니다. 
+
+각 호텔들은 각자의 매력으로 여행자들의 기대를 충족시키고자 하므로, 이들 중 마음에 드는 호텔을 선택해 예약해보세요. 지금 바로 예약하여 잊지 못할 여행을 시작하세요!
+
+f:T2976,
+    
+
+
+## 선샤인 코스트의 히피 스타일 호텔에서 진정한 휴가를 즐기세요
+
+안녕하세요, 달마야 여행가자의 달마입니다! 오늘은 **호주 선샤인 코스트**에서 새로운 경험을 찾는 여러분들을 위한 특별한 추천을 준비했어요. 히피 스타일로 여유로운 휴가를 보내기에 딱 좋은 호텔들을 소개하려고 해요. 선샤인 코스트는 멋진 해변과 따스한 햇살로 유명하지만, 이곳에서 히피 감성을 만끽할 수 있는 호텔들도 무궁무진하답니다. 일반 호텔의 틀을 벗어나 개성 넘치는 스타일을 추구하는 분들께 꼭 맞는 장소들이니 기대해 주세요. 조금은 색다른 휴가를 원하시나요? 그렇다면 제가 추천하는 호텔들에서 **자유로운 영혼**을 마음껏 표출해보세요!
+
+
+## 해변의 즐거움과 편안함
+홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)
+    ![홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_0_image](https://pix8.agoda.net/hotelImages/31570537/0/654bce0f94cc69e83df95dbb6ea7e95d.jpg)
+![홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_1_image](https://pix8.agoda.net/hotelImages/32613046/1153984945/5908bf206017777ac12d66e50e5c34b7.jpeg)
+![홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/357900192.jpg)
+
+선샤인 코스트에서 지친 몸과 마음을 힐링할 수 있는 최적의 장소를 찾고 계신가요? 다양한 활동과 멋진 자연 환경을 자랑하는 이곳은 휴가를 위한 최고의 선택지에요. 휴양을 원하는 분이라면 이곳에서는 편안하고 세련된 경험을 누릴 수 있을 거예요. 넓고 푹신한 침대에서 좋은 밤의 휴식을 취하고, 아침에는 맛있는 조식을 즐겨보세요. 특히 호텔 직원들은 친절하고 세심한 서비스를 제공해, 머무는 내내 기분 좋은 시간을 보낼 수 있도록 해줘요.
+
+건물 외부의 디자인은 모던하면서도 고급스러운 느낌을 주고, 내부 시설은 최신식으로 잘 갖춰져 있어요. 체육관이나 수영장 등 레저 시설도 잘 관리되어 있어 여러분의 활력을 충전할 수 있는 다양한 기회를 제공합니다. 주변 해변은 도보로 이동할 수 있을 만큼 가까워 햇살 가득한 해변에서의 산책을 즐기며 자연의 아름다움을 느껴보세요. 자연과 인간이 조화롭게 어우러지는 이곳에서 특별한 휴가를 계획해보세요!
+
+[홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)](https://www.agoda.com/ko-kr/holiday-inn-express-suites-sunshine-coast-an-ihg-hotel/hotel/sunshine-coast-au.html)
+ 
+
+## 눈부신 해변과 휴식의 발코니
+오션 뷰 리조트 (Ocean Views Resort)
+    ![오션 뷰 리조트 (Ocean Views Resort)_0_image](https://pix8.agoda.net/hotelImages/235525/-1/ab780a9aea1e01ec3ea42737fd256fee.jpg)
+![오션 뷰 리조트 (Ocean Views Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/336005822.jpg)
+![오션 뷰 리조트 (Ocean Views Resort)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/216159241.jpg)
+
+푹신한 침대에 몸을 누이고 창문을 열어보세요. 부드러운 해변의 바람이 방 안을 가득 채울 거예요. 하루의 피로를 씻어주는 멋진 바다의 광경, 이를 감상하면서 커피 한 잔의 여유를 느껴보세요. 바쁜 일상에서 벗어나 *평온한 시간을 보내고 싶은 여행객*들에게 오션 뷰 리조트는 최고의 선택이 될 것입니다.
+
+이곳에선 도시의 번잡함을 잠시 뒤로하고 내면의 평화를 발견할 수 있어요. 휴식이 필요한 분들에겐 잘 꾸며진 스파와 야외 풀장이 눈길을 끌어야 마땅하지요. 그리고 호텔 스태프의 세심한 서비스는 방문객들을 따뜻하게 환영해줘요. *최고의 휴양지에서 보내는 완벽한 하루*, 상상만으로도 행복이 가득하죠.
+
+[오션 뷰 리조트 (Ocean Views Resort)](https://www.agoda.com/ko-kr/ocean-views-resort_2/hotel/sunshine-coast-au.html)
+ 
+
+## 해변 앞 낙원에서의 쉼표
+라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)
+    ![라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/194415703.jpg)
+![라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_1_image](https://pix8.agoda.net/hotelImages/182077/3537859/23a8816f0970a826c50e1e37970b7321.jpg)
+![라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_2_image](https://pix8.agoda.net/hotelImages/182077/-1/196d99e5d9b925c19529c9b01852b955.jpg)
+
+임시의 도시 복잡함에서 벗어나 바다의 파도 소리를 들으며 아침을 맞이하는 상상을 해 보신 적 있나요? 해변에서 잠을 깨고 바다의 냄새를 맡으며 하루를 시작할 수 있는 곳이 바로 여기라고 할 수 있습니다. 이곳에서는 주변 자연환경과 함께 여유로운 시간을 보내기 좋으며, 가족과 함께 온다면 아이들에게도 색다른 경험을 선사할 수 있어요.
+
+피로를 풀고 싶다면 고급스러운 스파와 다양한 시설들이 여러분을 기다리고 있어요. 특히, 리조트 내의 청결함과 편안함은 높은 평가를 받고 있답니다. 다양한 액티비티를 즐기며 하루를 보낸 후에는 바다를 바라보며 저녁을 즐겨보세요. 기억에 남을 휴식과 즐거움을 모두 경험할 수 있는 이곳에서의 시간을 놓치지 마세요.
+
+[라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)](https://www.agoda.com/ko-kr/ramada-resort-by-wyndham-golden-beach/hotel/sunshine-coast-au.html)
+ 
+
+## 호주의 해변 숨은 보석
+탑 스폿 모텔 (Top Spot Motel)
+    ![탑 스폿 모텔 (Top Spot Motel)_0_image](https://pix8.agoda.net/hotelImages/182/182062/182062_16102012310047961489.jpg)
+![탑 스폿 모텔 (Top Spot Motel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/375763375.jpg)
+![탑 스폿 모텔 (Top Spot Motel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/375763214.jpg)
+
+해변을 사랑하는 사람들에게 무한한 여유와 재미를 선사하는 매력적인 장소, **선샤인 코스트**. 이곳에 위치한 이 호텔은 해변까지 도보 거리로, 바다가 주는 웅장함과 평화로움을 쉽게 느낄 수 있어요. 객실은 신선한 바다 공기를 만끽할 수 있도록 설계되어 있으며, 깔끔하고 아늑한 분위기를 제공합니다. 주변에는 다양한 식당과 쇼핑 센터가 있어 언제든지 산책하며 활기를 느낄 수 있어요.
+
+호텔 직원들은 친절하고 세심한 서비스로 투숙객들을 반겨주어 머무는 동안 기분 좋은 시간을 보낼 수 있어요. 또한 가족 단위 여행객들에게 적합한 시설과 편의 서비스를 제공하여 아주 편안하고 즐거운 시간을 보낼 수 있습니다. 아이들은 물론 어른들까지 만족할 수 있는 다채로운 활동들이 준비되어 있어, 모든 세대가 만족스러운 여행을 즐길 수 있답니다. **편안함과 즐거움**, 모든 것을 한자리에서 경험할 수 있는 장소, 바로 여기입니다.
+
+[탑 스폿 모텔 (Top Spot Motel)](https://www.agoda.com/ko-kr/top-spot-motel/hotel/sunshine-coast-au.html)
+ 
+
+## 소박한 매력을 가진 숙소의 즐거움
+엣 더 사운드 아파트먼트 (At The Sound Apartments)
+    ![엣 더 사운드 아파트먼트 (At The Sound Apartments)_0_image](https://pix8.agoda.net/hotelImages/149182/-1/93c13f28ca41027f325079112d7446ba.jpg)
+![엣 더 사운드 아파트먼트 (At The Sound Apartments)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/340846503.jpg)
+![엣 더 사운드 아파트먼트 (At The Sound Apartments)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/59432450.jpg)
+
+여행을 떠나기 좋은 때가 온 것 같아요. 이번 여행에서는 평범함 속에 특별한 운치를 간직한 호주 선샤인 코스트의 소리 아파트먼트를 소개할게요. 이곳은 *깔끔함*과 *편리함*이 돋보이는 곳이에요. 가벼운 아침 산책을 즐기고 싶다면 가까운 바닷가를 걸어보세요. 아침 햇살이 당신의 여정을 반짝이게 할 테니까요. 
+
+그리고 여러분의 피로를 풀어줄 여유로운 수영장을 이용해 보세요. *아늑한 분위기*에서 여유롭게 하루를 마무리 하다 보면 어느새 편안함이 온몸에 퍼지는 것을 느낄 수 있죠. 세심하게 갖춰진 주방에서는 간단한 요리를 시도해볼 수도 있어요. 이름만큼이나 소박하지만 여유로운 이곳에서 제한 없는 시간을 보낼 준비가 되셨나요?
+
+[엣 더 사운드 아파트먼트 (At The Sound Apartments)](https://www.agoda.com/ko-kr/at-the-sound-apartments/hotel/sunshine-coast-au.html)
+ 
+
+
+## 결론
+
+선샤인 코스트에서의 완벽한 휴가를 계획 중이시라면, 다양한 매력을 지닌 호텔들을 만나보세요. 자연과 휴양을 함께 즐길 수 있는 *홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG*에서는 아름다운 자연 속에서 여유로운 휴식을 취할 수 있습니다. 
+
+바다 전망을 자랑하는 *오션 뷰 리조트*는 특별한 서비스로 멋진 휴가를 선사합니다. 파도 소리를 들으며 아침을 맞이하고 싶다면 해변 가까이의 *라마다 리조트 바이 윈덤 골든 비치*를 추천합니다. 
+
+또한, 선샤인 코스트의 해변 근처에 위치한 *탑 스폿 모텔*에서는 편안함과 즐거움을 모두 경험하실 수 있습니다. 마지막으로, *엣 더 사운드 아파트먼트*는 깔끔한 객실과 수영장, 바닷가 근처의 위치로 편안한 숙박을 보장합니다. 
+
+각 호텔들은 각자의 매력으로 여행자들의 기대를 충족시키고자 하므로, 이들 중 마음에 드는 호텔을 선택해 예약해보세요. 지금 바로 예약하여 잊지 못할 여행을 시작하세요!
+
+10:T2976,
+    
+
+
+## 선샤인 코스트의 히피 스타일 호텔에서 진정한 휴가를 즐기세요
+
+안녕하세요, 달마야 여행가자의 달마입니다! 오늘은 **호주 선샤인 코스트**에서 새로운 경험을 찾는 여러분들을 위한 특별한 추천을 준비했어요. 히피 스타일로 여유로운 휴가를 보내기에 딱 좋은 호텔들을 소개하려고 해요. 선샤인 코스트는 멋진 해변과 따스한 햇살로 유명하지만, 이곳에서 히피 감성을 만끽할 수 있는 호텔들도 무궁무진하답니다. 일반 호텔의 틀을 벗어나 개성 넘치는 스타일을 추구하는 분들께 꼭 맞는 장소들이니 기대해 주세요. 조금은 색다른 휴가를 원하시나요? 그렇다면 제가 추천하는 호텔들에서 **자유로운 영혼**을 마음껏 표출해보세요!
+
+
+## 해변의 즐거움과 편안함
+홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)
+    ![홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_0_image](https://pix8.agoda.net/hotelImages/31570537/0/654bce0f94cc69e83df95dbb6ea7e95d.jpg)
+![홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_1_image](https://pix8.agoda.net/hotelImages/32613046/1153984945/5908bf206017777ac12d66e50e5c34b7.jpeg)
+![홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/357900192.jpg)
+
+선샤인 코스트에서 지친 몸과 마음을 힐링할 수 있는 최적의 장소를 찾고 계신가요? 다양한 활동과 멋진 자연 환경을 자랑하는 이곳은 휴가를 위한 최고의 선택지에요. 휴양을 원하는 분이라면 이곳에서는 편안하고 세련된 경험을 누릴 수 있을 거예요. 넓고 푹신한 침대에서 좋은 밤의 휴식을 취하고, 아침에는 맛있는 조식을 즐겨보세요. 특히 호텔 직원들은 친절하고 세심한 서비스를 제공해, 머무는 내내 기분 좋은 시간을 보낼 수 있도록 해줘요.
+
+건물 외부의 디자인은 모던하면서도 고급스러운 느낌을 주고, 내부 시설은 최신식으로 잘 갖춰져 있어요. 체육관이나 수영장 등 레저 시설도 잘 관리되어 있어 여러분의 활력을 충전할 수 있는 다양한 기회를 제공합니다. 주변 해변은 도보로 이동할 수 있을 만큼 가까워 햇살 가득한 해변에서의 산책을 즐기며 자연의 아름다움을 느껴보세요. 자연과 인간이 조화롭게 어우러지는 이곳에서 특별한 휴가를 계획해보세요!
+
+[홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)](https://www.agoda.com/ko-kr/holiday-inn-express-suites-sunshine-coast-an-ihg-hotel/hotel/sunshine-coast-au.html)
+ 
+
+## 눈부신 해변과 휴식의 발코니
+오션 뷰 리조트 (Ocean Views Resort)
+    ![오션 뷰 리조트 (Ocean Views Resort)_0_image](https://pix8.agoda.net/hotelImages/235525/-1/ab780a9aea1e01ec3ea42737fd256fee.jpg)
+![오션 뷰 리조트 (Ocean Views Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/336005822.jpg)
+![오션 뷰 리조트 (Ocean Views Resort)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/216159241.jpg)
+
+푹신한 침대에 몸을 누이고 창문을 열어보세요. 부드러운 해변의 바람이 방 안을 가득 채울 거예요. 하루의 피로를 씻어주는 멋진 바다의 광경, 이를 감상하면서 커피 한 잔의 여유를 느껴보세요. 바쁜 일상에서 벗어나 *평온한 시간을 보내고 싶은 여행객*들에게 오션 뷰 리조트는 최고의 선택이 될 것입니다.
+
+이곳에선 도시의 번잡함을 잠시 뒤로하고 내면의 평화를 발견할 수 있어요. 휴식이 필요한 분들에겐 잘 꾸며진 스파와 야외 풀장이 눈길을 끌어야 마땅하지요. 그리고 호텔 스태프의 세심한 서비스는 방문객들을 따뜻하게 환영해줘요. *최고의 휴양지에서 보내는 완벽한 하루*, 상상만으로도 행복이 가득하죠.
+
+[오션 뷰 리조트 (Ocean Views Resort)](https://www.agoda.com/ko-kr/ocean-views-resort_2/hotel/sunshine-coast-au.html)
+ 
+
+## 해변 앞 낙원에서의 쉼표
+라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)
+    ![라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/194415703.jpg)
+![라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_1_image](https://pix8.agoda.net/hotelImages/182077/3537859/23a8816f0970a826c50e1e37970b7321.jpg)
+![라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_2_image](https://pix8.agoda.net/hotelImages/182077/-1/196d99e5d9b925c19529c9b01852b955.jpg)
+
+임시의 도시 복잡함에서 벗어나 바다의 파도 소리를 들으며 아침을 맞이하는 상상을 해 보신 적 있나요? 해변에서 잠을 깨고 바다의 냄새를 맡으며 하루를 시작할 수 있는 곳이 바로 여기라고 할 수 있습니다. 이곳에서는 주변 자연환경과 함께 여유로운 시간을 보내기 좋으며, 가족과 함께 온다면 아이들에게도 색다른 경험을 선사할 수 있어요.
+
+피로를 풀고 싶다면 고급스러운 스파와 다양한 시설들이 여러분을 기다리고 있어요. 특히, 리조트 내의 청결함과 편안함은 높은 평가를 받고 있답니다. 다양한 액티비티를 즐기며 하루를 보낸 후에는 바다를 바라보며 저녁을 즐겨보세요. 기억에 남을 휴식과 즐거움을 모두 경험할 수 있는 이곳에서의 시간을 놓치지 마세요.
+
+[라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)](https://www.agoda.com/ko-kr/ramada-resort-by-wyndham-golden-beach/hotel/sunshine-coast-au.html)
+ 
+
+## 호주의 해변 숨은 보석
+탑 스폿 모텔 (Top Spot Motel)
+    ![탑 스폿 모텔 (Top Spot Motel)_0_image](https://pix8.agoda.net/hotelImages/182/182062/182062_16102012310047961489.jpg)
+![탑 스폿 모텔 (Top Spot Motel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/375763375.jpg)
+![탑 스폿 모텔 (Top Spot Motel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/375763214.jpg)
+
+해변을 사랑하는 사람들에게 무한한 여유와 재미를 선사하는 매력적인 장소, **선샤인 코스트**. 이곳에 위치한 이 호텔은 해변까지 도보 거리로, 바다가 주는 웅장함과 평화로움을 쉽게 느낄 수 있어요. 객실은 신선한 바다 공기를 만끽할 수 있도록 설계되어 있으며, 깔끔하고 아늑한 분위기를 제공합니다. 주변에는 다양한 식당과 쇼핑 센터가 있어 언제든지 산책하며 활기를 느낄 수 있어요.
+
+호텔 직원들은 친절하고 세심한 서비스로 투숙객들을 반겨주어 머무는 동안 기분 좋은 시간을 보낼 수 있어요. 또한 가족 단위 여행객들에게 적합한 시설과 편의 서비스를 제공하여 아주 편안하고 즐거운 시간을 보낼 수 있습니다. 아이들은 물론 어른들까지 만족할 수 있는 다채로운 활동들이 준비되어 있어, 모든 세대가 만족스러운 여행을 즐길 수 있답니다. **편안함과 즐거움**, 모든 것을 한자리에서 경험할 수 있는 장소, 바로 여기입니다.
+
+[탑 스폿 모텔 (Top Spot Motel)](https://www.agoda.com/ko-kr/top-spot-motel/hotel/sunshine-coast-au.html)
+ 
+
+## 소박한 매력을 가진 숙소의 즐거움
+엣 더 사운드 아파트먼트 (At The Sound Apartments)
+    ![엣 더 사운드 아파트먼트 (At The Sound Apartments)_0_image](https://pix8.agoda.net/hotelImages/149182/-1/93c13f28ca41027f325079112d7446ba.jpg)
+![엣 더 사운드 아파트먼트 (At The Sound Apartments)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/340846503.jpg)
+![엣 더 사운드 아파트먼트 (At The Sound Apartments)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/59432450.jpg)
+
+여행을 떠나기 좋은 때가 온 것 같아요. 이번 여행에서는 평범함 속에 특별한 운치를 간직한 호주 선샤인 코스트의 소리 아파트먼트를 소개할게요. 이곳은 *깔끔함*과 *편리함*이 돋보이는 곳이에요. 가벼운 아침 산책을 즐기고 싶다면 가까운 바닷가를 걸어보세요. 아침 햇살이 당신의 여정을 반짝이게 할 테니까요. 
+
+그리고 여러분의 피로를 풀어줄 여유로운 수영장을 이용해 보세요. *아늑한 분위기*에서 여유롭게 하루를 마무리 하다 보면 어느새 편안함이 온몸에 퍼지는 것을 느낄 수 있죠. 세심하게 갖춰진 주방에서는 간단한 요리를 시도해볼 수도 있어요. 이름만큼이나 소박하지만 여유로운 이곳에서 제한 없는 시간을 보낼 준비가 되셨나요?
+
+[엣 더 사운드 아파트먼트 (At The Sound Apartments)](https://www.agoda.com/ko-kr/at-the-sound-apartments/hotel/sunshine-coast-au.html)
+ 
+
+
+## 결론
+
+선샤인 코스트에서의 완벽한 휴가를 계획 중이시라면, 다양한 매력을 지닌 호텔들을 만나보세요. 자연과 휴양을 함께 즐길 수 있는 *홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG*에서는 아름다운 자연 속에서 여유로운 휴식을 취할 수 있습니다. 
+
+바다 전망을 자랑하는 *오션 뷰 리조트*는 특별한 서비스로 멋진 휴가를 선사합니다. 파도 소리를 들으며 아침을 맞이하고 싶다면 해변 가까이의 *라마다 리조트 바이 윈덤 골든 비치*를 추천합니다. 
+
+또한, 선샤인 코스트의 해변 근처에 위치한 *탑 스폿 모텔*에서는 편안함과 즐거움을 모두 경험하실 수 있습니다. 마지막으로, *엣 더 사운드 아파트먼트*는 깔끔한 객실과 수영장, 바닷가 근처의 위치로 편안한 숙박을 보장합니다. 
+
+각 호텔들은 각자의 매력으로 여행자들의 기대를 충족시키고자 하므로, 이들 중 마음에 드는 호텔을 선택해 예약해보세요. 지금 바로 예약하여 잊지 못할 여행을 시작하세요!
+
+11:T2976,
+    
+
+
+## 선샤인 코스트의 히피 스타일 호텔에서 진정한 휴가를 즐기세요
+
+안녕하세요, 달마야 여행가자의 달마입니다! 오늘은 **호주 선샤인 코스트**에서 새로운 경험을 찾는 여러분들을 위한 특별한 추천을 준비했어요. 히피 스타일로 여유로운 휴가를 보내기에 딱 좋은 호텔들을 소개하려고 해요. 선샤인 코스트는 멋진 해변과 따스한 햇살로 유명하지만, 이곳에서 히피 감성을 만끽할 수 있는 호텔들도 무궁무진하답니다. 일반 호텔의 틀을 벗어나 개성 넘치는 스타일을 추구하는 분들께 꼭 맞는 장소들이니 기대해 주세요. 조금은 색다른 휴가를 원하시나요? 그렇다면 제가 추천하는 호텔들에서 **자유로운 영혼**을 마음껏 표출해보세요!
+
+
+## 해변의 즐거움과 편안함
+홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)
+    ![홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_0_image](https://pix8.agoda.net/hotelImages/31570537/0/654bce0f94cc69e83df95dbb6ea7e95d.jpg)
+![홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_1_image](https://pix8.agoda.net/hotelImages/32613046/1153984945/5908bf206017777ac12d66e50e5c34b7.jpeg)
+![홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/357900192.jpg)
+
+선샤인 코스트에서 지친 몸과 마음을 힐링할 수 있는 최적의 장소를 찾고 계신가요? 다양한 활동과 멋진 자연 환경을 자랑하는 이곳은 휴가를 위한 최고의 선택지에요. 휴양을 원하는 분이라면 이곳에서는 편안하고 세련된 경험을 누릴 수 있을 거예요. 넓고 푹신한 침대에서 좋은 밤의 휴식을 취하고, 아침에는 맛있는 조식을 즐겨보세요. 특히 호텔 직원들은 친절하고 세심한 서비스를 제공해, 머무는 내내 기분 좋은 시간을 보낼 수 있도록 해줘요.
+
+건물 외부의 디자인은 모던하면서도 고급스러운 느낌을 주고, 내부 시설은 최신식으로 잘 갖춰져 있어요. 체육관이나 수영장 등 레저 시설도 잘 관리되어 있어 여러분의 활력을 충전할 수 있는 다양한 기회를 제공합니다. 주변 해변은 도보로 이동할 수 있을 만큼 가까워 햇살 가득한 해변에서의 산책을 즐기며 자연의 아름다움을 느껴보세요. 자연과 인간이 조화롭게 어우러지는 이곳에서 특별한 휴가를 계획해보세요!
+
+[홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)](https://www.agoda.com/ko-kr/holiday-inn-express-suites-sunshine-coast-an-ihg-hotel/hotel/sunshine-coast-au.html)
+ 
+
+## 눈부신 해변과 휴식의 발코니
+오션 뷰 리조트 (Ocean Views Resort)
+    ![오션 뷰 리조트 (Ocean Views Resort)_0_image](https://pix8.agoda.net/hotelImages/235525/-1/ab780a9aea1e01ec3ea42737fd256fee.jpg)
+![오션 뷰 리조트 (Ocean Views Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/336005822.jpg)
+![오션 뷰 리조트 (Ocean Views Resort)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/216159241.jpg)
+
+푹신한 침대에 몸을 누이고 창문을 열어보세요. 부드러운 해변의 바람이 방 안을 가득 채울 거예요. 하루의 피로를 씻어주는 멋진 바다의 광경, 이를 감상하면서 커피 한 잔의 여유를 느껴보세요. 바쁜 일상에서 벗어나 *평온한 시간을 보내고 싶은 여행객*들에게 오션 뷰 리조트는 최고의 선택이 될 것입니다.
+
+이곳에선 도시의 번잡함을 잠시 뒤로하고 내면의 평화를 발견할 수 있어요. 휴식이 필요한 분들에겐 잘 꾸며진 스파와 야외 풀장이 눈길을 끌어야 마땅하지요. 그리고 호텔 스태프의 세심한 서비스는 방문객들을 따뜻하게 환영해줘요. *최고의 휴양지에서 보내는 완벽한 하루*, 상상만으로도 행복이 가득하죠.
+
+[오션 뷰 리조트 (Ocean Views Resort)](https://www.agoda.com/ko-kr/ocean-views-resort_2/hotel/sunshine-coast-au.html)
+ 
+
+## 해변 앞 낙원에서의 쉼표
+라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)
+    ![라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/194415703.jpg)
+![라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_1_image](https://pix8.agoda.net/hotelImages/182077/3537859/23a8816f0970a826c50e1e37970b7321.jpg)
+![라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_2_image](https://pix8.agoda.net/hotelImages/182077/-1/196d99e5d9b925c19529c9b01852b955.jpg)
+
+임시의 도시 복잡함에서 벗어나 바다의 파도 소리를 들으며 아침을 맞이하는 상상을 해 보신 적 있나요? 해변에서 잠을 깨고 바다의 냄새를 맡으며 하루를 시작할 수 있는 곳이 바로 여기라고 할 수 있습니다. 이곳에서는 주변 자연환경과 함께 여유로운 시간을 보내기 좋으며, 가족과 함께 온다면 아이들에게도 색다른 경험을 선사할 수 있어요.
+
+피로를 풀고 싶다면 고급스러운 스파와 다양한 시설들이 여러분을 기다리고 있어요. 특히, 리조트 내의 청결함과 편안함은 높은 평가를 받고 있답니다. 다양한 액티비티를 즐기며 하루를 보낸 후에는 바다를 바라보며 저녁을 즐겨보세요. 기억에 남을 휴식과 즐거움을 모두 경험할 수 있는 이곳에서의 시간을 놓치지 마세요.
+
+[라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)](https://www.agoda.com/ko-kr/ramada-resort-by-wyndham-golden-beach/hotel/sunshine-coast-au.html)
+ 
+
+## 호주의 해변 숨은 보석
+탑 스폿 모텔 (Top Spot Motel)
+    ![탑 스폿 모텔 (Top Spot Motel)_0_image](https://pix8.agoda.net/hotelImages/182/182062/182062_16102012310047961489.jpg)
+![탑 스폿 모텔 (Top Spot Motel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/375763375.jpg)
+![탑 스폿 모텔 (Top Spot Motel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/375763214.jpg)
+
+해변을 사랑하는 사람들에게 무한한 여유와 재미를 선사하는 매력적인 장소, **선샤인 코스트**. 이곳에 위치한 이 호텔은 해변까지 도보 거리로, 바다가 주는 웅장함과 평화로움을 쉽게 느낄 수 있어요. 객실은 신선한 바다 공기를 만끽할 수 있도록 설계되어 있으며, 깔끔하고 아늑한 분위기를 제공합니다. 주변에는 다양한 식당과 쇼핑 센터가 있어 언제든지 산책하며 활기를 느낄 수 있어요.
+
+호텔 직원들은 친절하고 세심한 서비스로 투숙객들을 반겨주어 머무는 동안 기분 좋은 시간을 보낼 수 있어요. 또한 가족 단위 여행객들에게 적합한 시설과 편의 서비스를 제공하여 아주 편안하고 즐거운 시간을 보낼 수 있습니다. 아이들은 물론 어른들까지 만족할 수 있는 다채로운 활동들이 준비되어 있어, 모든 세대가 만족스러운 여행을 즐길 수 있답니다. **편안함과 즐거움**, 모든 것을 한자리에서 경험할 수 있는 장소, 바로 여기입니다.
+
+[탑 스폿 모텔 (Top Spot Motel)](https://www.agoda.com/ko-kr/top-spot-motel/hotel/sunshine-coast-au.html)
+ 
+
+## 소박한 매력을 가진 숙소의 즐거움
+엣 더 사운드 아파트먼트 (At The Sound Apartments)
+    ![엣 더 사운드 아파트먼트 (At The Sound Apartments)_0_image](https://pix8.agoda.net/hotelImages/149182/-1/93c13f28ca41027f325079112d7446ba.jpg)
+![엣 더 사운드 아파트먼트 (At The Sound Apartments)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/340846503.jpg)
+![엣 더 사운드 아파트먼트 (At The Sound Apartments)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/59432450.jpg)
+
+여행을 떠나기 좋은 때가 온 것 같아요. 이번 여행에서는 평범함 속에 특별한 운치를 간직한 호주 선샤인 코스트의 소리 아파트먼트를 소개할게요. 이곳은 *깔끔함*과 *편리함*이 돋보이는 곳이에요. 가벼운 아침 산책을 즐기고 싶다면 가까운 바닷가를 걸어보세요. 아침 햇살이 당신의 여정을 반짝이게 할 테니까요. 
+
+그리고 여러분의 피로를 풀어줄 여유로운 수영장을 이용해 보세요. *아늑한 분위기*에서 여유롭게 하루를 마무리 하다 보면 어느새 편안함이 온몸에 퍼지는 것을 느낄 수 있죠. 세심하게 갖춰진 주방에서는 간단한 요리를 시도해볼 수도 있어요. 이름만큼이나 소박하지만 여유로운 이곳에서 제한 없는 시간을 보낼 준비가 되셨나요?
+
+[엣 더 사운드 아파트먼트 (At The Sound Apartments)](https://www.agoda.com/ko-kr/at-the-sound-apartments/hotel/sunshine-coast-au.html)
+ 
+
+
+## 결론
+
+선샤인 코스트에서의 완벽한 휴가를 계획 중이시라면, 다양한 매력을 지닌 호텔들을 만나보세요. 자연과 휴양을 함께 즐길 수 있는 *홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG*에서는 아름다운 자연 속에서 여유로운 휴식을 취할 수 있습니다. 
+
+바다 전망을 자랑하는 *오션 뷰 리조트*는 특별한 서비스로 멋진 휴가를 선사합니다. 파도 소리를 들으며 아침을 맞이하고 싶다면 해변 가까이의 *라마다 리조트 바이 윈덤 골든 비치*를 추천합니다. 
+
+또한, 선샤인 코스트의 해변 근처에 위치한 *탑 스폿 모텔*에서는 편안함과 즐거움을 모두 경험하실 수 있습니다. 마지막으로, *엣 더 사운드 아파트먼트*는 깔끔한 객실과 수영장, 바닷가 근처의 위치로 편안한 숙박을 보장합니다. 
+
+각 호텔들은 각자의 매력으로 여행자들의 기대를 충족시키고자 하므로, 이들 중 마음에 드는 호텔을 선택해 예약해보세요. 지금 바로 예약하여 잊지 못할 여행을 시작하세요!
+
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"선샤인코스트 호텔 추천, 히피 스타일로 특별한 휴가 즐기기"}],["$","data",null,{"children":"2025-08-22T01:00:03.477Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"태평양 지역 및 호주"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"해변"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"자연"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"휴양"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"편안함"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"레저"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"모던"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"친절"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"휴식"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"뷰"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"평온"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"휴양지"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"서비스"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"리조트"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"가족"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"스파"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"청결"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"편의성"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"비치리조트"}]}],["$","li","[object Object]_19",{"children":["$","span",null,{"children":"아늑한"}]}],["$","li","[object Object]_20",{"children":["$","span",null,{"children":"수영장"}]}],["$","li","[object Object]_21",{"children":["$","span",null,{"children":"바닷가"}]}],["$","li","[object Object]_22",{"children":["$","span",null,{"children":"깔끔함"}]}],["$","li","[object Object]_23",{"children":["$","span",null,{"children":"주방"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"3584330a","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"선샤인 코스트의 히피 스타일 호텔에서 진정한 휴가를 즐기세요"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요, 달마야 여행가자의 달마입니다! 오늘은 ",["$","strong",null,{"className":"font-black","children":"호주 선샤인 코스트"}],"에서 새로운 경험을 찾는 여러분들을 위한 특별한 추천을 준비했어요. 히피 스타일로 여유로운 휴가를 보내기에 딱 좋은 호텔들을 소개하려고 해요. 선샤인 코스트는 멋진 해변과 따스한 햇살로 유명하지만, 이곳에서 히피 감성을 만끽할 수 있는 호텔들도 무궁무진하답니다. 일반 호텔의 틀을 벗어나 개성 넘치는 스타일을 추구하는 분들께 꼭 맞는 장소들이니 기대해 주세요. 조금은 색다른 휴가를 원하시나요? 그렇다면 제가 추천하는 호텔들에서 ",["$","strong",null,{"className":"font-black","children":"자유로운 영혼"}],"을 마음껏 표출해보세요!"]}],"\n",["$","h2",null,{"id":"eec8897e","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"해변의 즐거움과 편안함"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/31570537/0/654bce0f94cc69e83df95dbb6ea7e95d.jpg","alt":"홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/32613046/1153984945/5908bf206017777ac12d66e50e5c34b7.jpeg","alt":"홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/357900192.jpg","alt":"홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"선샤인 코스트에서 지친 몸과 마음을 힐링할 수 있는 최적의 장소를 찾고 계신가요? 다양한 활동과 멋진 자연 환경을 자랑하는 이곳은 휴가를 위한 최고의 선택지에요. 휴양을 원하는 분이라면 이곳에서는 편안하고 세련된 경험을 누릴 수 있을 거예요. 넓고 푹신한 침대에서 좋은 밤의 휴식을 취하고, 아침에는 맛있는 조식을 즐겨보세요. 특히 호텔 직원들은 친절하고 세심한 서비스를 제공해, 머무는 내내 기분 좋은 시간을 보낼 수 있도록 해줘요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"건물 외부의 디자인은 모던하면서도 고급스러운 느낌을 주고, 내부 시설은 최신식으로 잘 갖춰져 있어요. 체육관이나 수영장 등 레저 시설도 잘 관리되어 있어 여러분의 활력을 충전할 수 있는 다양한 기회를 제공합니다. 주변 해변은 도보로 이동할 수 있을 만큼 가까워 햇살 가득한 해변에서의 산책을 즐기며 자연의 아름다움을 느껴보세요. 자연과 인간이 조화롭게 어우러지는 이곳에서 특별한 휴가를 계획해보세요!"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/holiday-inn-express-suites-sunshine-coast-an-ihg-hotel/hotel/sunshine-coast-au.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/holiday-inn-express-suites-sunshine-coast-an-ihg-hotel/hotel/sunshine-coast-au.html"},"children":[{"type":"text","value":"홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)","position":{"start":{"line":20,"column":2,"offset":1476},"end":{"line":20,"column":89,"offset":1563}}}],"position":{"start":{"line":20,"column":1,"offset":1475},"end":{"line":20,"column":203,"offset":1677}}},"children":"홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG (Holiday Inn Express and Suites Sunshine Coast By IHG)"},"post":{"id":"f01f8cf2-aa2c-4cec-8c11-090a5f07709f","title":"선샤인코스트 호텔 추천, 히피 스타일로 특별한 휴가 즐기기","fileName":"선샤인코스트-호텔-추천-히피-스타일-휴가-f01f8cf2","description":"선샤인코스트에서 히피 스타일로 특별한 휴가를 즐기세요. 자연과 어우러진 Holiday Inn Express & Suites는 만족스러운 프리미엄 서비스를 제공합니다. Ocean Views Resort와 Ramada Resort by Wyndham Golden Beach에서도 해양 전망을 만끽할 수 있습니다. 또한, Top Spot Motel과 At The Sound Apartments는 캐주얼한 분위기로 편안한 시간을 보장합니다. 각 호텔은 다양한 매력과 함께 선샤인코스트만의 여유로운 분위기를 선사합니다.","date":"2025-08-22T01:00:03.477Z","tags":[{"name":"태평양 지역 및 호주","path":"$$/kr/tags/태평양-지역-및-호주","id":"태평양-지역-및-호주"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"휴양","path":"$$/kr/tags/휴양","id":"휴양"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"레저","path":"$$/kr/tags/레저","id":"레저"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"뷰","path":"$$/kr/tags/뷰","id":"뷰"},{"name":"평온","path":"$$/kr/tags/평온","id":"평온"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"리조트","path":"$$/kr/tags/리조트","id":"리조트"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"편의성","path":"$$/kr/tags/편의성","id":"편의성"},{"name":"비치리조트","path":"$$/kr/tags/비치리조트","id":"비치리조트"},{"name":"아늑한","path":"$$/kr/tags/아늑한","id":"아늑한"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"바닷가","path":"$$/kr/tags/바닷가","id":"바닷가"},{"name":"깔끔함","path":"$$/kr/tags/깔끔함","id":"깔끔함"},{"name":"주방","path":"$$/kr/tags/주방","id":"주방"}],"banner":"/images/19930-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"선샤인코스트-호텔-추천-히피-스타일-휴가-f01f8cf2","content":"$d","category":"articles","readMin":"7.3"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"a5aa6c58","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"눈부신 해변과 휴식의 발코니"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["오션 뷰 리조트 (Ocean Views Resort)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/235525/-1/ab780a9aea1e01ec3ea42737fd256fee.jpg","alt":"오션 뷰 리조트 (Ocean Views Resort)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/336005822.jpg","alt":"오션 뷰 리조트 (Ocean Views Resort)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/216159241.jpg","alt":"오션 뷰 리조트 (Ocean Views Resort)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["푹신한 침대에 몸을 누이고 창문을 열어보세요. 부드러운 해변의 바람이 방 안을 가득 채울 거예요. 하루의 피로를 씻어주는 멋진 바다의 광경, 이를 감상하면서 커피 한 잔의 여유를 느껴보세요. 바쁜 일상에서 벗어나 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"평온한 시간을 보내고 싶은 여행객"}],"들에게 오션 뷰 리조트는 최고의 선택이 될 것입니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이곳에선 도시의 번잡함을 잠시 뒤로하고 내면의 평화를 발견할 수 있어요. 휴식이 필요한 분들에겐 잘 꾸며진 스파와 야외 풀장이 눈길을 끌어야 마땅하지요. 그리고 호텔 스태프의 세심한 서비스는 방문객들을 따뜻하게 환영해줘요. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"최고의 휴양지에서 보내는 완벽한 하루"}],", 상상만으로도 행복이 가득하죠."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/ocean-views-resort_2/hotel/sunshine-coast-au.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/ocean-views-resort_2/hotel/sunshine-coast-au.html"},"children":[{"type":"text","value":"오션 뷰 리조트 (Ocean Views Resort)","position":{"start":{"line":33,"column":2,"offset":2411},"end":{"line":33,"column":31,"offset":2440}}}],"position":{"start":{"line":33,"column":1,"offset":2410},"end":{"line":33,"column":111,"offset":2520}}},"children":"오션 뷰 리조트 (Ocean Views Resort)"},"post":{"id":"f01f8cf2-aa2c-4cec-8c11-090a5f07709f","title":"선샤인코스트 호텔 추천, 히피 스타일로 특별한 휴가 즐기기","fileName":"선샤인코스트-호텔-추천-히피-스타일-휴가-f01f8cf2","description":"선샤인코스트에서 히피 스타일로 특별한 휴가를 즐기세요. 자연과 어우러진 Holiday Inn Express & Suites는 만족스러운 프리미엄 서비스를 제공합니다. Ocean Views Resort와 Ramada Resort by Wyndham Golden Beach에서도 해양 전망을 만끽할 수 있습니다. 또한, Top Spot Motel과 At The Sound Apartments는 캐주얼한 분위기로 편안한 시간을 보장합니다. 각 호텔은 다양한 매력과 함께 선샤인코스트만의 여유로운 분위기를 선사합니다.","date":"2025-08-22T01:00:03.477Z","tags":[{"name":"태평양 지역 및 호주","path":"$$/kr/tags/태평양-지역-및-호주","id":"태평양-지역-및-호주"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"휴양","path":"$$/kr/tags/휴양","id":"휴양"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"레저","path":"$$/kr/tags/레저","id":"레저"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"뷰","path":"$$/kr/tags/뷰","id":"뷰"},{"name":"평온","path":"$$/kr/tags/평온","id":"평온"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"리조트","path":"$$/kr/tags/리조트","id":"리조트"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"편의성","path":"$$/kr/tags/편의성","id":"편의성"},{"name":"비치리조트","path":"$$/kr/tags/비치리조트","id":"비치리조트"},{"name":"아늑한","path":"$$/kr/tags/아늑한","id":"아늑한"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"바닷가","path":"$$/kr/tags/바닷가","id":"바닷가"},{"name":"깔끔함","path":"$$/kr/tags/깔끔함","id":"깔끔함"},{"name":"주방","path":"$$/kr/tags/주방","id":"주방"}],"banner":"/images/19930-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"선샤인코스트-호텔-추천-히피-스타일-휴가-f01f8cf2","content":"$e","category":"articles","readMin":"7.3"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"fd4bc818","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"해변 앞 낙원에서의 쉼표"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/194415703.jpg","alt":"라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/182077/3537859/23a8816f0970a826c50e1e37970b7321.jpg","alt":"라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/182077/-1/196d99e5d9b925c19529c9b01852b955.jpg","alt":"라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"임시의 도시 복잡함에서 벗어나 바다의 파도 소리를 들으며 아침을 맞이하는 상상을 해 보신 적 있나요? 해변에서 잠을 깨고 바다의 냄새를 맡으며 하루를 시작할 수 있는 곳이 바로 여기라고 할 수 있습니다. 이곳에서는 주변 자연환경과 함께 여유로운 시간을 보내기 좋으며, 가족과 함께 온다면 아이들에게도 색다른 경험을 선사할 수 있어요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"피로를 풀고 싶다면 고급스러운 스파와 다양한 시설들이 여러분을 기다리고 있어요. 특히, 리조트 내의 청결함과 편안함은 높은 평가를 받고 있답니다. 다양한 액티비티를 즐기며 하루를 보낸 후에는 바다를 바라보며 저녁을 즐겨보세요. 기억에 남을 휴식과 즐거움을 모두 경험할 수 있는 이곳에서의 시간을 놓치지 마세요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/ramada-resort-by-wyndham-golden-beach/hotel/sunshine-coast-au.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/ramada-resort-by-wyndham-golden-beach/hotel/sunshine-coast-au.html"},"children":[{"type":"text","value":"라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)","position":{"start":{"line":46,"column":2,"offset":3420},"end":{"line":46,"column":61,"offset":3479}}}],"position":{"start":{"line":46,"column":1,"offset":3419},"end":{"line":46,"column":158,"offset":3576}}},"children":"라마다 리조트 바이 윈덤 골든 비치 (Ramada Resort by Wyndham Golden Beach)"},"post":{"id":"f01f8cf2-aa2c-4cec-8c11-090a5f07709f","title":"선샤인코스트 호텔 추천, 히피 스타일로 특별한 휴가 즐기기","fileName":"선샤인코스트-호텔-추천-히피-스타일-휴가-f01f8cf2","description":"선샤인코스트에서 히피 스타일로 특별한 휴가를 즐기세요. 자연과 어우러진 Holiday Inn Express & Suites는 만족스러운 프리미엄 서비스를 제공합니다. Ocean Views Resort와 Ramada Resort by Wyndham Golden Beach에서도 해양 전망을 만끽할 수 있습니다. 또한, Top Spot Motel과 At The Sound Apartments는 캐주얼한 분위기로 편안한 시간을 보장합니다. 각 호텔은 다양한 매력과 함께 선샤인코스트만의 여유로운 분위기를 선사합니다.","date":"2025-08-22T01:00:03.477Z","tags":[{"name":"태평양 지역 및 호주","path":"$$/kr/tags/태평양-지역-및-호주","id":"태평양-지역-및-호주"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"휴양","path":"$$/kr/tags/휴양","id":"휴양"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"레저","path":"$$/kr/tags/레저","id":"레저"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"뷰","path":"$$/kr/tags/뷰","id":"뷰"},{"name":"평온","path":"$$/kr/tags/평온","id":"평온"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"리조트","path":"$$/kr/tags/리조트","id":"리조트"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"편의성","path":"$$/kr/tags/편의성","id":"편의성"},{"name":"비치리조트","path":"$$/kr/tags/비치리조트","id":"비치리조트"},{"name":"아늑한","path":"$$/kr/tags/아늑한","id":"아늑한"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"바닷가","path":"$$/kr/tags/바닷가","id":"바닷가"},{"name":"깔끔함","path":"$$/kr/tags/깔끔함","id":"깔끔함"},{"name":"주방","path":"$$/kr/tags/주방","id":"주방"}],"banner":"/images/19930-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"선샤인코스트-호텔-추천-히피-스타일-휴가-f01f8cf2","content":"$f","category":"articles","readMin":"7.3"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"a2b7c48e","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"호주의 해변 숨은 보석"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["탑 스폿 모텔 (Top Spot Motel)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/182/182062/182062_16102012310047961489.jpg","alt":"탑 스폿 모텔 (Top Spot Motel)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/375763375.jpg","alt":"탑 스폿 모텔 (Top Spot Motel)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/375763214.jpg","alt":"탑 스폿 모텔 (Top Spot Motel)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["해변을 사랑하는 사람들에게 무한한 여유와 재미를 선사하는 매력적인 장소, ",["$","strong",null,{"className":"font-black","children":"선샤인 코스트"}],". 이곳에 위치한 이 호텔은 해변까지 도보 거리로, 바다가 주는 웅장함과 평화로움을 쉽게 느낄 수 있어요. 객실은 신선한 바다 공기를 만끽할 수 있도록 설계되어 있으며, 깔끔하고 아늑한 분위기를 제공합니다. 주변에는 다양한 식당과 쇼핑 센터가 있어 언제든지 산책하며 활기를 느낄 수 있어요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["호텔 직원들은 친절하고 세심한 서비스로 투숙객들을 반겨주어 머무는 동안 기분 좋은 시간을 보낼 수 있어요. 또한 가족 단위 여행객들에게 적합한 시설과 편의 서비스를 제공하여 아주 편안하고 즐거운 시간을 보낼 수 있습니다. 아이들은 물론 어른들까지 만족할 수 있는 다채로운 활동들이 준비되어 있어, 모든 세대가 만족스러운 여행을 즐길 수 있답니다. ",["$","strong",null,{"className":"font-black","children":"편안함과 즐거움"}],", 모든 것을 한자리에서 경험할 수 있는 장소, 바로 여기입니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/top-spot-motel/hotel/sunshine-coast-au.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/top-spot-motel/hotel/sunshine-coast-au.html"},"children":[{"type":"text","value":"탑 스폿 모텔 (Top Spot Motel)","position":{"start":{"line":59,"column":2,"offset":4406},"end":{"line":59,"column":26,"offset":4430}}}],"position":{"start":{"line":59,"column":1,"offset":4405},"end":{"line":59,"column":100,"offset":4504}}},"children":"탑 스폿 모텔 (Top Spot Motel)"},"post":{"id":"f01f8cf2-aa2c-4cec-8c11-090a5f07709f","title":"선샤인코스트 호텔 추천, 히피 스타일로 특별한 휴가 즐기기","fileName":"선샤인코스트-호텔-추천-히피-스타일-휴가-f01f8cf2","description":"선샤인코스트에서 히피 스타일로 특별한 휴가를 즐기세요. 자연과 어우러진 Holiday Inn Express & Suites는 만족스러운 프리미엄 서비스를 제공합니다. Ocean Views Resort와 Ramada Resort by Wyndham Golden Beach에서도 해양 전망을 만끽할 수 있습니다. 또한, Top Spot Motel과 At The Sound Apartments는 캐주얼한 분위기로 편안한 시간을 보장합니다. 각 호텔은 다양한 매력과 함께 선샤인코스트만의 여유로운 분위기를 선사합니다.","date":"2025-08-22T01:00:03.477Z","tags":[{"name":"태평양 지역 및 호주","path":"$$/kr/tags/태평양-지역-및-호주","id":"태평양-지역-및-호주"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"휴양","path":"$$/kr/tags/휴양","id":"휴양"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"레저","path":"$$/kr/tags/레저","id":"레저"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"뷰","path":"$$/kr/tags/뷰","id":"뷰"},{"name":"평온","path":"$$/kr/tags/평온","id":"평온"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"리조트","path":"$$/kr/tags/리조트","id":"리조트"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"편의성","path":"$$/kr/tags/편의성","id":"편의성"},{"name":"비치리조트","path":"$$/kr/tags/비치리조트","id":"비치리조트"},{"name":"아늑한","path":"$$/kr/tags/아늑한","id":"아늑한"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"바닷가","path":"$$/kr/tags/바닷가","id":"바닷가"},{"name":"깔끔함","path":"$$/kr/tags/깔끔함","id":"깔끔함"},{"name":"주방","path":"$$/kr/tags/주방","id":"주방"}],"banner":"/images/19930-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"선샤인코스트-호텔-추천-히피-스타일-휴가-f01f8cf2","content":"$10","category":"articles","readMin":"7.3"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"0eb799c5","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"소박한 매력을 가진 숙소의 즐거움"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["엣 더 사운드 아파트먼트 (At The Sound Apartments)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/149182/-1/93c13f28ca41027f325079112d7446ba.jpg","alt":"엣 더 사운드 아파트먼트 (At The Sound Apartments)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/340846503.jpg","alt":"엣 더 사운드 아파트먼트 (At The Sound Apartments)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/59432450.jpg","alt":"엣 더 사운드 아파트먼트 (At The Sound Apartments)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["여행을 떠나기 좋은 때가 온 것 같아요. 이번 여행에서는 평범함 속에 특별한 운치를 간직한 호주 선샤인 코스트의 소리 아파트먼트를 소개할게요. 이곳은 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"깔끔함"}],"과 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"편리함"}],"이 돋보이는 곳이에요. 가벼운 아침 산책을 즐기고 싶다면 가까운 바닷가를 걸어보세요. 아침 햇살이 당신의 여정을 반짝이게 할 테니까요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["그리고 여러분의 피로를 풀어줄 여유로운 수영장을 이용해 보세요. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"아늑한 분위기"}],"에서 여유롭게 하루를 마무리 하다 보면 어느새 편안함이 온몸에 퍼지는 것을 느낄 수 있죠. 세심하게 갖춰진 주방에서는 간단한 요리를 시도해볼 수도 있어요. 이름만큼이나 소박하지만 여유로운 이곳에서 제한 없는 시간을 보낼 준비가 되셨나요?"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/at-the-sound-apartments/hotel/sunshine-coast-au.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/at-the-sound-apartments/hotel/sunshine-coast-au.html"},"children":[{"type":"text","value":"엣 더 사운드 아파트먼트 (At The Sound Apartments)","position":{"start":{"line":72,"column":2,"offset":5296},"end":{"line":72,"column":41,"offset":5335}}}],"position":{"start":{"line":72,"column":1,"offset":5295},"end":{"line":72,"column":124,"offset":5418}}},"children":"엣 더 사운드 아파트먼트 (At The Sound Apartments)"},"post":{"id":"f01f8cf2-aa2c-4cec-8c11-090a5f07709f","title":"선샤인코스트 호텔 추천, 히피 스타일로 특별한 휴가 즐기기","fileName":"선샤인코스트-호텔-추천-히피-스타일-휴가-f01f8cf2","description":"선샤인코스트에서 히피 스타일로 특별한 휴가를 즐기세요. 자연과 어우러진 Holiday Inn Express & Suites는 만족스러운 프리미엄 서비스를 제공합니다. Ocean Views Resort와 Ramada Resort by Wyndham Golden Beach에서도 해양 전망을 만끽할 수 있습니다. 또한, Top Spot Motel과 At The Sound Apartments는 캐주얼한 분위기로 편안한 시간을 보장합니다. 각 호텔은 다양한 매력과 함께 선샤인코스트만의 여유로운 분위기를 선사합니다.","date":"2025-08-22T01:00:03.477Z","tags":[{"name":"태평양 지역 및 호주","path":"$$/kr/tags/태평양-지역-및-호주","id":"태평양-지역-및-호주"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"휴양","path":"$$/kr/tags/휴양","id":"휴양"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"레저","path":"$$/kr/tags/레저","id":"레저"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"뷰","path":"$$/kr/tags/뷰","id":"뷰"},{"name":"평온","path":"$$/kr/tags/평온","id":"평온"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"리조트","path":"$$/kr/tags/리조트","id":"리조트"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"편의성","path":"$$/kr/tags/편의성","id":"편의성"},{"name":"비치리조트","path":"$$/kr/tags/비치리조트","id":"비치리조트"},{"name":"아늑한","path":"$$/kr/tags/아늑한","id":"아늑한"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"바닷가","path":"$$/kr/tags/바닷가","id":"바닷가"},{"name":"깔끔함","path":"$$/kr/tags/깔끔함","id":"깔끔함"},{"name":"주방","path":"$$/kr/tags/주방","id":"주방"}],"banner":"/images/19930-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"선샤인코스트-호텔-추천-히피-스타일-휴가-f01f8cf2","content":"$11","category":"articles","readMin":"7.3"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["선샤인 코스트에서의 완벽한 휴가를 계획 중이시라면, 다양한 매력을 지닌 호텔들을 만나보세요. 자연과 휴양을 함께 즐길 수 있는 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"홀리데이 인 익스프레스 앤 스위트 선샤인코스트 바이 IHG"}],"에서는 아름다운 자연 속에서 여유로운 휴식을 취할 수 있습니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["바다 전망을 자랑하는 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"오션 뷰 리조트"}],"는 특별한 서비스로 멋진 휴가를 선사합니다. 파도 소리를 들으며 아침을 맞이하고 싶다면 해변 가까이의 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"라마다 리조트 바이 윈덤 골든 비치"}],"를 추천합니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["또한, 선샤인 코스트의 해변 근처에 위치한 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"탑 스폿 모텔"}],"에서는 편안함과 즐거움을 모두 경험하실 수 있습니다. 마지막으로, ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"엣 더 사운드 아파트먼트"}],"는 깔끔한 객실과 수영장, 바닷가 근처의 위치로 편안한 숙박을 보장합니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"각 호텔들은 각자의 매력으로 여행자들의 기대를 충족시키고자 하므로, 이들 중 마음에 드는 호텔을 선택해 예약해보세요. 지금 바로 예약하여 잊지 못할 여행을 시작하세요!"}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"선샤인코스트 호텔 추천, 히피 스타일로 특별한 휴가 즐기기","toc":[{"tagName":"h2","title":"선샤인 코스트의 히피 스타일 호텔에서 진정한 휴가를 즐기세요","id":"3584330a"},{"tagName":"h2","title":"해변의 즐거움과 편안함","id":"eec8897e"},{"tagName":"h2","title":"눈부신 해변과 휴식의 발코니","id":"a5aa6c58"},{"tagName":"h2","title":"해변 앞 낙원에서의 쉼표","id":"fd4bc818"},{"tagName":"h2","title":"호주의 해변 숨은 보석","id":"a2b7c48e"},{"tagName":"h2","title":"소박한 매력을 가진 숙소의 즐거움","id":"0eb799c5"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

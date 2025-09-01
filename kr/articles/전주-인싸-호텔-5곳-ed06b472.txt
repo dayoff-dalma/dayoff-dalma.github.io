@@ -1,0 +1,384 @@
+1:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/faaaebde45bfcdd4.css",{"as":"style"}]
+0:["FL5qPEDR-MTJ47-06Xiua",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%EC%A0%84%EC%A3%BC-%EC%9D%B8%EC%8B%B8-%ED%98%B8%ED%85%94-5%EA%B3%B3-ed06b472","d"],{"children":["__PAGE__?{\"slug\":\"전주-인싸-호텔-5곳-ed06b472\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/faaaebde45bfcdd4.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-21fed9d4f5b142b6.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_e8ce0c","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%EC%A0%84%EC%A3%BC-%EC%9D%B8%EC%8B%B8-%ED%98%B8%ED%85%94-5%EA%B3%B3-ed06b472","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"전주-인싸-호텔-5곳-ed06b472\"}"},"styles":[]}],"segment":["slug","%EC%A0%84%EC%A3%BC-%EC%9D%B8%EC%8B%B8-%ED%98%B8%ED%85%94-5%EA%B3%B3-ed06b472","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"전주에서 인싸가 되려면 꼭 가봐야 할 호텔 5곳 | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"전주 여행에서 인싸로 거듭나기 위해선 최고의 숙소가 필수입니다. 품격 있는 '정담'부터 현대적인 'N 브릿지 호텔', 전통적 매력을 느낄 수 있는 '행복한 전주한옥게스트하우스', 스마트한 시설이 장점인 '신라스테이 전주', 그리고 '베스트 웨스턴 플러스 전주 호텔'까지, 전주의 매력을 한껏 만끽할 수 있는 최고의 호텔들을 소개합니다. 이곳들은 모두 전주가 가진 색다른 매력을 경험할 수 있는 곳들로, 당신을 특별한 여행으로 초대합니다."}],["$","meta","3",{"name":"keywords","content":"아시아,전주,전통,휴식,청결,관광,편안함,모던,조식,전망,위치,편안한,전통적인,현대적,한옥,친절,정원,편의시설,한옥마을,중앙가,편리함"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%EC%A0%84%EC%A3%BC-%EC%9D%B8%EC%8B%B8-%ED%98%B8%ED%85%94-5%EA%B3%B3-ed06b472"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"전주에서 인싸가 되려면 꼭 가봐야 할 호텔 5곳 | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"전주에서 인싸가 되려면 꼭 가봐야 할 호텔 5곳 | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"전주 여행에서 인싸로 거듭나기 위해선 최고의 숙소가 필수입니다. 품격 있는 '정담'부터 현대적인 'N 브릿지 호텔', 전통적 매력을 느낄 수 있는 '행복한 전주한옥게스트하우스', 스마트한 시설이 장점인 '신라스테이 전주', 그리고 '베스트 웨스턴 플러스 전주 호텔'까지, 전주의 매력을 한껏 만끽할 수 있는 최고의 호텔들을 소개합니다. 이곳들은 모두 전주가 가진 색다른 매력을 경험할 수 있는 곳들로, 당신을 특별한 여행으로 초대합니다."}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%EC%A0%84%EC%A3%BC-%EC%9D%B8%EC%8B%B8-%ED%98%B8%ED%85%94-5%EA%B3%B3-ed06b472"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/17831-1x1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"전주에서 인싸가 되려면 꼭 가봐야 할 호텔 5곳 | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"전주 여행에서 인싸로 거듭나기 위해선 최고의 숙소가 필수입니다. 품격 있는 '정담'부터 현대적인 'N 브릿지 호텔', 전통적 매력을 느낄 수 있는 '행복한 전주한옥게스트하우스', 스마트한 시설이 장점인 '신라스테이 전주', 그리고 '베스트 웨스턴 플러스 전주 호텔'까지, 전주의 매력을 한껏 만끽할 수 있는 최고의 호텔들을 소개합니다. 이곳들은 모두 전주가 가진 색다른 매력을 경험할 수 있는 곳들로, 당신을 특별한 여행으로 초대합니다."}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/17831-1x1.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+b:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+d:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"Image","async":false}
+12:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+c:T244f,
+    
+
+
+## 전주에서 인싸가 되는 법, 놓칠 수 없는 5곳의 호텔!
+
+안녕하세요! 여행을 사랑하는 달마입니다. 오늘은 전주에서 인싸가 되기 위해 꼭 찾아가야 할 멋진 호텔 5곳을 소개해 드리려고 해요. 🤗 전주하면 떠오르는 전통과 현대의 조화, 그리고 다채로운 맛과 멋의 여정을 제대로 즐기기 위해서는 어디에서 묵느냐가 참 중요하죠. **전주에서의 완벽한 여행**을 꿈꾸신다면, 여기 소개해드리는 호텔들은 단순한 숙박 장소를 넘어 마치 로컬 친구가 안내해주는 비밀 장소처럼 반짝이니까요. 전주에 숨겨진 매력을 한껏 즐길 수 있는 특별한 호텔들이 궁금하지 않으신가요? 이제 곧 펼쳐질 호텔 탐험기를 기대해주세요!
+
+
+## 전주의 숨겨진 낭만을 찾아서
+정담 (Jungdam)
+    
+전주의 어느 골목을 걷다가 갑자기 나타날 것 같은 이곳! 한적한 위치 덕분에 참된 휴식을 누릴 수 있는 숙소랍니다. 고요한 분위기 속에서 아늑한 객실은 물론, 객실 내 청결 관리가 잘 되어 있는 것이 크게 돋보여요. 저마다의 매력을 가진 전통 가옥에서 하루를 보낸다면, 전주만의 특별한 매력을 느낄 수 있을 거예요.
+
+이곳에 머무른다면 아침에 맞이하는 햇살과 함께 제공되는 아침 식사 또한 놓쳐서는 안 될 즐거움이예요. 숙소를 떠나기 너무 아쉬울 정도로 세심히 준비된 식사는 하루의 시작을 특별하게 만들어줄 거예요. 주변 관광 명소와의 접근성도 뛰어나니, 전주 여행을 더욱 풍성하게 만들어줄 이곳에서의 휴식으로 여행의 피로를 잊어보세요!
+
+[정담 (Jungdam)](https://www.agoda.com/ko-kr/jungdam/hotel/all/jeonju-si-kr.html)
+ 
+
+## 전주의 감성을 만끽하는 힐링 스팟
+엔브릿지 호텔 (N Bridge Hotel)
+    ![엔브릿지 호텔 (N Bridge Hotel)_0_image](https://pix8.agoda.net/hotelImages/586/5860847/5860847_18101119580068440665.jpg)
+![엔브릿지 호텔 (N Bridge Hotel)_1_image](https://pix8.agoda.net/hotelImages/5860847/0/b9b27cb92f74b4466f7d875063221b78.jpeg)
+![엔브릿지 호텔 (N Bridge Hotel)_2_image](https://pix8.agoda.net/property/5860847/0/0060efc20b95499a2caa97c76a046bd5.jpeg)
+
+전주의 매력을 느끼고 싶다면, 호텔도 물론 중요하죠. 넌 브리지 호텔은 그런 의미에서 훌륭한 선택이 될 수 있어요. 전주는 전통과 현대의 조화를 느낄 수 있는 도시인데, 이 호텔 또한 그 매력을 고스란히 반영하고 있어요. 깔끔한 디자인과 세심한 고객 서비스를 제공하여, 방문하는 누구나 편안하게 머무를 수 있답니다.
+
+호텔 바로 앞에 펼쳐지는 전주의 멋진 풍경은 보너스처럼 다가와요. 특히 조식은 현지의 맛을 느낄 수 있도록 준비되어 있어, 아침부터 전주의 매력을 만끽할 수 있답니다. 중심가와의 접근성도 뛰어나 관광명소 방문에도 최적의 위치를 자랑해요. 여유롭게 전주를 누비며, 매일매일 새로운 즐거움을 발견하는 여행이 될 거예요.
+
+[엔브릿지 호텔 (N Bridge Hotel)](https://www.agoda.com/ko-kr/n-bridge-hotel_2/hotel/jeonju-si-kr.html)
+ 
+
+## 편안함과 전통이 만나는 곳
+행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)
+    ![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_0_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947761.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_1_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947768.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_2_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947763.jpg)
+
+전주의 매력을 가득 품은 이곳에서의 시간은 마치 여행객들의 꿈을 현실로 만들어주는 것 같아요. 여기는 전통 한옥의 따뜻한 목재 향기와 현대적 편리함이 조화롭게 어우러져 있어요. 각 방마다 정성스러운 손길이 닿은 장식과 편안한 침구가 기다리고 있어 피곤했던 여행의 피로를 싹 잊게 해줘요.
+
+또한, 아침마다 조용히 들려오는 새소리는 자연 그대로의 힐링을 전해준답니다. 주변의 작은 정원에서는 마치 시간을 멈춘 듯한 평온함을 경험할 수 있어요. 그리고 무엇보다도 친절한 직원들이 손님 하나하나를 세심하게 챙겨주어 여행의 즐거움을 배가시켜준답니다. 아주 가끔은 이렇게 모든 게 완벽한 거 같은 곳이 놀랍기도 하죠.
+
+[행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)](https://www.agoda.com/ko-kr/happiness-full-hanok-guesthouse-jeonju/hotel/jeonju-si-kr.html)
+ 
+
+## 전주의 따뜻한 환영, 쉼과 힐링
+신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)
+    ![신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_0_image](https://pix8.agoda.net/hotelImages/58685600/-1/c2deaa6c96cbe48c81002531b52ef338.jpg)
+![신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_1_image](https://pix8.agoda.net/hotelImages/58685600/886052140/8a3337bc8e44d3b0e893b0c61119872d.jpg)
+![신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_2_image](https://pix8.agoda.net/hotelImages/58685600/0/e2fe7c29f5462ccdda97be6369466e4e.jpg)
+
+전주 도심의 매력적인 위치에 자리 잡고 있는 이 곳은 많은 영화 팬들이 좋아할 만한 맑고 고요한 매력을 자랑해요. 객실에서는 휘황찬란한 전주 한옥 마을의 전경이 한눈에 들어와 감동을 자아낸답니다. 모던한 객실 디자인과 최상의 청결 상태는 방문객들의 만족을 넘치게 해요. 물론, 이곳의 아침 조식은 빼놓을 수 없는 하이라이트죠! 다양한 메뉴와 함께 제공되는 신선한 식재료들 덕분에 하루를 시작하기에 충분한 활력을 얻으실 수 있어요.
+
+호텔은 경쾌한 현대적 편의시설과 함께 편안함을 제공합니다. 비즈니스 여행객을 위한 완비된 회의 공간과 여유를 즐기고 싶은 분들을 위한 피트니스 센터까지 두루 갖춰져 있어요. 무엇보다도 직원들의 따뜻한 환대로 집처럼 편안함을 느낄 수 있어요. 이야기가 끝나지 않는 이곳, 전주에서의 특별한 하루를 보내고 싶다면 이 호텔은 최적의 선택이 될 것입니다. 전주 한옥 마을이 너무 멀지 않아서 문화 탐방에도 완벽해요!
+
+[신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)](https://www.agoda.com/ko-kr/shilla-stay-jeonju/hotel/jeonju-si-kr.html)
+ 
+
+## 전주에서의 편안한 휴식
+베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)
+    ![베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)_0_image](https://pix8.agoda.net/hotelImages/22441249/0/b836c19a0340ac6c0e6330620f9f9111.jpg)
+
+전주를 여행하는 동안 *매력적인 장소*를 찾고 있다면, 이곳은 후회 없는 선택이 될 거예요. 매력적인 디자인과 현대적인 분위기를 갖춘 이 호텔은 우아하면서도 편안한 공간을 제공해요. 특별한 편안함을 찾는 이들에게 안락한 침대와 세련된 객실이 매력을 더하죠.
+
+아침에는 호텔의 맛있는 조식을 즐기며 하루를 시작해 보세요. 중앙시장과 가까워 전주만의 *특별한 음식*도 쉽게 접할 수 있어요. 직원을 포함한 서비스도 친절하며, 투숙객들로부터 높은 평가를 받고 있어요. 전주 시내 중심가에 자리해 있어 관광 명소 접근성이 뛰어난 것도 큰 장점입니다.
+
+[베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)](https://www.agoda.com/ko-kr/best-western-plus-jeonju-hotel/hotel/jeonju-si-kr.html)
+ 
+
+
+## 결론
+
+전주에서의 여행이 더욱 특별해질 수 있도록 다양한 숙소 옵션을 고려해 보세요. **정담 (Jungdam)**에서는 고즈넉한 분위기 속에서 전주의 정취를 만끽하며 풍성한 아침 식사를 즐길 수 있습니다. 모던한 매력을 지닌 **엔브릿지 호텔 (N Bridge Hotel)**은 편안함과 현대적 편의성을 모두 갖추고 있어 도심의 활기를 느끼기에 좋습니다. 전통을 느낄 수 있는 **행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)**에서는 전통 한옥의 고즈넉한 분위기와 현대적 편의를 동시에 경험할 수 있습니다. **신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)**은 현대적인 시설과 따뜻한 서비스로 투숙객의 기억에 남을 숙박을 보장합니다. **베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)**은 친근한 서비스와 세련된 디자인으로 특히 전주 탐방 여행객에게 적합합니다. 각 호텔마다 각기 다른 매력이 넘치니, 전주 여행의 목적으로 적합한 숙소를 찾아보세요. 지금 예약하여 새로운 전주를 만나보세요!
+
+e:T244f,
+    
+
+
+## 전주에서 인싸가 되는 법, 놓칠 수 없는 5곳의 호텔!
+
+안녕하세요! 여행을 사랑하는 달마입니다. 오늘은 전주에서 인싸가 되기 위해 꼭 찾아가야 할 멋진 호텔 5곳을 소개해 드리려고 해요. 🤗 전주하면 떠오르는 전통과 현대의 조화, 그리고 다채로운 맛과 멋의 여정을 제대로 즐기기 위해서는 어디에서 묵느냐가 참 중요하죠. **전주에서의 완벽한 여행**을 꿈꾸신다면, 여기 소개해드리는 호텔들은 단순한 숙박 장소를 넘어 마치 로컬 친구가 안내해주는 비밀 장소처럼 반짝이니까요. 전주에 숨겨진 매력을 한껏 즐길 수 있는 특별한 호텔들이 궁금하지 않으신가요? 이제 곧 펼쳐질 호텔 탐험기를 기대해주세요!
+
+
+## 전주의 숨겨진 낭만을 찾아서
+정담 (Jungdam)
+    
+전주의 어느 골목을 걷다가 갑자기 나타날 것 같은 이곳! 한적한 위치 덕분에 참된 휴식을 누릴 수 있는 숙소랍니다. 고요한 분위기 속에서 아늑한 객실은 물론, 객실 내 청결 관리가 잘 되어 있는 것이 크게 돋보여요. 저마다의 매력을 가진 전통 가옥에서 하루를 보낸다면, 전주만의 특별한 매력을 느낄 수 있을 거예요.
+
+이곳에 머무른다면 아침에 맞이하는 햇살과 함께 제공되는 아침 식사 또한 놓쳐서는 안 될 즐거움이예요. 숙소를 떠나기 너무 아쉬울 정도로 세심히 준비된 식사는 하루의 시작을 특별하게 만들어줄 거예요. 주변 관광 명소와의 접근성도 뛰어나니, 전주 여행을 더욱 풍성하게 만들어줄 이곳에서의 휴식으로 여행의 피로를 잊어보세요!
+
+[정담 (Jungdam)](https://www.agoda.com/ko-kr/jungdam/hotel/all/jeonju-si-kr.html)
+ 
+
+## 전주의 감성을 만끽하는 힐링 스팟
+엔브릿지 호텔 (N Bridge Hotel)
+    ![엔브릿지 호텔 (N Bridge Hotel)_0_image](https://pix8.agoda.net/hotelImages/586/5860847/5860847_18101119580068440665.jpg)
+![엔브릿지 호텔 (N Bridge Hotel)_1_image](https://pix8.agoda.net/hotelImages/5860847/0/b9b27cb92f74b4466f7d875063221b78.jpeg)
+![엔브릿지 호텔 (N Bridge Hotel)_2_image](https://pix8.agoda.net/property/5860847/0/0060efc20b95499a2caa97c76a046bd5.jpeg)
+
+전주의 매력을 느끼고 싶다면, 호텔도 물론 중요하죠. 넌 브리지 호텔은 그런 의미에서 훌륭한 선택이 될 수 있어요. 전주는 전통과 현대의 조화를 느낄 수 있는 도시인데, 이 호텔 또한 그 매력을 고스란히 반영하고 있어요. 깔끔한 디자인과 세심한 고객 서비스를 제공하여, 방문하는 누구나 편안하게 머무를 수 있답니다.
+
+호텔 바로 앞에 펼쳐지는 전주의 멋진 풍경은 보너스처럼 다가와요. 특히 조식은 현지의 맛을 느낄 수 있도록 준비되어 있어, 아침부터 전주의 매력을 만끽할 수 있답니다. 중심가와의 접근성도 뛰어나 관광명소 방문에도 최적의 위치를 자랑해요. 여유롭게 전주를 누비며, 매일매일 새로운 즐거움을 발견하는 여행이 될 거예요.
+
+[엔브릿지 호텔 (N Bridge Hotel)](https://www.agoda.com/ko-kr/n-bridge-hotel_2/hotel/jeonju-si-kr.html)
+ 
+
+## 편안함과 전통이 만나는 곳
+행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)
+    ![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_0_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947761.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_1_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947768.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_2_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947763.jpg)
+
+전주의 매력을 가득 품은 이곳에서의 시간은 마치 여행객들의 꿈을 현실로 만들어주는 것 같아요. 여기는 전통 한옥의 따뜻한 목재 향기와 현대적 편리함이 조화롭게 어우러져 있어요. 각 방마다 정성스러운 손길이 닿은 장식과 편안한 침구가 기다리고 있어 피곤했던 여행의 피로를 싹 잊게 해줘요.
+
+또한, 아침마다 조용히 들려오는 새소리는 자연 그대로의 힐링을 전해준답니다. 주변의 작은 정원에서는 마치 시간을 멈춘 듯한 평온함을 경험할 수 있어요. 그리고 무엇보다도 친절한 직원들이 손님 하나하나를 세심하게 챙겨주어 여행의 즐거움을 배가시켜준답니다. 아주 가끔은 이렇게 모든 게 완벽한 거 같은 곳이 놀랍기도 하죠.
+
+[행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)](https://www.agoda.com/ko-kr/happiness-full-hanok-guesthouse-jeonju/hotel/jeonju-si-kr.html)
+ 
+
+## 전주의 따뜻한 환영, 쉼과 힐링
+신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)
+    ![신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_0_image](https://pix8.agoda.net/hotelImages/58685600/-1/c2deaa6c96cbe48c81002531b52ef338.jpg)
+![신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_1_image](https://pix8.agoda.net/hotelImages/58685600/886052140/8a3337bc8e44d3b0e893b0c61119872d.jpg)
+![신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_2_image](https://pix8.agoda.net/hotelImages/58685600/0/e2fe7c29f5462ccdda97be6369466e4e.jpg)
+
+전주 도심의 매력적인 위치에 자리 잡고 있는 이 곳은 많은 영화 팬들이 좋아할 만한 맑고 고요한 매력을 자랑해요. 객실에서는 휘황찬란한 전주 한옥 마을의 전경이 한눈에 들어와 감동을 자아낸답니다. 모던한 객실 디자인과 최상의 청결 상태는 방문객들의 만족을 넘치게 해요. 물론, 이곳의 아침 조식은 빼놓을 수 없는 하이라이트죠! 다양한 메뉴와 함께 제공되는 신선한 식재료들 덕분에 하루를 시작하기에 충분한 활력을 얻으실 수 있어요.
+
+호텔은 경쾌한 현대적 편의시설과 함께 편안함을 제공합니다. 비즈니스 여행객을 위한 완비된 회의 공간과 여유를 즐기고 싶은 분들을 위한 피트니스 센터까지 두루 갖춰져 있어요. 무엇보다도 직원들의 따뜻한 환대로 집처럼 편안함을 느낄 수 있어요. 이야기가 끝나지 않는 이곳, 전주에서의 특별한 하루를 보내고 싶다면 이 호텔은 최적의 선택이 될 것입니다. 전주 한옥 마을이 너무 멀지 않아서 문화 탐방에도 완벽해요!
+
+[신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)](https://www.agoda.com/ko-kr/shilla-stay-jeonju/hotel/jeonju-si-kr.html)
+ 
+
+## 전주에서의 편안한 휴식
+베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)
+    ![베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)_0_image](https://pix8.agoda.net/hotelImages/22441249/0/b836c19a0340ac6c0e6330620f9f9111.jpg)
+
+전주를 여행하는 동안 *매력적인 장소*를 찾고 있다면, 이곳은 후회 없는 선택이 될 거예요. 매력적인 디자인과 현대적인 분위기를 갖춘 이 호텔은 우아하면서도 편안한 공간을 제공해요. 특별한 편안함을 찾는 이들에게 안락한 침대와 세련된 객실이 매력을 더하죠.
+
+아침에는 호텔의 맛있는 조식을 즐기며 하루를 시작해 보세요. 중앙시장과 가까워 전주만의 *특별한 음식*도 쉽게 접할 수 있어요. 직원을 포함한 서비스도 친절하며, 투숙객들로부터 높은 평가를 받고 있어요. 전주 시내 중심가에 자리해 있어 관광 명소 접근성이 뛰어난 것도 큰 장점입니다.
+
+[베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)](https://www.agoda.com/ko-kr/best-western-plus-jeonju-hotel/hotel/jeonju-si-kr.html)
+ 
+
+
+## 결론
+
+전주에서의 여행이 더욱 특별해질 수 있도록 다양한 숙소 옵션을 고려해 보세요. **정담 (Jungdam)**에서는 고즈넉한 분위기 속에서 전주의 정취를 만끽하며 풍성한 아침 식사를 즐길 수 있습니다. 모던한 매력을 지닌 **엔브릿지 호텔 (N Bridge Hotel)**은 편안함과 현대적 편의성을 모두 갖추고 있어 도심의 활기를 느끼기에 좋습니다. 전통을 느낄 수 있는 **행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)**에서는 전통 한옥의 고즈넉한 분위기와 현대적 편의를 동시에 경험할 수 있습니다. **신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)**은 현대적인 시설과 따뜻한 서비스로 투숙객의 기억에 남을 숙박을 보장합니다. **베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)**은 친근한 서비스와 세련된 디자인으로 특히 전주 탐방 여행객에게 적합합니다. 각 호텔마다 각기 다른 매력이 넘치니, 전주 여행의 목적으로 적합한 숙소를 찾아보세요. 지금 예약하여 새로운 전주를 만나보세요!
+
+f:T244f,
+    
+
+
+## 전주에서 인싸가 되는 법, 놓칠 수 없는 5곳의 호텔!
+
+안녕하세요! 여행을 사랑하는 달마입니다. 오늘은 전주에서 인싸가 되기 위해 꼭 찾아가야 할 멋진 호텔 5곳을 소개해 드리려고 해요. 🤗 전주하면 떠오르는 전통과 현대의 조화, 그리고 다채로운 맛과 멋의 여정을 제대로 즐기기 위해서는 어디에서 묵느냐가 참 중요하죠. **전주에서의 완벽한 여행**을 꿈꾸신다면, 여기 소개해드리는 호텔들은 단순한 숙박 장소를 넘어 마치 로컬 친구가 안내해주는 비밀 장소처럼 반짝이니까요. 전주에 숨겨진 매력을 한껏 즐길 수 있는 특별한 호텔들이 궁금하지 않으신가요? 이제 곧 펼쳐질 호텔 탐험기를 기대해주세요!
+
+
+## 전주의 숨겨진 낭만을 찾아서
+정담 (Jungdam)
+    
+전주의 어느 골목을 걷다가 갑자기 나타날 것 같은 이곳! 한적한 위치 덕분에 참된 휴식을 누릴 수 있는 숙소랍니다. 고요한 분위기 속에서 아늑한 객실은 물론, 객실 내 청결 관리가 잘 되어 있는 것이 크게 돋보여요. 저마다의 매력을 가진 전통 가옥에서 하루를 보낸다면, 전주만의 특별한 매력을 느낄 수 있을 거예요.
+
+이곳에 머무른다면 아침에 맞이하는 햇살과 함께 제공되는 아침 식사 또한 놓쳐서는 안 될 즐거움이예요. 숙소를 떠나기 너무 아쉬울 정도로 세심히 준비된 식사는 하루의 시작을 특별하게 만들어줄 거예요. 주변 관광 명소와의 접근성도 뛰어나니, 전주 여행을 더욱 풍성하게 만들어줄 이곳에서의 휴식으로 여행의 피로를 잊어보세요!
+
+[정담 (Jungdam)](https://www.agoda.com/ko-kr/jungdam/hotel/all/jeonju-si-kr.html)
+ 
+
+## 전주의 감성을 만끽하는 힐링 스팟
+엔브릿지 호텔 (N Bridge Hotel)
+    ![엔브릿지 호텔 (N Bridge Hotel)_0_image](https://pix8.agoda.net/hotelImages/586/5860847/5860847_18101119580068440665.jpg)
+![엔브릿지 호텔 (N Bridge Hotel)_1_image](https://pix8.agoda.net/hotelImages/5860847/0/b9b27cb92f74b4466f7d875063221b78.jpeg)
+![엔브릿지 호텔 (N Bridge Hotel)_2_image](https://pix8.agoda.net/property/5860847/0/0060efc20b95499a2caa97c76a046bd5.jpeg)
+
+전주의 매력을 느끼고 싶다면, 호텔도 물론 중요하죠. 넌 브리지 호텔은 그런 의미에서 훌륭한 선택이 될 수 있어요. 전주는 전통과 현대의 조화를 느낄 수 있는 도시인데, 이 호텔 또한 그 매력을 고스란히 반영하고 있어요. 깔끔한 디자인과 세심한 고객 서비스를 제공하여, 방문하는 누구나 편안하게 머무를 수 있답니다.
+
+호텔 바로 앞에 펼쳐지는 전주의 멋진 풍경은 보너스처럼 다가와요. 특히 조식은 현지의 맛을 느낄 수 있도록 준비되어 있어, 아침부터 전주의 매력을 만끽할 수 있답니다. 중심가와의 접근성도 뛰어나 관광명소 방문에도 최적의 위치를 자랑해요. 여유롭게 전주를 누비며, 매일매일 새로운 즐거움을 발견하는 여행이 될 거예요.
+
+[엔브릿지 호텔 (N Bridge Hotel)](https://www.agoda.com/ko-kr/n-bridge-hotel_2/hotel/jeonju-si-kr.html)
+ 
+
+## 편안함과 전통이 만나는 곳
+행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)
+    ![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_0_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947761.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_1_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947768.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_2_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947763.jpg)
+
+전주의 매력을 가득 품은 이곳에서의 시간은 마치 여행객들의 꿈을 현실로 만들어주는 것 같아요. 여기는 전통 한옥의 따뜻한 목재 향기와 현대적 편리함이 조화롭게 어우러져 있어요. 각 방마다 정성스러운 손길이 닿은 장식과 편안한 침구가 기다리고 있어 피곤했던 여행의 피로를 싹 잊게 해줘요.
+
+또한, 아침마다 조용히 들려오는 새소리는 자연 그대로의 힐링을 전해준답니다. 주변의 작은 정원에서는 마치 시간을 멈춘 듯한 평온함을 경험할 수 있어요. 그리고 무엇보다도 친절한 직원들이 손님 하나하나를 세심하게 챙겨주어 여행의 즐거움을 배가시켜준답니다. 아주 가끔은 이렇게 모든 게 완벽한 거 같은 곳이 놀랍기도 하죠.
+
+[행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)](https://www.agoda.com/ko-kr/happiness-full-hanok-guesthouse-jeonju/hotel/jeonju-si-kr.html)
+ 
+
+## 전주의 따뜻한 환영, 쉼과 힐링
+신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)
+    ![신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_0_image](https://pix8.agoda.net/hotelImages/58685600/-1/c2deaa6c96cbe48c81002531b52ef338.jpg)
+![신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_1_image](https://pix8.agoda.net/hotelImages/58685600/886052140/8a3337bc8e44d3b0e893b0c61119872d.jpg)
+![신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_2_image](https://pix8.agoda.net/hotelImages/58685600/0/e2fe7c29f5462ccdda97be6369466e4e.jpg)
+
+전주 도심의 매력적인 위치에 자리 잡고 있는 이 곳은 많은 영화 팬들이 좋아할 만한 맑고 고요한 매력을 자랑해요. 객실에서는 휘황찬란한 전주 한옥 마을의 전경이 한눈에 들어와 감동을 자아낸답니다. 모던한 객실 디자인과 최상의 청결 상태는 방문객들의 만족을 넘치게 해요. 물론, 이곳의 아침 조식은 빼놓을 수 없는 하이라이트죠! 다양한 메뉴와 함께 제공되는 신선한 식재료들 덕분에 하루를 시작하기에 충분한 활력을 얻으실 수 있어요.
+
+호텔은 경쾌한 현대적 편의시설과 함께 편안함을 제공합니다. 비즈니스 여행객을 위한 완비된 회의 공간과 여유를 즐기고 싶은 분들을 위한 피트니스 센터까지 두루 갖춰져 있어요. 무엇보다도 직원들의 따뜻한 환대로 집처럼 편안함을 느낄 수 있어요. 이야기가 끝나지 않는 이곳, 전주에서의 특별한 하루를 보내고 싶다면 이 호텔은 최적의 선택이 될 것입니다. 전주 한옥 마을이 너무 멀지 않아서 문화 탐방에도 완벽해요!
+
+[신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)](https://www.agoda.com/ko-kr/shilla-stay-jeonju/hotel/jeonju-si-kr.html)
+ 
+
+## 전주에서의 편안한 휴식
+베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)
+    ![베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)_0_image](https://pix8.agoda.net/hotelImages/22441249/0/b836c19a0340ac6c0e6330620f9f9111.jpg)
+
+전주를 여행하는 동안 *매력적인 장소*를 찾고 있다면, 이곳은 후회 없는 선택이 될 거예요. 매력적인 디자인과 현대적인 분위기를 갖춘 이 호텔은 우아하면서도 편안한 공간을 제공해요. 특별한 편안함을 찾는 이들에게 안락한 침대와 세련된 객실이 매력을 더하죠.
+
+아침에는 호텔의 맛있는 조식을 즐기며 하루를 시작해 보세요. 중앙시장과 가까워 전주만의 *특별한 음식*도 쉽게 접할 수 있어요. 직원을 포함한 서비스도 친절하며, 투숙객들로부터 높은 평가를 받고 있어요. 전주 시내 중심가에 자리해 있어 관광 명소 접근성이 뛰어난 것도 큰 장점입니다.
+
+[베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)](https://www.agoda.com/ko-kr/best-western-plus-jeonju-hotel/hotel/jeonju-si-kr.html)
+ 
+
+
+## 결론
+
+전주에서의 여행이 더욱 특별해질 수 있도록 다양한 숙소 옵션을 고려해 보세요. **정담 (Jungdam)**에서는 고즈넉한 분위기 속에서 전주의 정취를 만끽하며 풍성한 아침 식사를 즐길 수 있습니다. 모던한 매력을 지닌 **엔브릿지 호텔 (N Bridge Hotel)**은 편안함과 현대적 편의성을 모두 갖추고 있어 도심의 활기를 느끼기에 좋습니다. 전통을 느낄 수 있는 **행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)**에서는 전통 한옥의 고즈넉한 분위기와 현대적 편의를 동시에 경험할 수 있습니다. **신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)**은 현대적인 시설과 따뜻한 서비스로 투숙객의 기억에 남을 숙박을 보장합니다. **베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)**은 친근한 서비스와 세련된 디자인으로 특히 전주 탐방 여행객에게 적합합니다. 각 호텔마다 각기 다른 매력이 넘치니, 전주 여행의 목적으로 적합한 숙소를 찾아보세요. 지금 예약하여 새로운 전주를 만나보세요!
+
+10:T244f,
+    
+
+
+## 전주에서 인싸가 되는 법, 놓칠 수 없는 5곳의 호텔!
+
+안녕하세요! 여행을 사랑하는 달마입니다. 오늘은 전주에서 인싸가 되기 위해 꼭 찾아가야 할 멋진 호텔 5곳을 소개해 드리려고 해요. 🤗 전주하면 떠오르는 전통과 현대의 조화, 그리고 다채로운 맛과 멋의 여정을 제대로 즐기기 위해서는 어디에서 묵느냐가 참 중요하죠. **전주에서의 완벽한 여행**을 꿈꾸신다면, 여기 소개해드리는 호텔들은 단순한 숙박 장소를 넘어 마치 로컬 친구가 안내해주는 비밀 장소처럼 반짝이니까요. 전주에 숨겨진 매력을 한껏 즐길 수 있는 특별한 호텔들이 궁금하지 않으신가요? 이제 곧 펼쳐질 호텔 탐험기를 기대해주세요!
+
+
+## 전주의 숨겨진 낭만을 찾아서
+정담 (Jungdam)
+    
+전주의 어느 골목을 걷다가 갑자기 나타날 것 같은 이곳! 한적한 위치 덕분에 참된 휴식을 누릴 수 있는 숙소랍니다. 고요한 분위기 속에서 아늑한 객실은 물론, 객실 내 청결 관리가 잘 되어 있는 것이 크게 돋보여요. 저마다의 매력을 가진 전통 가옥에서 하루를 보낸다면, 전주만의 특별한 매력을 느낄 수 있을 거예요.
+
+이곳에 머무른다면 아침에 맞이하는 햇살과 함께 제공되는 아침 식사 또한 놓쳐서는 안 될 즐거움이예요. 숙소를 떠나기 너무 아쉬울 정도로 세심히 준비된 식사는 하루의 시작을 특별하게 만들어줄 거예요. 주변 관광 명소와의 접근성도 뛰어나니, 전주 여행을 더욱 풍성하게 만들어줄 이곳에서의 휴식으로 여행의 피로를 잊어보세요!
+
+[정담 (Jungdam)](https://www.agoda.com/ko-kr/jungdam/hotel/all/jeonju-si-kr.html)
+ 
+
+## 전주의 감성을 만끽하는 힐링 스팟
+엔브릿지 호텔 (N Bridge Hotel)
+    ![엔브릿지 호텔 (N Bridge Hotel)_0_image](https://pix8.agoda.net/hotelImages/586/5860847/5860847_18101119580068440665.jpg)
+![엔브릿지 호텔 (N Bridge Hotel)_1_image](https://pix8.agoda.net/hotelImages/5860847/0/b9b27cb92f74b4466f7d875063221b78.jpeg)
+![엔브릿지 호텔 (N Bridge Hotel)_2_image](https://pix8.agoda.net/property/5860847/0/0060efc20b95499a2caa97c76a046bd5.jpeg)
+
+전주의 매력을 느끼고 싶다면, 호텔도 물론 중요하죠. 넌 브리지 호텔은 그런 의미에서 훌륭한 선택이 될 수 있어요. 전주는 전통과 현대의 조화를 느낄 수 있는 도시인데, 이 호텔 또한 그 매력을 고스란히 반영하고 있어요. 깔끔한 디자인과 세심한 고객 서비스를 제공하여, 방문하는 누구나 편안하게 머무를 수 있답니다.
+
+호텔 바로 앞에 펼쳐지는 전주의 멋진 풍경은 보너스처럼 다가와요. 특히 조식은 현지의 맛을 느낄 수 있도록 준비되어 있어, 아침부터 전주의 매력을 만끽할 수 있답니다. 중심가와의 접근성도 뛰어나 관광명소 방문에도 최적의 위치를 자랑해요. 여유롭게 전주를 누비며, 매일매일 새로운 즐거움을 발견하는 여행이 될 거예요.
+
+[엔브릿지 호텔 (N Bridge Hotel)](https://www.agoda.com/ko-kr/n-bridge-hotel_2/hotel/jeonju-si-kr.html)
+ 
+
+## 편안함과 전통이 만나는 곳
+행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)
+    ![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_0_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947761.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_1_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947768.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_2_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947763.jpg)
+
+전주의 매력을 가득 품은 이곳에서의 시간은 마치 여행객들의 꿈을 현실로 만들어주는 것 같아요. 여기는 전통 한옥의 따뜻한 목재 향기와 현대적 편리함이 조화롭게 어우러져 있어요. 각 방마다 정성스러운 손길이 닿은 장식과 편안한 침구가 기다리고 있어 피곤했던 여행의 피로를 싹 잊게 해줘요.
+
+또한, 아침마다 조용히 들려오는 새소리는 자연 그대로의 힐링을 전해준답니다. 주변의 작은 정원에서는 마치 시간을 멈춘 듯한 평온함을 경험할 수 있어요. 그리고 무엇보다도 친절한 직원들이 손님 하나하나를 세심하게 챙겨주어 여행의 즐거움을 배가시켜준답니다. 아주 가끔은 이렇게 모든 게 완벽한 거 같은 곳이 놀랍기도 하죠.
+
+[행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)](https://www.agoda.com/ko-kr/happiness-full-hanok-guesthouse-jeonju/hotel/jeonju-si-kr.html)
+ 
+
+## 전주의 따뜻한 환영, 쉼과 힐링
+신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)
+    ![신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_0_image](https://pix8.agoda.net/hotelImages/58685600/-1/c2deaa6c96cbe48c81002531b52ef338.jpg)
+![신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_1_image](https://pix8.agoda.net/hotelImages/58685600/886052140/8a3337bc8e44d3b0e893b0c61119872d.jpg)
+![신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_2_image](https://pix8.agoda.net/hotelImages/58685600/0/e2fe7c29f5462ccdda97be6369466e4e.jpg)
+
+전주 도심의 매력적인 위치에 자리 잡고 있는 이 곳은 많은 영화 팬들이 좋아할 만한 맑고 고요한 매력을 자랑해요. 객실에서는 휘황찬란한 전주 한옥 마을의 전경이 한눈에 들어와 감동을 자아낸답니다. 모던한 객실 디자인과 최상의 청결 상태는 방문객들의 만족을 넘치게 해요. 물론, 이곳의 아침 조식은 빼놓을 수 없는 하이라이트죠! 다양한 메뉴와 함께 제공되는 신선한 식재료들 덕분에 하루를 시작하기에 충분한 활력을 얻으실 수 있어요.
+
+호텔은 경쾌한 현대적 편의시설과 함께 편안함을 제공합니다. 비즈니스 여행객을 위한 완비된 회의 공간과 여유를 즐기고 싶은 분들을 위한 피트니스 센터까지 두루 갖춰져 있어요. 무엇보다도 직원들의 따뜻한 환대로 집처럼 편안함을 느낄 수 있어요. 이야기가 끝나지 않는 이곳, 전주에서의 특별한 하루를 보내고 싶다면 이 호텔은 최적의 선택이 될 것입니다. 전주 한옥 마을이 너무 멀지 않아서 문화 탐방에도 완벽해요!
+
+[신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)](https://www.agoda.com/ko-kr/shilla-stay-jeonju/hotel/jeonju-si-kr.html)
+ 
+
+## 전주에서의 편안한 휴식
+베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)
+    ![베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)_0_image](https://pix8.agoda.net/hotelImages/22441249/0/b836c19a0340ac6c0e6330620f9f9111.jpg)
+
+전주를 여행하는 동안 *매력적인 장소*를 찾고 있다면, 이곳은 후회 없는 선택이 될 거예요. 매력적인 디자인과 현대적인 분위기를 갖춘 이 호텔은 우아하면서도 편안한 공간을 제공해요. 특별한 편안함을 찾는 이들에게 안락한 침대와 세련된 객실이 매력을 더하죠.
+
+아침에는 호텔의 맛있는 조식을 즐기며 하루를 시작해 보세요. 중앙시장과 가까워 전주만의 *특별한 음식*도 쉽게 접할 수 있어요. 직원을 포함한 서비스도 친절하며, 투숙객들로부터 높은 평가를 받고 있어요. 전주 시내 중심가에 자리해 있어 관광 명소 접근성이 뛰어난 것도 큰 장점입니다.
+
+[베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)](https://www.agoda.com/ko-kr/best-western-plus-jeonju-hotel/hotel/jeonju-si-kr.html)
+ 
+
+
+## 결론
+
+전주에서의 여행이 더욱 특별해질 수 있도록 다양한 숙소 옵션을 고려해 보세요. **정담 (Jungdam)**에서는 고즈넉한 분위기 속에서 전주의 정취를 만끽하며 풍성한 아침 식사를 즐길 수 있습니다. 모던한 매력을 지닌 **엔브릿지 호텔 (N Bridge Hotel)**은 편안함과 현대적 편의성을 모두 갖추고 있어 도심의 활기를 느끼기에 좋습니다. 전통을 느낄 수 있는 **행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)**에서는 전통 한옥의 고즈넉한 분위기와 현대적 편의를 동시에 경험할 수 있습니다. **신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)**은 현대적인 시설과 따뜻한 서비스로 투숙객의 기억에 남을 숙박을 보장합니다. **베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)**은 친근한 서비스와 세련된 디자인으로 특히 전주 탐방 여행객에게 적합합니다. 각 호텔마다 각기 다른 매력이 넘치니, 전주 여행의 목적으로 적합한 숙소를 찾아보세요. 지금 예약하여 새로운 전주를 만나보세요!
+
+11:T244f,
+    
+
+
+## 전주에서 인싸가 되는 법, 놓칠 수 없는 5곳의 호텔!
+
+안녕하세요! 여행을 사랑하는 달마입니다. 오늘은 전주에서 인싸가 되기 위해 꼭 찾아가야 할 멋진 호텔 5곳을 소개해 드리려고 해요. 🤗 전주하면 떠오르는 전통과 현대의 조화, 그리고 다채로운 맛과 멋의 여정을 제대로 즐기기 위해서는 어디에서 묵느냐가 참 중요하죠. **전주에서의 완벽한 여행**을 꿈꾸신다면, 여기 소개해드리는 호텔들은 단순한 숙박 장소를 넘어 마치 로컬 친구가 안내해주는 비밀 장소처럼 반짝이니까요. 전주에 숨겨진 매력을 한껏 즐길 수 있는 특별한 호텔들이 궁금하지 않으신가요? 이제 곧 펼쳐질 호텔 탐험기를 기대해주세요!
+
+
+## 전주의 숨겨진 낭만을 찾아서
+정담 (Jungdam)
+    
+전주의 어느 골목을 걷다가 갑자기 나타날 것 같은 이곳! 한적한 위치 덕분에 참된 휴식을 누릴 수 있는 숙소랍니다. 고요한 분위기 속에서 아늑한 객실은 물론, 객실 내 청결 관리가 잘 되어 있는 것이 크게 돋보여요. 저마다의 매력을 가진 전통 가옥에서 하루를 보낸다면, 전주만의 특별한 매력을 느낄 수 있을 거예요.
+
+이곳에 머무른다면 아침에 맞이하는 햇살과 함께 제공되는 아침 식사 또한 놓쳐서는 안 될 즐거움이예요. 숙소를 떠나기 너무 아쉬울 정도로 세심히 준비된 식사는 하루의 시작을 특별하게 만들어줄 거예요. 주변 관광 명소와의 접근성도 뛰어나니, 전주 여행을 더욱 풍성하게 만들어줄 이곳에서의 휴식으로 여행의 피로를 잊어보세요!
+
+[정담 (Jungdam)](https://www.agoda.com/ko-kr/jungdam/hotel/all/jeonju-si-kr.html)
+ 
+
+## 전주의 감성을 만끽하는 힐링 스팟
+엔브릿지 호텔 (N Bridge Hotel)
+    ![엔브릿지 호텔 (N Bridge Hotel)_0_image](https://pix8.agoda.net/hotelImages/586/5860847/5860847_18101119580068440665.jpg)
+![엔브릿지 호텔 (N Bridge Hotel)_1_image](https://pix8.agoda.net/hotelImages/5860847/0/b9b27cb92f74b4466f7d875063221b78.jpeg)
+![엔브릿지 호텔 (N Bridge Hotel)_2_image](https://pix8.agoda.net/property/5860847/0/0060efc20b95499a2caa97c76a046bd5.jpeg)
+
+전주의 매력을 느끼고 싶다면, 호텔도 물론 중요하죠. 넌 브리지 호텔은 그런 의미에서 훌륭한 선택이 될 수 있어요. 전주는 전통과 현대의 조화를 느낄 수 있는 도시인데, 이 호텔 또한 그 매력을 고스란히 반영하고 있어요. 깔끔한 디자인과 세심한 고객 서비스를 제공하여, 방문하는 누구나 편안하게 머무를 수 있답니다.
+
+호텔 바로 앞에 펼쳐지는 전주의 멋진 풍경은 보너스처럼 다가와요. 특히 조식은 현지의 맛을 느낄 수 있도록 준비되어 있어, 아침부터 전주의 매력을 만끽할 수 있답니다. 중심가와의 접근성도 뛰어나 관광명소 방문에도 최적의 위치를 자랑해요. 여유롭게 전주를 누비며, 매일매일 새로운 즐거움을 발견하는 여행이 될 거예요.
+
+[엔브릿지 호텔 (N Bridge Hotel)](https://www.agoda.com/ko-kr/n-bridge-hotel_2/hotel/jeonju-si-kr.html)
+ 
+
+## 편안함과 전통이 만나는 곳
+행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)
+    ![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_0_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947761.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_1_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947768.jpg)
+![행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_2_image](https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947763.jpg)
+
+전주의 매력을 가득 품은 이곳에서의 시간은 마치 여행객들의 꿈을 현실로 만들어주는 것 같아요. 여기는 전통 한옥의 따뜻한 목재 향기와 현대적 편리함이 조화롭게 어우러져 있어요. 각 방마다 정성스러운 손길이 닿은 장식과 편안한 침구가 기다리고 있어 피곤했던 여행의 피로를 싹 잊게 해줘요.
+
+또한, 아침마다 조용히 들려오는 새소리는 자연 그대로의 힐링을 전해준답니다. 주변의 작은 정원에서는 마치 시간을 멈춘 듯한 평온함을 경험할 수 있어요. 그리고 무엇보다도 친절한 직원들이 손님 하나하나를 세심하게 챙겨주어 여행의 즐거움을 배가시켜준답니다. 아주 가끔은 이렇게 모든 게 완벽한 거 같은 곳이 놀랍기도 하죠.
+
+[행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)](https://www.agoda.com/ko-kr/happiness-full-hanok-guesthouse-jeonju/hotel/jeonju-si-kr.html)
+ 
+
+## 전주의 따뜻한 환영, 쉼과 힐링
+신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)
+    ![신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_0_image](https://pix8.agoda.net/hotelImages/58685600/-1/c2deaa6c96cbe48c81002531b52ef338.jpg)
+![신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_1_image](https://pix8.agoda.net/hotelImages/58685600/886052140/8a3337bc8e44d3b0e893b0c61119872d.jpg)
+![신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_2_image](https://pix8.agoda.net/hotelImages/58685600/0/e2fe7c29f5462ccdda97be6369466e4e.jpg)
+
+전주 도심의 매력적인 위치에 자리 잡고 있는 이 곳은 많은 영화 팬들이 좋아할 만한 맑고 고요한 매력을 자랑해요. 객실에서는 휘황찬란한 전주 한옥 마을의 전경이 한눈에 들어와 감동을 자아낸답니다. 모던한 객실 디자인과 최상의 청결 상태는 방문객들의 만족을 넘치게 해요. 물론, 이곳의 아침 조식은 빼놓을 수 없는 하이라이트죠! 다양한 메뉴와 함께 제공되는 신선한 식재료들 덕분에 하루를 시작하기에 충분한 활력을 얻으실 수 있어요.
+
+호텔은 경쾌한 현대적 편의시설과 함께 편안함을 제공합니다. 비즈니스 여행객을 위한 완비된 회의 공간과 여유를 즐기고 싶은 분들을 위한 피트니스 센터까지 두루 갖춰져 있어요. 무엇보다도 직원들의 따뜻한 환대로 집처럼 편안함을 느낄 수 있어요. 이야기가 끝나지 않는 이곳, 전주에서의 특별한 하루를 보내고 싶다면 이 호텔은 최적의 선택이 될 것입니다. 전주 한옥 마을이 너무 멀지 않아서 문화 탐방에도 완벽해요!
+
+[신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)](https://www.agoda.com/ko-kr/shilla-stay-jeonju/hotel/jeonju-si-kr.html)
+ 
+
+## 전주에서의 편안한 휴식
+베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)
+    ![베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)_0_image](https://pix8.agoda.net/hotelImages/22441249/0/b836c19a0340ac6c0e6330620f9f9111.jpg)
+
+전주를 여행하는 동안 *매력적인 장소*를 찾고 있다면, 이곳은 후회 없는 선택이 될 거예요. 매력적인 디자인과 현대적인 분위기를 갖춘 이 호텔은 우아하면서도 편안한 공간을 제공해요. 특별한 편안함을 찾는 이들에게 안락한 침대와 세련된 객실이 매력을 더하죠.
+
+아침에는 호텔의 맛있는 조식을 즐기며 하루를 시작해 보세요. 중앙시장과 가까워 전주만의 *특별한 음식*도 쉽게 접할 수 있어요. 직원을 포함한 서비스도 친절하며, 투숙객들로부터 높은 평가를 받고 있어요. 전주 시내 중심가에 자리해 있어 관광 명소 접근성이 뛰어난 것도 큰 장점입니다.
+
+[베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)](https://www.agoda.com/ko-kr/best-western-plus-jeonju-hotel/hotel/jeonju-si-kr.html)
+ 
+
+
+## 결론
+
+전주에서의 여행이 더욱 특별해질 수 있도록 다양한 숙소 옵션을 고려해 보세요. **정담 (Jungdam)**에서는 고즈넉한 분위기 속에서 전주의 정취를 만끽하며 풍성한 아침 식사를 즐길 수 있습니다. 모던한 매력을 지닌 **엔브릿지 호텔 (N Bridge Hotel)**은 편안함과 현대적 편의성을 모두 갖추고 있어 도심의 활기를 느끼기에 좋습니다. 전통을 느낄 수 있는 **행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)**에서는 전통 한옥의 고즈넉한 분위기와 현대적 편의를 동시에 경험할 수 있습니다. **신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)**은 현대적인 시설과 따뜻한 서비스로 투숙객의 기억에 남을 숙박을 보장합니다. **베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)**은 친근한 서비스와 세련된 디자인으로 특히 전주 탐방 여행객에게 적합합니다. 각 호텔마다 각기 다른 매력이 넘치니, 전주 여행의 목적으로 적합한 숙소를 찾아보세요. 지금 예약하여 새로운 전주를 만나보세요!
+
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"전주에서 인싸가 되려면 꼭 가봐야 할 호텔 5곳"}],["$","data",null,{"children":"2025-08-11T11:17:11.569Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"아시아"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"전주"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"전통"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"휴식"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"청결"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"관광"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"편안함"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"모던"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"조식"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"전망"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"위치"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"편안한"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"전통적인"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"현대적"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"한옥"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"친절"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"정원"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"편의시설"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"한옥마을"}]}],["$","li","[object Object]_19",{"children":["$","span",null,{"children":"중앙가"}]}],["$","li","[object Object]_20",{"children":["$","span",null,{"children":"편리함"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"307ae220","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"전주에서 인싸가 되는 법, 놓칠 수 없는 5곳의 호텔!"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요! 여행을 사랑하는 달마입니다. 오늘은 전주에서 인싸가 되기 위해 꼭 찾아가야 할 멋진 호텔 5곳을 소개해 드리려고 해요. 🤗 전주하면 떠오르는 전통과 현대의 조화, 그리고 다채로운 맛과 멋의 여정을 제대로 즐기기 위해서는 어디에서 묵느냐가 참 중요하죠. ",["$","strong",null,{"className":"font-black","children":"전주에서의 완벽한 여행"}],"을 꿈꾸신다면, 여기 소개해드리는 호텔들은 단순한 숙박 장소를 넘어 마치 로컬 친구가 안내해주는 비밀 장소처럼 반짝이니까요. 전주에 숨겨진 매력을 한껏 즐길 수 있는 특별한 호텔들이 궁금하지 않으신가요? 이제 곧 펼쳐질 호텔 탐험기를 기대해주세요!"]}],"\n",["$","h2",null,{"id":"42567c2a","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"전주의 숨겨진 낭만을 찾아서"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"정담 (Jungdam)"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"전주의 어느 골목을 걷다가 갑자기 나타날 것 같은 이곳! 한적한 위치 덕분에 참된 휴식을 누릴 수 있는 숙소랍니다. 고요한 분위기 속에서 아늑한 객실은 물론, 객실 내 청결 관리가 잘 되어 있는 것이 크게 돋보여요. 저마다의 매력을 가진 전통 가옥에서 하루를 보낸다면, 전주만의 특별한 매력을 느낄 수 있을 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이곳에 머무른다면 아침에 맞이하는 햇살과 함께 제공되는 아침 식사 또한 놓쳐서는 안 될 즐거움이예요. 숙소를 떠나기 너무 아쉬울 정도로 세심히 준비된 식사는 하루의 시작을 특별하게 만들어줄 거예요. 주변 관광 명소와의 접근성도 뛰어나니, 전주 여행을 더욱 풍성하게 만들어줄 이곳에서의 휴식으로 여행의 피로를 잊어보세요!"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lb",null,{"props":{"href":"https://www.agoda.com/ko-kr/jungdam/hotel/all/jeonju-si-kr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/jungdam/hotel/all/jeonju-si-kr.html"},"children":[{"type":"text","value":"정담 (Jungdam)","position":{"start":{"line":17,"column":2,"offset":745},"end":{"line":17,"column":14,"offset":757}}}],"position":{"start":{"line":17,"column":1,"offset":744},"end":{"line":17,"column":80,"offset":823}}},"children":"정담 (Jungdam)"},"post":{"id":"ed06b472-a4cc-4d86-a164-796d5888d568","title":"전주에서 인싸가 되려면 꼭 가봐야 할 호텔 5곳","fileName":"전주-인싸-호텔-5곳-ed06b472","description":"전주 여행에서 인싸로 거듭나기 위해선 최고의 숙소가 필수입니다. 품격 있는 '정담'부터 현대적인 'N 브릿지 호텔', 전통적 매력을 느낄 수 있는 '행복한 전주한옥게스트하우스', 스마트한 시설이 장점인 '신라스테이 전주', 그리고 '베스트 웨스턴 플러스 전주 호텔'까지, 전주의 매력을 한껏 만끽할 수 있는 최고의 호텔들을 소개합니다. 이곳들은 모두 전주가 가진 색다른 매력을 경험할 수 있는 곳들로, 당신을 특별한 여행으로 초대합니다.","date":"2025-08-11T11:17:11.569Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"전주","path":"$$/kr/tags/전주","id":"전주"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"전통적인","path":"$$/kr/tags/전통적인","id":"전통적인"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"한옥","path":"$$/kr/tags/한옥","id":"한옥"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"정원","path":"$$/kr/tags/정원","id":"정원"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"한옥마을","path":"$$/kr/tags/한옥마을","id":"한옥마을"},{"name":"중앙가","path":"$$/kr/tags/중앙가","id":"중앙가"},{"name":"편리함","path":"$$/kr/tags/편리함","id":"편리함"}],"banner":"/images/17831-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"전주-인싸-호텔-5곳-ed06b472","content":"$c","category":"articles","readMin":"7.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"c461e22c","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"전주의 감성을 만끽하는 힐링 스팟"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["엔브릿지 호텔 (N Bridge Hotel)\n",["$","$Ld",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/586/5860847/5860847_18101119580068440665.jpg","alt":"엔브릿지 호텔 (N Bridge Hotel)_0_image"}],"\n",["$","$Ld",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/5860847/0/b9b27cb92f74b4466f7d875063221b78.jpeg","alt":"엔브릿지 호텔 (N Bridge Hotel)_1_image"}],"\n",["$","$Ld",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/property/5860847/0/0060efc20b95499a2caa97c76a046bd5.jpeg","alt":"엔브릿지 호텔 (N Bridge Hotel)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"전주의 매력을 느끼고 싶다면, 호텔도 물론 중요하죠. 넌 브리지 호텔은 그런 의미에서 훌륭한 선택이 될 수 있어요. 전주는 전통과 현대의 조화를 느낄 수 있는 도시인데, 이 호텔 또한 그 매력을 고스란히 반영하고 있어요. 깔끔한 디자인과 세심한 고객 서비스를 제공하여, 방문하는 누구나 편안하게 머무를 수 있답니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"호텔 바로 앞에 펼쳐지는 전주의 멋진 풍경은 보너스처럼 다가와요. 특히 조식은 현지의 맛을 느낄 수 있도록 준비되어 있어, 아침부터 전주의 매력을 만끽할 수 있답니다. 중심가와의 접근성도 뛰어나 관광명소 방문에도 최적의 위치를 자랑해요. 여유롭게 전주를 누비며, 매일매일 새로운 즐거움을 발견하는 여행이 될 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lb",null,{"props":{"href":"https://www.agoda.com/ko-kr/n-bridge-hotel_2/hotel/jeonju-si-kr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/n-bridge-hotel_2/hotel/jeonju-si-kr.html"},"children":[{"type":"text","value":"엔브릿지 호텔 (N Bridge Hotel)","position":{"start":{"line":30,"column":2,"offset":1590},"end":{"line":30,"column":26,"offset":1614}}}],"position":{"start":{"line":30,"column":1,"offset":1589},"end":{"line":30,"column":97,"offset":1685}}},"children":"엔브릿지 호텔 (N Bridge Hotel)"},"post":{"id":"ed06b472-a4cc-4d86-a164-796d5888d568","title":"전주에서 인싸가 되려면 꼭 가봐야 할 호텔 5곳","fileName":"전주-인싸-호텔-5곳-ed06b472","description":"전주 여행에서 인싸로 거듭나기 위해선 최고의 숙소가 필수입니다. 품격 있는 '정담'부터 현대적인 'N 브릿지 호텔', 전통적 매력을 느낄 수 있는 '행복한 전주한옥게스트하우스', 스마트한 시설이 장점인 '신라스테이 전주', 그리고 '베스트 웨스턴 플러스 전주 호텔'까지, 전주의 매력을 한껏 만끽할 수 있는 최고의 호텔들을 소개합니다. 이곳들은 모두 전주가 가진 색다른 매력을 경험할 수 있는 곳들로, 당신을 특별한 여행으로 초대합니다.","date":"2025-08-11T11:17:11.569Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"전주","path":"$$/kr/tags/전주","id":"전주"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"전통적인","path":"$$/kr/tags/전통적인","id":"전통적인"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"한옥","path":"$$/kr/tags/한옥","id":"한옥"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"정원","path":"$$/kr/tags/정원","id":"정원"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"한옥마을","path":"$$/kr/tags/한옥마을","id":"한옥마을"},{"name":"중앙가","path":"$$/kr/tags/중앙가","id":"중앙가"},{"name":"편리함","path":"$$/kr/tags/편리함","id":"편리함"}],"banner":"/images/17831-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"전주-인싸-호텔-5곳-ed06b472","content":"$e","category":"articles","readMin":"7.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5348d1a9","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"편안함과 전통이 만나는 곳"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)\n",["$","$Ld",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947761.jpg","alt":"행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_0_image"}],"\n",["$","$Ld",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947768.jpg","alt":"행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_1_image"}],"\n",["$","$Ld",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/947/947875/947875_16083110030045947763.jpg","alt":"행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"전주의 매력을 가득 품은 이곳에서의 시간은 마치 여행객들의 꿈을 현실로 만들어주는 것 같아요. 여기는 전통 한옥의 따뜻한 목재 향기와 현대적 편리함이 조화롭게 어우러져 있어요. 각 방마다 정성스러운 손길이 닿은 장식과 편안한 침구가 기다리고 있어 피곤했던 여행의 피로를 싹 잊게 해줘요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"또한, 아침마다 조용히 들려오는 새소리는 자연 그대로의 힐링을 전해준답니다. 주변의 작은 정원에서는 마치 시간을 멈춘 듯한 평온함을 경험할 수 있어요. 그리고 무엇보다도 친절한 직원들이 손님 하나하나를 세심하게 챙겨주어 여행의 즐거움을 배가시켜준답니다. 아주 가끔은 이렇게 모든 게 완벽한 거 같은 곳이 놀랍기도 하죠."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lb",null,{"props":{"href":"https://www.agoda.com/ko-kr/happiness-full-hanok-guesthouse-jeonju/hotel/jeonju-si-kr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/happiness-full-hanok-guesthouse-jeonju/hotel/jeonju-si-kr.html"},"children":[{"type":"text","value":"행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)","position":{"start":{"line":43,"column":2,"offset":2549},"end":{"line":43,"column":57,"offset":2604}}}],"position":{"start":{"line":43,"column":1,"offset":2548},"end":{"line":43,"column":150,"offset":2697}}},"children":"행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)"},"post":{"id":"ed06b472-a4cc-4d86-a164-796d5888d568","title":"전주에서 인싸가 되려면 꼭 가봐야 할 호텔 5곳","fileName":"전주-인싸-호텔-5곳-ed06b472","description":"전주 여행에서 인싸로 거듭나기 위해선 최고의 숙소가 필수입니다. 품격 있는 '정담'부터 현대적인 'N 브릿지 호텔', 전통적 매력을 느낄 수 있는 '행복한 전주한옥게스트하우스', 스마트한 시설이 장점인 '신라스테이 전주', 그리고 '베스트 웨스턴 플러스 전주 호텔'까지, 전주의 매력을 한껏 만끽할 수 있는 최고의 호텔들을 소개합니다. 이곳들은 모두 전주가 가진 색다른 매력을 경험할 수 있는 곳들로, 당신을 특별한 여행으로 초대합니다.","date":"2025-08-11T11:17:11.569Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"전주","path":"$$/kr/tags/전주","id":"전주"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"전통적인","path":"$$/kr/tags/전통적인","id":"전통적인"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"한옥","path":"$$/kr/tags/한옥","id":"한옥"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"정원","path":"$$/kr/tags/정원","id":"정원"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"한옥마을","path":"$$/kr/tags/한옥마을","id":"한옥마을"},{"name":"중앙가","path":"$$/kr/tags/중앙가","id":"중앙가"},{"name":"편리함","path":"$$/kr/tags/편리함","id":"편리함"}],"banner":"/images/17831-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"전주-인싸-호텔-5곳-ed06b472","content":"$f","category":"articles","readMin":"7.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"9a4b94c6","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"전주의 따뜻한 환영, 쉼과 힐링"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)\n",["$","$Ld",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/58685600/-1/c2deaa6c96cbe48c81002531b52ef338.jpg","alt":"신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_0_image"}],"\n",["$","$Ld",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/58685600/886052140/8a3337bc8e44d3b0e893b0c61119872d.jpg","alt":"신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_1_image"}],"\n",["$","$Ld",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/58685600/0/e2fe7c29f5462ccdda97be6369466e4e.jpg","alt":"신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"전주 도심의 매력적인 위치에 자리 잡고 있는 이 곳은 많은 영화 팬들이 좋아할 만한 맑고 고요한 매력을 자랑해요. 객실에서는 휘황찬란한 전주 한옥 마을의 전경이 한눈에 들어와 감동을 자아낸답니다. 모던한 객실 디자인과 최상의 청결 상태는 방문객들의 만족을 넘치게 해요. 물론, 이곳의 아침 조식은 빼놓을 수 없는 하이라이트죠! 다양한 메뉴와 함께 제공되는 신선한 식재료들 덕분에 하루를 시작하기에 충분한 활력을 얻으실 수 있어요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"호텔은 경쾌한 현대적 편의시설과 함께 편안함을 제공합니다. 비즈니스 여행객을 위한 완비된 회의 공간과 여유를 즐기고 싶은 분들을 위한 피트니스 센터까지 두루 갖춰져 있어요. 무엇보다도 직원들의 따뜻한 환대로 집처럼 편안함을 느낄 수 있어요. 이야기가 끝나지 않는 이곳, 전주에서의 특별한 하루를 보내고 싶다면 이 호텔은 최적의 선택이 될 것입니다. 전주 한옥 마을이 너무 멀지 않아서 문화 탐방에도 완벽해요!"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lb",null,{"props":{"href":"https://www.agoda.com/ko-kr/shilla-stay-jeonju/hotel/jeonju-si-kr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/shilla-stay-jeonju/hotel/jeonju-si-kr.html"},"children":[{"type":"text","value":"신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)","position":{"start":{"line":56,"column":2,"offset":3690},"end":{"line":56,"column":50,"offset":3738}}}],"position":{"start":{"line":56,"column":1,"offset":3689},"end":{"line":56,"column":123,"offset":3811}}},"children":"신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)"},"post":{"id":"ed06b472-a4cc-4d86-a164-796d5888d568","title":"전주에서 인싸가 되려면 꼭 가봐야 할 호텔 5곳","fileName":"전주-인싸-호텔-5곳-ed06b472","description":"전주 여행에서 인싸로 거듭나기 위해선 최고의 숙소가 필수입니다. 품격 있는 '정담'부터 현대적인 'N 브릿지 호텔', 전통적 매력을 느낄 수 있는 '행복한 전주한옥게스트하우스', 스마트한 시설이 장점인 '신라스테이 전주', 그리고 '베스트 웨스턴 플러스 전주 호텔'까지, 전주의 매력을 한껏 만끽할 수 있는 최고의 호텔들을 소개합니다. 이곳들은 모두 전주가 가진 색다른 매력을 경험할 수 있는 곳들로, 당신을 특별한 여행으로 초대합니다.","date":"2025-08-11T11:17:11.569Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"전주","path":"$$/kr/tags/전주","id":"전주"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"전통적인","path":"$$/kr/tags/전통적인","id":"전통적인"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"한옥","path":"$$/kr/tags/한옥","id":"한옥"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"정원","path":"$$/kr/tags/정원","id":"정원"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"한옥마을","path":"$$/kr/tags/한옥마을","id":"한옥마을"},{"name":"중앙가","path":"$$/kr/tags/중앙가","id":"중앙가"},{"name":"편리함","path":"$$/kr/tags/편리함","id":"편리함"}],"banner":"/images/17831-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"전주-인싸-호텔-5곳-ed06b472","content":"$10","category":"articles","readMin":"7.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"2c60302a","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"전주에서의 편안한 휴식"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)\n",["$","$Ld",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/22441249/0/b836c19a0340ac6c0e6330620f9f9111.jpg","alt":"베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)_0_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["전주를 여행하는 동안 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"매력적인 장소"}],"를 찾고 있다면, 이곳은 후회 없는 선택이 될 거예요. 매력적인 디자인과 현대적인 분위기를 갖춘 이 호텔은 우아하면서도 편안한 공간을 제공해요. 특별한 편안함을 찾는 이들에게 안락한 침대와 세련된 객실이 매력을 더하죠."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["아침에는 호텔의 맛있는 조식을 즐기며 하루를 시작해 보세요. 중앙시장과 가까워 전주만의 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"특별한 음식"}],"도 쉽게 접할 수 있어요. 직원을 포함한 서비스도 친절하며, 투숙객들로부터 높은 평가를 받고 있어요. 전주 시내 중심가에 자리해 있어 관광 명소 접근성이 뛰어난 것도 큰 장점입니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lb",null,{"props":{"href":"https://www.agoda.com/ko-kr/best-western-plus-jeonju-hotel/hotel/jeonju-si-kr.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/best-western-plus-jeonju-hotel/hotel/jeonju-si-kr.html"},"children":[{"type":"text","value":"베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)","position":{"start":{"line":67,"column":2,"offset":4337},"end":{"line":67,"column":51,"offset":4386}}}],"position":{"start":{"line":67,"column":1,"offset":4336},"end":{"line":67,"column":136,"offset":4471}}},"children":"베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)"},"post":{"id":"ed06b472-a4cc-4d86-a164-796d5888d568","title":"전주에서 인싸가 되려면 꼭 가봐야 할 호텔 5곳","fileName":"전주-인싸-호텔-5곳-ed06b472","description":"전주 여행에서 인싸로 거듭나기 위해선 최고의 숙소가 필수입니다. 품격 있는 '정담'부터 현대적인 'N 브릿지 호텔', 전통적 매력을 느낄 수 있는 '행복한 전주한옥게스트하우스', 스마트한 시설이 장점인 '신라스테이 전주', 그리고 '베스트 웨스턴 플러스 전주 호텔'까지, 전주의 매력을 한껏 만끽할 수 있는 최고의 호텔들을 소개합니다. 이곳들은 모두 전주가 가진 색다른 매력을 경험할 수 있는 곳들로, 당신을 특별한 여행으로 초대합니다.","date":"2025-08-11T11:17:11.569Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"전주","path":"$$/kr/tags/전주","id":"전주"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"청결","path":"$$/kr/tags/청결","id":"청결"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"모던","path":"$$/kr/tags/모던","id":"모던"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"전통적인","path":"$$/kr/tags/전통적인","id":"전통적인"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"한옥","path":"$$/kr/tags/한옥","id":"한옥"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"정원","path":"$$/kr/tags/정원","id":"정원"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"한옥마을","path":"$$/kr/tags/한옥마을","id":"한옥마을"},{"name":"중앙가","path":"$$/kr/tags/중앙가","id":"중앙가"},{"name":"편리함","path":"$$/kr/tags/편리함","id":"편리함"}],"banner":"/images/17831-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"전주-인싸-호텔-5곳-ed06b472","content":"$11","category":"articles","readMin":"7.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"전주에서의 여행이 더욱 특별해질 수 있도록 다양한 숙소 옵션을 고려해 보세요. **정담 (Jungdam)**에서는 고즈넉한 분위기 속에서 전주의 정취를 만끽하며 풍성한 아침 식사를 즐길 수 있습니다. 모던한 매력을 지닌 **엔브릿지 호텔 (N Bridge Hotel)**은 편안함과 현대적 편의성을 모두 갖추고 있어 도심의 활기를 느끼기에 좋습니다. 전통을 느낄 수 있는 **행복가득 한옥 게스트하우스 (Happiness Full Hanok Guesthouse Jeonju)**에서는 전통 한옥의 고즈넉한 분위기와 현대적 편의를 동시에 경험할 수 있습니다. **신라스테이 전주 한옥마을 (SHILLA STAY JEONJU HANOK VILLAGE)**은 현대적인 시설과 따뜻한 서비스로 투숙객의 기억에 남을 숙박을 보장합니다. **베스트웨스턴 플러스 전주 호텔 (Best Western Plus Jeonju Hotel)**은 친근한 서비스와 세련된 디자인으로 특히 전주 탐방 여행객에게 적합합니다. 각 호텔마다 각기 다른 매력이 넘치니, 전주 여행의 목적으로 적합한 숙소를 찾아보세요. 지금 예약하여 새로운 전주를 만나보세요!"}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"전주에서 인싸가 되려면 꼭 가봐야 할 호텔 5곳","toc":[{"tagName":"h2","title":"전주에서 인싸가 되는 법, 놓칠 수 없는 5곳의 호텔!","id":"307ae220"},{"tagName":"h2","title":"전주의 숨겨진 낭만을 찾아서","id":"42567c2a"},{"tagName":"h2","title":"전주의 감성을 만끽하는 힐링 스팟","id":"c461e22c"},{"tagName":"h2","title":"편안함과 전통이 만나는 곳","id":"5348d1a9"},{"tagName":"h2","title":"전주의 따뜻한 환영, 쉼과 힐링","id":"9a4b94c6"},{"tagName":"h2","title":"전주에서의 편안한 휴식","id":"2c60302a"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

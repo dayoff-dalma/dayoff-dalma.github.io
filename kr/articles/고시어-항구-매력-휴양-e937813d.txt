@@ -1,0 +1,409 @@
+1:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/faaaebde45bfcdd4.css",{"as":"style"}]
+0:["FL5qPEDR-MTJ47-06Xiua",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%EA%B3%A0%EC%8B%9C%EC%96%B4-%ED%95%AD%EA%B5%AC-%EB%A7%A4%EB%A0%A5-%ED%9C%B4%EC%96%91-e937813d","d"],{"children":["__PAGE__?{\"slug\":\"고시어-항구-매력-휴양-e937813d\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/faaaebde45bfcdd4.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-21fed9d4f5b142b6.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_e8ce0c","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%EA%B3%A0%EC%8B%9C%EC%96%B4-%ED%95%AD%EA%B5%AC-%EB%A7%A4%EB%A0%A5-%ED%9C%B4%EC%96%91-e937813d","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"고시어-항구-매력-휴양-e937813d\"}"},"styles":[]}],"segment":["slug","%EA%B3%A0%EC%8B%9C%EC%96%B4-%ED%95%AD%EA%B5%AC-%EB%A7%A4%EB%A0%A5-%ED%9C%B4%EC%96%91-e937813d","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"고시어와 주변 항구의 매력, 캐넬라 비치와 생트 안의 낭만 휴양 | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"고시어와 생트 안 지역은 캐넬라 비치 호텔, 오베르지 드 라 비에리 투르, 호텔 르 로타바스 등 매력적인 숙소가 가득합니다. 바다의 아름다움을 만끽할 수 있는 이곳에서는 여유로운 힐링이 가능합니다. 메종 빅토리와 라 크리올 비치는 다양한 편의시설을 제공하며 인근의 풍부한 자연과 항구 도시의 매력을 느낄 수 있습니다."}],["$","meta","3",{"name":"keywords","content":"중미 및 카리브해,해변,열대정원,현대적,편안함,절경,현지요리,휴양지,자연경관,포인트아피트르,현지음식,럭셔리,스파,가족,액티비티,힐링,열대,환대,조식,자연,들뜬다,고급스럽음,편의시설,멋진전망"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%EA%B3%A0%EC%8B%9C%EC%96%B4-%ED%95%AD%EA%B5%AC-%EB%A7%A4%EB%A0%A5-%ED%9C%B4%EC%96%91-e937813d"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"고시어와 주변 항구의 매력, 캐넬라 비치와 생트 안의 낭만 휴양 | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"고시어와 주변 항구의 매력, 캐넬라 비치와 생트 안의 낭만 휴양 | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"고시어와 생트 안 지역은 캐넬라 비치 호텔, 오베르지 드 라 비에리 투르, 호텔 르 로타바스 등 매력적인 숙소가 가득합니다. 바다의 아름다움을 만끽할 수 있는 이곳에서는 여유로운 힐링이 가능합니다. 메종 빅토리와 라 크리올 비치는 다양한 편의시설을 제공하며 인근의 풍부한 자연과 항구 도시의 매력을 느낄 수 있습니다."}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%EA%B3%A0%EC%8B%9C%EC%96%B4-%ED%95%AD%EA%B5%AC-%EB%A7%A4%EB%A0%A5-%ED%9C%B4%EC%96%91-e937813d"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/14702-1x1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"고시어와 주변 항구의 매력, 캐넬라 비치와 생트 안의 낭만 휴양 | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"고시어와 생트 안 지역은 캐넬라 비치 호텔, 오베르지 드 라 비에리 투르, 호텔 르 로타바스 등 매력적인 숙소가 가득합니다. 바다의 아름다움을 만끽할 수 있는 이곳에서는 여유로운 힐링이 가능합니다. 메종 빅토리와 라 크리올 비치는 다양한 편의시설을 제공하며 인근의 풍부한 자연과 항구 도시의 매력을 느낄 수 있습니다."}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/14702-1x1.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+12:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+d:T260e,
+    
+
+
+## 고시어와 주변 항구에서의 특별한 휴양 체험
+
+안녕하세요. 여행을 사랑하는 여러분, **달마야 여행가자의 달마**입니다. 고시어와 주변 항구는 프랑스령 과들루프에서 놓치지 말아야 할 매력적인 여행지에요. 이곳은 따스한 햇살과 푸른 바다가 함께 해주는 낭만적인 휴양의 최적지랍니다. 고시어의 **캐넬라 비치**에 발을 디디는 순간, 여러분은 그 누구보다도 특별하고 여유로운 시간을 만끽할 수 있을 거예요. 특히, 인근 생트 안은 조용한 해변과 아름다운 경관으로 많은 여행자의 사랑을 받고 있는데요. 차 한잔하며 파도가 잔잔히 치는 모습을 보는 그 순간, 머릿속의 복잡함도 사라지지 않을까요? 곧 여러분을 기다리고 있는 이곳에서, 바다의 소리를 들으며 잊지 못할 추억을 만들어 보세요!
+
+
+## 낙원의 숨결을 느끼다
+카넬라 비치 호텔 (Canella Beach Hotel)
+    ![카넬라 비치 호텔 (Canella Beach Hotel)_0_image](https://pix8.agoda.net/hotelImages/66361/0/6ca0a3f4aa8fcf144a931b4205eb52ec.jpeg)
+![카넬라 비치 호텔 (Canella Beach Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/626194655.jpg)
+![카넬라 비치 호텔 (Canella Beach Hotel)_2_image](https://pix8.agoda.net/property/66361/0/1b5194e29fec4fee7b9953aa068a088c.jpeg)
+
+바다가 펼쳐진 아름다운 경치와 함께하는 휴식을 꿈꾸시나요? 이곳에서는 해변과 열대 정원이 조화롭게 어우러져 완벽한 휴가를 만끽할 수 있어요. 고세르에 위치한 호텔의 객실은 현대적인 감각과 편안함을 동시에 제공하며, 각 객실에서 바다가 보이는 환상적인 전망을 자랑해요. 아침에 눈을 뜨면 설레는 바다의 속삭임이 가득한 이곳에서 하루를 시작해 보세요.
+
+이 호텔은 다양한 편의시설과 서비스로 고객의 기대를 넘어서고 있어요. 친절한 직원들의 세심한 서비스는 여러분의 여행을 더욱 특별하게 만들어 줄 거예요. 수영장에서 해수욕을 즐기거나 호텔 레스토랑에서 제공하는 맛있는 현지 요리를 맛보세요. 긴장을 풀고 휴식을 취할 때, 진정한 힐링이 무엇인지 깨닫게 될 거예요. 낙원 같은 이 호텔에서의 경험, 한 번쯤 계획해 보시는 건 어떨까요?
+
+[카넬라 비치 호텔 (Canella Beach Hotel)](https://www.agoda.com/ko-kr/canella-beach-hotel/hotel/all/gosier-gp.html)
+ 
+
+## 목가적인 휴양지의 비밀
+Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)
+    ![Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444696689.jpg)
+![Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444695624.jpg)
+![Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444693564.jpg)
+
+바쁜 도시의 일상을 뒤로 하고 한적한 곳에서의 휴식을 꿈꾸고 계신가요? 그런 분들에게 적합한 장소가 바로 여기에 있어요. 초록빛 바다와 아름다운 자연 경관이 어우러진 **포인트 아 피트르**의 작은 보물, 바로 **이곳**이에요. 이 호텔은 고운 모래사장과 가까운 곳에 위치해 있어, 한 걸음 내딛으면 바다 소리가 귀에 닿는 경험을 선사해요. 여유롭고 편안한 시간을 보내기에 더할 나위 없이 좋아요.
+
+근처의 다양한 해양 활동, 편안한 객실, 친절한 직원들이 방문객을 **기다리고** 있어요. 또한 맛있는 현지 음식을 맛볼 수 있는 식당들도 가깝답니다. 이곳의 매력은 남다른 서비스와 따뜻한 환대에서도 찾아볼 수 있어요. 스트레스는 잠시 잊고, 눈 앞에 펼쳐진 에메랄드빛 바다에 빠져보세요. 자연과 문화가 조화를 이루는 이곳은 정말 잊을 수 없는 추억을 만들어 줄 거예요. **여행의 피로를 풀기에** 완벽한 선택이랍니다.
+
+[Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)](https://www.agoda.com/ko-kr/maison-victoire-pointe-a-pitre/hotel/all/baimbridge-gp.html)
+ 
+
+## 파라다이스 해변에서 누리는 휴식
+La Créole Beach Hotel & Spa
+    ![La Créole Beach Hotel & Spa_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/369262243.jpg)
+![La Créole Beach Hotel & Spa_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/87874732.jpg)
+![La Créole Beach Hotel & Spa_2_image](https://pix8.agoda.net/property/32747806/0/ee112ac6c8a331b51bcd360fbe46679f.jpeg)
+
+일상을 탈출해 럭셔리한 경험을 원하신다면, 이곳은 최적의 선택이 될 거예요. 편안한 인테리어의 객실에서 커피 한 잔을 즐기며 일출을 바라보는 아침은 그야말로 꿈같아요. 해변과 바로 연결된 스파에서는 진정한 힐링이 무엇인지 몸소 느낄 수 있을 겁니다. 다양한 수상 스포츠뿐만 아니라, 맛있는 현지 요리와 더불어 해변 근처에서 여유롭게 시간을 보내보세요.
+
+가족과 함께 보내기에도 탁월한 이 호텔은 다양한 액티비티와 친절한 서비스로 손님들을 맞이해요. 객실은 깔끔하게 관리되어 있고, 직원들은 언제나 친근하고 도움을 주려고 최선을 다해요. 그들의 따뜻한 미소 덕분에 이곳이 한층 더 특별하게 느껴지죠. 모든 것이 완벽하게 조화를 이루는 이곳에서 잊지 못할 추억을 만들어 보는 것도 좋을 것 같아요.
+
+[La Créole Beach Hotel & Spa](https://www.agoda.com/ko-kr/la-creole-beach-hotel-spa/hotel/default-city-km.html)
+ 
+
+## 열대의 매력, 생트-안느의 빛
+Hotel Le Rotabas
+    ![Hotel Le Rotabas_0_image](https://pix8.agoda.net/hotelImages/213033/0/8b66dcee01108057a63700c22c366fc0.jpeg)
+![Hotel Le Rotabas_1_image](https://pix8.agoda.net/property/68221145/0/033f8f6870c6594803576a058721e295.jpeg)
+![Hotel Le Rotabas_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/672954166.jpg)
+
+푸른 바다와 화창한 햇살이 가득한 생트-안느에서 작은 천국을 만끽할 수 있는 곳이 있죠. 바로 호텔 르 로타바스예요. 여기서는 현대적이면서도 열대 지역 고유의 감각을 살린 객실에서 일어나 창문을 열면, 바람에 실려오는 바다의 향과 함께 하루를 시작할 수 있어요. 객실은 깔끔하고, 필요한 모든 것이 잘 준비되어 있어 단순히 쉬는 것 이상으로 특별한 경험을 제공합니다.
+
+호텔 르 로타바스에서의 아침은 맛있는 조식으로 하루를 활기차게 시작하기에 안성맞춤이에요. 친절한 스태프들은 언제나 도움을 주려고 노력하며, 그들의 환대는 여행의 피로를 풀어줍니다. 주변에는 아름다운 해변과 열대 정원이 있어, 산책을 나가거나 해변에서 한가로이 시간을 보낼 수 있어요. 이곳에서의 시간은 마치 시간이 멈춘 것 같은 느낌을 주며, 진정한 휴식을 제공합니다.
+
+[Hotel Le Rotabas](https://www.agoda.com/ko-kr/hotel-le-rotabas/hotel/all/sainte-anne-gp.html)
+ 
+
+## 고지에의 해변 조망과 고급 휴식
+Hotel Auberge de la Vieille Tour
+    ![Hotel Auberge de la Vieille Tour_0_image](https://pix8.agoda.net/hotelImages/188664/0/9c1553e11006945c5d9b79cf222aa5da.jpeg)
+![Hotel Auberge de la Vieille Tour_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/721434506.jpg)
+![Hotel Auberge de la Vieille Tour_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/366017118.jpg)
+
+고지에에 위치한 이 멋진 리조트는 푸른 해변을 감상할 수 있는 완벽한 장소예요. 매일 아침, 푸른 바다와 고요한 파도가 어우러지는 풍경을 바라보며 커피 한잔을 마시며 휴식을 취하는 건 어떨까요? 프랑스령 카리브 해의 매력을 만끽할 수 있는 이곳은 여행자들에게 새로운 하루를 열어주죠.
+
+또한, 이 호텔은 손쉽게 갈 수 있는 다양한 편의 시설과 고급스러운 객실을 자랑해요. 직원들은 친절하고, 매일매일 기분을 좋게 만들어주는 서비스로 인상적인 휴가를 완성해 줘요. 미식가들이라면 이곳의 요리도 놓치지 말아야 해요. 현지의 맛을 각인시킬 수 있는 다양한 메뉴가 마련되어 있답니다.
+
+[Hotel Auberge de la Vieille Tour](https://www.agoda.com/ko-kr/auberge-de-la-vieille-tour/hotel/all/gosier-gp.html)
+ 
+
+
+## 결론
+
+이제 *궁극의 휴식*과 *재충전*을 위해 완벽한 선택지를 고려해보세요. **카넬라 비치 호텔**에서는 파라다이스 같은 풍경과 정원 속 평온함을, **Maison Victoire**에서는 숨겨진 보물 같은 포인테 아 피트르에서의 평화로운 자연을 감상할 수 있습니다. 또한, **La Créole Beach Hotel & Spa**는 해변과 스파를 통해 럭셔리함을 누리고, **Hotel Le Rotabas**에서는 생트-안느의 자연 속에서 여유를 만끽할 수 있습니다. 마지막으로, **Hotel Auberge de la Vieille Tour**는 고지에에서 멋진 해변과 고급스러운 휴식을 제공합니다. 이 모든 호텔은 단순한 숙박을 넘어 특별한 경험을 선사하며, 각자의 매력으로 여행의 하루하루를 빛내줄 것입니다. 지금 바로 예약하여 *잊지 못할 휴가*를 계획하세요! 
+
+e:T260e,
+    
+
+
+## 고시어와 주변 항구에서의 특별한 휴양 체험
+
+안녕하세요. 여행을 사랑하는 여러분, **달마야 여행가자의 달마**입니다. 고시어와 주변 항구는 프랑스령 과들루프에서 놓치지 말아야 할 매력적인 여행지에요. 이곳은 따스한 햇살과 푸른 바다가 함께 해주는 낭만적인 휴양의 최적지랍니다. 고시어의 **캐넬라 비치**에 발을 디디는 순간, 여러분은 그 누구보다도 특별하고 여유로운 시간을 만끽할 수 있을 거예요. 특히, 인근 생트 안은 조용한 해변과 아름다운 경관으로 많은 여행자의 사랑을 받고 있는데요. 차 한잔하며 파도가 잔잔히 치는 모습을 보는 그 순간, 머릿속의 복잡함도 사라지지 않을까요? 곧 여러분을 기다리고 있는 이곳에서, 바다의 소리를 들으며 잊지 못할 추억을 만들어 보세요!
+
+
+## 낙원의 숨결을 느끼다
+카넬라 비치 호텔 (Canella Beach Hotel)
+    ![카넬라 비치 호텔 (Canella Beach Hotel)_0_image](https://pix8.agoda.net/hotelImages/66361/0/6ca0a3f4aa8fcf144a931b4205eb52ec.jpeg)
+![카넬라 비치 호텔 (Canella Beach Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/626194655.jpg)
+![카넬라 비치 호텔 (Canella Beach Hotel)_2_image](https://pix8.agoda.net/property/66361/0/1b5194e29fec4fee7b9953aa068a088c.jpeg)
+
+바다가 펼쳐진 아름다운 경치와 함께하는 휴식을 꿈꾸시나요? 이곳에서는 해변과 열대 정원이 조화롭게 어우러져 완벽한 휴가를 만끽할 수 있어요. 고세르에 위치한 호텔의 객실은 현대적인 감각과 편안함을 동시에 제공하며, 각 객실에서 바다가 보이는 환상적인 전망을 자랑해요. 아침에 눈을 뜨면 설레는 바다의 속삭임이 가득한 이곳에서 하루를 시작해 보세요.
+
+이 호텔은 다양한 편의시설과 서비스로 고객의 기대를 넘어서고 있어요. 친절한 직원들의 세심한 서비스는 여러분의 여행을 더욱 특별하게 만들어 줄 거예요. 수영장에서 해수욕을 즐기거나 호텔 레스토랑에서 제공하는 맛있는 현지 요리를 맛보세요. 긴장을 풀고 휴식을 취할 때, 진정한 힐링이 무엇인지 깨닫게 될 거예요. 낙원 같은 이 호텔에서의 경험, 한 번쯤 계획해 보시는 건 어떨까요?
+
+[카넬라 비치 호텔 (Canella Beach Hotel)](https://www.agoda.com/ko-kr/canella-beach-hotel/hotel/all/gosier-gp.html)
+ 
+
+## 목가적인 휴양지의 비밀
+Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)
+    ![Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444696689.jpg)
+![Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444695624.jpg)
+![Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444693564.jpg)
+
+바쁜 도시의 일상을 뒤로 하고 한적한 곳에서의 휴식을 꿈꾸고 계신가요? 그런 분들에게 적합한 장소가 바로 여기에 있어요. 초록빛 바다와 아름다운 자연 경관이 어우러진 **포인트 아 피트르**의 작은 보물, 바로 **이곳**이에요. 이 호텔은 고운 모래사장과 가까운 곳에 위치해 있어, 한 걸음 내딛으면 바다 소리가 귀에 닿는 경험을 선사해요. 여유롭고 편안한 시간을 보내기에 더할 나위 없이 좋아요.
+
+근처의 다양한 해양 활동, 편안한 객실, 친절한 직원들이 방문객을 **기다리고** 있어요. 또한 맛있는 현지 음식을 맛볼 수 있는 식당들도 가깝답니다. 이곳의 매력은 남다른 서비스와 따뜻한 환대에서도 찾아볼 수 있어요. 스트레스는 잠시 잊고, 눈 앞에 펼쳐진 에메랄드빛 바다에 빠져보세요. 자연과 문화가 조화를 이루는 이곳은 정말 잊을 수 없는 추억을 만들어 줄 거예요. **여행의 피로를 풀기에** 완벽한 선택이랍니다.
+
+[Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)](https://www.agoda.com/ko-kr/maison-victoire-pointe-a-pitre/hotel/all/baimbridge-gp.html)
+ 
+
+## 파라다이스 해변에서 누리는 휴식
+La Créole Beach Hotel & Spa
+    ![La Créole Beach Hotel & Spa_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/369262243.jpg)
+![La Créole Beach Hotel & Spa_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/87874732.jpg)
+![La Créole Beach Hotel & Spa_2_image](https://pix8.agoda.net/property/32747806/0/ee112ac6c8a331b51bcd360fbe46679f.jpeg)
+
+일상을 탈출해 럭셔리한 경험을 원하신다면, 이곳은 최적의 선택이 될 거예요. 편안한 인테리어의 객실에서 커피 한 잔을 즐기며 일출을 바라보는 아침은 그야말로 꿈같아요. 해변과 바로 연결된 스파에서는 진정한 힐링이 무엇인지 몸소 느낄 수 있을 겁니다. 다양한 수상 스포츠뿐만 아니라, 맛있는 현지 요리와 더불어 해변 근처에서 여유롭게 시간을 보내보세요.
+
+가족과 함께 보내기에도 탁월한 이 호텔은 다양한 액티비티와 친절한 서비스로 손님들을 맞이해요. 객실은 깔끔하게 관리되어 있고, 직원들은 언제나 친근하고 도움을 주려고 최선을 다해요. 그들의 따뜻한 미소 덕분에 이곳이 한층 더 특별하게 느껴지죠. 모든 것이 완벽하게 조화를 이루는 이곳에서 잊지 못할 추억을 만들어 보는 것도 좋을 것 같아요.
+
+[La Créole Beach Hotel & Spa](https://www.agoda.com/ko-kr/la-creole-beach-hotel-spa/hotel/default-city-km.html)
+ 
+
+## 열대의 매력, 생트-안느의 빛
+Hotel Le Rotabas
+    ![Hotel Le Rotabas_0_image](https://pix8.agoda.net/hotelImages/213033/0/8b66dcee01108057a63700c22c366fc0.jpeg)
+![Hotel Le Rotabas_1_image](https://pix8.agoda.net/property/68221145/0/033f8f6870c6594803576a058721e295.jpeg)
+![Hotel Le Rotabas_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/672954166.jpg)
+
+푸른 바다와 화창한 햇살이 가득한 생트-안느에서 작은 천국을 만끽할 수 있는 곳이 있죠. 바로 호텔 르 로타바스예요. 여기서는 현대적이면서도 열대 지역 고유의 감각을 살린 객실에서 일어나 창문을 열면, 바람에 실려오는 바다의 향과 함께 하루를 시작할 수 있어요. 객실은 깔끔하고, 필요한 모든 것이 잘 준비되어 있어 단순히 쉬는 것 이상으로 특별한 경험을 제공합니다.
+
+호텔 르 로타바스에서의 아침은 맛있는 조식으로 하루를 활기차게 시작하기에 안성맞춤이에요. 친절한 스태프들은 언제나 도움을 주려고 노력하며, 그들의 환대는 여행의 피로를 풀어줍니다. 주변에는 아름다운 해변과 열대 정원이 있어, 산책을 나가거나 해변에서 한가로이 시간을 보낼 수 있어요. 이곳에서의 시간은 마치 시간이 멈춘 것 같은 느낌을 주며, 진정한 휴식을 제공합니다.
+
+[Hotel Le Rotabas](https://www.agoda.com/ko-kr/hotel-le-rotabas/hotel/all/sainte-anne-gp.html)
+ 
+
+## 고지에의 해변 조망과 고급 휴식
+Hotel Auberge de la Vieille Tour
+    ![Hotel Auberge de la Vieille Tour_0_image](https://pix8.agoda.net/hotelImages/188664/0/9c1553e11006945c5d9b79cf222aa5da.jpeg)
+![Hotel Auberge de la Vieille Tour_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/721434506.jpg)
+![Hotel Auberge de la Vieille Tour_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/366017118.jpg)
+
+고지에에 위치한 이 멋진 리조트는 푸른 해변을 감상할 수 있는 완벽한 장소예요. 매일 아침, 푸른 바다와 고요한 파도가 어우러지는 풍경을 바라보며 커피 한잔을 마시며 휴식을 취하는 건 어떨까요? 프랑스령 카리브 해의 매력을 만끽할 수 있는 이곳은 여행자들에게 새로운 하루를 열어주죠.
+
+또한, 이 호텔은 손쉽게 갈 수 있는 다양한 편의 시설과 고급스러운 객실을 자랑해요. 직원들은 친절하고, 매일매일 기분을 좋게 만들어주는 서비스로 인상적인 휴가를 완성해 줘요. 미식가들이라면 이곳의 요리도 놓치지 말아야 해요. 현지의 맛을 각인시킬 수 있는 다양한 메뉴가 마련되어 있답니다.
+
+[Hotel Auberge de la Vieille Tour](https://www.agoda.com/ko-kr/auberge-de-la-vieille-tour/hotel/all/gosier-gp.html)
+ 
+
+
+## 결론
+
+이제 *궁극의 휴식*과 *재충전*을 위해 완벽한 선택지를 고려해보세요. **카넬라 비치 호텔**에서는 파라다이스 같은 풍경과 정원 속 평온함을, **Maison Victoire**에서는 숨겨진 보물 같은 포인테 아 피트르에서의 평화로운 자연을 감상할 수 있습니다. 또한, **La Créole Beach Hotel & Spa**는 해변과 스파를 통해 럭셔리함을 누리고, **Hotel Le Rotabas**에서는 생트-안느의 자연 속에서 여유를 만끽할 수 있습니다. 마지막으로, **Hotel Auberge de la Vieille Tour**는 고지에에서 멋진 해변과 고급스러운 휴식을 제공합니다. 이 모든 호텔은 단순한 숙박을 넘어 특별한 경험을 선사하며, 각자의 매력으로 여행의 하루하루를 빛내줄 것입니다. 지금 바로 예약하여 *잊지 못할 휴가*를 계획하세요! 
+
+f:T260e,
+    
+
+
+## 고시어와 주변 항구에서의 특별한 휴양 체험
+
+안녕하세요. 여행을 사랑하는 여러분, **달마야 여행가자의 달마**입니다. 고시어와 주변 항구는 프랑스령 과들루프에서 놓치지 말아야 할 매력적인 여행지에요. 이곳은 따스한 햇살과 푸른 바다가 함께 해주는 낭만적인 휴양의 최적지랍니다. 고시어의 **캐넬라 비치**에 발을 디디는 순간, 여러분은 그 누구보다도 특별하고 여유로운 시간을 만끽할 수 있을 거예요. 특히, 인근 생트 안은 조용한 해변과 아름다운 경관으로 많은 여행자의 사랑을 받고 있는데요. 차 한잔하며 파도가 잔잔히 치는 모습을 보는 그 순간, 머릿속의 복잡함도 사라지지 않을까요? 곧 여러분을 기다리고 있는 이곳에서, 바다의 소리를 들으며 잊지 못할 추억을 만들어 보세요!
+
+
+## 낙원의 숨결을 느끼다
+카넬라 비치 호텔 (Canella Beach Hotel)
+    ![카넬라 비치 호텔 (Canella Beach Hotel)_0_image](https://pix8.agoda.net/hotelImages/66361/0/6ca0a3f4aa8fcf144a931b4205eb52ec.jpeg)
+![카넬라 비치 호텔 (Canella Beach Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/626194655.jpg)
+![카넬라 비치 호텔 (Canella Beach Hotel)_2_image](https://pix8.agoda.net/property/66361/0/1b5194e29fec4fee7b9953aa068a088c.jpeg)
+
+바다가 펼쳐진 아름다운 경치와 함께하는 휴식을 꿈꾸시나요? 이곳에서는 해변과 열대 정원이 조화롭게 어우러져 완벽한 휴가를 만끽할 수 있어요. 고세르에 위치한 호텔의 객실은 현대적인 감각과 편안함을 동시에 제공하며, 각 객실에서 바다가 보이는 환상적인 전망을 자랑해요. 아침에 눈을 뜨면 설레는 바다의 속삭임이 가득한 이곳에서 하루를 시작해 보세요.
+
+이 호텔은 다양한 편의시설과 서비스로 고객의 기대를 넘어서고 있어요. 친절한 직원들의 세심한 서비스는 여러분의 여행을 더욱 특별하게 만들어 줄 거예요. 수영장에서 해수욕을 즐기거나 호텔 레스토랑에서 제공하는 맛있는 현지 요리를 맛보세요. 긴장을 풀고 휴식을 취할 때, 진정한 힐링이 무엇인지 깨닫게 될 거예요. 낙원 같은 이 호텔에서의 경험, 한 번쯤 계획해 보시는 건 어떨까요?
+
+[카넬라 비치 호텔 (Canella Beach Hotel)](https://www.agoda.com/ko-kr/canella-beach-hotel/hotel/all/gosier-gp.html)
+ 
+
+## 목가적인 휴양지의 비밀
+Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)
+    ![Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444696689.jpg)
+![Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444695624.jpg)
+![Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444693564.jpg)
+
+바쁜 도시의 일상을 뒤로 하고 한적한 곳에서의 휴식을 꿈꾸고 계신가요? 그런 분들에게 적합한 장소가 바로 여기에 있어요. 초록빛 바다와 아름다운 자연 경관이 어우러진 **포인트 아 피트르**의 작은 보물, 바로 **이곳**이에요. 이 호텔은 고운 모래사장과 가까운 곳에 위치해 있어, 한 걸음 내딛으면 바다 소리가 귀에 닿는 경험을 선사해요. 여유롭고 편안한 시간을 보내기에 더할 나위 없이 좋아요.
+
+근처의 다양한 해양 활동, 편안한 객실, 친절한 직원들이 방문객을 **기다리고** 있어요. 또한 맛있는 현지 음식을 맛볼 수 있는 식당들도 가깝답니다. 이곳의 매력은 남다른 서비스와 따뜻한 환대에서도 찾아볼 수 있어요. 스트레스는 잠시 잊고, 눈 앞에 펼쳐진 에메랄드빛 바다에 빠져보세요. 자연과 문화가 조화를 이루는 이곳은 정말 잊을 수 없는 추억을 만들어 줄 거예요. **여행의 피로를 풀기에** 완벽한 선택이랍니다.
+
+[Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)](https://www.agoda.com/ko-kr/maison-victoire-pointe-a-pitre/hotel/all/baimbridge-gp.html)
+ 
+
+## 파라다이스 해변에서 누리는 휴식
+La Créole Beach Hotel & Spa
+    ![La Créole Beach Hotel & Spa_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/369262243.jpg)
+![La Créole Beach Hotel & Spa_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/87874732.jpg)
+![La Créole Beach Hotel & Spa_2_image](https://pix8.agoda.net/property/32747806/0/ee112ac6c8a331b51bcd360fbe46679f.jpeg)
+
+일상을 탈출해 럭셔리한 경험을 원하신다면, 이곳은 최적의 선택이 될 거예요. 편안한 인테리어의 객실에서 커피 한 잔을 즐기며 일출을 바라보는 아침은 그야말로 꿈같아요. 해변과 바로 연결된 스파에서는 진정한 힐링이 무엇인지 몸소 느낄 수 있을 겁니다. 다양한 수상 스포츠뿐만 아니라, 맛있는 현지 요리와 더불어 해변 근처에서 여유롭게 시간을 보내보세요.
+
+가족과 함께 보내기에도 탁월한 이 호텔은 다양한 액티비티와 친절한 서비스로 손님들을 맞이해요. 객실은 깔끔하게 관리되어 있고, 직원들은 언제나 친근하고 도움을 주려고 최선을 다해요. 그들의 따뜻한 미소 덕분에 이곳이 한층 더 특별하게 느껴지죠. 모든 것이 완벽하게 조화를 이루는 이곳에서 잊지 못할 추억을 만들어 보는 것도 좋을 것 같아요.
+
+[La Créole Beach Hotel & Spa](https://www.agoda.com/ko-kr/la-creole-beach-hotel-spa/hotel/default-city-km.html)
+ 
+
+## 열대의 매력, 생트-안느의 빛
+Hotel Le Rotabas
+    ![Hotel Le Rotabas_0_image](https://pix8.agoda.net/hotelImages/213033/0/8b66dcee01108057a63700c22c366fc0.jpeg)
+![Hotel Le Rotabas_1_image](https://pix8.agoda.net/property/68221145/0/033f8f6870c6594803576a058721e295.jpeg)
+![Hotel Le Rotabas_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/672954166.jpg)
+
+푸른 바다와 화창한 햇살이 가득한 생트-안느에서 작은 천국을 만끽할 수 있는 곳이 있죠. 바로 호텔 르 로타바스예요. 여기서는 현대적이면서도 열대 지역 고유의 감각을 살린 객실에서 일어나 창문을 열면, 바람에 실려오는 바다의 향과 함께 하루를 시작할 수 있어요. 객실은 깔끔하고, 필요한 모든 것이 잘 준비되어 있어 단순히 쉬는 것 이상으로 특별한 경험을 제공합니다.
+
+호텔 르 로타바스에서의 아침은 맛있는 조식으로 하루를 활기차게 시작하기에 안성맞춤이에요. 친절한 스태프들은 언제나 도움을 주려고 노력하며, 그들의 환대는 여행의 피로를 풀어줍니다. 주변에는 아름다운 해변과 열대 정원이 있어, 산책을 나가거나 해변에서 한가로이 시간을 보낼 수 있어요. 이곳에서의 시간은 마치 시간이 멈춘 것 같은 느낌을 주며, 진정한 휴식을 제공합니다.
+
+[Hotel Le Rotabas](https://www.agoda.com/ko-kr/hotel-le-rotabas/hotel/all/sainte-anne-gp.html)
+ 
+
+## 고지에의 해변 조망과 고급 휴식
+Hotel Auberge de la Vieille Tour
+    ![Hotel Auberge de la Vieille Tour_0_image](https://pix8.agoda.net/hotelImages/188664/0/9c1553e11006945c5d9b79cf222aa5da.jpeg)
+![Hotel Auberge de la Vieille Tour_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/721434506.jpg)
+![Hotel Auberge de la Vieille Tour_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/366017118.jpg)
+
+고지에에 위치한 이 멋진 리조트는 푸른 해변을 감상할 수 있는 완벽한 장소예요. 매일 아침, 푸른 바다와 고요한 파도가 어우러지는 풍경을 바라보며 커피 한잔을 마시며 휴식을 취하는 건 어떨까요? 프랑스령 카리브 해의 매력을 만끽할 수 있는 이곳은 여행자들에게 새로운 하루를 열어주죠.
+
+또한, 이 호텔은 손쉽게 갈 수 있는 다양한 편의 시설과 고급스러운 객실을 자랑해요. 직원들은 친절하고, 매일매일 기분을 좋게 만들어주는 서비스로 인상적인 휴가를 완성해 줘요. 미식가들이라면 이곳의 요리도 놓치지 말아야 해요. 현지의 맛을 각인시킬 수 있는 다양한 메뉴가 마련되어 있답니다.
+
+[Hotel Auberge de la Vieille Tour](https://www.agoda.com/ko-kr/auberge-de-la-vieille-tour/hotel/all/gosier-gp.html)
+ 
+
+
+## 결론
+
+이제 *궁극의 휴식*과 *재충전*을 위해 완벽한 선택지를 고려해보세요. **카넬라 비치 호텔**에서는 파라다이스 같은 풍경과 정원 속 평온함을, **Maison Victoire**에서는 숨겨진 보물 같은 포인테 아 피트르에서의 평화로운 자연을 감상할 수 있습니다. 또한, **La Créole Beach Hotel & Spa**는 해변과 스파를 통해 럭셔리함을 누리고, **Hotel Le Rotabas**에서는 생트-안느의 자연 속에서 여유를 만끽할 수 있습니다. 마지막으로, **Hotel Auberge de la Vieille Tour**는 고지에에서 멋진 해변과 고급스러운 휴식을 제공합니다. 이 모든 호텔은 단순한 숙박을 넘어 특별한 경험을 선사하며, 각자의 매력으로 여행의 하루하루를 빛내줄 것입니다. 지금 바로 예약하여 *잊지 못할 휴가*를 계획하세요! 
+
+10:T260e,
+    
+
+
+## 고시어와 주변 항구에서의 특별한 휴양 체험
+
+안녕하세요. 여행을 사랑하는 여러분, **달마야 여행가자의 달마**입니다. 고시어와 주변 항구는 프랑스령 과들루프에서 놓치지 말아야 할 매력적인 여행지에요. 이곳은 따스한 햇살과 푸른 바다가 함께 해주는 낭만적인 휴양의 최적지랍니다. 고시어의 **캐넬라 비치**에 발을 디디는 순간, 여러분은 그 누구보다도 특별하고 여유로운 시간을 만끽할 수 있을 거예요. 특히, 인근 생트 안은 조용한 해변과 아름다운 경관으로 많은 여행자의 사랑을 받고 있는데요. 차 한잔하며 파도가 잔잔히 치는 모습을 보는 그 순간, 머릿속의 복잡함도 사라지지 않을까요? 곧 여러분을 기다리고 있는 이곳에서, 바다의 소리를 들으며 잊지 못할 추억을 만들어 보세요!
+
+
+## 낙원의 숨결을 느끼다
+카넬라 비치 호텔 (Canella Beach Hotel)
+    ![카넬라 비치 호텔 (Canella Beach Hotel)_0_image](https://pix8.agoda.net/hotelImages/66361/0/6ca0a3f4aa8fcf144a931b4205eb52ec.jpeg)
+![카넬라 비치 호텔 (Canella Beach Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/626194655.jpg)
+![카넬라 비치 호텔 (Canella Beach Hotel)_2_image](https://pix8.agoda.net/property/66361/0/1b5194e29fec4fee7b9953aa068a088c.jpeg)
+
+바다가 펼쳐진 아름다운 경치와 함께하는 휴식을 꿈꾸시나요? 이곳에서는 해변과 열대 정원이 조화롭게 어우러져 완벽한 휴가를 만끽할 수 있어요. 고세르에 위치한 호텔의 객실은 현대적인 감각과 편안함을 동시에 제공하며, 각 객실에서 바다가 보이는 환상적인 전망을 자랑해요. 아침에 눈을 뜨면 설레는 바다의 속삭임이 가득한 이곳에서 하루를 시작해 보세요.
+
+이 호텔은 다양한 편의시설과 서비스로 고객의 기대를 넘어서고 있어요. 친절한 직원들의 세심한 서비스는 여러분의 여행을 더욱 특별하게 만들어 줄 거예요. 수영장에서 해수욕을 즐기거나 호텔 레스토랑에서 제공하는 맛있는 현지 요리를 맛보세요. 긴장을 풀고 휴식을 취할 때, 진정한 힐링이 무엇인지 깨닫게 될 거예요. 낙원 같은 이 호텔에서의 경험, 한 번쯤 계획해 보시는 건 어떨까요?
+
+[카넬라 비치 호텔 (Canella Beach Hotel)](https://www.agoda.com/ko-kr/canella-beach-hotel/hotel/all/gosier-gp.html)
+ 
+
+## 목가적인 휴양지의 비밀
+Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)
+    ![Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444696689.jpg)
+![Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444695624.jpg)
+![Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444693564.jpg)
+
+바쁜 도시의 일상을 뒤로 하고 한적한 곳에서의 휴식을 꿈꾸고 계신가요? 그런 분들에게 적합한 장소가 바로 여기에 있어요. 초록빛 바다와 아름다운 자연 경관이 어우러진 **포인트 아 피트르**의 작은 보물, 바로 **이곳**이에요. 이 호텔은 고운 모래사장과 가까운 곳에 위치해 있어, 한 걸음 내딛으면 바다 소리가 귀에 닿는 경험을 선사해요. 여유롭고 편안한 시간을 보내기에 더할 나위 없이 좋아요.
+
+근처의 다양한 해양 활동, 편안한 객실, 친절한 직원들이 방문객을 **기다리고** 있어요. 또한 맛있는 현지 음식을 맛볼 수 있는 식당들도 가깝답니다. 이곳의 매력은 남다른 서비스와 따뜻한 환대에서도 찾아볼 수 있어요. 스트레스는 잠시 잊고, 눈 앞에 펼쳐진 에메랄드빛 바다에 빠져보세요. 자연과 문화가 조화를 이루는 이곳은 정말 잊을 수 없는 추억을 만들어 줄 거예요. **여행의 피로를 풀기에** 완벽한 선택이랍니다.
+
+[Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)](https://www.agoda.com/ko-kr/maison-victoire-pointe-a-pitre/hotel/all/baimbridge-gp.html)
+ 
+
+## 파라다이스 해변에서 누리는 휴식
+La Créole Beach Hotel & Spa
+    ![La Créole Beach Hotel & Spa_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/369262243.jpg)
+![La Créole Beach Hotel & Spa_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/87874732.jpg)
+![La Créole Beach Hotel & Spa_2_image](https://pix8.agoda.net/property/32747806/0/ee112ac6c8a331b51bcd360fbe46679f.jpeg)
+
+일상을 탈출해 럭셔리한 경험을 원하신다면, 이곳은 최적의 선택이 될 거예요. 편안한 인테리어의 객실에서 커피 한 잔을 즐기며 일출을 바라보는 아침은 그야말로 꿈같아요. 해변과 바로 연결된 스파에서는 진정한 힐링이 무엇인지 몸소 느낄 수 있을 겁니다. 다양한 수상 스포츠뿐만 아니라, 맛있는 현지 요리와 더불어 해변 근처에서 여유롭게 시간을 보내보세요.
+
+가족과 함께 보내기에도 탁월한 이 호텔은 다양한 액티비티와 친절한 서비스로 손님들을 맞이해요. 객실은 깔끔하게 관리되어 있고, 직원들은 언제나 친근하고 도움을 주려고 최선을 다해요. 그들의 따뜻한 미소 덕분에 이곳이 한층 더 특별하게 느껴지죠. 모든 것이 완벽하게 조화를 이루는 이곳에서 잊지 못할 추억을 만들어 보는 것도 좋을 것 같아요.
+
+[La Créole Beach Hotel & Spa](https://www.agoda.com/ko-kr/la-creole-beach-hotel-spa/hotel/default-city-km.html)
+ 
+
+## 열대의 매력, 생트-안느의 빛
+Hotel Le Rotabas
+    ![Hotel Le Rotabas_0_image](https://pix8.agoda.net/hotelImages/213033/0/8b66dcee01108057a63700c22c366fc0.jpeg)
+![Hotel Le Rotabas_1_image](https://pix8.agoda.net/property/68221145/0/033f8f6870c6594803576a058721e295.jpeg)
+![Hotel Le Rotabas_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/672954166.jpg)
+
+푸른 바다와 화창한 햇살이 가득한 생트-안느에서 작은 천국을 만끽할 수 있는 곳이 있죠. 바로 호텔 르 로타바스예요. 여기서는 현대적이면서도 열대 지역 고유의 감각을 살린 객실에서 일어나 창문을 열면, 바람에 실려오는 바다의 향과 함께 하루를 시작할 수 있어요. 객실은 깔끔하고, 필요한 모든 것이 잘 준비되어 있어 단순히 쉬는 것 이상으로 특별한 경험을 제공합니다.
+
+호텔 르 로타바스에서의 아침은 맛있는 조식으로 하루를 활기차게 시작하기에 안성맞춤이에요. 친절한 스태프들은 언제나 도움을 주려고 노력하며, 그들의 환대는 여행의 피로를 풀어줍니다. 주변에는 아름다운 해변과 열대 정원이 있어, 산책을 나가거나 해변에서 한가로이 시간을 보낼 수 있어요. 이곳에서의 시간은 마치 시간이 멈춘 것 같은 느낌을 주며, 진정한 휴식을 제공합니다.
+
+[Hotel Le Rotabas](https://www.agoda.com/ko-kr/hotel-le-rotabas/hotel/all/sainte-anne-gp.html)
+ 
+
+## 고지에의 해변 조망과 고급 휴식
+Hotel Auberge de la Vieille Tour
+    ![Hotel Auberge de la Vieille Tour_0_image](https://pix8.agoda.net/hotelImages/188664/0/9c1553e11006945c5d9b79cf222aa5da.jpeg)
+![Hotel Auberge de la Vieille Tour_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/721434506.jpg)
+![Hotel Auberge de la Vieille Tour_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/366017118.jpg)
+
+고지에에 위치한 이 멋진 리조트는 푸른 해변을 감상할 수 있는 완벽한 장소예요. 매일 아침, 푸른 바다와 고요한 파도가 어우러지는 풍경을 바라보며 커피 한잔을 마시며 휴식을 취하는 건 어떨까요? 프랑스령 카리브 해의 매력을 만끽할 수 있는 이곳은 여행자들에게 새로운 하루를 열어주죠.
+
+또한, 이 호텔은 손쉽게 갈 수 있는 다양한 편의 시설과 고급스러운 객실을 자랑해요. 직원들은 친절하고, 매일매일 기분을 좋게 만들어주는 서비스로 인상적인 휴가를 완성해 줘요. 미식가들이라면 이곳의 요리도 놓치지 말아야 해요. 현지의 맛을 각인시킬 수 있는 다양한 메뉴가 마련되어 있답니다.
+
+[Hotel Auberge de la Vieille Tour](https://www.agoda.com/ko-kr/auberge-de-la-vieille-tour/hotel/all/gosier-gp.html)
+ 
+
+
+## 결론
+
+이제 *궁극의 휴식*과 *재충전*을 위해 완벽한 선택지를 고려해보세요. **카넬라 비치 호텔**에서는 파라다이스 같은 풍경과 정원 속 평온함을, **Maison Victoire**에서는 숨겨진 보물 같은 포인테 아 피트르에서의 평화로운 자연을 감상할 수 있습니다. 또한, **La Créole Beach Hotel & Spa**는 해변과 스파를 통해 럭셔리함을 누리고, **Hotel Le Rotabas**에서는 생트-안느의 자연 속에서 여유를 만끽할 수 있습니다. 마지막으로, **Hotel Auberge de la Vieille Tour**는 고지에에서 멋진 해변과 고급스러운 휴식을 제공합니다. 이 모든 호텔은 단순한 숙박을 넘어 특별한 경험을 선사하며, 각자의 매력으로 여행의 하루하루를 빛내줄 것입니다. 지금 바로 예약하여 *잊지 못할 휴가*를 계획하세요! 
+
+11:T260e,
+    
+
+
+## 고시어와 주변 항구에서의 특별한 휴양 체험
+
+안녕하세요. 여행을 사랑하는 여러분, **달마야 여행가자의 달마**입니다. 고시어와 주변 항구는 프랑스령 과들루프에서 놓치지 말아야 할 매력적인 여행지에요. 이곳은 따스한 햇살과 푸른 바다가 함께 해주는 낭만적인 휴양의 최적지랍니다. 고시어의 **캐넬라 비치**에 발을 디디는 순간, 여러분은 그 누구보다도 특별하고 여유로운 시간을 만끽할 수 있을 거예요. 특히, 인근 생트 안은 조용한 해변과 아름다운 경관으로 많은 여행자의 사랑을 받고 있는데요. 차 한잔하며 파도가 잔잔히 치는 모습을 보는 그 순간, 머릿속의 복잡함도 사라지지 않을까요? 곧 여러분을 기다리고 있는 이곳에서, 바다의 소리를 들으며 잊지 못할 추억을 만들어 보세요!
+
+
+## 낙원의 숨결을 느끼다
+카넬라 비치 호텔 (Canella Beach Hotel)
+    ![카넬라 비치 호텔 (Canella Beach Hotel)_0_image](https://pix8.agoda.net/hotelImages/66361/0/6ca0a3f4aa8fcf144a931b4205eb52ec.jpeg)
+![카넬라 비치 호텔 (Canella Beach Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/626194655.jpg)
+![카넬라 비치 호텔 (Canella Beach Hotel)_2_image](https://pix8.agoda.net/property/66361/0/1b5194e29fec4fee7b9953aa068a088c.jpeg)
+
+바다가 펼쳐진 아름다운 경치와 함께하는 휴식을 꿈꾸시나요? 이곳에서는 해변과 열대 정원이 조화롭게 어우러져 완벽한 휴가를 만끽할 수 있어요. 고세르에 위치한 호텔의 객실은 현대적인 감각과 편안함을 동시에 제공하며, 각 객실에서 바다가 보이는 환상적인 전망을 자랑해요. 아침에 눈을 뜨면 설레는 바다의 속삭임이 가득한 이곳에서 하루를 시작해 보세요.
+
+이 호텔은 다양한 편의시설과 서비스로 고객의 기대를 넘어서고 있어요. 친절한 직원들의 세심한 서비스는 여러분의 여행을 더욱 특별하게 만들어 줄 거예요. 수영장에서 해수욕을 즐기거나 호텔 레스토랑에서 제공하는 맛있는 현지 요리를 맛보세요. 긴장을 풀고 휴식을 취할 때, 진정한 힐링이 무엇인지 깨닫게 될 거예요. 낙원 같은 이 호텔에서의 경험, 한 번쯤 계획해 보시는 건 어떨까요?
+
+[카넬라 비치 호텔 (Canella Beach Hotel)](https://www.agoda.com/ko-kr/canella-beach-hotel/hotel/all/gosier-gp.html)
+ 
+
+## 목가적인 휴양지의 비밀
+Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)
+    ![Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444696689.jpg)
+![Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444695624.jpg)
+![Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/444693564.jpg)
+
+바쁜 도시의 일상을 뒤로 하고 한적한 곳에서의 휴식을 꿈꾸고 계신가요? 그런 분들에게 적합한 장소가 바로 여기에 있어요. 초록빛 바다와 아름다운 자연 경관이 어우러진 **포인트 아 피트르**의 작은 보물, 바로 **이곳**이에요. 이 호텔은 고운 모래사장과 가까운 곳에 위치해 있어, 한 걸음 내딛으면 바다 소리가 귀에 닿는 경험을 선사해요. 여유롭고 편안한 시간을 보내기에 더할 나위 없이 좋아요.
+
+근처의 다양한 해양 활동, 편안한 객실, 친절한 직원들이 방문객을 **기다리고** 있어요. 또한 맛있는 현지 음식을 맛볼 수 있는 식당들도 가깝답니다. 이곳의 매력은 남다른 서비스와 따뜻한 환대에서도 찾아볼 수 있어요. 스트레스는 잠시 잊고, 눈 앞에 펼쳐진 에메랄드빛 바다에 빠져보세요. 자연과 문화가 조화를 이루는 이곳은 정말 잊을 수 없는 추억을 만들어 줄 거예요. **여행의 피로를 풀기에** 완벽한 선택이랍니다.
+
+[Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)](https://www.agoda.com/ko-kr/maison-victoire-pointe-a-pitre/hotel/all/baimbridge-gp.html)
+ 
+
+## 파라다이스 해변에서 누리는 휴식
+La Créole Beach Hotel & Spa
+    ![La Créole Beach Hotel & Spa_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/369262243.jpg)
+![La Créole Beach Hotel & Spa_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/87874732.jpg)
+![La Créole Beach Hotel & Spa_2_image](https://pix8.agoda.net/property/32747806/0/ee112ac6c8a331b51bcd360fbe46679f.jpeg)
+
+일상을 탈출해 럭셔리한 경험을 원하신다면, 이곳은 최적의 선택이 될 거예요. 편안한 인테리어의 객실에서 커피 한 잔을 즐기며 일출을 바라보는 아침은 그야말로 꿈같아요. 해변과 바로 연결된 스파에서는 진정한 힐링이 무엇인지 몸소 느낄 수 있을 겁니다. 다양한 수상 스포츠뿐만 아니라, 맛있는 현지 요리와 더불어 해변 근처에서 여유롭게 시간을 보내보세요.
+
+가족과 함께 보내기에도 탁월한 이 호텔은 다양한 액티비티와 친절한 서비스로 손님들을 맞이해요. 객실은 깔끔하게 관리되어 있고, 직원들은 언제나 친근하고 도움을 주려고 최선을 다해요. 그들의 따뜻한 미소 덕분에 이곳이 한층 더 특별하게 느껴지죠. 모든 것이 완벽하게 조화를 이루는 이곳에서 잊지 못할 추억을 만들어 보는 것도 좋을 것 같아요.
+
+[La Créole Beach Hotel & Spa](https://www.agoda.com/ko-kr/la-creole-beach-hotel-spa/hotel/default-city-km.html)
+ 
+
+## 열대의 매력, 생트-안느의 빛
+Hotel Le Rotabas
+    ![Hotel Le Rotabas_0_image](https://pix8.agoda.net/hotelImages/213033/0/8b66dcee01108057a63700c22c366fc0.jpeg)
+![Hotel Le Rotabas_1_image](https://pix8.agoda.net/property/68221145/0/033f8f6870c6594803576a058721e295.jpeg)
+![Hotel Le Rotabas_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/672954166.jpg)
+
+푸른 바다와 화창한 햇살이 가득한 생트-안느에서 작은 천국을 만끽할 수 있는 곳이 있죠. 바로 호텔 르 로타바스예요. 여기서는 현대적이면서도 열대 지역 고유의 감각을 살린 객실에서 일어나 창문을 열면, 바람에 실려오는 바다의 향과 함께 하루를 시작할 수 있어요. 객실은 깔끔하고, 필요한 모든 것이 잘 준비되어 있어 단순히 쉬는 것 이상으로 특별한 경험을 제공합니다.
+
+호텔 르 로타바스에서의 아침은 맛있는 조식으로 하루를 활기차게 시작하기에 안성맞춤이에요. 친절한 스태프들은 언제나 도움을 주려고 노력하며, 그들의 환대는 여행의 피로를 풀어줍니다. 주변에는 아름다운 해변과 열대 정원이 있어, 산책을 나가거나 해변에서 한가로이 시간을 보낼 수 있어요. 이곳에서의 시간은 마치 시간이 멈춘 것 같은 느낌을 주며, 진정한 휴식을 제공합니다.
+
+[Hotel Le Rotabas](https://www.agoda.com/ko-kr/hotel-le-rotabas/hotel/all/sainte-anne-gp.html)
+ 
+
+## 고지에의 해변 조망과 고급 휴식
+Hotel Auberge de la Vieille Tour
+    ![Hotel Auberge de la Vieille Tour_0_image](https://pix8.agoda.net/hotelImages/188664/0/9c1553e11006945c5d9b79cf222aa5da.jpeg)
+![Hotel Auberge de la Vieille Tour_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/721434506.jpg)
+![Hotel Auberge de la Vieille Tour_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/366017118.jpg)
+
+고지에에 위치한 이 멋진 리조트는 푸른 해변을 감상할 수 있는 완벽한 장소예요. 매일 아침, 푸른 바다와 고요한 파도가 어우러지는 풍경을 바라보며 커피 한잔을 마시며 휴식을 취하는 건 어떨까요? 프랑스령 카리브 해의 매력을 만끽할 수 있는 이곳은 여행자들에게 새로운 하루를 열어주죠.
+
+또한, 이 호텔은 손쉽게 갈 수 있는 다양한 편의 시설과 고급스러운 객실을 자랑해요. 직원들은 친절하고, 매일매일 기분을 좋게 만들어주는 서비스로 인상적인 휴가를 완성해 줘요. 미식가들이라면 이곳의 요리도 놓치지 말아야 해요. 현지의 맛을 각인시킬 수 있는 다양한 메뉴가 마련되어 있답니다.
+
+[Hotel Auberge de la Vieille Tour](https://www.agoda.com/ko-kr/auberge-de-la-vieille-tour/hotel/all/gosier-gp.html)
+ 
+
+
+## 결론
+
+이제 *궁극의 휴식*과 *재충전*을 위해 완벽한 선택지를 고려해보세요. **카넬라 비치 호텔**에서는 파라다이스 같은 풍경과 정원 속 평온함을, **Maison Victoire**에서는 숨겨진 보물 같은 포인테 아 피트르에서의 평화로운 자연을 감상할 수 있습니다. 또한, **La Créole Beach Hotel & Spa**는 해변과 스파를 통해 럭셔리함을 누리고, **Hotel Le Rotabas**에서는 생트-안느의 자연 속에서 여유를 만끽할 수 있습니다. 마지막으로, **Hotel Auberge de la Vieille Tour**는 고지에에서 멋진 해변과 고급스러운 휴식을 제공합니다. 이 모든 호텔은 단순한 숙박을 넘어 특별한 경험을 선사하며, 각자의 매력으로 여행의 하루하루를 빛내줄 것입니다. 지금 바로 예약하여 *잊지 못할 휴가*를 계획하세요! 
+
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"고시어와 주변 항구의 매력, 캐넬라 비치와 생트 안의 낭만 휴양"}],["$","data",null,{"children":"2025-08-12T01:01:46.450Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"중미 및 카리브해"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"해변"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"열대정원"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"현대적"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"편안함"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"절경"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"현지요리"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"휴양지"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"자연경관"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"포인트아피트르"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"현지음식"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"럭셔리"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"스파"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"가족"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"액티비티"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"힐링"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"열대"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"환대"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"조식"}]}],["$","li","[object Object]_19",{"children":["$","span",null,{"children":"자연"}]}],["$","li","[object Object]_20",{"children":["$","span",null,{"children":"들뜬다"}]}],["$","li","[object Object]_21",{"children":["$","span",null,{"children":"고급스럽음"}]}],["$","li","[object Object]_22",{"children":["$","span",null,{"children":"편의시설"}]}],["$","li","[object Object]_23",{"children":["$","span",null,{"children":"멋진전망"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"b99624dd","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"고시어와 주변 항구에서의 특별한 휴양 체험"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요. 여행을 사랑하는 여러분, ",["$","strong",null,{"className":"font-black","children":"달마야 여행가자의 달마"}],"입니다. 고시어와 주변 항구는 프랑스령 과들루프에서 놓치지 말아야 할 매력적인 여행지에요. 이곳은 따스한 햇살과 푸른 바다가 함께 해주는 낭만적인 휴양의 최적지랍니다. 고시어의 ",["$","strong",null,{"className":"font-black","children":"캐넬라 비치"}],"에 발을 디디는 순간, 여러분은 그 누구보다도 특별하고 여유로운 시간을 만끽할 수 있을 거예요. 특히, 인근 생트 안은 조용한 해변과 아름다운 경관으로 많은 여행자의 사랑을 받고 있는데요. 차 한잔하며 파도가 잔잔히 치는 모습을 보는 그 순간, 머릿속의 복잡함도 사라지지 않을까요? 곧 여러분을 기다리고 있는 이곳에서, 바다의 소리를 들으며 잊지 못할 추억을 만들어 보세요!"]}],"\n",["$","h2",null,{"id":"c245b01d","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"낙원의 숨결을 느끼다"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["카넬라 비치 호텔 (Canella Beach Hotel)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/66361/0/6ca0a3f4aa8fcf144a931b4205eb52ec.jpeg","alt":"카넬라 비치 호텔 (Canella Beach Hotel)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/626194655.jpg","alt":"카넬라 비치 호텔 (Canella Beach Hotel)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/property/66361/0/1b5194e29fec4fee7b9953aa068a088c.jpeg","alt":"카넬라 비치 호텔 (Canella Beach Hotel)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"바다가 펼쳐진 아름다운 경치와 함께하는 휴식을 꿈꾸시나요? 이곳에서는 해변과 열대 정원이 조화롭게 어우러져 완벽한 휴가를 만끽할 수 있어요. 고세르에 위치한 호텔의 객실은 현대적인 감각과 편안함을 동시에 제공하며, 각 객실에서 바다가 보이는 환상적인 전망을 자랑해요. 아침에 눈을 뜨면 설레는 바다의 속삭임이 가득한 이곳에서 하루를 시작해 보세요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이 호텔은 다양한 편의시설과 서비스로 고객의 기대를 넘어서고 있어요. 친절한 직원들의 세심한 서비스는 여러분의 여행을 더욱 특별하게 만들어 줄 거예요. 수영장에서 해수욕을 즐기거나 호텔 레스토랑에서 제공하는 맛있는 현지 요리를 맛보세요. 긴장을 풀고 휴식을 취할 때, 진정한 힐링이 무엇인지 깨닫게 될 거예요. 낙원 같은 이 호텔에서의 경험, 한 번쯤 계획해 보시는 건 어떨까요?"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/canella-beach-hotel/hotel/all/gosier-gp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/canella-beach-hotel/hotel/all/gosier-gp.html"},"children":[{"type":"text","value":"카넬라 비치 호텔 (Canella Beach Hotel)","position":{"start":{"line":20,"column":2,"offset":1213},"end":{"line":20,"column":33,"offset":1244}}}],"position":{"start":{"line":20,"column":1,"offset":1212},"end":{"line":20,"column":108,"offset":1319}}},"children":"카넬라 비치 호텔 (Canella Beach Hotel)"},"post":{"id":"e937813d-5ef3-4bb8-b2dd-c98f0537d665","title":"고시어와 주변 항구의 매력, 캐넬라 비치와 생트 안의 낭만 휴양","fileName":"고시어-항구-매력-휴양-e937813d","description":"고시어와 생트 안 지역은 캐넬라 비치 호텔, 오베르지 드 라 비에리 투르, 호텔 르 로타바스 등 매력적인 숙소가 가득합니다. 바다의 아름다움을 만끽할 수 있는 이곳에서는 여유로운 힐링이 가능합니다. 메종 빅토리와 라 크리올 비치는 다양한 편의시설을 제공하며 인근의 풍부한 자연과 항구 도시의 매력을 느낄 수 있습니다.","date":"2025-08-12T01:01:46.450Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"열대정원","path":"$$/kr/tags/열대정원","id":"열대정원"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"절경","path":"$$/kr/tags/절경","id":"절경"},{"name":"현지요리","path":"$$/kr/tags/현지요리","id":"현지요리"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"자연경관","path":"$$/kr/tags/자연경관","id":"자연경관"},{"name":"포인트아피트르","path":"$$/kr/tags/포인트아피트르","id":"포인트아피트르"},{"name":"현지음식","path":"$$/kr/tags/현지음식","id":"현지음식"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"액티비티","path":"$$/kr/tags/액티비티","id":"액티비티"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"열대","path":"$$/kr/tags/열대","id":"열대"},{"name":"환대","path":"$$/kr/tags/환대","id":"환대"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"들뜬다","path":"$$/kr/tags/들뜬다","id":"들뜬다"},{"name":"고급스럽음","path":"$$/kr/tags/고급스럽음","id":"고급스럽음"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"멋진전망","path":"$$/kr/tags/멋진전망","id":"멋진전망"}],"banner":"/images/14702-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"고시어-항구-매력-휴양-e937813d","content":"$d","category":"articles","readMin":"7.1"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"ea654c5e","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"목가적인 휴양지의 비밀"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/444696689.jpg","alt":"Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/444695624.jpg","alt":"Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/444693564.jpg","alt":"Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["바쁜 도시의 일상을 뒤로 하고 한적한 곳에서의 휴식을 꿈꾸고 계신가요? 그런 분들에게 적합한 장소가 바로 여기에 있어요. 초록빛 바다와 아름다운 자연 경관이 어우러진 ",["$","strong",null,{"className":"font-black","children":"포인트 아 피트르"}],"의 작은 보물, 바로 ",["$","strong",null,{"className":"font-black","children":"이곳"}],"이에요. 이 호텔은 고운 모래사장과 가까운 곳에 위치해 있어, 한 걸음 내딛으면 바다 소리가 귀에 닿는 경험을 선사해요. 여유롭고 편안한 시간을 보내기에 더할 나위 없이 좋아요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["근처의 다양한 해양 활동, 편안한 객실, 친절한 직원들이 방문객을 ",["$","strong",null,{"className":"font-black","children":"기다리고"}]," 있어요. 또한 맛있는 현지 음식을 맛볼 수 있는 식당들도 가깝답니다. 이곳의 매력은 남다른 서비스와 따뜻한 환대에서도 찾아볼 수 있어요. 스트레스는 잠시 잊고, 눈 앞에 펼쳐진 에메랄드빛 바다에 빠져보세요. 자연과 문화가 조화를 이루는 이곳은 정말 잊을 수 없는 추억을 만들어 줄 거예요. ",["$","strong",null,{"className":"font-black","children":"여행의 피로를 풀기에"}]," 완벽한 선택이랍니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/maison-victoire-pointe-a-pitre/hotel/all/baimbridge-gp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/maison-victoire-pointe-a-pitre/hotel/all/baimbridge-gp.html"},"children":[{"type":"text","value":"Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)","position":{"start":{"line":33,"column":2,"offset":2438},"end":{"line":33,"column":101,"offset":2537}}}],"position":{"start":{"line":33,"column":1,"offset":2437},"end":{"line":33,"column":191,"offset":2627}}},"children":"Maison Victoire, boutique hôtel - Pointe-à-Pitre (Maison Victoire, boutique hotel - Pointe-a-Pitre)"},"post":{"id":"e937813d-5ef3-4bb8-b2dd-c98f0537d665","title":"고시어와 주변 항구의 매력, 캐넬라 비치와 생트 안의 낭만 휴양","fileName":"고시어-항구-매력-휴양-e937813d","description":"고시어와 생트 안 지역은 캐넬라 비치 호텔, 오베르지 드 라 비에리 투르, 호텔 르 로타바스 등 매력적인 숙소가 가득합니다. 바다의 아름다움을 만끽할 수 있는 이곳에서는 여유로운 힐링이 가능합니다. 메종 빅토리와 라 크리올 비치는 다양한 편의시설을 제공하며 인근의 풍부한 자연과 항구 도시의 매력을 느낄 수 있습니다.","date":"2025-08-12T01:01:46.450Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"열대정원","path":"$$/kr/tags/열대정원","id":"열대정원"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"절경","path":"$$/kr/tags/절경","id":"절경"},{"name":"현지요리","path":"$$/kr/tags/현지요리","id":"현지요리"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"자연경관","path":"$$/kr/tags/자연경관","id":"자연경관"},{"name":"포인트아피트르","path":"$$/kr/tags/포인트아피트르","id":"포인트아피트르"},{"name":"현지음식","path":"$$/kr/tags/현지음식","id":"현지음식"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"액티비티","path":"$$/kr/tags/액티비티","id":"액티비티"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"열대","path":"$$/kr/tags/열대","id":"열대"},{"name":"환대","path":"$$/kr/tags/환대","id":"환대"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"들뜬다","path":"$$/kr/tags/들뜬다","id":"들뜬다"},{"name":"고급스럽음","path":"$$/kr/tags/고급스럽음","id":"고급스럽음"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"멋진전망","path":"$$/kr/tags/멋진전망","id":"멋진전망"}],"banner":"/images/14702-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"고시어-항구-매력-휴양-e937813d","content":"$e","category":"articles","readMin":"7.1"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"9b14007e","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"파라다이스 해변에서 누리는 휴식"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["La Créole Beach Hotel & Spa\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/369262243.jpg","alt":"La Créole Beach Hotel & Spa_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/87874732.jpg","alt":"La Créole Beach Hotel & Spa_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/property/32747806/0/ee112ac6c8a331b51bcd360fbe46679f.jpeg","alt":"La Créole Beach Hotel & Spa_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"일상을 탈출해 럭셔리한 경험을 원하신다면, 이곳은 최적의 선택이 될 거예요. 편안한 인테리어의 객실에서 커피 한 잔을 즐기며 일출을 바라보는 아침은 그야말로 꿈같아요. 해변과 바로 연결된 스파에서는 진정한 힐링이 무엇인지 몸소 느낄 수 있을 겁니다. 다양한 수상 스포츠뿐만 아니라, 맛있는 현지 요리와 더불어 해변 근처에서 여유롭게 시간을 보내보세요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"가족과 함께 보내기에도 탁월한 이 호텔은 다양한 액티비티와 친절한 서비스로 손님들을 맞이해요. 객실은 깔끔하게 관리되어 있고, 직원들은 언제나 친근하고 도움을 주려고 최선을 다해요. 그들의 따뜻한 미소 덕분에 이곳이 한층 더 특별하게 느껴지죠. 모든 것이 완벽하게 조화를 이루는 이곳에서 잊지 못할 추억을 만들어 보는 것도 좋을 것 같아요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/la-creole-beach-hotel-spa/hotel/default-city-km.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/la-creole-beach-hotel-spa/hotel/default-city-km.html"},"children":[{"type":"text","value":"La Créole Beach Hotel & Spa","position":{"start":{"line":46,"column":2,"offset":3406},"end":{"line":46,"column":29,"offset":3433}}}],"position":{"start":{"line":46,"column":1,"offset":3405},"end":{"line":46,"column":112,"offset":3516}}},"children":"La Créole Beach Hotel & Spa"},"post":{"id":"e937813d-5ef3-4bb8-b2dd-c98f0537d665","title":"고시어와 주변 항구의 매력, 캐넬라 비치와 생트 안의 낭만 휴양","fileName":"고시어-항구-매력-휴양-e937813d","description":"고시어와 생트 안 지역은 캐넬라 비치 호텔, 오베르지 드 라 비에리 투르, 호텔 르 로타바스 등 매력적인 숙소가 가득합니다. 바다의 아름다움을 만끽할 수 있는 이곳에서는 여유로운 힐링이 가능합니다. 메종 빅토리와 라 크리올 비치는 다양한 편의시설을 제공하며 인근의 풍부한 자연과 항구 도시의 매력을 느낄 수 있습니다.","date":"2025-08-12T01:01:46.450Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"열대정원","path":"$$/kr/tags/열대정원","id":"열대정원"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"절경","path":"$$/kr/tags/절경","id":"절경"},{"name":"현지요리","path":"$$/kr/tags/현지요리","id":"현지요리"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"자연경관","path":"$$/kr/tags/자연경관","id":"자연경관"},{"name":"포인트아피트르","path":"$$/kr/tags/포인트아피트르","id":"포인트아피트르"},{"name":"현지음식","path":"$$/kr/tags/현지음식","id":"현지음식"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"액티비티","path":"$$/kr/tags/액티비티","id":"액티비티"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"열대","path":"$$/kr/tags/열대","id":"열대"},{"name":"환대","path":"$$/kr/tags/환대","id":"환대"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"들뜬다","path":"$$/kr/tags/들뜬다","id":"들뜬다"},{"name":"고급스럽음","path":"$$/kr/tags/고급스럽음","id":"고급스럽음"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"멋진전망","path":"$$/kr/tags/멋진전망","id":"멋진전망"}],"banner":"/images/14702-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"고시어-항구-매력-휴양-e937813d","content":"$f","category":"articles","readMin":"7.1"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"bf596ece","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"열대의 매력, 생트-안느의 빛"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Hotel Le Rotabas\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/213033/0/8b66dcee01108057a63700c22c366fc0.jpeg","alt":"Hotel Le Rotabas_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/property/68221145/0/033f8f6870c6594803576a058721e295.jpeg","alt":"Hotel Le Rotabas_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/672954166.jpg","alt":"Hotel Le Rotabas_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"푸른 바다와 화창한 햇살이 가득한 생트-안느에서 작은 천국을 만끽할 수 있는 곳이 있죠. 바로 호텔 르 로타바스예요. 여기서는 현대적이면서도 열대 지역 고유의 감각을 살린 객실에서 일어나 창문을 열면, 바람에 실려오는 바다의 향과 함께 하루를 시작할 수 있어요. 객실은 깔끔하고, 필요한 모든 것이 잘 준비되어 있어 단순히 쉬는 것 이상으로 특별한 경험을 제공합니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"호텔 르 로타바스에서의 아침은 맛있는 조식으로 하루를 활기차게 시작하기에 안성맞춤이에요. 친절한 스태프들은 언제나 도움을 주려고 노력하며, 그들의 환대는 여행의 피로를 풀어줍니다. 주변에는 아름다운 해변과 열대 정원이 있어, 산책을 나가거나 해변에서 한가로이 시간을 보낼 수 있어요. 이곳에서의 시간은 마치 시간이 멈춘 것 같은 느낌을 주며, 진정한 휴식을 제공합니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/hotel-le-rotabas/hotel/all/sainte-anne-gp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/hotel-le-rotabas/hotel/all/sainte-anne-gp.html"},"children":[{"type":"text","value":"Hotel Le Rotabas","position":{"start":{"line":59,"column":2,"offset":4293},"end":{"line":59,"column":18,"offset":4309}}}],"position":{"start":{"line":59,"column":1,"offset":4292},"end":{"line":59,"column":95,"offset":4386}}},"children":"Hotel Le Rotabas"},"post":{"id":"e937813d-5ef3-4bb8-b2dd-c98f0537d665","title":"고시어와 주변 항구의 매력, 캐넬라 비치와 생트 안의 낭만 휴양","fileName":"고시어-항구-매력-휴양-e937813d","description":"고시어와 생트 안 지역은 캐넬라 비치 호텔, 오베르지 드 라 비에리 투르, 호텔 르 로타바스 등 매력적인 숙소가 가득합니다. 바다의 아름다움을 만끽할 수 있는 이곳에서는 여유로운 힐링이 가능합니다. 메종 빅토리와 라 크리올 비치는 다양한 편의시설을 제공하며 인근의 풍부한 자연과 항구 도시의 매력을 느낄 수 있습니다.","date":"2025-08-12T01:01:46.450Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"열대정원","path":"$$/kr/tags/열대정원","id":"열대정원"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"절경","path":"$$/kr/tags/절경","id":"절경"},{"name":"현지요리","path":"$$/kr/tags/현지요리","id":"현지요리"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"자연경관","path":"$$/kr/tags/자연경관","id":"자연경관"},{"name":"포인트아피트르","path":"$$/kr/tags/포인트아피트르","id":"포인트아피트르"},{"name":"현지음식","path":"$$/kr/tags/현지음식","id":"현지음식"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"액티비티","path":"$$/kr/tags/액티비티","id":"액티비티"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"열대","path":"$$/kr/tags/열대","id":"열대"},{"name":"환대","path":"$$/kr/tags/환대","id":"환대"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"들뜬다","path":"$$/kr/tags/들뜬다","id":"들뜬다"},{"name":"고급스럽음","path":"$$/kr/tags/고급스럽음","id":"고급스럽음"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"멋진전망","path":"$$/kr/tags/멋진전망","id":"멋진전망"}],"banner":"/images/14702-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"고시어-항구-매력-휴양-e937813d","content":"$10","category":"articles","readMin":"7.1"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"8cc15d76","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"고지에의 해변 조망과 고급 휴식"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Hotel Auberge de la Vieille Tour\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/188664/0/9c1553e11006945c5d9b79cf222aa5da.jpeg","alt":"Hotel Auberge de la Vieille Tour_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/721434506.jpg","alt":"Hotel Auberge de la Vieille Tour_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/366017118.jpg","alt":"Hotel Auberge de la Vieille Tour_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"고지에에 위치한 이 멋진 리조트는 푸른 해변을 감상할 수 있는 완벽한 장소예요. 매일 아침, 푸른 바다와 고요한 파도가 어우러지는 풍경을 바라보며 커피 한잔을 마시며 휴식을 취하는 건 어떨까요? 프랑스령 카리브 해의 매력을 만끽할 수 있는 이곳은 여행자들에게 새로운 하루를 열어주죠."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"또한, 이 호텔은 손쉽게 갈 수 있는 다양한 편의 시설과 고급스러운 객실을 자랑해요. 직원들은 친절하고, 매일매일 기분을 좋게 만들어주는 서비스로 인상적인 휴가를 완성해 줘요. 미식가들이라면 이곳의 요리도 놓치지 말아야 해요. 현지의 맛을 각인시킬 수 있는 다양한 메뉴가 마련되어 있답니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/auberge-de-la-vieille-tour/hotel/all/gosier-gp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/auberge-de-la-vieille-tour/hotel/all/gosier-gp.html"},"children":[{"type":"text","value":"Hotel Auberge de la Vieille Tour","position":{"start":{"line":72,"column":2,"offset":5121},"end":{"line":72,"column":34,"offset":5153}}}],"position":{"start":{"line":72,"column":1,"offset":5120},"end":{"line":72,"column":116,"offset":5235}}},"children":"Hotel Auberge de la Vieille Tour"},"post":{"id":"e937813d-5ef3-4bb8-b2dd-c98f0537d665","title":"고시어와 주변 항구의 매력, 캐넬라 비치와 생트 안의 낭만 휴양","fileName":"고시어-항구-매력-휴양-e937813d","description":"고시어와 생트 안 지역은 캐넬라 비치 호텔, 오베르지 드 라 비에리 투르, 호텔 르 로타바스 등 매력적인 숙소가 가득합니다. 바다의 아름다움을 만끽할 수 있는 이곳에서는 여유로운 힐링이 가능합니다. 메종 빅토리와 라 크리올 비치는 다양한 편의시설을 제공하며 인근의 풍부한 자연과 항구 도시의 매력을 느낄 수 있습니다.","date":"2025-08-12T01:01:46.450Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"열대정원","path":"$$/kr/tags/열대정원","id":"열대정원"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"절경","path":"$$/kr/tags/절경","id":"절경"},{"name":"현지요리","path":"$$/kr/tags/현지요리","id":"현지요리"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"자연경관","path":"$$/kr/tags/자연경관","id":"자연경관"},{"name":"포인트아피트르","path":"$$/kr/tags/포인트아피트르","id":"포인트아피트르"},{"name":"현지음식","path":"$$/kr/tags/현지음식","id":"현지음식"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"액티비티","path":"$$/kr/tags/액티비티","id":"액티비티"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"열대","path":"$$/kr/tags/열대","id":"열대"},{"name":"환대","path":"$$/kr/tags/환대","id":"환대"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"들뜬다","path":"$$/kr/tags/들뜬다","id":"들뜬다"},{"name":"고급스럽음","path":"$$/kr/tags/고급스럽음","id":"고급스럽음"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"멋진전망","path":"$$/kr/tags/멋진전망","id":"멋진전망"}],"banner":"/images/14702-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"고시어-항구-매력-휴양-e937813d","content":"$11","category":"articles","readMin":"7.1"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이제 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"궁극의 휴식"}],"과 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"재충전"}],"을 위해 완벽한 선택지를 고려해보세요. ",["$","strong",null,{"className":"font-black","children":"카넬라 비치 호텔"}],"에서는 파라다이스 같은 풍경과 정원 속 평온함을, ",["$","strong",null,{"className":"font-black","children":"Maison Victoire"}],"에서는 숨겨진 보물 같은 포인테 아 피트르에서의 평화로운 자연을 감상할 수 있습니다. 또한, ",["$","strong",null,{"className":"font-black","children":"La Créole Beach Hotel & Spa"}],"는 해변과 스파를 통해 럭셔리함을 누리고, ",["$","strong",null,{"className":"font-black","children":"Hotel Le Rotabas"}],"에서는 생트-안느의 자연 속에서 여유를 만끽할 수 있습니다. 마지막으로, ",["$","strong",null,{"className":"font-black","children":"Hotel Auberge de la Vieille Tour"}],"는 고지에에서 멋진 해변과 고급스러운 휴식을 제공합니다. 이 모든 호텔은 단순한 숙박을 넘어 특별한 경험을 선사하며, 각자의 매력으로 여행의 하루하루를 빛내줄 것입니다. 지금 바로 예약하여 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"잊지 못할 휴가"}],"를 계획하세요!"]}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"고시어와 주변 항구의 매력, 캐넬라 비치와 생트 안의 낭만 휴양","toc":[{"tagName":"h2","title":"고시어와 주변 항구에서의 특별한 휴양 체험","id":"b99624dd"},{"tagName":"h2","title":"낙원의 숨결을 느끼다","id":"c245b01d"},{"tagName":"h2","title":"목가적인 휴양지의 비밀","id":"ea654c5e"},{"tagName":"h2","title":"파라다이스 해변에서 누리는 휴식","id":"9b14007e"},{"tagName":"h2","title":"열대의 매력, 생트-안느의 빛","id":"bf596ece"},{"tagName":"h2","title":"고지에의 해변 조망과 고급 휴식","id":"8cc15d76"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

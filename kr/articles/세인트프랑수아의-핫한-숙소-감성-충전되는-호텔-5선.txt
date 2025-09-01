@@ -1,0 +1,399 @@
+1:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/faaaebde45bfcdd4.css",{"as":"style"}]
+0:["FL5qPEDR-MTJ47-06Xiua",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%EC%84%B8%EC%9D%B8%ED%8A%B8%ED%94%84%EB%9E%91%EC%88%98%EC%95%84%EC%9D%98-%ED%95%AB%ED%95%9C-%EC%88%99%EC%86%8C-%EA%B0%90%EC%84%B1-%EC%B6%A9%EC%A0%84%EB%90%98%EB%8A%94-%ED%98%B8%ED%85%94-5%EC%84%A0","d"],{"children":["__PAGE__?{\"slug\":\"세인트프랑수아의-핫한-숙소-감성-충전되는-호텔-5선\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/faaaebde45bfcdd4.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-21fed9d4f5b142b6.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_e8ce0c","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%EC%84%B8%EC%9D%B8%ED%8A%B8%ED%94%84%EB%9E%91%EC%88%98%EC%95%84%EC%9D%98-%ED%95%AB%ED%95%9C-%EC%88%99%EC%86%8C-%EA%B0%90%EC%84%B1-%EC%B6%A9%EC%A0%84%EB%90%98%EB%8A%94-%ED%98%B8%ED%85%94-5%EC%84%A0","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"세인트프랑수아의-핫한-숙소-감성-충전되는-호텔-5선\"}"},"styles":[]}],"segment":["slug","%EC%84%B8%EC%9D%B8%ED%8A%B8%ED%94%84%EB%9E%91%EC%88%98%EC%95%84%EC%9D%98-%ED%95%AB%ED%95%9C-%EC%88%99%EC%86%8C-%EA%B0%90%EC%84%B1-%EC%B6%A9%EC%A0%84%EB%90%98%EB%8A%94-%ED%98%B8%ED%85%94-5%EC%84%A0","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"세인트프랑수아의 핫한 숙소, 감성 충전되는 호텔 5선 | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"멋진 경관과 편안한 휴식을 동시에 누리고 싶다면 세인트프랑수아의 이 호텔들을 주목해보세요. Le Relais du Moulin Hotel de Charme & Spa에서는 매 순간이 로맨틱한 추억으로 남을 거예요. Residence de Tourisme Domaine Saint-Francois는 독특한 인테리어와 편리한 시설로 유명합니다. Hotel Guadeloupe Palm Suites는 가족 여행객들에게 특히 추천하는 숙소로, 안락한 객실과 다양한 편의시설이 매력적입니다. Hotel Villa Le Cocotel는 한적한 분위기 속에서도 고급스러움을 잃지 않은 공간으로, 완벽한 힐링을 선사합니다. 마지막으로 Hotel Amaudo는 환상적인 바다 전망이 돋보이는 숙소로, 매일 아침 일출을 감상할 수 있는 최고의 호텔입니다. 이제 당신도 이곳에서 진정한 휴식을 경험해보세요."}],["$","meta","3",{"name":"keywords","content":"중미 및 카리브해,낙원,럭셔리,자연,평화,힐링,스파,조식,휴양지,바다 전망,자연 경관,산책로,현지 음식,해변,수영장,친절,편안한,가족,낭만적,친절함,편의시설,골프장,카리브해,편안한 숙박,친절한 직원,풀장,신선한 아침식사,접근성"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%EC%84%B8%EC%9D%B8%ED%8A%B8%ED%94%84%EB%9E%91%EC%88%98%EC%95%84%EC%9D%98-%ED%95%AB%ED%95%9C-%EC%88%99%EC%86%8C-%EA%B0%90%EC%84%B1-%EC%B6%A9%EC%A0%84%EB%90%98%EB%8A%94-%ED%98%B8%ED%85%94-5%EC%84%A0"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"세인트프랑수아의 핫한 숙소, 감성 충전되는 호텔 5선 | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"세인트프랑수아의 핫한 숙소, 감성 충전되는 호텔 5선 | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"멋진 경관과 편안한 휴식을 동시에 누리고 싶다면 세인트프랑수아의 이 호텔들을 주목해보세요. Le Relais du Moulin Hotel de Charme & Spa에서는 매 순간이 로맨틱한 추억으로 남을 거예요. Residence de Tourisme Domaine Saint-Francois는 독특한 인테리어와 편리한 시설로 유명합니다. Hotel Guadeloupe Palm Suites는 가족 여행객들에게 특히 추천하는 숙소로, 안락한 객실과 다양한 편의시설이 매력적입니다. Hotel Villa Le Cocotel는 한적한 분위기 속에서도 고급스러움을 잃지 않은 공간으로, 완벽한 힐링을 선사합니다. 마지막으로 Hotel Amaudo는 환상적인 바다 전망이 돋보이는 숙소로, 매일 아침 일출을 감상할 수 있는 최고의 호텔입니다. 이제 당신도 이곳에서 진정한 휴식을 경험해보세요."}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%EC%84%B8%EC%9D%B8%ED%8A%B8%ED%94%84%EB%9E%91%EC%88%98%EC%95%84%EC%9D%98-%ED%95%AB%ED%95%9C-%EC%88%99%EC%86%8C-%EA%B0%90%EC%84%B1-%EC%B6%A9%EC%A0%84%EB%90%98%EB%8A%94-%ED%98%B8%ED%85%94-5%EC%84%A0"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/103148-1x1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"세인트프랑수아의 핫한 숙소, 감성 충전되는 호텔 5선 | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"멋진 경관과 편안한 휴식을 동시에 누리고 싶다면 세인트프랑수아의 이 호텔들을 주목해보세요. Le Relais du Moulin Hotel de Charme & Spa에서는 매 순간이 로맨틱한 추억으로 남을 거예요. Residence de Tourisme Domaine Saint-Francois는 독특한 인테리어와 편리한 시설로 유명합니다. Hotel Guadeloupe Palm Suites는 가족 여행객들에게 특히 추천하는 숙소로, 안락한 객실과 다양한 편의시설이 매력적입니다. Hotel Villa Le Cocotel는 한적한 분위기 속에서도 고급스러움을 잃지 않은 공간으로, 완벽한 힐링을 선사합니다. 마지막으로 Hotel Amaudo는 환상적인 바다 전망이 돋보이는 숙소로, 매일 아침 일출을 감상할 수 있는 최고의 호텔입니다. 이제 당신도 이곳에서 진정한 휴식을 경험해보세요."}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/103148-1x1.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+12:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+d:T2d05,
+    
+
+
+## 세인트프랑수아에서 감성을 충전할 수 있는 호텔 5곳
+
+안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 프랑스령 카리브해의 숨은 보석, **세인트프랑수아**에서 감성을 완전히 충전할 수 있는 멋진 호텔 5곳을 소개하려고 해요. 이 지역은 아름다운 해변과 따뜻한 기후로 많은 여행객들의 사랑을 받고 있는데요, 그 중에서도 특별히 **편안하고 독특한 경험**을 제공하는 호텔들을 엄선했어요. 여러분이 꿈꾸는 완벽한 휴가를 세인트프랑수아에서 보내실 수 있도록, 지금부터 저와 함께 떠나보시죠! 지금 소개할 호텔들은 분위기와 서비스가 일품으로, 각자의 특색을 살려 최상의 휴식을 선사한답니다. 팔로우해주시고 꼼꼼히 체크해보세요!
+
+
+## 천국 같은 휴식 공간
+르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)
+    ![르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/377584247.jpg?k=1afed564ba8ddb08721f7af1b18002374f2cdf8fef2aba1f489f92419a9a8be4&s=450x450)
+![르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/550321915.jpg?k=3735680656d71a8f8a53786f1548ead95bba48216f53f33cf305fd43445a6a87&s=50x50)
+![르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/124261763.jpg?k=32ec1b7a137d7288507b424d8ff25f846306578741cfbe53c972804911e3f2cf&s=50x50)
+
+열대 낙원 속에서의 완벽한 휴식을 상상해 보세요. 하얀 모래사장과 투명한 바다를 배경으로 펼쳐진 이곳에서, 일상에서 벗어나 편안한 평화를 만끽할 수 있어요. **리레 두 뮐랭 호텔**은 매혹적인 자연경관과 탁월한 서비스로 투숙객들에게 잊지 못할 경험을 선사합니다. 매일 아침 신선한 지역 재료로 만든 맛있는 조식을 즐기며 하루를 시작해 보세요. 거기에 더해, 스파와 웰니스 프로그램은 몸과 마음을 모두 힐링하는 데 완벽해요. 이곳에 머무는 동안 호텔의 친절한 직원들이 여러분의 모든 필요를 신속하고 친절하게 도와줄 거예요. 주변 환경과 조화롭게 어우러진 객실들은 입맛에 맞는 럭셔리함을 제공합니다. 넓은 발코니에서 바람을 느끼며 저녁을 맞이하거나, 야외 수영장에 몸을 담그며 햇살을 만끽할 수도 있답니다. 호텔의 위치는 주요 관광지와 가까워 다양한 액티비티를 즐기기에도 안성맞춤이에요. **리레 두 뮐랭 호텔**에서의 하루는 매 순간 평화롭고 특별할 것입니다. 절대 놓칠 수 없는 이 기회를 지금 바로 예약해 보세요.
+
+[르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)](https://www.agoda.com/ko-kr/le-relais-du-moulin-hotel-de-charme-spa/hotel/sainte-anne-gp.html)
+ 
+
+## 완벽한 휴양지 발견!
+Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)
+    ![Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/501899349.jpg?k=64c7e9d8a89361aa3bc359403c4e4c0ddc73b31c2fa1c58625b1339647438161&s=450x450)
+![Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/249459127.jpg?k=42417695b2ac1da5b40e1d88be39ac26b45f6d7fb74d5374940e16c0037afbe4&s=50x50)
+![Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/340180374.jpg?k=d5fd96921b03831406b4c3791980728c3b9fbbeb6d2dc08dc60492b466573e4f&s=50x50)
+
+세인트 프랑소와에 위치한 이 레지던스는 일상에서 벗어나 평화로운 휴식을 즐기기에 완벽한 장소에요. 여기서는 *탁 트인 바다*와 *푸른 하늘* 아래에서 하루를 시작할 수 있답니다. 특별히 아침마다 제공되는 신선한 현지 과일들은 하루를 상쾌하게 만들어줄 거예요. 수영장에서도 맑고 깨끗한 물에서 시원하게 놀 수 있어서 더운 날씨에도 문제가 없어요!😎
+
+이곳의 특별한 포인트는 여유로운 *산책로*와 *놀라운 자연 경관*이에요. 저녁 시간에는 빛나는 야경과 함께 산책을 즐기며 스트레스를 날려 버리세요. 물론, 주변에 위치한 작은 레스토랑들에서는 다양한 현지 음식을 맛볼 수 있어요! 친절한 직원들도 여러분의 편안한 휴식을 돕기 위해 항상 준비되어 있답니다. *완벽한 휴가*는 바로 이곳에서 시작될 거예요.
+
+[Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)](https://www.agoda.com/ko-kr/residence-de-tourisme-domaine-saint-francois/hotel/all/saint-francois-gp.html)
+ 
+
+## 지상 낙원에서의 완벽한 휴식
+Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)
+    ![Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/403120096.jpg?k=17b75c89dc896c4f05cb4791e461e44f99e6e937ff0be0dd6f1fbb7fa71e2594&s=450x450)
+![Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405846838.jpg?k=d018d46d236fb35b41f72541c532187345b052ee282edafb9f63f5b9dc30f875&s=50x50)
+![Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405844321.jpg?k=e88db56bbdf50ec36d542931640e7b31dd76edbd647cc262921c6f6e50d96f5c&s=50x50)
+
+여행을 계획할 때 가장 중요한 요소 중 하나는 바로 숙소 선택이에요. 많은 여행자들이 선호하는 **호텔**은 안락함과 편리함 모두를 갖춘 곳이어야 하죠. *Guadeloupe Palm Suites*는 그런 면에서 정말 탁월한 선택이에요. 이 호텔은 아름다운 푸른 바다와 밀접해 있어서, 호텔 문을 나서면 바로 **아름다운 해변**이 펼쳐져요. 또한, 호텔 내 시설들도 훌륭한데, 특히 수영장은 **리조트처럼 넓고 깨끗**해요. 하루의 피로를 풀기에 딱 좋은 공간이죠.
+
+호텔의 객실도 아주 만족스러워요. 넓은 공간과 깔끔한 인테리어는 여행자의 마음을 사로잡기에 충분해요. 또한, 호텔 직원들의 친절한 서비스는 누구나 느낄 수 있답니다. 그들의 친절한 미소와 세심한 배려 덕분에 마음 편히 쉴 수 있었어요. 여행 중에도 **편안한 휴식**을 원하는 분들께 이 호텔을 강력히 추천드려요. 기자재와 편의시설도 잘 갖춰져 있어서 가족 여행이나 친구들과의 여행 모두에게 안성맞춤이에요.
+
+[Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)](https://www.agoda.com/ko-kr/hotel-guadeloupe-palm-suites/hotel/all/saint-francois-gp.html)
+ 
+
+## 카리브해의 낭만적인 휴양지
+Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)
+    ![Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/517784733.jpg?k=11e671d6f384138097bf74734ceee3fbf80977af3f59a4dd4170909a9138f0e8&s=450x450)
+![Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/446006312.jpg?k=8e8e559cd6215b4e34887de33cb2c6031c72450530c8e005195b22062009dba4&s=50x50)
+![Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/273269476.jpg?k=135cc01ff068c30aaabd8390092d78e2dc92022f47e77bb5bb8a774d285eb4ef&s=50x50)
+
+세인트프랑소와에 위치한 이 호텔은 주변 자연 풍경과 완벽한 조화를 이루고 있어요. 이곳에서는 푸른 하늘과 맑은 바다를 배경으로 하루를 온전히 즐길 수 있답니다. 많은 사람들이 근처 골프장에서 여유로운 시간도 보내고, 호텔 내 실외 수영장에서 시원하게 몸을 식히기도 해요. 서비스가 뛰어나며 직원들 모두 친절하기 때문에 방문할 때마다 편안함을 느낄 수 있어요. 
+
+신선한 현지 재료로 만들어진 맛있는 아침 식사는 하루를 활기차게 시작하는 데 큰 도움을 줍니다. 발코니에서 바라보는 석양도 일품이라 보는 사람마다 감탄하게 된답니다. 여러 가지 편의 시설과 다양한 체험 활동이 준비되어 있어서 휴식과 모험을 동시에 즐길 수 있어요. 낭만적인 분위기 속에서 편안한 휴양을 원한다면 이 호텔은 최적의 선택이 될 거예요!
+
+[Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)](https://www.agoda.com/ko-kr/hotel-villa-le-cocotel/hotel/all/saint-francois-gp.html)
+ 
+
+## 천국의 숨결을 느끼다
+Hotel Amaudo
+    ![Hotel Amaudo_0_image](https://pix8.agoda.net/hotelImages/541/541590/541590_13111601310017555257.jpg)
+![Hotel Amaudo_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525240676.jpg?k=20d0aa59fabe8c855e728c34d5b6261303ac0601b9d2215e189f7f148845a574&s=50x50)
+![Hotel Amaudo_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525252598.jpg?k=0158ec0ba9f782d4f6bce47967d1f17e976c228f32053d8f2f9d21e175430f92&s=50x50)
+
+카리브해의 **아름다운 경관**은 그 어떤 사진보다 실제로 보는 것이 더 멋져요. 새하얀 모래사장과 맑은 바다는 그 자체로도 최상의 휴양지예요. 호텔 아마우도는 이런 천국 같은 풍경 속에 자리잡고 있어요. 객실의 깔끔함과 편안함은 말할 것도 없고, 그곳에서 보는 바다 전망은 가슴이 탁 트이는 느낌이에요. 
+
+아침 식사는 신선한 과일과 향긋한 커피로 시작되고, 풀장에서 보내는 시간은 너무도 여유롭고 평화로워요. 직원분들은 친절하고 세심해서 마치 집에 있는 것 같은 편안함을 느끼게 해줘요. 관광지와의 접근성도 좋아요. 여러모로 만족스러운 여행을 위한 최고의 선택이라 할 수 있어요.
+
+[Hotel Amaudo](https://www.agoda.com/ko-kr/hotel-amaudo/hotel/all/saint-francois-gp.html)
+ 
+
+
+## 결론
+
+카리브해 돛단배와 함께하는 완벽한 휴식지를 찾고 계신가요? **르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파(Le Relais du Moulin - Hotel de Charme & Spa)**에서는 자연의 평화와 럭셔리를 동시에 만끽할 수 있습니다. **Résidence de tourisme Domaine Saint-François(Residence de tourisme Domaine Saint-Francois)**는 세인트 프랑소와에서 바다 전망과 자연 경관으로 스트레스를 해소하는 완벽한 휴양지를 제공합니다. **Hôtel Guadeloupe Palm Suites(Hotel Guadeloupe Palm Suites)**는 완벽한 해변과 훌륭한 서비스로 편안한 휴식을 선사합니다. **Hôtel & Villa Le Cocotel(Hotel & Villa Le Cocotel)**은 자연과 조화를 이루는 카리브해의 낭만적인 분위기 속에서 편안한 휴양을 즐길 수 있습니다. **Hotel Amaudo**는 자연의 아름다움과 편안함을 동시에 느낄 수 있는 최고의 선택입니다. 지금 바로 예약하여 **잊지 못할 경험**을 만끽하세요!
+
+e:T2d05,
+    
+
+
+## 세인트프랑수아에서 감성을 충전할 수 있는 호텔 5곳
+
+안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 프랑스령 카리브해의 숨은 보석, **세인트프랑수아**에서 감성을 완전히 충전할 수 있는 멋진 호텔 5곳을 소개하려고 해요. 이 지역은 아름다운 해변과 따뜻한 기후로 많은 여행객들의 사랑을 받고 있는데요, 그 중에서도 특별히 **편안하고 독특한 경험**을 제공하는 호텔들을 엄선했어요. 여러분이 꿈꾸는 완벽한 휴가를 세인트프랑수아에서 보내실 수 있도록, 지금부터 저와 함께 떠나보시죠! 지금 소개할 호텔들은 분위기와 서비스가 일품으로, 각자의 특색을 살려 최상의 휴식을 선사한답니다. 팔로우해주시고 꼼꼼히 체크해보세요!
+
+
+## 천국 같은 휴식 공간
+르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)
+    ![르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/377584247.jpg?k=1afed564ba8ddb08721f7af1b18002374f2cdf8fef2aba1f489f92419a9a8be4&s=450x450)
+![르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/550321915.jpg?k=3735680656d71a8f8a53786f1548ead95bba48216f53f33cf305fd43445a6a87&s=50x50)
+![르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/124261763.jpg?k=32ec1b7a137d7288507b424d8ff25f846306578741cfbe53c972804911e3f2cf&s=50x50)
+
+열대 낙원 속에서의 완벽한 휴식을 상상해 보세요. 하얀 모래사장과 투명한 바다를 배경으로 펼쳐진 이곳에서, 일상에서 벗어나 편안한 평화를 만끽할 수 있어요. **리레 두 뮐랭 호텔**은 매혹적인 자연경관과 탁월한 서비스로 투숙객들에게 잊지 못할 경험을 선사합니다. 매일 아침 신선한 지역 재료로 만든 맛있는 조식을 즐기며 하루를 시작해 보세요. 거기에 더해, 스파와 웰니스 프로그램은 몸과 마음을 모두 힐링하는 데 완벽해요. 이곳에 머무는 동안 호텔의 친절한 직원들이 여러분의 모든 필요를 신속하고 친절하게 도와줄 거예요. 주변 환경과 조화롭게 어우러진 객실들은 입맛에 맞는 럭셔리함을 제공합니다. 넓은 발코니에서 바람을 느끼며 저녁을 맞이하거나, 야외 수영장에 몸을 담그며 햇살을 만끽할 수도 있답니다. 호텔의 위치는 주요 관광지와 가까워 다양한 액티비티를 즐기기에도 안성맞춤이에요. **리레 두 뮐랭 호텔**에서의 하루는 매 순간 평화롭고 특별할 것입니다. 절대 놓칠 수 없는 이 기회를 지금 바로 예약해 보세요.
+
+[르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)](https://www.agoda.com/ko-kr/le-relais-du-moulin-hotel-de-charme-spa/hotel/sainte-anne-gp.html)
+ 
+
+## 완벽한 휴양지 발견!
+Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)
+    ![Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/501899349.jpg?k=64c7e9d8a89361aa3bc359403c4e4c0ddc73b31c2fa1c58625b1339647438161&s=450x450)
+![Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/249459127.jpg?k=42417695b2ac1da5b40e1d88be39ac26b45f6d7fb74d5374940e16c0037afbe4&s=50x50)
+![Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/340180374.jpg?k=d5fd96921b03831406b4c3791980728c3b9fbbeb6d2dc08dc60492b466573e4f&s=50x50)
+
+세인트 프랑소와에 위치한 이 레지던스는 일상에서 벗어나 평화로운 휴식을 즐기기에 완벽한 장소에요. 여기서는 *탁 트인 바다*와 *푸른 하늘* 아래에서 하루를 시작할 수 있답니다. 특별히 아침마다 제공되는 신선한 현지 과일들은 하루를 상쾌하게 만들어줄 거예요. 수영장에서도 맑고 깨끗한 물에서 시원하게 놀 수 있어서 더운 날씨에도 문제가 없어요!😎
+
+이곳의 특별한 포인트는 여유로운 *산책로*와 *놀라운 자연 경관*이에요. 저녁 시간에는 빛나는 야경과 함께 산책을 즐기며 스트레스를 날려 버리세요. 물론, 주변에 위치한 작은 레스토랑들에서는 다양한 현지 음식을 맛볼 수 있어요! 친절한 직원들도 여러분의 편안한 휴식을 돕기 위해 항상 준비되어 있답니다. *완벽한 휴가*는 바로 이곳에서 시작될 거예요.
+
+[Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)](https://www.agoda.com/ko-kr/residence-de-tourisme-domaine-saint-francois/hotel/all/saint-francois-gp.html)
+ 
+
+## 지상 낙원에서의 완벽한 휴식
+Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)
+    ![Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/403120096.jpg?k=17b75c89dc896c4f05cb4791e461e44f99e6e937ff0be0dd6f1fbb7fa71e2594&s=450x450)
+![Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405846838.jpg?k=d018d46d236fb35b41f72541c532187345b052ee282edafb9f63f5b9dc30f875&s=50x50)
+![Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405844321.jpg?k=e88db56bbdf50ec36d542931640e7b31dd76edbd647cc262921c6f6e50d96f5c&s=50x50)
+
+여행을 계획할 때 가장 중요한 요소 중 하나는 바로 숙소 선택이에요. 많은 여행자들이 선호하는 **호텔**은 안락함과 편리함 모두를 갖춘 곳이어야 하죠. *Guadeloupe Palm Suites*는 그런 면에서 정말 탁월한 선택이에요. 이 호텔은 아름다운 푸른 바다와 밀접해 있어서, 호텔 문을 나서면 바로 **아름다운 해변**이 펼쳐져요. 또한, 호텔 내 시설들도 훌륭한데, 특히 수영장은 **리조트처럼 넓고 깨끗**해요. 하루의 피로를 풀기에 딱 좋은 공간이죠.
+
+호텔의 객실도 아주 만족스러워요. 넓은 공간과 깔끔한 인테리어는 여행자의 마음을 사로잡기에 충분해요. 또한, 호텔 직원들의 친절한 서비스는 누구나 느낄 수 있답니다. 그들의 친절한 미소와 세심한 배려 덕분에 마음 편히 쉴 수 있었어요. 여행 중에도 **편안한 휴식**을 원하는 분들께 이 호텔을 강력히 추천드려요. 기자재와 편의시설도 잘 갖춰져 있어서 가족 여행이나 친구들과의 여행 모두에게 안성맞춤이에요.
+
+[Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)](https://www.agoda.com/ko-kr/hotel-guadeloupe-palm-suites/hotel/all/saint-francois-gp.html)
+ 
+
+## 카리브해의 낭만적인 휴양지
+Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)
+    ![Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/517784733.jpg?k=11e671d6f384138097bf74734ceee3fbf80977af3f59a4dd4170909a9138f0e8&s=450x450)
+![Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/446006312.jpg?k=8e8e559cd6215b4e34887de33cb2c6031c72450530c8e005195b22062009dba4&s=50x50)
+![Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/273269476.jpg?k=135cc01ff068c30aaabd8390092d78e2dc92022f47e77bb5bb8a774d285eb4ef&s=50x50)
+
+세인트프랑소와에 위치한 이 호텔은 주변 자연 풍경과 완벽한 조화를 이루고 있어요. 이곳에서는 푸른 하늘과 맑은 바다를 배경으로 하루를 온전히 즐길 수 있답니다. 많은 사람들이 근처 골프장에서 여유로운 시간도 보내고, 호텔 내 실외 수영장에서 시원하게 몸을 식히기도 해요. 서비스가 뛰어나며 직원들 모두 친절하기 때문에 방문할 때마다 편안함을 느낄 수 있어요. 
+
+신선한 현지 재료로 만들어진 맛있는 아침 식사는 하루를 활기차게 시작하는 데 큰 도움을 줍니다. 발코니에서 바라보는 석양도 일품이라 보는 사람마다 감탄하게 된답니다. 여러 가지 편의 시설과 다양한 체험 활동이 준비되어 있어서 휴식과 모험을 동시에 즐길 수 있어요. 낭만적인 분위기 속에서 편안한 휴양을 원한다면 이 호텔은 최적의 선택이 될 거예요!
+
+[Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)](https://www.agoda.com/ko-kr/hotel-villa-le-cocotel/hotel/all/saint-francois-gp.html)
+ 
+
+## 천국의 숨결을 느끼다
+Hotel Amaudo
+    ![Hotel Amaudo_0_image](https://pix8.agoda.net/hotelImages/541/541590/541590_13111601310017555257.jpg)
+![Hotel Amaudo_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525240676.jpg?k=20d0aa59fabe8c855e728c34d5b6261303ac0601b9d2215e189f7f148845a574&s=50x50)
+![Hotel Amaudo_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525252598.jpg?k=0158ec0ba9f782d4f6bce47967d1f17e976c228f32053d8f2f9d21e175430f92&s=50x50)
+
+카리브해의 **아름다운 경관**은 그 어떤 사진보다 실제로 보는 것이 더 멋져요. 새하얀 모래사장과 맑은 바다는 그 자체로도 최상의 휴양지예요. 호텔 아마우도는 이런 천국 같은 풍경 속에 자리잡고 있어요. 객실의 깔끔함과 편안함은 말할 것도 없고, 그곳에서 보는 바다 전망은 가슴이 탁 트이는 느낌이에요. 
+
+아침 식사는 신선한 과일과 향긋한 커피로 시작되고, 풀장에서 보내는 시간은 너무도 여유롭고 평화로워요. 직원분들은 친절하고 세심해서 마치 집에 있는 것 같은 편안함을 느끼게 해줘요. 관광지와의 접근성도 좋아요. 여러모로 만족스러운 여행을 위한 최고의 선택이라 할 수 있어요.
+
+[Hotel Amaudo](https://www.agoda.com/ko-kr/hotel-amaudo/hotel/all/saint-francois-gp.html)
+ 
+
+
+## 결론
+
+카리브해 돛단배와 함께하는 완벽한 휴식지를 찾고 계신가요? **르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파(Le Relais du Moulin - Hotel de Charme & Spa)**에서는 자연의 평화와 럭셔리를 동시에 만끽할 수 있습니다. **Résidence de tourisme Domaine Saint-François(Residence de tourisme Domaine Saint-Francois)**는 세인트 프랑소와에서 바다 전망과 자연 경관으로 스트레스를 해소하는 완벽한 휴양지를 제공합니다. **Hôtel Guadeloupe Palm Suites(Hotel Guadeloupe Palm Suites)**는 완벽한 해변과 훌륭한 서비스로 편안한 휴식을 선사합니다. **Hôtel & Villa Le Cocotel(Hotel & Villa Le Cocotel)**은 자연과 조화를 이루는 카리브해의 낭만적인 분위기 속에서 편안한 휴양을 즐길 수 있습니다. **Hotel Amaudo**는 자연의 아름다움과 편안함을 동시에 느낄 수 있는 최고의 선택입니다. 지금 바로 예약하여 **잊지 못할 경험**을 만끽하세요!
+
+f:T2d05,
+    
+
+
+## 세인트프랑수아에서 감성을 충전할 수 있는 호텔 5곳
+
+안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 프랑스령 카리브해의 숨은 보석, **세인트프랑수아**에서 감성을 완전히 충전할 수 있는 멋진 호텔 5곳을 소개하려고 해요. 이 지역은 아름다운 해변과 따뜻한 기후로 많은 여행객들의 사랑을 받고 있는데요, 그 중에서도 특별히 **편안하고 독특한 경험**을 제공하는 호텔들을 엄선했어요. 여러분이 꿈꾸는 완벽한 휴가를 세인트프랑수아에서 보내실 수 있도록, 지금부터 저와 함께 떠나보시죠! 지금 소개할 호텔들은 분위기와 서비스가 일품으로, 각자의 특색을 살려 최상의 휴식을 선사한답니다. 팔로우해주시고 꼼꼼히 체크해보세요!
+
+
+## 천국 같은 휴식 공간
+르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)
+    ![르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/377584247.jpg?k=1afed564ba8ddb08721f7af1b18002374f2cdf8fef2aba1f489f92419a9a8be4&s=450x450)
+![르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/550321915.jpg?k=3735680656d71a8f8a53786f1548ead95bba48216f53f33cf305fd43445a6a87&s=50x50)
+![르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/124261763.jpg?k=32ec1b7a137d7288507b424d8ff25f846306578741cfbe53c972804911e3f2cf&s=50x50)
+
+열대 낙원 속에서의 완벽한 휴식을 상상해 보세요. 하얀 모래사장과 투명한 바다를 배경으로 펼쳐진 이곳에서, 일상에서 벗어나 편안한 평화를 만끽할 수 있어요. **리레 두 뮐랭 호텔**은 매혹적인 자연경관과 탁월한 서비스로 투숙객들에게 잊지 못할 경험을 선사합니다. 매일 아침 신선한 지역 재료로 만든 맛있는 조식을 즐기며 하루를 시작해 보세요. 거기에 더해, 스파와 웰니스 프로그램은 몸과 마음을 모두 힐링하는 데 완벽해요. 이곳에 머무는 동안 호텔의 친절한 직원들이 여러분의 모든 필요를 신속하고 친절하게 도와줄 거예요. 주변 환경과 조화롭게 어우러진 객실들은 입맛에 맞는 럭셔리함을 제공합니다. 넓은 발코니에서 바람을 느끼며 저녁을 맞이하거나, 야외 수영장에 몸을 담그며 햇살을 만끽할 수도 있답니다. 호텔의 위치는 주요 관광지와 가까워 다양한 액티비티를 즐기기에도 안성맞춤이에요. **리레 두 뮐랭 호텔**에서의 하루는 매 순간 평화롭고 특별할 것입니다. 절대 놓칠 수 없는 이 기회를 지금 바로 예약해 보세요.
+
+[르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)](https://www.agoda.com/ko-kr/le-relais-du-moulin-hotel-de-charme-spa/hotel/sainte-anne-gp.html)
+ 
+
+## 완벽한 휴양지 발견!
+Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)
+    ![Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/501899349.jpg?k=64c7e9d8a89361aa3bc359403c4e4c0ddc73b31c2fa1c58625b1339647438161&s=450x450)
+![Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/249459127.jpg?k=42417695b2ac1da5b40e1d88be39ac26b45f6d7fb74d5374940e16c0037afbe4&s=50x50)
+![Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/340180374.jpg?k=d5fd96921b03831406b4c3791980728c3b9fbbeb6d2dc08dc60492b466573e4f&s=50x50)
+
+세인트 프랑소와에 위치한 이 레지던스는 일상에서 벗어나 평화로운 휴식을 즐기기에 완벽한 장소에요. 여기서는 *탁 트인 바다*와 *푸른 하늘* 아래에서 하루를 시작할 수 있답니다. 특별히 아침마다 제공되는 신선한 현지 과일들은 하루를 상쾌하게 만들어줄 거예요. 수영장에서도 맑고 깨끗한 물에서 시원하게 놀 수 있어서 더운 날씨에도 문제가 없어요!😎
+
+이곳의 특별한 포인트는 여유로운 *산책로*와 *놀라운 자연 경관*이에요. 저녁 시간에는 빛나는 야경과 함께 산책을 즐기며 스트레스를 날려 버리세요. 물론, 주변에 위치한 작은 레스토랑들에서는 다양한 현지 음식을 맛볼 수 있어요! 친절한 직원들도 여러분의 편안한 휴식을 돕기 위해 항상 준비되어 있답니다. *완벽한 휴가*는 바로 이곳에서 시작될 거예요.
+
+[Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)](https://www.agoda.com/ko-kr/residence-de-tourisme-domaine-saint-francois/hotel/all/saint-francois-gp.html)
+ 
+
+## 지상 낙원에서의 완벽한 휴식
+Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)
+    ![Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/403120096.jpg?k=17b75c89dc896c4f05cb4791e461e44f99e6e937ff0be0dd6f1fbb7fa71e2594&s=450x450)
+![Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405846838.jpg?k=d018d46d236fb35b41f72541c532187345b052ee282edafb9f63f5b9dc30f875&s=50x50)
+![Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405844321.jpg?k=e88db56bbdf50ec36d542931640e7b31dd76edbd647cc262921c6f6e50d96f5c&s=50x50)
+
+여행을 계획할 때 가장 중요한 요소 중 하나는 바로 숙소 선택이에요. 많은 여행자들이 선호하는 **호텔**은 안락함과 편리함 모두를 갖춘 곳이어야 하죠. *Guadeloupe Palm Suites*는 그런 면에서 정말 탁월한 선택이에요. 이 호텔은 아름다운 푸른 바다와 밀접해 있어서, 호텔 문을 나서면 바로 **아름다운 해변**이 펼쳐져요. 또한, 호텔 내 시설들도 훌륭한데, 특히 수영장은 **리조트처럼 넓고 깨끗**해요. 하루의 피로를 풀기에 딱 좋은 공간이죠.
+
+호텔의 객실도 아주 만족스러워요. 넓은 공간과 깔끔한 인테리어는 여행자의 마음을 사로잡기에 충분해요. 또한, 호텔 직원들의 친절한 서비스는 누구나 느낄 수 있답니다. 그들의 친절한 미소와 세심한 배려 덕분에 마음 편히 쉴 수 있었어요. 여행 중에도 **편안한 휴식**을 원하는 분들께 이 호텔을 강력히 추천드려요. 기자재와 편의시설도 잘 갖춰져 있어서 가족 여행이나 친구들과의 여행 모두에게 안성맞춤이에요.
+
+[Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)](https://www.agoda.com/ko-kr/hotel-guadeloupe-palm-suites/hotel/all/saint-francois-gp.html)
+ 
+
+## 카리브해의 낭만적인 휴양지
+Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)
+    ![Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/517784733.jpg?k=11e671d6f384138097bf74734ceee3fbf80977af3f59a4dd4170909a9138f0e8&s=450x450)
+![Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/446006312.jpg?k=8e8e559cd6215b4e34887de33cb2c6031c72450530c8e005195b22062009dba4&s=50x50)
+![Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/273269476.jpg?k=135cc01ff068c30aaabd8390092d78e2dc92022f47e77bb5bb8a774d285eb4ef&s=50x50)
+
+세인트프랑소와에 위치한 이 호텔은 주변 자연 풍경과 완벽한 조화를 이루고 있어요. 이곳에서는 푸른 하늘과 맑은 바다를 배경으로 하루를 온전히 즐길 수 있답니다. 많은 사람들이 근처 골프장에서 여유로운 시간도 보내고, 호텔 내 실외 수영장에서 시원하게 몸을 식히기도 해요. 서비스가 뛰어나며 직원들 모두 친절하기 때문에 방문할 때마다 편안함을 느낄 수 있어요. 
+
+신선한 현지 재료로 만들어진 맛있는 아침 식사는 하루를 활기차게 시작하는 데 큰 도움을 줍니다. 발코니에서 바라보는 석양도 일품이라 보는 사람마다 감탄하게 된답니다. 여러 가지 편의 시설과 다양한 체험 활동이 준비되어 있어서 휴식과 모험을 동시에 즐길 수 있어요. 낭만적인 분위기 속에서 편안한 휴양을 원한다면 이 호텔은 최적의 선택이 될 거예요!
+
+[Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)](https://www.agoda.com/ko-kr/hotel-villa-le-cocotel/hotel/all/saint-francois-gp.html)
+ 
+
+## 천국의 숨결을 느끼다
+Hotel Amaudo
+    ![Hotel Amaudo_0_image](https://pix8.agoda.net/hotelImages/541/541590/541590_13111601310017555257.jpg)
+![Hotel Amaudo_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525240676.jpg?k=20d0aa59fabe8c855e728c34d5b6261303ac0601b9d2215e189f7f148845a574&s=50x50)
+![Hotel Amaudo_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525252598.jpg?k=0158ec0ba9f782d4f6bce47967d1f17e976c228f32053d8f2f9d21e175430f92&s=50x50)
+
+카리브해의 **아름다운 경관**은 그 어떤 사진보다 실제로 보는 것이 더 멋져요. 새하얀 모래사장과 맑은 바다는 그 자체로도 최상의 휴양지예요. 호텔 아마우도는 이런 천국 같은 풍경 속에 자리잡고 있어요. 객실의 깔끔함과 편안함은 말할 것도 없고, 그곳에서 보는 바다 전망은 가슴이 탁 트이는 느낌이에요. 
+
+아침 식사는 신선한 과일과 향긋한 커피로 시작되고, 풀장에서 보내는 시간은 너무도 여유롭고 평화로워요. 직원분들은 친절하고 세심해서 마치 집에 있는 것 같은 편안함을 느끼게 해줘요. 관광지와의 접근성도 좋아요. 여러모로 만족스러운 여행을 위한 최고의 선택이라 할 수 있어요.
+
+[Hotel Amaudo](https://www.agoda.com/ko-kr/hotel-amaudo/hotel/all/saint-francois-gp.html)
+ 
+
+
+## 결론
+
+카리브해 돛단배와 함께하는 완벽한 휴식지를 찾고 계신가요? **르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파(Le Relais du Moulin - Hotel de Charme & Spa)**에서는 자연의 평화와 럭셔리를 동시에 만끽할 수 있습니다. **Résidence de tourisme Domaine Saint-François(Residence de tourisme Domaine Saint-Francois)**는 세인트 프랑소와에서 바다 전망과 자연 경관으로 스트레스를 해소하는 완벽한 휴양지를 제공합니다. **Hôtel Guadeloupe Palm Suites(Hotel Guadeloupe Palm Suites)**는 완벽한 해변과 훌륭한 서비스로 편안한 휴식을 선사합니다. **Hôtel & Villa Le Cocotel(Hotel & Villa Le Cocotel)**은 자연과 조화를 이루는 카리브해의 낭만적인 분위기 속에서 편안한 휴양을 즐길 수 있습니다. **Hotel Amaudo**는 자연의 아름다움과 편안함을 동시에 느낄 수 있는 최고의 선택입니다. 지금 바로 예약하여 **잊지 못할 경험**을 만끽하세요!
+
+10:T2d05,
+    
+
+
+## 세인트프랑수아에서 감성을 충전할 수 있는 호텔 5곳
+
+안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 프랑스령 카리브해의 숨은 보석, **세인트프랑수아**에서 감성을 완전히 충전할 수 있는 멋진 호텔 5곳을 소개하려고 해요. 이 지역은 아름다운 해변과 따뜻한 기후로 많은 여행객들의 사랑을 받고 있는데요, 그 중에서도 특별히 **편안하고 독특한 경험**을 제공하는 호텔들을 엄선했어요. 여러분이 꿈꾸는 완벽한 휴가를 세인트프랑수아에서 보내실 수 있도록, 지금부터 저와 함께 떠나보시죠! 지금 소개할 호텔들은 분위기와 서비스가 일품으로, 각자의 특색을 살려 최상의 휴식을 선사한답니다. 팔로우해주시고 꼼꼼히 체크해보세요!
+
+
+## 천국 같은 휴식 공간
+르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)
+    ![르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/377584247.jpg?k=1afed564ba8ddb08721f7af1b18002374f2cdf8fef2aba1f489f92419a9a8be4&s=450x450)
+![르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/550321915.jpg?k=3735680656d71a8f8a53786f1548ead95bba48216f53f33cf305fd43445a6a87&s=50x50)
+![르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/124261763.jpg?k=32ec1b7a137d7288507b424d8ff25f846306578741cfbe53c972804911e3f2cf&s=50x50)
+
+열대 낙원 속에서의 완벽한 휴식을 상상해 보세요. 하얀 모래사장과 투명한 바다를 배경으로 펼쳐진 이곳에서, 일상에서 벗어나 편안한 평화를 만끽할 수 있어요. **리레 두 뮐랭 호텔**은 매혹적인 자연경관과 탁월한 서비스로 투숙객들에게 잊지 못할 경험을 선사합니다. 매일 아침 신선한 지역 재료로 만든 맛있는 조식을 즐기며 하루를 시작해 보세요. 거기에 더해, 스파와 웰니스 프로그램은 몸과 마음을 모두 힐링하는 데 완벽해요. 이곳에 머무는 동안 호텔의 친절한 직원들이 여러분의 모든 필요를 신속하고 친절하게 도와줄 거예요. 주변 환경과 조화롭게 어우러진 객실들은 입맛에 맞는 럭셔리함을 제공합니다. 넓은 발코니에서 바람을 느끼며 저녁을 맞이하거나, 야외 수영장에 몸을 담그며 햇살을 만끽할 수도 있답니다. 호텔의 위치는 주요 관광지와 가까워 다양한 액티비티를 즐기기에도 안성맞춤이에요. **리레 두 뮐랭 호텔**에서의 하루는 매 순간 평화롭고 특별할 것입니다. 절대 놓칠 수 없는 이 기회를 지금 바로 예약해 보세요.
+
+[르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)](https://www.agoda.com/ko-kr/le-relais-du-moulin-hotel-de-charme-spa/hotel/sainte-anne-gp.html)
+ 
+
+## 완벽한 휴양지 발견!
+Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)
+    ![Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/501899349.jpg?k=64c7e9d8a89361aa3bc359403c4e4c0ddc73b31c2fa1c58625b1339647438161&s=450x450)
+![Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/249459127.jpg?k=42417695b2ac1da5b40e1d88be39ac26b45f6d7fb74d5374940e16c0037afbe4&s=50x50)
+![Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/340180374.jpg?k=d5fd96921b03831406b4c3791980728c3b9fbbeb6d2dc08dc60492b466573e4f&s=50x50)
+
+세인트 프랑소와에 위치한 이 레지던스는 일상에서 벗어나 평화로운 휴식을 즐기기에 완벽한 장소에요. 여기서는 *탁 트인 바다*와 *푸른 하늘* 아래에서 하루를 시작할 수 있답니다. 특별히 아침마다 제공되는 신선한 현지 과일들은 하루를 상쾌하게 만들어줄 거예요. 수영장에서도 맑고 깨끗한 물에서 시원하게 놀 수 있어서 더운 날씨에도 문제가 없어요!😎
+
+이곳의 특별한 포인트는 여유로운 *산책로*와 *놀라운 자연 경관*이에요. 저녁 시간에는 빛나는 야경과 함께 산책을 즐기며 스트레스를 날려 버리세요. 물론, 주변에 위치한 작은 레스토랑들에서는 다양한 현지 음식을 맛볼 수 있어요! 친절한 직원들도 여러분의 편안한 휴식을 돕기 위해 항상 준비되어 있답니다. *완벽한 휴가*는 바로 이곳에서 시작될 거예요.
+
+[Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)](https://www.agoda.com/ko-kr/residence-de-tourisme-domaine-saint-francois/hotel/all/saint-francois-gp.html)
+ 
+
+## 지상 낙원에서의 완벽한 휴식
+Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)
+    ![Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/403120096.jpg?k=17b75c89dc896c4f05cb4791e461e44f99e6e937ff0be0dd6f1fbb7fa71e2594&s=450x450)
+![Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405846838.jpg?k=d018d46d236fb35b41f72541c532187345b052ee282edafb9f63f5b9dc30f875&s=50x50)
+![Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405844321.jpg?k=e88db56bbdf50ec36d542931640e7b31dd76edbd647cc262921c6f6e50d96f5c&s=50x50)
+
+여행을 계획할 때 가장 중요한 요소 중 하나는 바로 숙소 선택이에요. 많은 여행자들이 선호하는 **호텔**은 안락함과 편리함 모두를 갖춘 곳이어야 하죠. *Guadeloupe Palm Suites*는 그런 면에서 정말 탁월한 선택이에요. 이 호텔은 아름다운 푸른 바다와 밀접해 있어서, 호텔 문을 나서면 바로 **아름다운 해변**이 펼쳐져요. 또한, 호텔 내 시설들도 훌륭한데, 특히 수영장은 **리조트처럼 넓고 깨끗**해요. 하루의 피로를 풀기에 딱 좋은 공간이죠.
+
+호텔의 객실도 아주 만족스러워요. 넓은 공간과 깔끔한 인테리어는 여행자의 마음을 사로잡기에 충분해요. 또한, 호텔 직원들의 친절한 서비스는 누구나 느낄 수 있답니다. 그들의 친절한 미소와 세심한 배려 덕분에 마음 편히 쉴 수 있었어요. 여행 중에도 **편안한 휴식**을 원하는 분들께 이 호텔을 강력히 추천드려요. 기자재와 편의시설도 잘 갖춰져 있어서 가족 여행이나 친구들과의 여행 모두에게 안성맞춤이에요.
+
+[Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)](https://www.agoda.com/ko-kr/hotel-guadeloupe-palm-suites/hotel/all/saint-francois-gp.html)
+ 
+
+## 카리브해의 낭만적인 휴양지
+Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)
+    ![Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/517784733.jpg?k=11e671d6f384138097bf74734ceee3fbf80977af3f59a4dd4170909a9138f0e8&s=450x450)
+![Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/446006312.jpg?k=8e8e559cd6215b4e34887de33cb2c6031c72450530c8e005195b22062009dba4&s=50x50)
+![Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/273269476.jpg?k=135cc01ff068c30aaabd8390092d78e2dc92022f47e77bb5bb8a774d285eb4ef&s=50x50)
+
+세인트프랑소와에 위치한 이 호텔은 주변 자연 풍경과 완벽한 조화를 이루고 있어요. 이곳에서는 푸른 하늘과 맑은 바다를 배경으로 하루를 온전히 즐길 수 있답니다. 많은 사람들이 근처 골프장에서 여유로운 시간도 보내고, 호텔 내 실외 수영장에서 시원하게 몸을 식히기도 해요. 서비스가 뛰어나며 직원들 모두 친절하기 때문에 방문할 때마다 편안함을 느낄 수 있어요. 
+
+신선한 현지 재료로 만들어진 맛있는 아침 식사는 하루를 활기차게 시작하는 데 큰 도움을 줍니다. 발코니에서 바라보는 석양도 일품이라 보는 사람마다 감탄하게 된답니다. 여러 가지 편의 시설과 다양한 체험 활동이 준비되어 있어서 휴식과 모험을 동시에 즐길 수 있어요. 낭만적인 분위기 속에서 편안한 휴양을 원한다면 이 호텔은 최적의 선택이 될 거예요!
+
+[Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)](https://www.agoda.com/ko-kr/hotel-villa-le-cocotel/hotel/all/saint-francois-gp.html)
+ 
+
+## 천국의 숨결을 느끼다
+Hotel Amaudo
+    ![Hotel Amaudo_0_image](https://pix8.agoda.net/hotelImages/541/541590/541590_13111601310017555257.jpg)
+![Hotel Amaudo_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525240676.jpg?k=20d0aa59fabe8c855e728c34d5b6261303ac0601b9d2215e189f7f148845a574&s=50x50)
+![Hotel Amaudo_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525252598.jpg?k=0158ec0ba9f782d4f6bce47967d1f17e976c228f32053d8f2f9d21e175430f92&s=50x50)
+
+카리브해의 **아름다운 경관**은 그 어떤 사진보다 실제로 보는 것이 더 멋져요. 새하얀 모래사장과 맑은 바다는 그 자체로도 최상의 휴양지예요. 호텔 아마우도는 이런 천국 같은 풍경 속에 자리잡고 있어요. 객실의 깔끔함과 편안함은 말할 것도 없고, 그곳에서 보는 바다 전망은 가슴이 탁 트이는 느낌이에요. 
+
+아침 식사는 신선한 과일과 향긋한 커피로 시작되고, 풀장에서 보내는 시간은 너무도 여유롭고 평화로워요. 직원분들은 친절하고 세심해서 마치 집에 있는 것 같은 편안함을 느끼게 해줘요. 관광지와의 접근성도 좋아요. 여러모로 만족스러운 여행을 위한 최고의 선택이라 할 수 있어요.
+
+[Hotel Amaudo](https://www.agoda.com/ko-kr/hotel-amaudo/hotel/all/saint-francois-gp.html)
+ 
+
+
+## 결론
+
+카리브해 돛단배와 함께하는 완벽한 휴식지를 찾고 계신가요? **르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파(Le Relais du Moulin - Hotel de Charme & Spa)**에서는 자연의 평화와 럭셔리를 동시에 만끽할 수 있습니다. **Résidence de tourisme Domaine Saint-François(Residence de tourisme Domaine Saint-Francois)**는 세인트 프랑소와에서 바다 전망과 자연 경관으로 스트레스를 해소하는 완벽한 휴양지를 제공합니다. **Hôtel Guadeloupe Palm Suites(Hotel Guadeloupe Palm Suites)**는 완벽한 해변과 훌륭한 서비스로 편안한 휴식을 선사합니다. **Hôtel & Villa Le Cocotel(Hotel & Villa Le Cocotel)**은 자연과 조화를 이루는 카리브해의 낭만적인 분위기 속에서 편안한 휴양을 즐길 수 있습니다. **Hotel Amaudo**는 자연의 아름다움과 편안함을 동시에 느낄 수 있는 최고의 선택입니다. 지금 바로 예약하여 **잊지 못할 경험**을 만끽하세요!
+
+11:T2d05,
+    
+
+
+## 세인트프랑수아에서 감성을 충전할 수 있는 호텔 5곳
+
+안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 프랑스령 카리브해의 숨은 보석, **세인트프랑수아**에서 감성을 완전히 충전할 수 있는 멋진 호텔 5곳을 소개하려고 해요. 이 지역은 아름다운 해변과 따뜻한 기후로 많은 여행객들의 사랑을 받고 있는데요, 그 중에서도 특별히 **편안하고 독특한 경험**을 제공하는 호텔들을 엄선했어요. 여러분이 꿈꾸는 완벽한 휴가를 세인트프랑수아에서 보내실 수 있도록, 지금부터 저와 함께 떠나보시죠! 지금 소개할 호텔들은 분위기와 서비스가 일품으로, 각자의 특색을 살려 최상의 휴식을 선사한답니다. 팔로우해주시고 꼼꼼히 체크해보세요!
+
+
+## 천국 같은 휴식 공간
+르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)
+    ![르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/377584247.jpg?k=1afed564ba8ddb08721f7af1b18002374f2cdf8fef2aba1f489f92419a9a8be4&s=450x450)
+![르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/550321915.jpg?k=3735680656d71a8f8a53786f1548ead95bba48216f53f33cf305fd43445a6a87&s=50x50)
+![르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/124261763.jpg?k=32ec1b7a137d7288507b424d8ff25f846306578741cfbe53c972804911e3f2cf&s=50x50)
+
+열대 낙원 속에서의 완벽한 휴식을 상상해 보세요. 하얀 모래사장과 투명한 바다를 배경으로 펼쳐진 이곳에서, 일상에서 벗어나 편안한 평화를 만끽할 수 있어요. **리레 두 뮐랭 호텔**은 매혹적인 자연경관과 탁월한 서비스로 투숙객들에게 잊지 못할 경험을 선사합니다. 매일 아침 신선한 지역 재료로 만든 맛있는 조식을 즐기며 하루를 시작해 보세요. 거기에 더해, 스파와 웰니스 프로그램은 몸과 마음을 모두 힐링하는 데 완벽해요. 이곳에 머무는 동안 호텔의 친절한 직원들이 여러분의 모든 필요를 신속하고 친절하게 도와줄 거예요. 주변 환경과 조화롭게 어우러진 객실들은 입맛에 맞는 럭셔리함을 제공합니다. 넓은 발코니에서 바람을 느끼며 저녁을 맞이하거나, 야외 수영장에 몸을 담그며 햇살을 만끽할 수도 있답니다. 호텔의 위치는 주요 관광지와 가까워 다양한 액티비티를 즐기기에도 안성맞춤이에요. **리레 두 뮐랭 호텔**에서의 하루는 매 순간 평화롭고 특별할 것입니다. 절대 놓칠 수 없는 이 기회를 지금 바로 예약해 보세요.
+
+[르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)](https://www.agoda.com/ko-kr/le-relais-du-moulin-hotel-de-charme-spa/hotel/sainte-anne-gp.html)
+ 
+
+## 완벽한 휴양지 발견!
+Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)
+    ![Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/501899349.jpg?k=64c7e9d8a89361aa3bc359403c4e4c0ddc73b31c2fa1c58625b1339647438161&s=450x450)
+![Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/249459127.jpg?k=42417695b2ac1da5b40e1d88be39ac26b45f6d7fb74d5374940e16c0037afbe4&s=50x50)
+![Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/340180374.jpg?k=d5fd96921b03831406b4c3791980728c3b9fbbeb6d2dc08dc60492b466573e4f&s=50x50)
+
+세인트 프랑소와에 위치한 이 레지던스는 일상에서 벗어나 평화로운 휴식을 즐기기에 완벽한 장소에요. 여기서는 *탁 트인 바다*와 *푸른 하늘* 아래에서 하루를 시작할 수 있답니다. 특별히 아침마다 제공되는 신선한 현지 과일들은 하루를 상쾌하게 만들어줄 거예요. 수영장에서도 맑고 깨끗한 물에서 시원하게 놀 수 있어서 더운 날씨에도 문제가 없어요!😎
+
+이곳의 특별한 포인트는 여유로운 *산책로*와 *놀라운 자연 경관*이에요. 저녁 시간에는 빛나는 야경과 함께 산책을 즐기며 스트레스를 날려 버리세요. 물론, 주변에 위치한 작은 레스토랑들에서는 다양한 현지 음식을 맛볼 수 있어요! 친절한 직원들도 여러분의 편안한 휴식을 돕기 위해 항상 준비되어 있답니다. *완벽한 휴가*는 바로 이곳에서 시작될 거예요.
+
+[Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)](https://www.agoda.com/ko-kr/residence-de-tourisme-domaine-saint-francois/hotel/all/saint-francois-gp.html)
+ 
+
+## 지상 낙원에서의 완벽한 휴식
+Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)
+    ![Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/403120096.jpg?k=17b75c89dc896c4f05cb4791e461e44f99e6e937ff0be0dd6f1fbb7fa71e2594&s=450x450)
+![Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405846838.jpg?k=d018d46d236fb35b41f72541c532187345b052ee282edafb9f63f5b9dc30f875&s=50x50)
+![Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/405844321.jpg?k=e88db56bbdf50ec36d542931640e7b31dd76edbd647cc262921c6f6e50d96f5c&s=50x50)
+
+여행을 계획할 때 가장 중요한 요소 중 하나는 바로 숙소 선택이에요. 많은 여행자들이 선호하는 **호텔**은 안락함과 편리함 모두를 갖춘 곳이어야 하죠. *Guadeloupe Palm Suites*는 그런 면에서 정말 탁월한 선택이에요. 이 호텔은 아름다운 푸른 바다와 밀접해 있어서, 호텔 문을 나서면 바로 **아름다운 해변**이 펼쳐져요. 또한, 호텔 내 시설들도 훌륭한데, 특히 수영장은 **리조트처럼 넓고 깨끗**해요. 하루의 피로를 풀기에 딱 좋은 공간이죠.
+
+호텔의 객실도 아주 만족스러워요. 넓은 공간과 깔끔한 인테리어는 여행자의 마음을 사로잡기에 충분해요. 또한, 호텔 직원들의 친절한 서비스는 누구나 느낄 수 있답니다. 그들의 친절한 미소와 세심한 배려 덕분에 마음 편히 쉴 수 있었어요. 여행 중에도 **편안한 휴식**을 원하는 분들께 이 호텔을 강력히 추천드려요. 기자재와 편의시설도 잘 갖춰져 있어서 가족 여행이나 친구들과의 여행 모두에게 안성맞춤이에요.
+
+[Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)](https://www.agoda.com/ko-kr/hotel-guadeloupe-palm-suites/hotel/all/saint-francois-gp.html)
+ 
+
+## 카리브해의 낭만적인 휴양지
+Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)
+    ![Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/517784733.jpg?k=11e671d6f384138097bf74734ceee3fbf80977af3f59a4dd4170909a9138f0e8&s=450x450)
+![Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/446006312.jpg?k=8e8e559cd6215b4e34887de33cb2c6031c72450530c8e005195b22062009dba4&s=50x50)
+![Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/273269476.jpg?k=135cc01ff068c30aaabd8390092d78e2dc92022f47e77bb5bb8a774d285eb4ef&s=50x50)
+
+세인트프랑소와에 위치한 이 호텔은 주변 자연 풍경과 완벽한 조화를 이루고 있어요. 이곳에서는 푸른 하늘과 맑은 바다를 배경으로 하루를 온전히 즐길 수 있답니다. 많은 사람들이 근처 골프장에서 여유로운 시간도 보내고, 호텔 내 실외 수영장에서 시원하게 몸을 식히기도 해요. 서비스가 뛰어나며 직원들 모두 친절하기 때문에 방문할 때마다 편안함을 느낄 수 있어요. 
+
+신선한 현지 재료로 만들어진 맛있는 아침 식사는 하루를 활기차게 시작하는 데 큰 도움을 줍니다. 발코니에서 바라보는 석양도 일품이라 보는 사람마다 감탄하게 된답니다. 여러 가지 편의 시설과 다양한 체험 활동이 준비되어 있어서 휴식과 모험을 동시에 즐길 수 있어요. 낭만적인 분위기 속에서 편안한 휴양을 원한다면 이 호텔은 최적의 선택이 될 거예요!
+
+[Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)](https://www.agoda.com/ko-kr/hotel-villa-le-cocotel/hotel/all/saint-francois-gp.html)
+ 
+
+## 천국의 숨결을 느끼다
+Hotel Amaudo
+    ![Hotel Amaudo_0_image](https://pix8.agoda.net/hotelImages/541/541590/541590_13111601310017555257.jpg)
+![Hotel Amaudo_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525240676.jpg?k=20d0aa59fabe8c855e728c34d5b6261303ac0601b9d2215e189f7f148845a574&s=50x50)
+![Hotel Amaudo_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/525252598.jpg?k=0158ec0ba9f782d4f6bce47967d1f17e976c228f32053d8f2f9d21e175430f92&s=50x50)
+
+카리브해의 **아름다운 경관**은 그 어떤 사진보다 실제로 보는 것이 더 멋져요. 새하얀 모래사장과 맑은 바다는 그 자체로도 최상의 휴양지예요. 호텔 아마우도는 이런 천국 같은 풍경 속에 자리잡고 있어요. 객실의 깔끔함과 편안함은 말할 것도 없고, 그곳에서 보는 바다 전망은 가슴이 탁 트이는 느낌이에요. 
+
+아침 식사는 신선한 과일과 향긋한 커피로 시작되고, 풀장에서 보내는 시간은 너무도 여유롭고 평화로워요. 직원분들은 친절하고 세심해서 마치 집에 있는 것 같은 편안함을 느끼게 해줘요. 관광지와의 접근성도 좋아요. 여러모로 만족스러운 여행을 위한 최고의 선택이라 할 수 있어요.
+
+[Hotel Amaudo](https://www.agoda.com/ko-kr/hotel-amaudo/hotel/all/saint-francois-gp.html)
+ 
+
+
+## 결론
+
+카리브해 돛단배와 함께하는 완벽한 휴식지를 찾고 계신가요? **르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파(Le Relais du Moulin - Hotel de Charme & Spa)**에서는 자연의 평화와 럭셔리를 동시에 만끽할 수 있습니다. **Résidence de tourisme Domaine Saint-François(Residence de tourisme Domaine Saint-Francois)**는 세인트 프랑소와에서 바다 전망과 자연 경관으로 스트레스를 해소하는 완벽한 휴양지를 제공합니다. **Hôtel Guadeloupe Palm Suites(Hotel Guadeloupe Palm Suites)**는 완벽한 해변과 훌륭한 서비스로 편안한 휴식을 선사합니다. **Hôtel & Villa Le Cocotel(Hotel & Villa Le Cocotel)**은 자연과 조화를 이루는 카리브해의 낭만적인 분위기 속에서 편안한 휴양을 즐길 수 있습니다. **Hotel Amaudo**는 자연의 아름다움과 편안함을 동시에 느낄 수 있는 최고의 선택입니다. 지금 바로 예약하여 **잊지 못할 경험**을 만끽하세요!
+
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"세인트프랑수아의 핫한 숙소, 감성 충전되는 호텔 5선"}],["$","data",null,{"children":"2024-05-21T01:09:31.047Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"중미 및 카리브해"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"낙원"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"럭셔리"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"자연"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"평화"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"힐링"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"스파"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"조식"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"휴양지"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"바다 전망"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"자연 경관"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"산책로"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"현지 음식"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"해변"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"수영장"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"친절"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"편안한"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"가족"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"낭만적"}]}],["$","li","[object Object]_19",{"children":["$","span",null,{"children":"친절함"}]}],["$","li","[object Object]_20",{"children":["$","span",null,{"children":"편의시설"}]}],["$","li","[object Object]_21",{"children":["$","span",null,{"children":"골프장"}]}],["$","li","[object Object]_22",{"children":["$","span",null,{"children":"카리브해"}]}],["$","li","[object Object]_23",{"children":["$","span",null,{"children":"편안한 숙박"}]}],["$","li","[object Object]_24",{"children":["$","span",null,{"children":"친절한 직원"}]}],["$","li","[object Object]_25",{"children":["$","span",null,{"children":"풀장"}]}],["$","li","[object Object]_26",{"children":["$","span",null,{"children":"신선한 아침식사"}]}],["$","li","[object Object]_27",{"children":["$","span",null,{"children":"접근성"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"6e34b567","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"세인트프랑수아에서 감성을 충전할 수 있는 호텔 5곳"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요. 달마야 여행가자의 달마입니다. 오늘은 프랑스령 카리브해의 숨은 보석, ",["$","strong",null,{"className":"font-black","children":"세인트프랑수아"}],"에서 감성을 완전히 충전할 수 있는 멋진 호텔 5곳을 소개하려고 해요. 이 지역은 아름다운 해변과 따뜻한 기후로 많은 여행객들의 사랑을 받고 있는데요, 그 중에서도 특별히 ",["$","strong",null,{"className":"font-black","children":"편안하고 독특한 경험"}],"을 제공하는 호텔들을 엄선했어요. 여러분이 꿈꾸는 완벽한 휴가를 세인트프랑수아에서 보내실 수 있도록, 지금부터 저와 함께 떠나보시죠! 지금 소개할 호텔들은 분위기와 서비스가 일품으로, 각자의 특색을 살려 최상의 휴식을 선사한답니다. 팔로우해주시고 꼼꼼히 체크해보세요!"]}],"\n",["$","h2",null,{"id":"53648a7d","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"천국 같은 휴식 공간"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/377584247.jpg?k=1afed564ba8ddb08721f7af1b18002374f2cdf8fef2aba1f489f92419a9a8be4&s=450x450","alt":"르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/550321915.jpg?k=3735680656d71a8f8a53786f1548ead95bba48216f53f33cf305fd43445a6a87&s=50x50","alt":"르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/124261763.jpg?k=32ec1b7a137d7288507b424d8ff25f846306578741cfbe53c972804911e3f2cf&s=50x50","alt":"르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["열대 낙원 속에서의 완벽한 휴식을 상상해 보세요. 하얀 모래사장과 투명한 바다를 배경으로 펼쳐진 이곳에서, 일상에서 벗어나 편안한 평화를 만끽할 수 있어요. ",["$","strong",null,{"className":"font-black","children":"리레 두 뮐랭 호텔"}],"은 매혹적인 자연경관과 탁월한 서비스로 투숙객들에게 잊지 못할 경험을 선사합니다. 매일 아침 신선한 지역 재료로 만든 맛있는 조식을 즐기며 하루를 시작해 보세요. 거기에 더해, 스파와 웰니스 프로그램은 몸과 마음을 모두 힐링하는 데 완벽해요. 이곳에 머무는 동안 호텔의 친절한 직원들이 여러분의 모든 필요를 신속하고 친절하게 도와줄 거예요. 주변 환경과 조화롭게 어우러진 객실들은 입맛에 맞는 럭셔리함을 제공합니다. 넓은 발코니에서 바람을 느끼며 저녁을 맞이하거나, 야외 수영장에 몸을 담그며 햇살을 만끽할 수도 있답니다. 호텔의 위치는 주요 관광지와 가까워 다양한 액티비티를 즐기기에도 안성맞춤이에요. ",["$","strong",null,{"className":"font-black","children":"리레 두 뮐랭 호텔"}],"에서의 하루는 매 순간 평화롭고 특별할 것입니다. 절대 놓칠 수 없는 이 기회를 지금 바로 예약해 보세요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/le-relais-du-moulin-hotel-de-charme-spa/hotel/sainte-anne-gp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/le-relais-du-moulin-hotel-de-charme-spa/hotel/sainte-anne-gp.html"},"children":[{"type":"text","value":"르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)","position":{"start":{"line":18,"column":2,"offset":1639},"end":{"line":18,"column":72,"offset":1709}}}],"position":{"start":{"line":18,"column":1,"offset":1638},"end":{"line":18,"column":168,"offset":1805}}},"children":"르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파 (Le Relais du Moulin - Hotel de Charme & Spa)"},"post":{"id":"4494b31a-ab22-4d3c-9e27-fe5b601ec371","title":"세인트프랑수아의 핫한 숙소, 감성 충전되는 호텔 5선","fileName":"세인트프랑수아의-핫한-숙소-감성-충전되는-호텔-5선","description":"멋진 경관과 편안한 휴식을 동시에 누리고 싶다면 세인트프랑수아의 이 호텔들을 주목해보세요. Le Relais du Moulin Hotel de Charme & Spa에서는 매 순간이 로맨틱한 추억으로 남을 거예요. Residence de Tourisme Domaine Saint-Francois는 독특한 인테리어와 편리한 시설로 유명합니다. Hotel Guadeloupe Palm Suites는 가족 여행객들에게 특히 추천하는 숙소로, 안락한 객실과 다양한 편의시설이 매력적입니다. Hotel Villa Le Cocotel는 한적한 분위기 속에서도 고급스러움을 잃지 않은 공간으로, 완벽한 힐링을 선사합니다. 마지막으로 Hotel Amaudo는 환상적인 바다 전망이 돋보이는 숙소로, 매일 아침 일출을 감상할 수 있는 최고의 호텔입니다. 이제 당신도 이곳에서 진정한 휴식을 경험해보세요.","date":"2024-05-21T01:09:31.047Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"낙원","path":"$$/kr/tags/낙원","id":"낙원"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"평화","path":"$$/kr/tags/평화","id":"평화"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"바다 전망","path":"$$/kr/tags/바다-전망","id":"바다-전망"},{"name":"자연 경관","path":"$$/kr/tags/자연-경관","id":"자연-경관"},{"name":"산책로","path":"$$/kr/tags/산책로","id":"산책로"},{"name":"현지 음식","path":"$$/kr/tags/현지-음식","id":"현지-음식"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"낭만적","path":"$$/kr/tags/낭만적","id":"낭만적"},{"name":"친절함","path":"$$/kr/tags/친절함","id":"친절함"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"골프장","path":"$$/kr/tags/골프장","id":"골프장"},{"name":"카리브해","path":"$$/kr/tags/카리브해","id":"카리브해"},{"name":"편안한 숙박","path":"$$/kr/tags/편안한-숙박","id":"편안한-숙박"},{"name":"친절한 직원","path":"$$/kr/tags/친절한-직원","id":"친절한-직원"},{"name":"풀장","path":"$$/kr/tags/풀장","id":"풀장"},{"name":"신선한 아침식사","path":"$$/kr/tags/신선한-아침식사","id":"신선한-아침식사"},{"name":"접근성","path":"$$/kr/tags/접근성","id":"접근성"}],"banner":"/images/103148-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"세인트프랑수아의-핫한-숙소-감성-충전되는-호텔-5선","content":"$d","category":"articles","readMin":"7.4"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"391bb2f1","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"완벽한 휴양지 발견!"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/501899349.jpg?k=64c7e9d8a89361aa3bc359403c4e4c0ddc73b31c2fa1c58625b1339647438161&s=450x450","alt":"Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/249459127.jpg?k=42417695b2ac1da5b40e1d88be39ac26b45f6d7fb74d5374940e16c0037afbe4&s=50x50","alt":"Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/340180374.jpg?k=d5fd96921b03831406b4c3791980728c3b9fbbeb6d2dc08dc60492b466573e4f&s=50x50","alt":"Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["세인트 프랑소와에 위치한 이 레지던스는 일상에서 벗어나 평화로운 휴식을 즐기기에 완벽한 장소에요. 여기서는 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"탁 트인 바다"}],"와 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"푸른 하늘"}]," 아래에서 하루를 시작할 수 있답니다. 특별히 아침마다 제공되는 신선한 현지 과일들은 하루를 상쾌하게 만들어줄 거예요. 수영장에서도 맑고 깨끗한 물에서 시원하게 놀 수 있어서 더운 날씨에도 문제가 없어요!😎"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이곳의 특별한 포인트는 여유로운 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"산책로"}],"와 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"놀라운 자연 경관"}],"이에요. 저녁 시간에는 빛나는 야경과 함께 산책을 즐기며 스트레스를 날려 버리세요. 물론, 주변에 위치한 작은 레스토랑들에서는 다양한 현지 음식을 맛볼 수 있어요! 친절한 직원들도 여러분의 편안한 휴식을 돕기 위해 항상 준비되어 있답니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"완벽한 휴가"}],"는 바로 이곳에서 시작될 거예요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/residence-de-tourisme-domaine-saint-francois/hotel/all/saint-francois-gp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/residence-de-tourisme-domaine-saint-francois/hotel/all/saint-francois-gp.html"},"children":[{"type":"text","value":"Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)","position":{"start":{"line":31,"column":2,"offset":3050},"end":{"line":31,"column":93,"offset":3141}}}],"position":{"start":{"line":31,"column":1,"offset":3049},"end":{"line":31,"column":201,"offset":3249}}},"children":"Résidence de tourisme Domaine Saint-François (Residence de tourisme Domaine Saint-Francois)"},"post":{"id":"4494b31a-ab22-4d3c-9e27-fe5b601ec371","title":"세인트프랑수아의 핫한 숙소, 감성 충전되는 호텔 5선","fileName":"세인트프랑수아의-핫한-숙소-감성-충전되는-호텔-5선","description":"멋진 경관과 편안한 휴식을 동시에 누리고 싶다면 세인트프랑수아의 이 호텔들을 주목해보세요. Le Relais du Moulin Hotel de Charme & Spa에서는 매 순간이 로맨틱한 추억으로 남을 거예요. Residence de Tourisme Domaine Saint-Francois는 독특한 인테리어와 편리한 시설로 유명합니다. Hotel Guadeloupe Palm Suites는 가족 여행객들에게 특히 추천하는 숙소로, 안락한 객실과 다양한 편의시설이 매력적입니다. Hotel Villa Le Cocotel는 한적한 분위기 속에서도 고급스러움을 잃지 않은 공간으로, 완벽한 힐링을 선사합니다. 마지막으로 Hotel Amaudo는 환상적인 바다 전망이 돋보이는 숙소로, 매일 아침 일출을 감상할 수 있는 최고의 호텔입니다. 이제 당신도 이곳에서 진정한 휴식을 경험해보세요.","date":"2024-05-21T01:09:31.047Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"낙원","path":"$$/kr/tags/낙원","id":"낙원"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"평화","path":"$$/kr/tags/평화","id":"평화"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"바다 전망","path":"$$/kr/tags/바다-전망","id":"바다-전망"},{"name":"자연 경관","path":"$$/kr/tags/자연-경관","id":"자연-경관"},{"name":"산책로","path":"$$/kr/tags/산책로","id":"산책로"},{"name":"현지 음식","path":"$$/kr/tags/현지-음식","id":"현지-음식"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"낭만적","path":"$$/kr/tags/낭만적","id":"낭만적"},{"name":"친절함","path":"$$/kr/tags/친절함","id":"친절함"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"골프장","path":"$$/kr/tags/골프장","id":"골프장"},{"name":"카리브해","path":"$$/kr/tags/카리브해","id":"카리브해"},{"name":"편안한 숙박","path":"$$/kr/tags/편안한-숙박","id":"편안한-숙박"},{"name":"친절한 직원","path":"$$/kr/tags/친절한-직원","id":"친절한-직원"},{"name":"풀장","path":"$$/kr/tags/풀장","id":"풀장"},{"name":"신선한 아침식사","path":"$$/kr/tags/신선한-아침식사","id":"신선한-아침식사"},{"name":"접근성","path":"$$/kr/tags/접근성","id":"접근성"}],"banner":"/images/103148-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"세인트프랑수아의-핫한-숙소-감성-충전되는-호텔-5선","content":"$e","category":"articles","readMin":"7.4"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"458b5127","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"지상 낙원에서의 완벽한 휴식"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/403120096.jpg?k=17b75c89dc896c4f05cb4791e461e44f99e6e937ff0be0dd6f1fbb7fa71e2594&s=450x450","alt":"Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/405846838.jpg?k=d018d46d236fb35b41f72541c532187345b052ee282edafb9f63f5b9dc30f875&s=50x50","alt":"Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/405844321.jpg?k=e88db56bbdf50ec36d542931640e7b31dd76edbd647cc262921c6f6e50d96f5c&s=50x50","alt":"Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["여행을 계획할 때 가장 중요한 요소 중 하나는 바로 숙소 선택이에요. 많은 여행자들이 선호하는 ",["$","strong",null,{"className":"font-black","children":"호텔"}],"은 안락함과 편리함 모두를 갖춘 곳이어야 하죠. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Guadeloupe Palm Suites"}],"는 그런 면에서 정말 탁월한 선택이에요. 이 호텔은 아름다운 푸른 바다와 밀접해 있어서, 호텔 문을 나서면 바로 ",["$","strong",null,{"className":"font-black","children":"아름다운 해변"}],"이 펼쳐져요. 또한, 호텔 내 시설들도 훌륭한데, 특히 수영장은 ",["$","strong",null,{"className":"font-black","children":"리조트처럼 넓고 깨끗"}],"해요. 하루의 피로를 풀기에 딱 좋은 공간이죠."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["호텔의 객실도 아주 만족스러워요. 넓은 공간과 깔끔한 인테리어는 여행자의 마음을 사로잡기에 충분해요. 또한, 호텔 직원들의 친절한 서비스는 누구나 느낄 수 있답니다. 그들의 친절한 미소와 세심한 배려 덕분에 마음 편히 쉴 수 있었어요. 여행 중에도 ",["$","strong",null,{"className":"font-black","children":"편안한 휴식"}],"을 원하는 분들께 이 호텔을 강력히 추천드려요. 기자재와 편의시설도 잘 갖춰져 있어서 가족 여행이나 친구들과의 여행 모두에게 안성맞춤이에요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/hotel-guadeloupe-palm-suites/hotel/all/saint-francois-gp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/hotel-guadeloupe-palm-suites/hotel/all/saint-francois-gp.html"},"children":[{"type":"text","value":"Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)","position":{"start":{"line":44,"column":2,"offset":4468},"end":{"line":44,"column":61,"offset":4527}}}],"position":{"start":{"line":44,"column":1,"offset":4467},"end":{"line":44,"column":153,"offset":4619}}},"children":"Hôtel Guadeloupe Palm Suites (Hotel Guadeloupe Palm Suites)"},"post":{"id":"4494b31a-ab22-4d3c-9e27-fe5b601ec371","title":"세인트프랑수아의 핫한 숙소, 감성 충전되는 호텔 5선","fileName":"세인트프랑수아의-핫한-숙소-감성-충전되는-호텔-5선","description":"멋진 경관과 편안한 휴식을 동시에 누리고 싶다면 세인트프랑수아의 이 호텔들을 주목해보세요. Le Relais du Moulin Hotel de Charme & Spa에서는 매 순간이 로맨틱한 추억으로 남을 거예요. Residence de Tourisme Domaine Saint-Francois는 독특한 인테리어와 편리한 시설로 유명합니다. Hotel Guadeloupe Palm Suites는 가족 여행객들에게 특히 추천하는 숙소로, 안락한 객실과 다양한 편의시설이 매력적입니다. Hotel Villa Le Cocotel는 한적한 분위기 속에서도 고급스러움을 잃지 않은 공간으로, 완벽한 힐링을 선사합니다. 마지막으로 Hotel Amaudo는 환상적인 바다 전망이 돋보이는 숙소로, 매일 아침 일출을 감상할 수 있는 최고의 호텔입니다. 이제 당신도 이곳에서 진정한 휴식을 경험해보세요.","date":"2024-05-21T01:09:31.047Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"낙원","path":"$$/kr/tags/낙원","id":"낙원"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"평화","path":"$$/kr/tags/평화","id":"평화"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"바다 전망","path":"$$/kr/tags/바다-전망","id":"바다-전망"},{"name":"자연 경관","path":"$$/kr/tags/자연-경관","id":"자연-경관"},{"name":"산책로","path":"$$/kr/tags/산책로","id":"산책로"},{"name":"현지 음식","path":"$$/kr/tags/현지-음식","id":"현지-음식"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"낭만적","path":"$$/kr/tags/낭만적","id":"낭만적"},{"name":"친절함","path":"$$/kr/tags/친절함","id":"친절함"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"골프장","path":"$$/kr/tags/골프장","id":"골프장"},{"name":"카리브해","path":"$$/kr/tags/카리브해","id":"카리브해"},{"name":"편안한 숙박","path":"$$/kr/tags/편안한-숙박","id":"편안한-숙박"},{"name":"친절한 직원","path":"$$/kr/tags/친절한-직원","id":"친절한-직원"},{"name":"풀장","path":"$$/kr/tags/풀장","id":"풀장"},{"name":"신선한 아침식사","path":"$$/kr/tags/신선한-아침식사","id":"신선한-아침식사"},{"name":"접근성","path":"$$/kr/tags/접근성","id":"접근성"}],"banner":"/images/103148-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"세인트프랑수아의-핫한-숙소-감성-충전되는-호텔-5선","content":"$f","category":"articles","readMin":"7.4"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5857d94b","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"카리브해의 낭만적인 휴양지"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/517784733.jpg?k=11e671d6f384138097bf74734ceee3fbf80977af3f59a4dd4170909a9138f0e8&s=450x450","alt":"Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/446006312.jpg?k=8e8e559cd6215b4e34887de33cb2c6031c72450530c8e005195b22062009dba4&s=50x50","alt":"Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/273269476.jpg?k=135cc01ff068c30aaabd8390092d78e2dc92022f47e77bb5bb8a774d285eb4ef&s=50x50","alt":"Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"세인트프랑소와에 위치한 이 호텔은 주변 자연 풍경과 완벽한 조화를 이루고 있어요. 이곳에서는 푸른 하늘과 맑은 바다를 배경으로 하루를 온전히 즐길 수 있답니다. 많은 사람들이 근처 골프장에서 여유로운 시간도 보내고, 호텔 내 실외 수영장에서 시원하게 몸을 식히기도 해요. 서비스가 뛰어나며 직원들 모두 친절하기 때문에 방문할 때마다 편안함을 느낄 수 있어요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"신선한 현지 재료로 만들어진 맛있는 아침 식사는 하루를 활기차게 시작하는 데 큰 도움을 줍니다. 발코니에서 바라보는 석양도 일품이라 보는 사람마다 감탄하게 된답니다. 여러 가지 편의 시설과 다양한 체험 활동이 준비되어 있어서 휴식과 모험을 동시에 즐길 수 있어요. 낭만적인 분위기 속에서 편안한 휴양을 원한다면 이 호텔은 최적의 선택이 될 거예요!"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/hotel-villa-le-cocotel/hotel/all/saint-francois-gp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/hotel-villa-le-cocotel/hotel/all/saint-francois-gp.html"},"children":[{"type":"text","value":"Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)","position":{"start":{"line":57,"column":2,"offset":5712},"end":{"line":57,"column":53,"offset":5763}}}],"position":{"start":{"line":57,"column":1,"offset":5711},"end":{"line":57,"column":139,"offset":5849}}},"children":"Hôtel & Villa Le Cocotel (Hotel & Villa Le Cocotel)"},"post":{"id":"4494b31a-ab22-4d3c-9e27-fe5b601ec371","title":"세인트프랑수아의 핫한 숙소, 감성 충전되는 호텔 5선","fileName":"세인트프랑수아의-핫한-숙소-감성-충전되는-호텔-5선","description":"멋진 경관과 편안한 휴식을 동시에 누리고 싶다면 세인트프랑수아의 이 호텔들을 주목해보세요. Le Relais du Moulin Hotel de Charme & Spa에서는 매 순간이 로맨틱한 추억으로 남을 거예요. Residence de Tourisme Domaine Saint-Francois는 독특한 인테리어와 편리한 시설로 유명합니다. Hotel Guadeloupe Palm Suites는 가족 여행객들에게 특히 추천하는 숙소로, 안락한 객실과 다양한 편의시설이 매력적입니다. Hotel Villa Le Cocotel는 한적한 분위기 속에서도 고급스러움을 잃지 않은 공간으로, 완벽한 힐링을 선사합니다. 마지막으로 Hotel Amaudo는 환상적인 바다 전망이 돋보이는 숙소로, 매일 아침 일출을 감상할 수 있는 최고의 호텔입니다. 이제 당신도 이곳에서 진정한 휴식을 경험해보세요.","date":"2024-05-21T01:09:31.047Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"낙원","path":"$$/kr/tags/낙원","id":"낙원"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"평화","path":"$$/kr/tags/평화","id":"평화"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"바다 전망","path":"$$/kr/tags/바다-전망","id":"바다-전망"},{"name":"자연 경관","path":"$$/kr/tags/자연-경관","id":"자연-경관"},{"name":"산책로","path":"$$/kr/tags/산책로","id":"산책로"},{"name":"현지 음식","path":"$$/kr/tags/현지-음식","id":"현지-음식"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"낭만적","path":"$$/kr/tags/낭만적","id":"낭만적"},{"name":"친절함","path":"$$/kr/tags/친절함","id":"친절함"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"골프장","path":"$$/kr/tags/골프장","id":"골프장"},{"name":"카리브해","path":"$$/kr/tags/카리브해","id":"카리브해"},{"name":"편안한 숙박","path":"$$/kr/tags/편안한-숙박","id":"편안한-숙박"},{"name":"친절한 직원","path":"$$/kr/tags/친절한-직원","id":"친절한-직원"},{"name":"풀장","path":"$$/kr/tags/풀장","id":"풀장"},{"name":"신선한 아침식사","path":"$$/kr/tags/신선한-아침식사","id":"신선한-아침식사"},{"name":"접근성","path":"$$/kr/tags/접근성","id":"접근성"}],"banner":"/images/103148-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"세인트프랑수아의-핫한-숙소-감성-충전되는-호텔-5선","content":"$10","category":"articles","readMin":"7.4"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"57fd4f1f","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"천국의 숨결을 느끼다"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Hotel Amaudo\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/541/541590/541590_13111601310017555257.jpg","alt":"Hotel Amaudo_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/525240676.jpg?k=20d0aa59fabe8c855e728c34d5b6261303ac0601b9d2215e189f7f148845a574&s=50x50","alt":"Hotel Amaudo_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/525252598.jpg?k=0158ec0ba9f782d4f6bce47967d1f17e976c228f32053d8f2f9d21e175430f92&s=50x50","alt":"Hotel Amaudo_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["카리브해의 ",["$","strong",null,{"className":"font-black","children":"아름다운 경관"}],"은 그 어떤 사진보다 실제로 보는 것이 더 멋져요. 새하얀 모래사장과 맑은 바다는 그 자체로도 최상의 휴양지예요. 호텔 아마우도는 이런 천국 같은 풍경 속에 자리잡고 있어요. 객실의 깔끔함과 편안함은 말할 것도 없고, 그곳에서 보는 바다 전망은 가슴이 탁 트이는 느낌이에요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"아침 식사는 신선한 과일과 향긋한 커피로 시작되고, 풀장에서 보내는 시간은 너무도 여유롭고 평화로워요. 직원분들은 친절하고 세심해서 마치 집에 있는 것 같은 편안함을 느끼게 해줘요. 관광지와의 접근성도 좋아요. 여러모로 만족스러운 여행을 위한 최고의 선택이라 할 수 있어요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/hotel-amaudo/hotel/all/saint-francois-gp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/hotel-amaudo/hotel/all/saint-francois-gp.html"},"children":[{"type":"text","value":"Hotel Amaudo","position":{"start":{"line":70,"column":2,"offset":6648},"end":{"line":70,"column":14,"offset":6660}}}],"position":{"start":{"line":70,"column":1,"offset":6647},"end":{"line":70,"column":90,"offset":6736}}},"children":"Hotel Amaudo"},"post":{"id":"4494b31a-ab22-4d3c-9e27-fe5b601ec371","title":"세인트프랑수아의 핫한 숙소, 감성 충전되는 호텔 5선","fileName":"세인트프랑수아의-핫한-숙소-감성-충전되는-호텔-5선","description":"멋진 경관과 편안한 휴식을 동시에 누리고 싶다면 세인트프랑수아의 이 호텔들을 주목해보세요. Le Relais du Moulin Hotel de Charme & Spa에서는 매 순간이 로맨틱한 추억으로 남을 거예요. Residence de Tourisme Domaine Saint-Francois는 독특한 인테리어와 편리한 시설로 유명합니다. Hotel Guadeloupe Palm Suites는 가족 여행객들에게 특히 추천하는 숙소로, 안락한 객실과 다양한 편의시설이 매력적입니다. Hotel Villa Le Cocotel는 한적한 분위기 속에서도 고급스러움을 잃지 않은 공간으로, 완벽한 힐링을 선사합니다. 마지막으로 Hotel Amaudo는 환상적인 바다 전망이 돋보이는 숙소로, 매일 아침 일출을 감상할 수 있는 최고의 호텔입니다. 이제 당신도 이곳에서 진정한 휴식을 경험해보세요.","date":"2024-05-21T01:09:31.047Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"낙원","path":"$$/kr/tags/낙원","id":"낙원"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"평화","path":"$$/kr/tags/평화","id":"평화"},{"name":"힐링","path":"$$/kr/tags/힐링","id":"힐링"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"바다 전망","path":"$$/kr/tags/바다-전망","id":"바다-전망"},{"name":"자연 경관","path":"$$/kr/tags/자연-경관","id":"자연-경관"},{"name":"산책로","path":"$$/kr/tags/산책로","id":"산책로"},{"name":"현지 음식","path":"$$/kr/tags/현지-음식","id":"현지-음식"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"편안한","path":"$$/kr/tags/편안한","id":"편안한"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"낭만적","path":"$$/kr/tags/낭만적","id":"낭만적"},{"name":"친절함","path":"$$/kr/tags/친절함","id":"친절함"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"골프장","path":"$$/kr/tags/골프장","id":"골프장"},{"name":"카리브해","path":"$$/kr/tags/카리브해","id":"카리브해"},{"name":"편안한 숙박","path":"$$/kr/tags/편안한-숙박","id":"편안한-숙박"},{"name":"친절한 직원","path":"$$/kr/tags/친절한-직원","id":"친절한-직원"},{"name":"풀장","path":"$$/kr/tags/풀장","id":"풀장"},{"name":"신선한 아침식사","path":"$$/kr/tags/신선한-아침식사","id":"신선한-아침식사"},{"name":"접근성","path":"$$/kr/tags/접근성","id":"접근성"}],"banner":"/images/103148-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"세인트프랑수아의-핫한-숙소-감성-충전되는-호텔-5선","content":"$11","category":"articles","readMin":"7.4"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["카리브해 돛단배와 함께하는 완벽한 휴식지를 찾고 계신가요? **르 를레 뒤 물랑 - 호텔 드 샤름 앤 스파(Le Relais du Moulin - Hotel de Charme & Spa)**에서는 자연의 평화와 럭셔리를 동시에 만끽할 수 있습니다. **Résidence de tourisme Domaine Saint-François(Residence de tourisme Domaine Saint-Francois)**는 세인트 프랑소와에서 바다 전망과 자연 경관으로 스트레스를 해소하는 완벽한 휴양지를 제공합니다. **Hôtel Guadeloupe Palm Suites(Hotel Guadeloupe Palm Suites)**는 완벽한 해변과 훌륭한 서비스로 편안한 휴식을 선사합니다. **Hôtel & Villa Le Cocotel(Hotel & Villa Le Cocotel)**은 자연과 조화를 이루는 카리브해의 낭만적인 분위기 속에서 편안한 휴양을 즐길 수 있습니다. ",["$","strong",null,{"className":"font-black","children":"Hotel Amaudo"}],"는 자연의 아름다움과 편안함을 동시에 느낄 수 있는 최고의 선택입니다. 지금 바로 예약하여 ",["$","strong",null,{"className":"font-black","children":"잊지 못할 경험"}],"을 만끽하세요!"]}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"세인트프랑수아의 핫한 숙소, 감성 충전되는 호텔 5선","toc":[{"tagName":"h2","title":"세인트프랑수아에서 감성을 충전할 수 있는 호텔 5곳","id":"6e34b567"},{"tagName":"h2","title":"천국 같은 휴식 공간","id":"53648a7d"},{"tagName":"h2","title":"완벽한 휴양지 발견!","id":"391bb2f1"},{"tagName":"h2","title":"지상 낙원에서의 완벽한 휴식","id":"458b5127"},{"tagName":"h2","title":"카리브해의 낭만적인 휴양지","id":"5857d94b"},{"tagName":"h2","title":"천국의 숨결을 느끼다","id":"57fd4f1f"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

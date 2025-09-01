@@ -1,0 +1,419 @@
+1:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/faaaebde45bfcdd4.css",{"as":"style"}]
+0:["FL5qPEDR-MTJ47-06Xiua",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%EC%9D%B4%EC%A6%88%EC%98%A8%EC%B2%9C%EC%97%AC%ED%96%89%EC%A7%805%EA%B3%B3-940a6bf4","d"],{"children":["__PAGE__?{\"slug\":\"이즈온천여행지5곳-940a6bf4\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/faaaebde45bfcdd4.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-21fed9d4f5b142b6.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_e8ce0c","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%EC%9D%B4%EC%A6%88%EC%98%A8%EC%B2%9C%EC%97%AC%ED%96%89%EC%A7%805%EA%B3%B3-940a6bf4","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"이즈온천여행지5곳-940a6bf4\"}"},"styles":[]}],"segment":["slug","%EC%9D%B4%EC%A6%88%EC%98%A8%EC%B2%9C%EC%97%AC%ED%96%89%EC%A7%805%EA%B3%B3-940a6bf4","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"이즈의 비밀을 간직한 온천 여행지 5곳, 딱 가보자! | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"일본 이즈의 숨겨진 보석 같은 온천 호텔을 소개합니다. 문화와 전통을 잠시 내려놓고 힐링을 즐길 수 있는 곳들입니다. 고유의 매력을 지닌 호텔들인 '호텔 이나토리 긴스이소', '유카이로 기쿠야', '아라이 료칸', '신 가이카테이 이즈미 온천 료칸', 그리고 '이즈나오카 온천 빌라 가든 이시노야'에서 특별한 휴식을 만끽하세요. 깜짝 놀랄 가격과 퀄리티로 여러분을 기다립니다. 지금 바로 예약하고 놀라운 경험을 쌓아보세요!"}],["$","meta","3",{"name":"keywords","content":"아시아,자연,온천,전통,현대,명소,휴식,풍경,일본스타일,편안함,조식,친절,위치,관광,여유,일본료칸,다이닝,고요함,문화,일본"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%EC%9D%B4%EC%A6%88%EC%98%A8%EC%B2%9C%EC%97%AC%ED%96%89%EC%A7%805%EA%B3%B3-940a6bf4"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"이즈의 비밀을 간직한 온천 여행지 5곳, 딱 가보자! | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"이즈의 비밀을 간직한 온천 여행지 5곳, 딱 가보자! | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"일본 이즈의 숨겨진 보석 같은 온천 호텔을 소개합니다. 문화와 전통을 잠시 내려놓고 힐링을 즐길 수 있는 곳들입니다. 고유의 매력을 지닌 호텔들인 '호텔 이나토리 긴스이소', '유카이로 기쿠야', '아라이 료칸', '신 가이카테이 이즈미 온천 료칸', 그리고 '이즈나오카 온천 빌라 가든 이시노야'에서 특별한 휴식을 만끽하세요. 깜짝 놀랄 가격과 퀄리티로 여러분을 기다립니다. 지금 바로 예약하고 놀라운 경험을 쌓아보세요!"}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%EC%9D%B4%EC%A6%88%EC%98%A8%EC%B2%9C%EC%97%AC%ED%96%89%EC%A7%805%EA%B3%B3-940a6bf4"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/249498-1x1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"이즈의 비밀을 간직한 온천 여행지 5곳, 딱 가보자! | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"일본 이즈의 숨겨진 보석 같은 온천 호텔을 소개합니다. 문화와 전통을 잠시 내려놓고 힐링을 즐길 수 있는 곳들입니다. 고유의 매력을 지닌 호텔들인 '호텔 이나토리 긴스이소', '유카이로 기쿠야', '아라이 료칸', '신 가이카테이 이즈미 온천 료칸', 그리고 '이즈나오카 온천 빌라 가든 이시노야'에서 특별한 휴식을 만끽하세요. 깜짝 놀랄 가격과 퀄리티로 여러분을 기다립니다. 지금 바로 예약하고 놀라운 경험을 쌓아보세요!"}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/249498-1x1.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+12:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+d:T269a,
+    
+
+
+## 이즈에서 만나는 특별한 온천 여행지 5곳
+
+안녕하세요. 달마야 여행가자의 달마입니다! 오늘은 일본의 청정 자연 속에서 진정한 힐링을 경험할 수 있는 **이즈**의 숨겨진 온천 여행지를 소개해 드릴게요. 이즈는 뛰어난 자연 경관과 함께, 몸과 마음을 모두 달래줄 매력적인 온천으로 가득한 곳이랍니다. **온천**은 단순히 따뜻한 물이 아닙니다. 작은 거부감도 치유해 주고 온몸을 감싸주는 평화로운 쉼터죠. 이번 여행지 리스트는 특별히 엄선한 곳이라, 각 호텔에서 제공하는 독창적인 경험과 분위기를 만끽할 수 있을 거예요. 바쁜 일상 속에서 벗어나 일본의 전통과 자연을 느끼고 싶다면, 이즈의 온천지에서 행복한 하루를 보내보세요. 그럼, 지금 바로 떠나볼까요?
+
+
+## 우아한 휴식의 순간
+호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)
+    ![호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_0_image](https://pix8.agoda.net/hotelImages/940393/-1/bb9757d6fc6408bd5cde62e020e114b2.jpg)
+![호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_1_image](https://pix8.agoda.net/property/940393/1077650833/8ae7ff40d449015cb351a8f5ef11b049.jpeg)
+![호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/149529408.jpg)
+
+자연과 사교의 아름다움이 어우러지는 곳에서 진정한 힐링을 느껴보세요. 이누마키의 산과 바다가 펼쳐진 눈부신 풍경 속, **전통과 현대**가 조화를 이룬 환상적인 공간이 숨쉬고 있어요. 투숙객 여러분은 이곳에서 마음의 평온을 찾고, 탁월한 서비스와 풍미가 가득한 현지 요리를 즐기며 감각의 전환을 경험하게 될 거예요.
+
+저녁이 찾아오면, 온천의 따뜻함과 함께 일상을 잠시 잊을 수 있는 시간을 선사한답니다. 다양한 시설과 활동이 마련되어 있어, 가족이나 친구들과 함께 즐거운 시간을 보내기에도 안성맞춤이에요. 이누마키 진수이소에서 잊지 못할 추억을 만들어 보세요. **특별한 날들**을 더욱 특별하게 만들어 줄 이 곳에서의 경험을 기대해봐도 좋겠죠?
+
+[호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)](https://www.agoda.com/ko-kr/hotel-inatori-ginsuiso/hotel/izu-jp.html)
+ 
+
+## 자연 속 힐링의 특별한 순간
+유카이로 기쿠야 (Yukairo Kikuya)
+    ![유카이로 기쿠야 (Yukairo Kikuya)_0_image](https://pix8.agoda.net/hotelImages/6057278/-1/4d42ec18f395c36d79ca0fe985bf8040.jpg)
+![유카이로 기쿠야 (Yukairo Kikuya)_1_image](https://pix8.agoda.net/property/6057278/866231631/9db64a3005e0c5c5dd1fbcea8d84cef1.jpeg)
+![유카이로 기쿠야 (Yukairo Kikuya)_2_image](https://pix8.agoda.net/hotelImages/6057278/-1/11dc6461d345f79b5596c1d87bca6835.jpg)
+
+바쁜 일상 속에서 잠시 벗어나 자연과 하나가 되어 보는 건 어떤가요? **유카이로 기쿠야**라는 특별한 호텔이 이즈 지역에 숨겨져 있는데요, 이곳은 자연과 함께하는 휴식을 선사해요. 눈을 감으면 고즈넉한 산비탈에서 흐르는 물 소리가 들려오고, 문을 열면 맑은 공기가 코 끝을 스쳐 지나간답니다. 여러 여행자들이 이곳의 아름다운 자연 경관과 친절한 서비스를 극찬한다고 하니 믿고 방문해 보세요!
+
+객실은 전통적인 일본 스타일로 꾸며져 있어요. 온천을 체험할 수 있는 것 또한 큰 매력 중 하나예요. 특히 노천 온천에서 펼쳐지는 풍경은 마치 한 폭의 그림과 같아요. 이런 세심한 배려 덕분에 머무는 동안 스트레스가 사라지는 것을 느끼게 될 거예요. 편안함이 필요한 순간, 유카이로 기쿠야는 모두에게 추천할 만한 장소랍니다.
+
+[유카이로 기쿠야 (Yukairo Kikuya)](https://www.agoda.com/ko-kr/yukairo-kikuya_6/hotel/izu-jp.html)
+ 
+
+## 일본 전통의 아름다움, 온천에서 휴식을
+아라이 료칸 (Arai Ryokan)
+    ![아라이 료칸 (Arai Ryokan)_0_image](https://pix8.agoda.net/hotelImages/548497/-1/57816b49e46b99be7d14df07d9626500.jpg)
+![아라이 료칸 (Arai Ryokan)_1_image](https://pix8.agoda.net/hotelImages/548/548497/548497_18100306150068292892.jpg)
+![아라이 료칸 (Arai Ryokan)_2_image](https://pix8.agoda.net/hotelImages/548/548497/548497_15060308010028291382.jpg)
+
+일본 이즈에 위치한 아라리 료칸은 전통적인 미와 현대적인 편안함을 동시에 제공합니다. 아름답게 가꿔진 일본식 정원은 물론, 객실에서 느껴지는 고즈넉한 분위기가 인상적이에요. **온천**을 즐기며 자연 속에서 여유로운 시간을 보내기에도 딱 맞습니다. 그리고 정성이 담긴 일본식 조식은 하루를 힘차게 시작할 수 있는 완벽한 준비예요.
+
+또한 세심한 서비스와 친절한 직원들이 손님을 맞이하는 모습이 따뜻한 홈을 느끼게 합니다. 피곤한 여정을 마치고 **나만의 공간**으로 돌아와 쉬고 싶을 때 이곳이 딱입니다. 이동이 편리한 위치와 풍부한 **현지 관광** 정보도 제공되어 근처 관광지를 둘러보기에 좋습니다. 많고 다양한 활동으로 가득한 하루를 마무리하기엔 아라리 료칸이 최적의 선택이에요.
+
+[아라이 료칸 (Arai Ryokan)](https://www.agoda.com/ko-kr/arai-ryokan/hotel/izu-jp.html)
+ 
+
+## 온천 속 휴식의 향연
+신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)
+    ![신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_0_image](https://pix8.agoda.net/hotelImages/3001657/0/646526dfb71ddb0a25efaba5c60ca099.jpg)
+![신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/665208931.jpg)
+![신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/113428083.jpg)
+
+일본의 아름다운 자연 속에서 *온천*을 즐기며 여유로운 시간을 보내고 싶다면 이곳만큼 완벽한 선택은 없을 거예요. 푸른 숲과 맑은 공기가 있는 곳에서 마음의 평온을 찾을 수 있도록 설계된 방에는 일본 전통의 매력이 진하게 묻어납니다. 아늑한 분위기의 방에서 창밖을 바라보면 자연의 색채와 소리가 어우러진 *힐링*의 순간을 경험할 수 있어요.
+
+또한, 정갈하고 섬세한 일본식 다이닝이 준비되어 있으며, 청결하게 관리된 시설들이 여행의 질을 더욱 높여줍니다. 이곳에선 시간이 느리게 흐르는 것 같은 신비로운 느낌을 받을 수 있답니다. 도심에서 벗어나 자연과 하나 되는 특별한 경험을 원하신다면 지금 바로 그 기회를 잡으세요!
+
+[신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)](https://www.agoda.com/ko-kr/shin-kaikatei-izumi-hot-spring-ryokan/hotel/izu-jp.html)
+ 
+
+## 온천과 정원이 낭만적으로 교차하다
+Ishinoya Izunagaoka - TKP Hotels & Resorts
+    ![Ishinoya Izunagaoka - TKP Hotels & Resorts_0_image](https://pix8.agoda.net/hotelImages/926686/-1/2a1e2db5b74ec0d8b1586bb6db8b9889.jpg)
+![Ishinoya Izunagaoka - TKP Hotels & Resorts_1_image](https://pix8.agoda.net/property/33462062/612967007/becda9dfd73ea924c972b68fd83a0332.jpeg)
+![Ishinoya Izunagaoka - TKP Hotels & Resorts_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/87044265.jpg)
+
+오랜 여행 끝에 고요한 자연 속에서 편안한 휴식을 꿈꾸신다면, 일본의 숨은 보석 같은 숙소가 있답니다. 자연에 녹아든 고풍스러운 이곳에서는 산과 하늘, 그리고 정원이 어우러진 풍경을 하루 종일 즐길 수 있어요. *친절한 서비스*와 세심한 배려가 돋보이는 직원들 덕분에 몸과 마음에 따스한 휴식을 취하기에 안성맞춤이죠.
+
+특히 전통적인 온천을 경험하면서 완벽하게 긴장을 풀 수 있는 시간이 기다리고 있어요. 개별 온천은 각기 다른 매력을 지니고 있으며, 방 안에서도 일본 문화의 정수를 느낄 수 있도록 잘 꾸며져 있어요. 여기서의 순간은 마치 영화 속 장면처럼, 당신의 기억에 오래도록 남을 거예요. 자연 속에서 몸과 마음을 재충전하세요!
+
+[Ishinoya Izunagaoka - TKP Hotels & Resorts](https://www.agoda.com/ko-kr/izunagaoka-onsen-villa-garden-ishinoya/hotel/izu-jp.html)
+ 
+
+
+## 결론
+
+이번 여행에서는 일본의 자연과 전통의 매력을 만끽할 수 있는 다양한 호텔들이 여러분을 기다리고 있습니다. **호텔 이나토리 긴수이소**에서는 자연과 전통이 어우러진 고요한 휴식을 경험할 수 있으며, **유카이로 기쿠야**에서는 자연 속 휴식과 일본 전통의 매력을 한껏 느낄 수 있습니다. **아라이 료칸**에서는 전통과 현대의 조화를 이룬 온천과 따뜻한 서비스를 통해 진정한 힐링을 경험하실 수 있습니다. 또한, **신 가이카테이 이즈미 핫 스프링 료칸**에서는 일본 자연 속 온천에서 전통의 매력과 여유로운 시간을 즐기실 수 있습니다. 마지막으로, **Ishinoya Izunagaoka - TKP Hotels & Resorts**는 온천과 정원이 어우러진 자연 속에서의 편안한 휴식을 제공합니다.
+
+이 리조트들은 모두 일상에서 벗어나 **진정한 쉼**을 찾고자 하는 분들을 위한 최고의 선택이 될 것입니다. 이제 마음에 드는 호텔을 선택하여 예약하고, 놓칠 수 없는 이 특별한 경험을 설레는 마음으로 준비해보세요.
+
+e:T269a,
+    
+
+
+## 이즈에서 만나는 특별한 온천 여행지 5곳
+
+안녕하세요. 달마야 여행가자의 달마입니다! 오늘은 일본의 청정 자연 속에서 진정한 힐링을 경험할 수 있는 **이즈**의 숨겨진 온천 여행지를 소개해 드릴게요. 이즈는 뛰어난 자연 경관과 함께, 몸과 마음을 모두 달래줄 매력적인 온천으로 가득한 곳이랍니다. **온천**은 단순히 따뜻한 물이 아닙니다. 작은 거부감도 치유해 주고 온몸을 감싸주는 평화로운 쉼터죠. 이번 여행지 리스트는 특별히 엄선한 곳이라, 각 호텔에서 제공하는 독창적인 경험과 분위기를 만끽할 수 있을 거예요. 바쁜 일상 속에서 벗어나 일본의 전통과 자연을 느끼고 싶다면, 이즈의 온천지에서 행복한 하루를 보내보세요. 그럼, 지금 바로 떠나볼까요?
+
+
+## 우아한 휴식의 순간
+호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)
+    ![호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_0_image](https://pix8.agoda.net/hotelImages/940393/-1/bb9757d6fc6408bd5cde62e020e114b2.jpg)
+![호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_1_image](https://pix8.agoda.net/property/940393/1077650833/8ae7ff40d449015cb351a8f5ef11b049.jpeg)
+![호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/149529408.jpg)
+
+자연과 사교의 아름다움이 어우러지는 곳에서 진정한 힐링을 느껴보세요. 이누마키의 산과 바다가 펼쳐진 눈부신 풍경 속, **전통과 현대**가 조화를 이룬 환상적인 공간이 숨쉬고 있어요. 투숙객 여러분은 이곳에서 마음의 평온을 찾고, 탁월한 서비스와 풍미가 가득한 현지 요리를 즐기며 감각의 전환을 경험하게 될 거예요.
+
+저녁이 찾아오면, 온천의 따뜻함과 함께 일상을 잠시 잊을 수 있는 시간을 선사한답니다. 다양한 시설과 활동이 마련되어 있어, 가족이나 친구들과 함께 즐거운 시간을 보내기에도 안성맞춤이에요. 이누마키 진수이소에서 잊지 못할 추억을 만들어 보세요. **특별한 날들**을 더욱 특별하게 만들어 줄 이 곳에서의 경험을 기대해봐도 좋겠죠?
+
+[호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)](https://www.agoda.com/ko-kr/hotel-inatori-ginsuiso/hotel/izu-jp.html)
+ 
+
+## 자연 속 힐링의 특별한 순간
+유카이로 기쿠야 (Yukairo Kikuya)
+    ![유카이로 기쿠야 (Yukairo Kikuya)_0_image](https://pix8.agoda.net/hotelImages/6057278/-1/4d42ec18f395c36d79ca0fe985bf8040.jpg)
+![유카이로 기쿠야 (Yukairo Kikuya)_1_image](https://pix8.agoda.net/property/6057278/866231631/9db64a3005e0c5c5dd1fbcea8d84cef1.jpeg)
+![유카이로 기쿠야 (Yukairo Kikuya)_2_image](https://pix8.agoda.net/hotelImages/6057278/-1/11dc6461d345f79b5596c1d87bca6835.jpg)
+
+바쁜 일상 속에서 잠시 벗어나 자연과 하나가 되어 보는 건 어떤가요? **유카이로 기쿠야**라는 특별한 호텔이 이즈 지역에 숨겨져 있는데요, 이곳은 자연과 함께하는 휴식을 선사해요. 눈을 감으면 고즈넉한 산비탈에서 흐르는 물 소리가 들려오고, 문을 열면 맑은 공기가 코 끝을 스쳐 지나간답니다. 여러 여행자들이 이곳의 아름다운 자연 경관과 친절한 서비스를 극찬한다고 하니 믿고 방문해 보세요!
+
+객실은 전통적인 일본 스타일로 꾸며져 있어요. 온천을 체험할 수 있는 것 또한 큰 매력 중 하나예요. 특히 노천 온천에서 펼쳐지는 풍경은 마치 한 폭의 그림과 같아요. 이런 세심한 배려 덕분에 머무는 동안 스트레스가 사라지는 것을 느끼게 될 거예요. 편안함이 필요한 순간, 유카이로 기쿠야는 모두에게 추천할 만한 장소랍니다.
+
+[유카이로 기쿠야 (Yukairo Kikuya)](https://www.agoda.com/ko-kr/yukairo-kikuya_6/hotel/izu-jp.html)
+ 
+
+## 일본 전통의 아름다움, 온천에서 휴식을
+아라이 료칸 (Arai Ryokan)
+    ![아라이 료칸 (Arai Ryokan)_0_image](https://pix8.agoda.net/hotelImages/548497/-1/57816b49e46b99be7d14df07d9626500.jpg)
+![아라이 료칸 (Arai Ryokan)_1_image](https://pix8.agoda.net/hotelImages/548/548497/548497_18100306150068292892.jpg)
+![아라이 료칸 (Arai Ryokan)_2_image](https://pix8.agoda.net/hotelImages/548/548497/548497_15060308010028291382.jpg)
+
+일본 이즈에 위치한 아라리 료칸은 전통적인 미와 현대적인 편안함을 동시에 제공합니다. 아름답게 가꿔진 일본식 정원은 물론, 객실에서 느껴지는 고즈넉한 분위기가 인상적이에요. **온천**을 즐기며 자연 속에서 여유로운 시간을 보내기에도 딱 맞습니다. 그리고 정성이 담긴 일본식 조식은 하루를 힘차게 시작할 수 있는 완벽한 준비예요.
+
+또한 세심한 서비스와 친절한 직원들이 손님을 맞이하는 모습이 따뜻한 홈을 느끼게 합니다. 피곤한 여정을 마치고 **나만의 공간**으로 돌아와 쉬고 싶을 때 이곳이 딱입니다. 이동이 편리한 위치와 풍부한 **현지 관광** 정보도 제공되어 근처 관광지를 둘러보기에 좋습니다. 많고 다양한 활동으로 가득한 하루를 마무리하기엔 아라리 료칸이 최적의 선택이에요.
+
+[아라이 료칸 (Arai Ryokan)](https://www.agoda.com/ko-kr/arai-ryokan/hotel/izu-jp.html)
+ 
+
+## 온천 속 휴식의 향연
+신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)
+    ![신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_0_image](https://pix8.agoda.net/hotelImages/3001657/0/646526dfb71ddb0a25efaba5c60ca099.jpg)
+![신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/665208931.jpg)
+![신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/113428083.jpg)
+
+일본의 아름다운 자연 속에서 *온천*을 즐기며 여유로운 시간을 보내고 싶다면 이곳만큼 완벽한 선택은 없을 거예요. 푸른 숲과 맑은 공기가 있는 곳에서 마음의 평온을 찾을 수 있도록 설계된 방에는 일본 전통의 매력이 진하게 묻어납니다. 아늑한 분위기의 방에서 창밖을 바라보면 자연의 색채와 소리가 어우러진 *힐링*의 순간을 경험할 수 있어요.
+
+또한, 정갈하고 섬세한 일본식 다이닝이 준비되어 있으며, 청결하게 관리된 시설들이 여행의 질을 더욱 높여줍니다. 이곳에선 시간이 느리게 흐르는 것 같은 신비로운 느낌을 받을 수 있답니다. 도심에서 벗어나 자연과 하나 되는 특별한 경험을 원하신다면 지금 바로 그 기회를 잡으세요!
+
+[신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)](https://www.agoda.com/ko-kr/shin-kaikatei-izumi-hot-spring-ryokan/hotel/izu-jp.html)
+ 
+
+## 온천과 정원이 낭만적으로 교차하다
+Ishinoya Izunagaoka - TKP Hotels & Resorts
+    ![Ishinoya Izunagaoka - TKP Hotels & Resorts_0_image](https://pix8.agoda.net/hotelImages/926686/-1/2a1e2db5b74ec0d8b1586bb6db8b9889.jpg)
+![Ishinoya Izunagaoka - TKP Hotels & Resorts_1_image](https://pix8.agoda.net/property/33462062/612967007/becda9dfd73ea924c972b68fd83a0332.jpeg)
+![Ishinoya Izunagaoka - TKP Hotels & Resorts_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/87044265.jpg)
+
+오랜 여행 끝에 고요한 자연 속에서 편안한 휴식을 꿈꾸신다면, 일본의 숨은 보석 같은 숙소가 있답니다. 자연에 녹아든 고풍스러운 이곳에서는 산과 하늘, 그리고 정원이 어우러진 풍경을 하루 종일 즐길 수 있어요. *친절한 서비스*와 세심한 배려가 돋보이는 직원들 덕분에 몸과 마음에 따스한 휴식을 취하기에 안성맞춤이죠.
+
+특히 전통적인 온천을 경험하면서 완벽하게 긴장을 풀 수 있는 시간이 기다리고 있어요. 개별 온천은 각기 다른 매력을 지니고 있으며, 방 안에서도 일본 문화의 정수를 느낄 수 있도록 잘 꾸며져 있어요. 여기서의 순간은 마치 영화 속 장면처럼, 당신의 기억에 오래도록 남을 거예요. 자연 속에서 몸과 마음을 재충전하세요!
+
+[Ishinoya Izunagaoka - TKP Hotels & Resorts](https://www.agoda.com/ko-kr/izunagaoka-onsen-villa-garden-ishinoya/hotel/izu-jp.html)
+ 
+
+
+## 결론
+
+이번 여행에서는 일본의 자연과 전통의 매력을 만끽할 수 있는 다양한 호텔들이 여러분을 기다리고 있습니다. **호텔 이나토리 긴수이소**에서는 자연과 전통이 어우러진 고요한 휴식을 경험할 수 있으며, **유카이로 기쿠야**에서는 자연 속 휴식과 일본 전통의 매력을 한껏 느낄 수 있습니다. **아라이 료칸**에서는 전통과 현대의 조화를 이룬 온천과 따뜻한 서비스를 통해 진정한 힐링을 경험하실 수 있습니다. 또한, **신 가이카테이 이즈미 핫 스프링 료칸**에서는 일본 자연 속 온천에서 전통의 매력과 여유로운 시간을 즐기실 수 있습니다. 마지막으로, **Ishinoya Izunagaoka - TKP Hotels & Resorts**는 온천과 정원이 어우러진 자연 속에서의 편안한 휴식을 제공합니다.
+
+이 리조트들은 모두 일상에서 벗어나 **진정한 쉼**을 찾고자 하는 분들을 위한 최고의 선택이 될 것입니다. 이제 마음에 드는 호텔을 선택하여 예약하고, 놓칠 수 없는 이 특별한 경험을 설레는 마음으로 준비해보세요.
+
+f:T269a,
+    
+
+
+## 이즈에서 만나는 특별한 온천 여행지 5곳
+
+안녕하세요. 달마야 여행가자의 달마입니다! 오늘은 일본의 청정 자연 속에서 진정한 힐링을 경험할 수 있는 **이즈**의 숨겨진 온천 여행지를 소개해 드릴게요. 이즈는 뛰어난 자연 경관과 함께, 몸과 마음을 모두 달래줄 매력적인 온천으로 가득한 곳이랍니다. **온천**은 단순히 따뜻한 물이 아닙니다. 작은 거부감도 치유해 주고 온몸을 감싸주는 평화로운 쉼터죠. 이번 여행지 리스트는 특별히 엄선한 곳이라, 각 호텔에서 제공하는 독창적인 경험과 분위기를 만끽할 수 있을 거예요. 바쁜 일상 속에서 벗어나 일본의 전통과 자연을 느끼고 싶다면, 이즈의 온천지에서 행복한 하루를 보내보세요. 그럼, 지금 바로 떠나볼까요?
+
+
+## 우아한 휴식의 순간
+호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)
+    ![호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_0_image](https://pix8.agoda.net/hotelImages/940393/-1/bb9757d6fc6408bd5cde62e020e114b2.jpg)
+![호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_1_image](https://pix8.agoda.net/property/940393/1077650833/8ae7ff40d449015cb351a8f5ef11b049.jpeg)
+![호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/149529408.jpg)
+
+자연과 사교의 아름다움이 어우러지는 곳에서 진정한 힐링을 느껴보세요. 이누마키의 산과 바다가 펼쳐진 눈부신 풍경 속, **전통과 현대**가 조화를 이룬 환상적인 공간이 숨쉬고 있어요. 투숙객 여러분은 이곳에서 마음의 평온을 찾고, 탁월한 서비스와 풍미가 가득한 현지 요리를 즐기며 감각의 전환을 경험하게 될 거예요.
+
+저녁이 찾아오면, 온천의 따뜻함과 함께 일상을 잠시 잊을 수 있는 시간을 선사한답니다. 다양한 시설과 활동이 마련되어 있어, 가족이나 친구들과 함께 즐거운 시간을 보내기에도 안성맞춤이에요. 이누마키 진수이소에서 잊지 못할 추억을 만들어 보세요. **특별한 날들**을 더욱 특별하게 만들어 줄 이 곳에서의 경험을 기대해봐도 좋겠죠?
+
+[호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)](https://www.agoda.com/ko-kr/hotel-inatori-ginsuiso/hotel/izu-jp.html)
+ 
+
+## 자연 속 힐링의 특별한 순간
+유카이로 기쿠야 (Yukairo Kikuya)
+    ![유카이로 기쿠야 (Yukairo Kikuya)_0_image](https://pix8.agoda.net/hotelImages/6057278/-1/4d42ec18f395c36d79ca0fe985bf8040.jpg)
+![유카이로 기쿠야 (Yukairo Kikuya)_1_image](https://pix8.agoda.net/property/6057278/866231631/9db64a3005e0c5c5dd1fbcea8d84cef1.jpeg)
+![유카이로 기쿠야 (Yukairo Kikuya)_2_image](https://pix8.agoda.net/hotelImages/6057278/-1/11dc6461d345f79b5596c1d87bca6835.jpg)
+
+바쁜 일상 속에서 잠시 벗어나 자연과 하나가 되어 보는 건 어떤가요? **유카이로 기쿠야**라는 특별한 호텔이 이즈 지역에 숨겨져 있는데요, 이곳은 자연과 함께하는 휴식을 선사해요. 눈을 감으면 고즈넉한 산비탈에서 흐르는 물 소리가 들려오고, 문을 열면 맑은 공기가 코 끝을 스쳐 지나간답니다. 여러 여행자들이 이곳의 아름다운 자연 경관과 친절한 서비스를 극찬한다고 하니 믿고 방문해 보세요!
+
+객실은 전통적인 일본 스타일로 꾸며져 있어요. 온천을 체험할 수 있는 것 또한 큰 매력 중 하나예요. 특히 노천 온천에서 펼쳐지는 풍경은 마치 한 폭의 그림과 같아요. 이런 세심한 배려 덕분에 머무는 동안 스트레스가 사라지는 것을 느끼게 될 거예요. 편안함이 필요한 순간, 유카이로 기쿠야는 모두에게 추천할 만한 장소랍니다.
+
+[유카이로 기쿠야 (Yukairo Kikuya)](https://www.agoda.com/ko-kr/yukairo-kikuya_6/hotel/izu-jp.html)
+ 
+
+## 일본 전통의 아름다움, 온천에서 휴식을
+아라이 료칸 (Arai Ryokan)
+    ![아라이 료칸 (Arai Ryokan)_0_image](https://pix8.agoda.net/hotelImages/548497/-1/57816b49e46b99be7d14df07d9626500.jpg)
+![아라이 료칸 (Arai Ryokan)_1_image](https://pix8.agoda.net/hotelImages/548/548497/548497_18100306150068292892.jpg)
+![아라이 료칸 (Arai Ryokan)_2_image](https://pix8.agoda.net/hotelImages/548/548497/548497_15060308010028291382.jpg)
+
+일본 이즈에 위치한 아라리 료칸은 전통적인 미와 현대적인 편안함을 동시에 제공합니다. 아름답게 가꿔진 일본식 정원은 물론, 객실에서 느껴지는 고즈넉한 분위기가 인상적이에요. **온천**을 즐기며 자연 속에서 여유로운 시간을 보내기에도 딱 맞습니다. 그리고 정성이 담긴 일본식 조식은 하루를 힘차게 시작할 수 있는 완벽한 준비예요.
+
+또한 세심한 서비스와 친절한 직원들이 손님을 맞이하는 모습이 따뜻한 홈을 느끼게 합니다. 피곤한 여정을 마치고 **나만의 공간**으로 돌아와 쉬고 싶을 때 이곳이 딱입니다. 이동이 편리한 위치와 풍부한 **현지 관광** 정보도 제공되어 근처 관광지를 둘러보기에 좋습니다. 많고 다양한 활동으로 가득한 하루를 마무리하기엔 아라리 료칸이 최적의 선택이에요.
+
+[아라이 료칸 (Arai Ryokan)](https://www.agoda.com/ko-kr/arai-ryokan/hotel/izu-jp.html)
+ 
+
+## 온천 속 휴식의 향연
+신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)
+    ![신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_0_image](https://pix8.agoda.net/hotelImages/3001657/0/646526dfb71ddb0a25efaba5c60ca099.jpg)
+![신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/665208931.jpg)
+![신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/113428083.jpg)
+
+일본의 아름다운 자연 속에서 *온천*을 즐기며 여유로운 시간을 보내고 싶다면 이곳만큼 완벽한 선택은 없을 거예요. 푸른 숲과 맑은 공기가 있는 곳에서 마음의 평온을 찾을 수 있도록 설계된 방에는 일본 전통의 매력이 진하게 묻어납니다. 아늑한 분위기의 방에서 창밖을 바라보면 자연의 색채와 소리가 어우러진 *힐링*의 순간을 경험할 수 있어요.
+
+또한, 정갈하고 섬세한 일본식 다이닝이 준비되어 있으며, 청결하게 관리된 시설들이 여행의 질을 더욱 높여줍니다. 이곳에선 시간이 느리게 흐르는 것 같은 신비로운 느낌을 받을 수 있답니다. 도심에서 벗어나 자연과 하나 되는 특별한 경험을 원하신다면 지금 바로 그 기회를 잡으세요!
+
+[신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)](https://www.agoda.com/ko-kr/shin-kaikatei-izumi-hot-spring-ryokan/hotel/izu-jp.html)
+ 
+
+## 온천과 정원이 낭만적으로 교차하다
+Ishinoya Izunagaoka - TKP Hotels & Resorts
+    ![Ishinoya Izunagaoka - TKP Hotels & Resorts_0_image](https://pix8.agoda.net/hotelImages/926686/-1/2a1e2db5b74ec0d8b1586bb6db8b9889.jpg)
+![Ishinoya Izunagaoka - TKP Hotels & Resorts_1_image](https://pix8.agoda.net/property/33462062/612967007/becda9dfd73ea924c972b68fd83a0332.jpeg)
+![Ishinoya Izunagaoka - TKP Hotels & Resorts_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/87044265.jpg)
+
+오랜 여행 끝에 고요한 자연 속에서 편안한 휴식을 꿈꾸신다면, 일본의 숨은 보석 같은 숙소가 있답니다. 자연에 녹아든 고풍스러운 이곳에서는 산과 하늘, 그리고 정원이 어우러진 풍경을 하루 종일 즐길 수 있어요. *친절한 서비스*와 세심한 배려가 돋보이는 직원들 덕분에 몸과 마음에 따스한 휴식을 취하기에 안성맞춤이죠.
+
+특히 전통적인 온천을 경험하면서 완벽하게 긴장을 풀 수 있는 시간이 기다리고 있어요. 개별 온천은 각기 다른 매력을 지니고 있으며, 방 안에서도 일본 문화의 정수를 느낄 수 있도록 잘 꾸며져 있어요. 여기서의 순간은 마치 영화 속 장면처럼, 당신의 기억에 오래도록 남을 거예요. 자연 속에서 몸과 마음을 재충전하세요!
+
+[Ishinoya Izunagaoka - TKP Hotels & Resorts](https://www.agoda.com/ko-kr/izunagaoka-onsen-villa-garden-ishinoya/hotel/izu-jp.html)
+ 
+
+
+## 결론
+
+이번 여행에서는 일본의 자연과 전통의 매력을 만끽할 수 있는 다양한 호텔들이 여러분을 기다리고 있습니다. **호텔 이나토리 긴수이소**에서는 자연과 전통이 어우러진 고요한 휴식을 경험할 수 있으며, **유카이로 기쿠야**에서는 자연 속 휴식과 일본 전통의 매력을 한껏 느낄 수 있습니다. **아라이 료칸**에서는 전통과 현대의 조화를 이룬 온천과 따뜻한 서비스를 통해 진정한 힐링을 경험하실 수 있습니다. 또한, **신 가이카테이 이즈미 핫 스프링 료칸**에서는 일본 자연 속 온천에서 전통의 매력과 여유로운 시간을 즐기실 수 있습니다. 마지막으로, **Ishinoya Izunagaoka - TKP Hotels & Resorts**는 온천과 정원이 어우러진 자연 속에서의 편안한 휴식을 제공합니다.
+
+이 리조트들은 모두 일상에서 벗어나 **진정한 쉼**을 찾고자 하는 분들을 위한 최고의 선택이 될 것입니다. 이제 마음에 드는 호텔을 선택하여 예약하고, 놓칠 수 없는 이 특별한 경험을 설레는 마음으로 준비해보세요.
+
+10:T269a,
+    
+
+
+## 이즈에서 만나는 특별한 온천 여행지 5곳
+
+안녕하세요. 달마야 여행가자의 달마입니다! 오늘은 일본의 청정 자연 속에서 진정한 힐링을 경험할 수 있는 **이즈**의 숨겨진 온천 여행지를 소개해 드릴게요. 이즈는 뛰어난 자연 경관과 함께, 몸과 마음을 모두 달래줄 매력적인 온천으로 가득한 곳이랍니다. **온천**은 단순히 따뜻한 물이 아닙니다. 작은 거부감도 치유해 주고 온몸을 감싸주는 평화로운 쉼터죠. 이번 여행지 리스트는 특별히 엄선한 곳이라, 각 호텔에서 제공하는 독창적인 경험과 분위기를 만끽할 수 있을 거예요. 바쁜 일상 속에서 벗어나 일본의 전통과 자연을 느끼고 싶다면, 이즈의 온천지에서 행복한 하루를 보내보세요. 그럼, 지금 바로 떠나볼까요?
+
+
+## 우아한 휴식의 순간
+호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)
+    ![호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_0_image](https://pix8.agoda.net/hotelImages/940393/-1/bb9757d6fc6408bd5cde62e020e114b2.jpg)
+![호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_1_image](https://pix8.agoda.net/property/940393/1077650833/8ae7ff40d449015cb351a8f5ef11b049.jpeg)
+![호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/149529408.jpg)
+
+자연과 사교의 아름다움이 어우러지는 곳에서 진정한 힐링을 느껴보세요. 이누마키의 산과 바다가 펼쳐진 눈부신 풍경 속, **전통과 현대**가 조화를 이룬 환상적인 공간이 숨쉬고 있어요. 투숙객 여러분은 이곳에서 마음의 평온을 찾고, 탁월한 서비스와 풍미가 가득한 현지 요리를 즐기며 감각의 전환을 경험하게 될 거예요.
+
+저녁이 찾아오면, 온천의 따뜻함과 함께 일상을 잠시 잊을 수 있는 시간을 선사한답니다. 다양한 시설과 활동이 마련되어 있어, 가족이나 친구들과 함께 즐거운 시간을 보내기에도 안성맞춤이에요. 이누마키 진수이소에서 잊지 못할 추억을 만들어 보세요. **특별한 날들**을 더욱 특별하게 만들어 줄 이 곳에서의 경험을 기대해봐도 좋겠죠?
+
+[호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)](https://www.agoda.com/ko-kr/hotel-inatori-ginsuiso/hotel/izu-jp.html)
+ 
+
+## 자연 속 힐링의 특별한 순간
+유카이로 기쿠야 (Yukairo Kikuya)
+    ![유카이로 기쿠야 (Yukairo Kikuya)_0_image](https://pix8.agoda.net/hotelImages/6057278/-1/4d42ec18f395c36d79ca0fe985bf8040.jpg)
+![유카이로 기쿠야 (Yukairo Kikuya)_1_image](https://pix8.agoda.net/property/6057278/866231631/9db64a3005e0c5c5dd1fbcea8d84cef1.jpeg)
+![유카이로 기쿠야 (Yukairo Kikuya)_2_image](https://pix8.agoda.net/hotelImages/6057278/-1/11dc6461d345f79b5596c1d87bca6835.jpg)
+
+바쁜 일상 속에서 잠시 벗어나 자연과 하나가 되어 보는 건 어떤가요? **유카이로 기쿠야**라는 특별한 호텔이 이즈 지역에 숨겨져 있는데요, 이곳은 자연과 함께하는 휴식을 선사해요. 눈을 감으면 고즈넉한 산비탈에서 흐르는 물 소리가 들려오고, 문을 열면 맑은 공기가 코 끝을 스쳐 지나간답니다. 여러 여행자들이 이곳의 아름다운 자연 경관과 친절한 서비스를 극찬한다고 하니 믿고 방문해 보세요!
+
+객실은 전통적인 일본 스타일로 꾸며져 있어요. 온천을 체험할 수 있는 것 또한 큰 매력 중 하나예요. 특히 노천 온천에서 펼쳐지는 풍경은 마치 한 폭의 그림과 같아요. 이런 세심한 배려 덕분에 머무는 동안 스트레스가 사라지는 것을 느끼게 될 거예요. 편안함이 필요한 순간, 유카이로 기쿠야는 모두에게 추천할 만한 장소랍니다.
+
+[유카이로 기쿠야 (Yukairo Kikuya)](https://www.agoda.com/ko-kr/yukairo-kikuya_6/hotel/izu-jp.html)
+ 
+
+## 일본 전통의 아름다움, 온천에서 휴식을
+아라이 료칸 (Arai Ryokan)
+    ![아라이 료칸 (Arai Ryokan)_0_image](https://pix8.agoda.net/hotelImages/548497/-1/57816b49e46b99be7d14df07d9626500.jpg)
+![아라이 료칸 (Arai Ryokan)_1_image](https://pix8.agoda.net/hotelImages/548/548497/548497_18100306150068292892.jpg)
+![아라이 료칸 (Arai Ryokan)_2_image](https://pix8.agoda.net/hotelImages/548/548497/548497_15060308010028291382.jpg)
+
+일본 이즈에 위치한 아라리 료칸은 전통적인 미와 현대적인 편안함을 동시에 제공합니다. 아름답게 가꿔진 일본식 정원은 물론, 객실에서 느껴지는 고즈넉한 분위기가 인상적이에요. **온천**을 즐기며 자연 속에서 여유로운 시간을 보내기에도 딱 맞습니다. 그리고 정성이 담긴 일본식 조식은 하루를 힘차게 시작할 수 있는 완벽한 준비예요.
+
+또한 세심한 서비스와 친절한 직원들이 손님을 맞이하는 모습이 따뜻한 홈을 느끼게 합니다. 피곤한 여정을 마치고 **나만의 공간**으로 돌아와 쉬고 싶을 때 이곳이 딱입니다. 이동이 편리한 위치와 풍부한 **현지 관광** 정보도 제공되어 근처 관광지를 둘러보기에 좋습니다. 많고 다양한 활동으로 가득한 하루를 마무리하기엔 아라리 료칸이 최적의 선택이에요.
+
+[아라이 료칸 (Arai Ryokan)](https://www.agoda.com/ko-kr/arai-ryokan/hotel/izu-jp.html)
+ 
+
+## 온천 속 휴식의 향연
+신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)
+    ![신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_0_image](https://pix8.agoda.net/hotelImages/3001657/0/646526dfb71ddb0a25efaba5c60ca099.jpg)
+![신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/665208931.jpg)
+![신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/113428083.jpg)
+
+일본의 아름다운 자연 속에서 *온천*을 즐기며 여유로운 시간을 보내고 싶다면 이곳만큼 완벽한 선택은 없을 거예요. 푸른 숲과 맑은 공기가 있는 곳에서 마음의 평온을 찾을 수 있도록 설계된 방에는 일본 전통의 매력이 진하게 묻어납니다. 아늑한 분위기의 방에서 창밖을 바라보면 자연의 색채와 소리가 어우러진 *힐링*의 순간을 경험할 수 있어요.
+
+또한, 정갈하고 섬세한 일본식 다이닝이 준비되어 있으며, 청결하게 관리된 시설들이 여행의 질을 더욱 높여줍니다. 이곳에선 시간이 느리게 흐르는 것 같은 신비로운 느낌을 받을 수 있답니다. 도심에서 벗어나 자연과 하나 되는 특별한 경험을 원하신다면 지금 바로 그 기회를 잡으세요!
+
+[신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)](https://www.agoda.com/ko-kr/shin-kaikatei-izumi-hot-spring-ryokan/hotel/izu-jp.html)
+ 
+
+## 온천과 정원이 낭만적으로 교차하다
+Ishinoya Izunagaoka - TKP Hotels & Resorts
+    ![Ishinoya Izunagaoka - TKP Hotels & Resorts_0_image](https://pix8.agoda.net/hotelImages/926686/-1/2a1e2db5b74ec0d8b1586bb6db8b9889.jpg)
+![Ishinoya Izunagaoka - TKP Hotels & Resorts_1_image](https://pix8.agoda.net/property/33462062/612967007/becda9dfd73ea924c972b68fd83a0332.jpeg)
+![Ishinoya Izunagaoka - TKP Hotels & Resorts_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/87044265.jpg)
+
+오랜 여행 끝에 고요한 자연 속에서 편안한 휴식을 꿈꾸신다면, 일본의 숨은 보석 같은 숙소가 있답니다. 자연에 녹아든 고풍스러운 이곳에서는 산과 하늘, 그리고 정원이 어우러진 풍경을 하루 종일 즐길 수 있어요. *친절한 서비스*와 세심한 배려가 돋보이는 직원들 덕분에 몸과 마음에 따스한 휴식을 취하기에 안성맞춤이죠.
+
+특히 전통적인 온천을 경험하면서 완벽하게 긴장을 풀 수 있는 시간이 기다리고 있어요. 개별 온천은 각기 다른 매력을 지니고 있으며, 방 안에서도 일본 문화의 정수를 느낄 수 있도록 잘 꾸며져 있어요. 여기서의 순간은 마치 영화 속 장면처럼, 당신의 기억에 오래도록 남을 거예요. 자연 속에서 몸과 마음을 재충전하세요!
+
+[Ishinoya Izunagaoka - TKP Hotels & Resorts](https://www.agoda.com/ko-kr/izunagaoka-onsen-villa-garden-ishinoya/hotel/izu-jp.html)
+ 
+
+
+## 결론
+
+이번 여행에서는 일본의 자연과 전통의 매력을 만끽할 수 있는 다양한 호텔들이 여러분을 기다리고 있습니다. **호텔 이나토리 긴수이소**에서는 자연과 전통이 어우러진 고요한 휴식을 경험할 수 있으며, **유카이로 기쿠야**에서는 자연 속 휴식과 일본 전통의 매력을 한껏 느낄 수 있습니다. **아라이 료칸**에서는 전통과 현대의 조화를 이룬 온천과 따뜻한 서비스를 통해 진정한 힐링을 경험하실 수 있습니다. 또한, **신 가이카테이 이즈미 핫 스프링 료칸**에서는 일본 자연 속 온천에서 전통의 매력과 여유로운 시간을 즐기실 수 있습니다. 마지막으로, **Ishinoya Izunagaoka - TKP Hotels & Resorts**는 온천과 정원이 어우러진 자연 속에서의 편안한 휴식을 제공합니다.
+
+이 리조트들은 모두 일상에서 벗어나 **진정한 쉼**을 찾고자 하는 분들을 위한 최고의 선택이 될 것입니다. 이제 마음에 드는 호텔을 선택하여 예약하고, 놓칠 수 없는 이 특별한 경험을 설레는 마음으로 준비해보세요.
+
+11:T269a,
+    
+
+
+## 이즈에서 만나는 특별한 온천 여행지 5곳
+
+안녕하세요. 달마야 여행가자의 달마입니다! 오늘은 일본의 청정 자연 속에서 진정한 힐링을 경험할 수 있는 **이즈**의 숨겨진 온천 여행지를 소개해 드릴게요. 이즈는 뛰어난 자연 경관과 함께, 몸과 마음을 모두 달래줄 매력적인 온천으로 가득한 곳이랍니다. **온천**은 단순히 따뜻한 물이 아닙니다. 작은 거부감도 치유해 주고 온몸을 감싸주는 평화로운 쉼터죠. 이번 여행지 리스트는 특별히 엄선한 곳이라, 각 호텔에서 제공하는 독창적인 경험과 분위기를 만끽할 수 있을 거예요. 바쁜 일상 속에서 벗어나 일본의 전통과 자연을 느끼고 싶다면, 이즈의 온천지에서 행복한 하루를 보내보세요. 그럼, 지금 바로 떠나볼까요?
+
+
+## 우아한 휴식의 순간
+호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)
+    ![호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_0_image](https://pix8.agoda.net/hotelImages/940393/-1/bb9757d6fc6408bd5cde62e020e114b2.jpg)
+![호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_1_image](https://pix8.agoda.net/property/940393/1077650833/8ae7ff40d449015cb351a8f5ef11b049.jpeg)
+![호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/149529408.jpg)
+
+자연과 사교의 아름다움이 어우러지는 곳에서 진정한 힐링을 느껴보세요. 이누마키의 산과 바다가 펼쳐진 눈부신 풍경 속, **전통과 현대**가 조화를 이룬 환상적인 공간이 숨쉬고 있어요. 투숙객 여러분은 이곳에서 마음의 평온을 찾고, 탁월한 서비스와 풍미가 가득한 현지 요리를 즐기며 감각의 전환을 경험하게 될 거예요.
+
+저녁이 찾아오면, 온천의 따뜻함과 함께 일상을 잠시 잊을 수 있는 시간을 선사한답니다. 다양한 시설과 활동이 마련되어 있어, 가족이나 친구들과 함께 즐거운 시간을 보내기에도 안성맞춤이에요. 이누마키 진수이소에서 잊지 못할 추억을 만들어 보세요. **특별한 날들**을 더욱 특별하게 만들어 줄 이 곳에서의 경험을 기대해봐도 좋겠죠?
+
+[호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)](https://www.agoda.com/ko-kr/hotel-inatori-ginsuiso/hotel/izu-jp.html)
+ 
+
+## 자연 속 힐링의 특별한 순간
+유카이로 기쿠야 (Yukairo Kikuya)
+    ![유카이로 기쿠야 (Yukairo Kikuya)_0_image](https://pix8.agoda.net/hotelImages/6057278/-1/4d42ec18f395c36d79ca0fe985bf8040.jpg)
+![유카이로 기쿠야 (Yukairo Kikuya)_1_image](https://pix8.agoda.net/property/6057278/866231631/9db64a3005e0c5c5dd1fbcea8d84cef1.jpeg)
+![유카이로 기쿠야 (Yukairo Kikuya)_2_image](https://pix8.agoda.net/hotelImages/6057278/-1/11dc6461d345f79b5596c1d87bca6835.jpg)
+
+바쁜 일상 속에서 잠시 벗어나 자연과 하나가 되어 보는 건 어떤가요? **유카이로 기쿠야**라는 특별한 호텔이 이즈 지역에 숨겨져 있는데요, 이곳은 자연과 함께하는 휴식을 선사해요. 눈을 감으면 고즈넉한 산비탈에서 흐르는 물 소리가 들려오고, 문을 열면 맑은 공기가 코 끝을 스쳐 지나간답니다. 여러 여행자들이 이곳의 아름다운 자연 경관과 친절한 서비스를 극찬한다고 하니 믿고 방문해 보세요!
+
+객실은 전통적인 일본 스타일로 꾸며져 있어요. 온천을 체험할 수 있는 것 또한 큰 매력 중 하나예요. 특히 노천 온천에서 펼쳐지는 풍경은 마치 한 폭의 그림과 같아요. 이런 세심한 배려 덕분에 머무는 동안 스트레스가 사라지는 것을 느끼게 될 거예요. 편안함이 필요한 순간, 유카이로 기쿠야는 모두에게 추천할 만한 장소랍니다.
+
+[유카이로 기쿠야 (Yukairo Kikuya)](https://www.agoda.com/ko-kr/yukairo-kikuya_6/hotel/izu-jp.html)
+ 
+
+## 일본 전통의 아름다움, 온천에서 휴식을
+아라이 료칸 (Arai Ryokan)
+    ![아라이 료칸 (Arai Ryokan)_0_image](https://pix8.agoda.net/hotelImages/548497/-1/57816b49e46b99be7d14df07d9626500.jpg)
+![아라이 료칸 (Arai Ryokan)_1_image](https://pix8.agoda.net/hotelImages/548/548497/548497_18100306150068292892.jpg)
+![아라이 료칸 (Arai Ryokan)_2_image](https://pix8.agoda.net/hotelImages/548/548497/548497_15060308010028291382.jpg)
+
+일본 이즈에 위치한 아라리 료칸은 전통적인 미와 현대적인 편안함을 동시에 제공합니다. 아름답게 가꿔진 일본식 정원은 물론, 객실에서 느껴지는 고즈넉한 분위기가 인상적이에요. **온천**을 즐기며 자연 속에서 여유로운 시간을 보내기에도 딱 맞습니다. 그리고 정성이 담긴 일본식 조식은 하루를 힘차게 시작할 수 있는 완벽한 준비예요.
+
+또한 세심한 서비스와 친절한 직원들이 손님을 맞이하는 모습이 따뜻한 홈을 느끼게 합니다. 피곤한 여정을 마치고 **나만의 공간**으로 돌아와 쉬고 싶을 때 이곳이 딱입니다. 이동이 편리한 위치와 풍부한 **현지 관광** 정보도 제공되어 근처 관광지를 둘러보기에 좋습니다. 많고 다양한 활동으로 가득한 하루를 마무리하기엔 아라리 료칸이 최적의 선택이에요.
+
+[아라이 료칸 (Arai Ryokan)](https://www.agoda.com/ko-kr/arai-ryokan/hotel/izu-jp.html)
+ 
+
+## 온천 속 휴식의 향연
+신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)
+    ![신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_0_image](https://pix8.agoda.net/hotelImages/3001657/0/646526dfb71ddb0a25efaba5c60ca099.jpg)
+![신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/665208931.jpg)
+![신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/113428083.jpg)
+
+일본의 아름다운 자연 속에서 *온천*을 즐기며 여유로운 시간을 보내고 싶다면 이곳만큼 완벽한 선택은 없을 거예요. 푸른 숲과 맑은 공기가 있는 곳에서 마음의 평온을 찾을 수 있도록 설계된 방에는 일본 전통의 매력이 진하게 묻어납니다. 아늑한 분위기의 방에서 창밖을 바라보면 자연의 색채와 소리가 어우러진 *힐링*의 순간을 경험할 수 있어요.
+
+또한, 정갈하고 섬세한 일본식 다이닝이 준비되어 있으며, 청결하게 관리된 시설들이 여행의 질을 더욱 높여줍니다. 이곳에선 시간이 느리게 흐르는 것 같은 신비로운 느낌을 받을 수 있답니다. 도심에서 벗어나 자연과 하나 되는 특별한 경험을 원하신다면 지금 바로 그 기회를 잡으세요!
+
+[신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)](https://www.agoda.com/ko-kr/shin-kaikatei-izumi-hot-spring-ryokan/hotel/izu-jp.html)
+ 
+
+## 온천과 정원이 낭만적으로 교차하다
+Ishinoya Izunagaoka - TKP Hotels & Resorts
+    ![Ishinoya Izunagaoka - TKP Hotels & Resorts_0_image](https://pix8.agoda.net/hotelImages/926686/-1/2a1e2db5b74ec0d8b1586bb6db8b9889.jpg)
+![Ishinoya Izunagaoka - TKP Hotels & Resorts_1_image](https://pix8.agoda.net/property/33462062/612967007/becda9dfd73ea924c972b68fd83a0332.jpeg)
+![Ishinoya Izunagaoka - TKP Hotels & Resorts_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/87044265.jpg)
+
+오랜 여행 끝에 고요한 자연 속에서 편안한 휴식을 꿈꾸신다면, 일본의 숨은 보석 같은 숙소가 있답니다. 자연에 녹아든 고풍스러운 이곳에서는 산과 하늘, 그리고 정원이 어우러진 풍경을 하루 종일 즐길 수 있어요. *친절한 서비스*와 세심한 배려가 돋보이는 직원들 덕분에 몸과 마음에 따스한 휴식을 취하기에 안성맞춤이죠.
+
+특히 전통적인 온천을 경험하면서 완벽하게 긴장을 풀 수 있는 시간이 기다리고 있어요. 개별 온천은 각기 다른 매력을 지니고 있으며, 방 안에서도 일본 문화의 정수를 느낄 수 있도록 잘 꾸며져 있어요. 여기서의 순간은 마치 영화 속 장면처럼, 당신의 기억에 오래도록 남을 거예요. 자연 속에서 몸과 마음을 재충전하세요!
+
+[Ishinoya Izunagaoka - TKP Hotels & Resorts](https://www.agoda.com/ko-kr/izunagaoka-onsen-villa-garden-ishinoya/hotel/izu-jp.html)
+ 
+
+
+## 결론
+
+이번 여행에서는 일본의 자연과 전통의 매력을 만끽할 수 있는 다양한 호텔들이 여러분을 기다리고 있습니다. **호텔 이나토리 긴수이소**에서는 자연과 전통이 어우러진 고요한 휴식을 경험할 수 있으며, **유카이로 기쿠야**에서는 자연 속 휴식과 일본 전통의 매력을 한껏 느낄 수 있습니다. **아라이 료칸**에서는 전통과 현대의 조화를 이룬 온천과 따뜻한 서비스를 통해 진정한 힐링을 경험하실 수 있습니다. 또한, **신 가이카테이 이즈미 핫 스프링 료칸**에서는 일본 자연 속 온천에서 전통의 매력과 여유로운 시간을 즐기실 수 있습니다. 마지막으로, **Ishinoya Izunagaoka - TKP Hotels & Resorts**는 온천과 정원이 어우러진 자연 속에서의 편안한 휴식을 제공합니다.
+
+이 리조트들은 모두 일상에서 벗어나 **진정한 쉼**을 찾고자 하는 분들을 위한 최고의 선택이 될 것입니다. 이제 마음에 드는 호텔을 선택하여 예약하고, 놓칠 수 없는 이 특별한 경험을 설레는 마음으로 준비해보세요.
+
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"이즈의 비밀을 간직한 온천 여행지 5곳, 딱 가보자!"}],["$","data",null,{"children":"2025-08-18T01:03:30.319Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"아시아"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"자연"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"온천"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"전통"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"현대"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"명소"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"휴식"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"풍경"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"일본스타일"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"편안함"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"조식"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"친절"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"위치"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"관광"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"여유"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"일본료칸"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"다이닝"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"고요함"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"문화"}]}],["$","li","[object Object]_19",{"children":["$","span",null,{"children":"일본"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"1ed48ab9","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"이즈에서 만나는 특별한 온천 여행지 5곳"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요. 달마야 여행가자의 달마입니다! 오늘은 일본의 청정 자연 속에서 진정한 힐링을 경험할 수 있는 ",["$","strong",null,{"className":"font-black","children":"이즈"}],"의 숨겨진 온천 여행지를 소개해 드릴게요. 이즈는 뛰어난 자연 경관과 함께, 몸과 마음을 모두 달래줄 매력적인 온천으로 가득한 곳이랍니다. ",["$","strong",null,{"className":"font-black","children":"온천"}],"은 단순히 따뜻한 물이 아닙니다. 작은 거부감도 치유해 주고 온몸을 감싸주는 평화로운 쉼터죠. 이번 여행지 리스트는 특별히 엄선한 곳이라, 각 호텔에서 제공하는 독창적인 경험과 분위기를 만끽할 수 있을 거예요. 바쁜 일상 속에서 벗어나 일본의 전통과 자연을 느끼고 싶다면, 이즈의 온천지에서 행복한 하루를 보내보세요. 그럼, 지금 바로 떠나볼까요?"]}],"\n",["$","h2",null,{"id":"abf10838","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"우아한 휴식의 순간"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/940393/-1/bb9757d6fc6408bd5cde62e020e114b2.jpg","alt":"호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/property/940393/1077650833/8ae7ff40d449015cb351a8f5ef11b049.jpeg","alt":"호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/149529408.jpg","alt":"호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["자연과 사교의 아름다움이 어우러지는 곳에서 진정한 힐링을 느껴보세요. 이누마키의 산과 바다가 펼쳐진 눈부신 풍경 속, ",["$","strong",null,{"className":"font-black","children":"전통과 현대"}],"가 조화를 이룬 환상적인 공간이 숨쉬고 있어요. 투숙객 여러분은 이곳에서 마음의 평온을 찾고, 탁월한 서비스와 풍미가 가득한 현지 요리를 즐기며 감각의 전환을 경험하게 될 거예요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["저녁이 찾아오면, 온천의 따뜻함과 함께 일상을 잠시 잊을 수 있는 시간을 선사한답니다. 다양한 시설과 활동이 마련되어 있어, 가족이나 친구들과 함께 즐거운 시간을 보내기에도 안성맞춤이에요. 이누마키 진수이소에서 잊지 못할 추억을 만들어 보세요. ",["$","strong",null,{"className":"font-black","children":"특별한 날들"}],"을 더욱 특별하게 만들어 줄 이 곳에서의 경험을 기대해봐도 좋겠죠?"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/hotel-inatori-ginsuiso/hotel/izu-jp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/hotel-inatori-ginsuiso/hotel/izu-jp.html"},"children":[{"type":"text","value":"호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)","position":{"start":{"line":20,"column":2,"offset":1188},"end":{"line":20,"column":39,"offset":1225}}}],"position":{"start":{"line":20,"column":1,"offset":1187},"end":{"line":20,"column":110,"offset":1296}}},"children":"호텔 이나토리 긴수이소 (Hotel Inatori Ginsuiso)"},"post":{"id":"940a6bf4-d352-47b1-8fb0-d473303509eb","title":"이즈의 비밀을 간직한 온천 여행지 5곳, 딱 가보자!","fileName":"이즈온천여행지5곳-940a6bf4","description":"일본 이즈의 숨겨진 보석 같은 온천 호텔을 소개합니다. 문화와 전통을 잠시 내려놓고 힐링을 즐길 수 있는 곳들입니다. 고유의 매력을 지닌 호텔들인 '호텔 이나토리 긴스이소', '유카이로 기쿠야', '아라이 료칸', '신 가이카테이 이즈미 온천 료칸', 그리고 '이즈나오카 온천 빌라 가든 이시노야'에서 특별한 휴식을 만끽하세요. 깜짝 놀랄 가격과 퀄리티로 여러분을 기다립니다. 지금 바로 예약하고 놀라운 경험을 쌓아보세요!","date":"2025-08-18T01:03:30.319Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"온천","path":"$$/kr/tags/온천","id":"온천"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"현대","path":"$$/kr/tags/현대","id":"현대"},{"name":"명소","path":"$$/kr/tags/명소","id":"명소"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"풍경","path":"$$/kr/tags/풍경","id":"풍경"},{"name":"일본스타일","path":"$$/kr/tags/일본스타일","id":"일본스타일"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"여유","path":"$$/kr/tags/여유","id":"여유"},{"name":"일본료칸","path":"$$/kr/tags/일본료칸","id":"일본료칸"},{"name":"다이닝","path":"$$/kr/tags/다이닝","id":"다이닝"},{"name":"고요함","path":"$$/kr/tags/고요함","id":"고요함"},{"name":"문화","path":"$$/kr/tags/문화","id":"문화"},{"name":"일본","path":"$$/kr/tags/일본","id":"일본"}],"banner":"/images/249498-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"이즈온천여행지5곳-940a6bf4","content":"$d","category":"articles","readMin":"7.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"c3ff5679","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"자연 속 힐링의 특별한 순간"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["유카이로 기쿠야 (Yukairo Kikuya)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/6057278/-1/4d42ec18f395c36d79ca0fe985bf8040.jpg","alt":"유카이로 기쿠야 (Yukairo Kikuya)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/property/6057278/866231631/9db64a3005e0c5c5dd1fbcea8d84cef1.jpeg","alt":"유카이로 기쿠야 (Yukairo Kikuya)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/6057278/-1/11dc6461d345f79b5596c1d87bca6835.jpg","alt":"유카이로 기쿠야 (Yukairo Kikuya)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["바쁜 일상 속에서 잠시 벗어나 자연과 하나가 되어 보는 건 어떤가요? ",["$","strong",null,{"className":"font-black","children":"유카이로 기쿠야"}],"라는 특별한 호텔이 이즈 지역에 숨겨져 있는데요, 이곳은 자연과 함께하는 휴식을 선사해요. 눈을 감으면 고즈넉한 산비탈에서 흐르는 물 소리가 들려오고, 문을 열면 맑은 공기가 코 끝을 스쳐 지나간답니다. 여러 여행자들이 이곳의 아름다운 자연 경관과 친절한 서비스를 극찬한다고 하니 믿고 방문해 보세요!"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"객실은 전통적인 일본 스타일로 꾸며져 있어요. 온천을 체험할 수 있는 것 또한 큰 매력 중 하나예요. 특히 노천 온천에서 펼쳐지는 풍경은 마치 한 폭의 그림과 같아요. 이런 세심한 배려 덕분에 머무는 동안 스트레스가 사라지는 것을 느끼게 될 거예요. 편안함이 필요한 순간, 유카이로 기쿠야는 모두에게 추천할 만한 장소랍니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/yukairo-kikuya_6/hotel/izu-jp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/yukairo-kikuya_6/hotel/izu-jp.html"},"children":[{"type":"text","value":"유카이로 기쿠야 (Yukairo Kikuya)","position":{"start":{"line":33,"column":2,"offset":2123},"end":{"line":33,"column":27,"offset":2148}}}],"position":{"start":{"line":33,"column":1,"offset":2122},"end":{"line":33,"column":92,"offset":2213}}},"children":"유카이로 기쿠야 (Yukairo Kikuya)"},"post":{"id":"940a6bf4-d352-47b1-8fb0-d473303509eb","title":"이즈의 비밀을 간직한 온천 여행지 5곳, 딱 가보자!","fileName":"이즈온천여행지5곳-940a6bf4","description":"일본 이즈의 숨겨진 보석 같은 온천 호텔을 소개합니다. 문화와 전통을 잠시 내려놓고 힐링을 즐길 수 있는 곳들입니다. 고유의 매력을 지닌 호텔들인 '호텔 이나토리 긴스이소', '유카이로 기쿠야', '아라이 료칸', '신 가이카테이 이즈미 온천 료칸', 그리고 '이즈나오카 온천 빌라 가든 이시노야'에서 특별한 휴식을 만끽하세요. 깜짝 놀랄 가격과 퀄리티로 여러분을 기다립니다. 지금 바로 예약하고 놀라운 경험을 쌓아보세요!","date":"2025-08-18T01:03:30.319Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"온천","path":"$$/kr/tags/온천","id":"온천"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"현대","path":"$$/kr/tags/현대","id":"현대"},{"name":"명소","path":"$$/kr/tags/명소","id":"명소"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"풍경","path":"$$/kr/tags/풍경","id":"풍경"},{"name":"일본스타일","path":"$$/kr/tags/일본스타일","id":"일본스타일"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"여유","path":"$$/kr/tags/여유","id":"여유"},{"name":"일본료칸","path":"$$/kr/tags/일본료칸","id":"일본료칸"},{"name":"다이닝","path":"$$/kr/tags/다이닝","id":"다이닝"},{"name":"고요함","path":"$$/kr/tags/고요함","id":"고요함"},{"name":"문화","path":"$$/kr/tags/문화","id":"문화"},{"name":"일본","path":"$$/kr/tags/일본","id":"일본"}],"banner":"/images/249498-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"이즈온천여행지5곳-940a6bf4","content":"$e","category":"articles","readMin":"7.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"d2ff6ae9","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"일본 전통의 아름다움, 온천에서 휴식을"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["아라이 료칸 (Arai Ryokan)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/548497/-1/57816b49e46b99be7d14df07d9626500.jpg","alt":"아라이 료칸 (Arai Ryokan)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/548/548497/548497_18100306150068292892.jpg","alt":"아라이 료칸 (Arai Ryokan)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/548/548497/548497_15060308010028291382.jpg","alt":"아라이 료칸 (Arai Ryokan)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["일본 이즈에 위치한 아라리 료칸은 전통적인 미와 현대적인 편안함을 동시에 제공합니다. 아름답게 가꿔진 일본식 정원은 물론, 객실에서 느껴지는 고즈넉한 분위기가 인상적이에요. ",["$","strong",null,{"className":"font-black","children":"온천"}],"을 즐기며 자연 속에서 여유로운 시간을 보내기에도 딱 맞습니다. 그리고 정성이 담긴 일본식 조식은 하루를 힘차게 시작할 수 있는 완벽한 준비예요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["또한 세심한 서비스와 친절한 직원들이 손님을 맞이하는 모습이 따뜻한 홈을 느끼게 합니다. 피곤한 여정을 마치고 ",["$","strong",null,{"className":"font-black","children":"나만의 공간"}],"으로 돌아와 쉬고 싶을 때 이곳이 딱입니다. 이동이 편리한 위치와 풍부한 ",["$","strong",null,{"className":"font-black","children":"현지 관광"}]," 정보도 제공되어 근처 관광지를 둘러보기에 좋습니다. 많고 다양한 활동으로 가득한 하루를 마무리하기엔 아라리 료칸이 최적의 선택이에요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/arai-ryokan/hotel/izu-jp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/arai-ryokan/hotel/izu-jp.html"},"children":[{"type":"text","value":"아라이 료칸 (Arai Ryokan)","position":{"start":{"line":46,"column":2,"offset":2991},"end":{"line":46,"column":22,"offset":3011}}}],"position":{"start":{"line":46,"column":1,"offset":2990},"end":{"line":46,"column":82,"offset":3071}}},"children":"아라이 료칸 (Arai Ryokan)"},"post":{"id":"940a6bf4-d352-47b1-8fb0-d473303509eb","title":"이즈의 비밀을 간직한 온천 여행지 5곳, 딱 가보자!","fileName":"이즈온천여행지5곳-940a6bf4","description":"일본 이즈의 숨겨진 보석 같은 온천 호텔을 소개합니다. 문화와 전통을 잠시 내려놓고 힐링을 즐길 수 있는 곳들입니다. 고유의 매력을 지닌 호텔들인 '호텔 이나토리 긴스이소', '유카이로 기쿠야', '아라이 료칸', '신 가이카테이 이즈미 온천 료칸', 그리고 '이즈나오카 온천 빌라 가든 이시노야'에서 특별한 휴식을 만끽하세요. 깜짝 놀랄 가격과 퀄리티로 여러분을 기다립니다. 지금 바로 예약하고 놀라운 경험을 쌓아보세요!","date":"2025-08-18T01:03:30.319Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"온천","path":"$$/kr/tags/온천","id":"온천"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"현대","path":"$$/kr/tags/현대","id":"현대"},{"name":"명소","path":"$$/kr/tags/명소","id":"명소"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"풍경","path":"$$/kr/tags/풍경","id":"풍경"},{"name":"일본스타일","path":"$$/kr/tags/일본스타일","id":"일본스타일"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"여유","path":"$$/kr/tags/여유","id":"여유"},{"name":"일본료칸","path":"$$/kr/tags/일본료칸","id":"일본료칸"},{"name":"다이닝","path":"$$/kr/tags/다이닝","id":"다이닝"},{"name":"고요함","path":"$$/kr/tags/고요함","id":"고요함"},{"name":"문화","path":"$$/kr/tags/문화","id":"문화"},{"name":"일본","path":"$$/kr/tags/일본","id":"일본"}],"banner":"/images/249498-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"이즈온천여행지5곳-940a6bf4","content":"$f","category":"articles","readMin":"7.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"1e330ecd","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"온천 속 휴식의 향연"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/3001657/0/646526dfb71ddb0a25efaba5c60ca099.jpg","alt":"신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/665208931.jpg","alt":"신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/113428083.jpg","alt":"신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["일본의 아름다운 자연 속에서 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"온천"}],"을 즐기며 여유로운 시간을 보내고 싶다면 이곳만큼 완벽한 선택은 없을 거예요. 푸른 숲과 맑은 공기가 있는 곳에서 마음의 평온을 찾을 수 있도록 설계된 방에는 일본 전통의 매력이 진하게 묻어납니다. 아늑한 분위기의 방에서 창밖을 바라보면 자연의 색채와 소리가 어우러진 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"힐링"}],"의 순간을 경험할 수 있어요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"또한, 정갈하고 섬세한 일본식 다이닝이 준비되어 있으며, 청결하게 관리된 시설들이 여행의 질을 더욱 높여줍니다. 이곳에선 시간이 느리게 흐르는 것 같은 신비로운 느낌을 받을 수 있답니다. 도심에서 벗어나 자연과 하나 되는 특별한 경험을 원하신다면 지금 바로 그 기회를 잡으세요!"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/shin-kaikatei-izumi-hot-spring-ryokan/hotel/izu-jp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/shin-kaikatei-izumi-hot-spring-ryokan/hotel/izu-jp.html"},"children":[{"type":"text","value":"신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)","position":{"start":{"line":59,"column":2,"offset":3937},"end":{"line":59,"column":62,"offset":3997}}}],"position":{"start":{"line":59,"column":1,"offset":3936},"end":{"line":59,"column":148,"offset":4083}}},"children":"신 가이카테이 이즈미 핫 스프링 료칸 (Shin Kaikatei Izumi Hot Spring Ryokan)"},"post":{"id":"940a6bf4-d352-47b1-8fb0-d473303509eb","title":"이즈의 비밀을 간직한 온천 여행지 5곳, 딱 가보자!","fileName":"이즈온천여행지5곳-940a6bf4","description":"일본 이즈의 숨겨진 보석 같은 온천 호텔을 소개합니다. 문화와 전통을 잠시 내려놓고 힐링을 즐길 수 있는 곳들입니다. 고유의 매력을 지닌 호텔들인 '호텔 이나토리 긴스이소', '유카이로 기쿠야', '아라이 료칸', '신 가이카테이 이즈미 온천 료칸', 그리고 '이즈나오카 온천 빌라 가든 이시노야'에서 특별한 휴식을 만끽하세요. 깜짝 놀랄 가격과 퀄리티로 여러분을 기다립니다. 지금 바로 예약하고 놀라운 경험을 쌓아보세요!","date":"2025-08-18T01:03:30.319Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"온천","path":"$$/kr/tags/온천","id":"온천"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"현대","path":"$$/kr/tags/현대","id":"현대"},{"name":"명소","path":"$$/kr/tags/명소","id":"명소"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"풍경","path":"$$/kr/tags/풍경","id":"풍경"},{"name":"일본스타일","path":"$$/kr/tags/일본스타일","id":"일본스타일"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"여유","path":"$$/kr/tags/여유","id":"여유"},{"name":"일본료칸","path":"$$/kr/tags/일본료칸","id":"일본료칸"},{"name":"다이닝","path":"$$/kr/tags/다이닝","id":"다이닝"},{"name":"고요함","path":"$$/kr/tags/고요함","id":"고요함"},{"name":"문화","path":"$$/kr/tags/문화","id":"문화"},{"name":"일본","path":"$$/kr/tags/일본","id":"일본"}],"banner":"/images/249498-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"이즈온천여행지5곳-940a6bf4","content":"$10","category":"articles","readMin":"7.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"4f2c5765","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"온천과 정원이 낭만적으로 교차하다"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Ishinoya Izunagaoka - TKP Hotels & Resorts\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/926686/-1/2a1e2db5b74ec0d8b1586bb6db8b9889.jpg","alt":"Ishinoya Izunagaoka - TKP Hotels & Resorts_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/property/33462062/612967007/becda9dfd73ea924c972b68fd83a0332.jpeg","alt":"Ishinoya Izunagaoka - TKP Hotels & Resorts_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/87044265.jpg","alt":"Ishinoya Izunagaoka - TKP Hotels & Resorts_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["오랜 여행 끝에 고요한 자연 속에서 편안한 휴식을 꿈꾸신다면, 일본의 숨은 보석 같은 숙소가 있답니다. 자연에 녹아든 고풍스러운 이곳에서는 산과 하늘, 그리고 정원이 어우러진 풍경을 하루 종일 즐길 수 있어요. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"친절한 서비스"}],"와 세심한 배려가 돋보이는 직원들 덕분에 몸과 마음에 따스한 휴식을 취하기에 안성맞춤이죠."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"특히 전통적인 온천을 경험하면서 완벽하게 긴장을 풀 수 있는 시간이 기다리고 있어요. 개별 온천은 각기 다른 매력을 지니고 있으며, 방 안에서도 일본 문화의 정수를 느낄 수 있도록 잘 꾸며져 있어요. 여기서의 순간은 마치 영화 속 장면처럼, 당신의 기억에 오래도록 남을 거예요. 자연 속에서 몸과 마음을 재충전하세요!"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/izunagaoka-onsen-villa-garden-ishinoya/hotel/izu-jp.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/izunagaoka-onsen-villa-garden-ishinoya/hotel/izu-jp.html"},"children":[{"type":"text","value":"Ishinoya Izunagaoka - TKP Hotels & Resorts","position":{"start":{"line":72,"column":2,"offset":4916},"end":{"line":72,"column":44,"offset":4958}}}],"position":{"start":{"line":72,"column":1,"offset":4915},"end":{"line":72,"column":131,"offset":5045}}},"children":"Ishinoya Izunagaoka - TKP Hotels & Resorts"},"post":{"id":"940a6bf4-d352-47b1-8fb0-d473303509eb","title":"이즈의 비밀을 간직한 온천 여행지 5곳, 딱 가보자!","fileName":"이즈온천여행지5곳-940a6bf4","description":"일본 이즈의 숨겨진 보석 같은 온천 호텔을 소개합니다. 문화와 전통을 잠시 내려놓고 힐링을 즐길 수 있는 곳들입니다. 고유의 매력을 지닌 호텔들인 '호텔 이나토리 긴스이소', '유카이로 기쿠야', '아라이 료칸', '신 가이카테이 이즈미 온천 료칸', 그리고 '이즈나오카 온천 빌라 가든 이시노야'에서 특별한 휴식을 만끽하세요. 깜짝 놀랄 가격과 퀄리티로 여러분을 기다립니다. 지금 바로 예약하고 놀라운 경험을 쌓아보세요!","date":"2025-08-18T01:03:30.319Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"온천","path":"$$/kr/tags/온천","id":"온천"},{"name":"전통","path":"$$/kr/tags/전통","id":"전통"},{"name":"현대","path":"$$/kr/tags/현대","id":"현대"},{"name":"명소","path":"$$/kr/tags/명소","id":"명소"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"풍경","path":"$$/kr/tags/풍경","id":"풍경"},{"name":"일본스타일","path":"$$/kr/tags/일본스타일","id":"일본스타일"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"위치","path":"$$/kr/tags/위치","id":"위치"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"},{"name":"여유","path":"$$/kr/tags/여유","id":"여유"},{"name":"일본료칸","path":"$$/kr/tags/일본료칸","id":"일본료칸"},{"name":"다이닝","path":"$$/kr/tags/다이닝","id":"다이닝"},{"name":"고요함","path":"$$/kr/tags/고요함","id":"고요함"},{"name":"문화","path":"$$/kr/tags/문화","id":"문화"},{"name":"일본","path":"$$/kr/tags/일본","id":"일본"}],"banner":"/images/249498-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"이즈온천여행지5곳-940a6bf4","content":"$11","category":"articles","readMin":"7.0"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이번 여행에서는 일본의 자연과 전통의 매력을 만끽할 수 있는 다양한 호텔들이 여러분을 기다리고 있습니다. ",["$","strong",null,{"className":"font-black","children":"호텔 이나토리 긴수이소"}],"에서는 자연과 전통이 어우러진 고요한 휴식을 경험할 수 있으며, ",["$","strong",null,{"className":"font-black","children":"유카이로 기쿠야"}],"에서는 자연 속 휴식과 일본 전통의 매력을 한껏 느낄 수 있습니다. ",["$","strong",null,{"className":"font-black","children":"아라이 료칸"}],"에서는 전통과 현대의 조화를 이룬 온천과 따뜻한 서비스를 통해 진정한 힐링을 경험하실 수 있습니다. 또한, ",["$","strong",null,{"className":"font-black","children":"신 가이카테이 이즈미 핫 스프링 료칸"}],"에서는 일본 자연 속 온천에서 전통의 매력과 여유로운 시간을 즐기실 수 있습니다. 마지막으로, ",["$","strong",null,{"className":"font-black","children":"Ishinoya Izunagaoka - TKP Hotels & Resorts"}],"는 온천과 정원이 어우러진 자연 속에서의 편안한 휴식을 제공합니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이 리조트들은 모두 일상에서 벗어나 ",["$","strong",null,{"className":"font-black","children":"진정한 쉼"}],"을 찾고자 하는 분들을 위한 최고의 선택이 될 것입니다. 이제 마음에 드는 호텔을 선택하여 예약하고, 놓칠 수 없는 이 특별한 경험을 설레는 마음으로 준비해보세요."]}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"이즈의 비밀을 간직한 온천 여행지 5곳, 딱 가보자!","toc":[{"tagName":"h2","title":"이즈에서 만나는 특별한 온천 여행지 5곳","id":"1ed48ab9"},{"tagName":"h2","title":"우아한 휴식의 순간","id":"abf10838"},{"tagName":"h2","title":"자연 속 힐링의 특별한 순간","id":"c3ff5679"},{"tagName":"h2","title":"일본 전통의 아름다움, 온천에서 휴식을","id":"d2ff6ae9"},{"tagName":"h2","title":"온천 속 휴식의 향연","id":"1e330ecd"},{"tagName":"h2","title":"온천과 정원이 낭만적으로 교차하다","id":"4f2c5765"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

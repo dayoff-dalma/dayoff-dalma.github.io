@@ -1,0 +1,409 @@
+1:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/faaaebde45bfcdd4.css",{"as":"style"}]
+0:["FL5qPEDR-MTJ47-06Xiua",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%EB%A7%88%ED%8B%80-%EB%B9%84%EC%B9%98-%ED%98%B8%ED%85%94-%ED%9E%90%EB%A7%81-%EC%B2%B4%ED%97%98-880df5f4","d"],{"children":["__PAGE__?{\"slug\":\"마틀-비치-호텔-힐링-체험-880df5f4\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/faaaebde45bfcdd4.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-21fed9d4f5b142b6.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_e8ce0c","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%EB%A7%88%ED%8B%80-%EB%B9%84%EC%B9%98-%ED%98%B8%ED%85%94-%ED%9E%90%EB%A7%81-%EC%B2%B4%ED%97%98-880df5f4","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"마틀-비치-호텔-힐링-체험-880df5f4\"}"},"styles":[]}],"segment":["slug","%EB%A7%88%ED%8B%80-%EB%B9%84%EC%B9%98-%ED%98%B8%ED%85%94-%ED%9E%90%EB%A7%81-%EC%B2%B4%ED%97%98-880df5f4","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"마틀 비치, 체험과 힐링이 공존하는 5대 호텔 | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"미국 사우스캐롤라이나주 마틀 비치에서의 완벽한 휴가를 위한 호텔을 찾고 계신가요? 'Coral Beach Resort', 'Ocean Enclave by Hilton Grand Vacations', 'Sea Crest Oceanfront Resort', 'Surfside Beach Resort', 그리고 'Courtyard by Marriott Myrtle Beach Oceanfront'는 각각의 독특한 매력과 편안한 휴식을 제공합니다. 가족과의 즐거운 시간, 커플의 로맨틱한 밤, 또는 친구와의 여행까지, 어떤 경험이든 이곳에서 특별하게 만드실 수 있습니다."}],["$","meta","3",{"name":"keywords","content":"북미,해변,리조트,가족,휴양,편안함,자연,모험,수영장,바다뷰,마틀비치,청결함,관광지근처,휴양지,여행,서비스,식사,전망,즐길 거리,추억,현대적,경관,친절,여유,휴식"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%EB%A7%88%ED%8B%80-%EB%B9%84%EC%B9%98-%ED%98%B8%ED%85%94-%ED%9E%90%EB%A7%81-%EC%B2%B4%ED%97%98-880df5f4"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"마틀 비치, 체험과 힐링이 공존하는 5대 호텔 | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"마틀 비치, 체험과 힐링이 공존하는 5대 호텔 | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"미국 사우스캐롤라이나주 마틀 비치에서의 완벽한 휴가를 위한 호텔을 찾고 계신가요? 'Coral Beach Resort', 'Ocean Enclave by Hilton Grand Vacations', 'Sea Crest Oceanfront Resort', 'Surfside Beach Resort', 그리고 'Courtyard by Marriott Myrtle Beach Oceanfront'는 각각의 독특한 매력과 편안한 휴식을 제공합니다. 가족과의 즐거운 시간, 커플의 로맨틱한 밤, 또는 친구와의 여행까지, 어떤 경험이든 이곳에서 특별하게 만드실 수 있습니다."}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%EB%A7%88%ED%8B%80-%EB%B9%84%EC%B9%98-%ED%98%B8%ED%85%94-%ED%9E%90%EB%A7%81-%EC%B2%B4%ED%97%98-880df5f4"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/9442-1x1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"마틀 비치, 체험과 힐링이 공존하는 5대 호텔 | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"미국 사우스캐롤라이나주 마틀 비치에서의 완벽한 휴가를 위한 호텔을 찾고 계신가요? 'Coral Beach Resort', 'Ocean Enclave by Hilton Grand Vacations', 'Sea Crest Oceanfront Resort', 'Surfside Beach Resort', 그리고 'Courtyard by Marriott Myrtle Beach Oceanfront'는 각각의 독특한 매력과 편안한 휴식을 제공합니다. 가족과의 즐거운 시간, 커플의 로맨틱한 밤, 또는 친구와의 여행까지, 어떤 경험이든 이곳에서 특별하게 만드실 수 있습니다."}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/9442-1x1.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+12:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+d:T2bcf,
+    
+
+
+## 마틀 비치에서 힐링과 모험을 동시에 즐기다!
+
+안녕하세요. 달마 여행가자의 달마입니다! 마틀 비치는 단지 날씨가 따뜻해서가 아니라, 환상적인 해변과 흥미진진한 체험들이 있는 곳으로 유명하죠. 이번 여행에서 *힐링*과 *모험* 모두를 만족시킬 수 있는 호텔들을 소개하려고 해요. 여러분이 꿈꾸는 그림 같은 바다 풍경에서의 휴식에서부터, 짜릿한 모험을 즐길 수 있는 **코랄 비치 리조트**, **오션 엔클레이브 바이 힐튼 그랜드 베케이션스**, **씨 크레스트 오션프런트 리조트**, **서프사이드 비치 리조트**, **코트야드 바이 메리어트 마틀 비치 오션프런트** 등을 통해 경험할 수 있어요. 각 호텔마다 특별한 매력을 지니고 있어 선택의 폭도 다양하답니다. 여행 계획 중이신가요? 그럼 이 글을 끝까지 읽어보세요!
+
+
+## 해변에서의 완벽한 휴식을 꿈꾸세요
+Coral Beach Resort
+    ![Coral Beach Resort_0_image](https://pix8.agoda.net/hotelImages/31449777/0/4b05db002e007616cc5a43ea5d55c73b.jpeg)
+![Coral Beach Resort_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/191269714.jpg?k=231ac598ff61ebf69bd41186754243820df3f1562aa02357b20ee82bcce521b9&s=50x50)
+![Coral Beach Resort_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/52329159.jpg?k=a6d3db4db4b1493f6027b1a6243f3d51e185ae4d4de75a1b50cac0426f1dbbba&s=50x50)
+
+마음속 깊이 간직하고 싶은 완벽한 여행을 꿈꾸고 계신가요? 바로 여기, 코랄 비치 리조트가 그 해답이랍니다. 아름다운 해변을 마주한 이곳에서는 매일 아침 햇살이 눈부시게 비추고, 저녁 노을은 마음의 긴장을 풀어줍니다. 떠들썩한 도시의 번잡함에서 벗어나고 싶은 분들께 이곳은 천국 같은 장소입니다. 또한, 룸에서 듣는 파도의 잔잔한 소리는 자연이 주는 최고의 오케스트라랍니다. 여기서의 시간은 그 누구도 방해할 수 없는 귀중한 순간으로 가득 차 있어요.
+
+이곳은 가족과 함께 방문하기에 더없이 적합한 곳이죠. 아이들은 다양한 시설에서 즐거운 시간을 보내게 될 것이라니 부모님은 좀 더 느긋한 시간을 준비하시길! 매일 새로운 모험이 기다리고 있는 이곳에서의 여행은 그야말로 잊지 못할 경험으로 남을 것입니다. 그리고, 리조트 주변에는 다양한 음식점과 쇼핑몰이 준비되어 있어 언제든지 맛있는 음식과 쇼핑으로 기분 전환을 할 수 있습니다. 그런 작은 즐거움이 쌓여 최고의 여행을 만들게 될 것입니다.
+
+[Coral Beach Resort](https://www.agoda.com/ko-kr/coral-beach-resort/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 바다의 품에서 느끼는 쉼
+힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)
+    ![힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/485682053.jpg?k=c200b559353811349e9d64036c1fadf2306e190086cb8078810d74b1aa9217b1&s=450x450)
+![힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_1_image](https://pix8.agoda.net/hotelImages/7238086/-1/71cbf4bc474f80b4d71b2f5535647fd6.jpg)
+![힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/485681886.jpg?k=fe24f67aa73674a18e737eac5315396bf6a97bd77339802ba35317202f20e00a&s=50x50)
+
+마틀 비치의 매력을 한껏 즐길 수 있는 이곳은 해변 바로 앞에 위치해 있어요. 하늘과 맞닿은 듯한 멋진 수영장에서 몸을 담그는 것은 물론, 끝없이 펼쳐진 수평선을 보며 여유로운 시간을 보낼 수 있답니다. 햇살 좋은 날엔 해변을 따라 산책하며 작고 아기자기한 상점을 구경하는 것도 매우 즐겁죠.
+
+객실은 넓고 청결하며, 고객을 위한 편안한 침대가 준비되어 있어요. 아침에 눈을 뜨면 창밖으로 보이는 환상적인 바다 뷰는 덤이랍니다. 편리하게 하루를 시작할 수 있는 다양한 객실 내 시설도 준비되어 있어, 여행의 피로를 쉽게 풀 수 있을 거예요. 마틀 비치에서의 특별한 하루를 꿈꾸신다면 이곳이 제격일 것 같아요.
+
+[힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)](https://www.agoda.com/ko-kr/ocean-enclave-by-hilton-grand-vacations/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 해변에서 휴양을 만끽하세요
+씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)
+    ![씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_0_image](https://pix8.agoda.net/hotelImages/32179994/0/5c9329f7f8e312d958d2f53f29b0e251.jpg)
+![씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/531364127.jpg?k=c4febc939bde39b2545a7d6fd1b36898d6ce5833e90e039f69af43cea2e98d3d&s=50x50)
+![씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/18658158.jpg?k=5de5a7da3c75d7a68a934f83f4f8add2c121fb988f2250b19298cf3a47d7a0e0&s=50x50)
+
+바다의 향기가 물씬 풍기는 이곳, 이 호텔은 방문객을 마법처럼 끌어당기는 곳이에요. 무엇보다 매력적인 것은 바로 탁 트인 해변 전망과 깔끔한 객실이 제공된다는 점이죠. 푸른 파도가 부서지는 소리를 들으며 커피 한 잔의 여유를 즐기는 건 진정한 휴가의 정수 아닐까요? 아늑한 침대와 세심하게 준비된 편의시설은 피로를 말끔히 씻어줄 거예요.
+
+호텔에 도착하면 가장 먼저 해야 할 일은 해변으로 달려가는 것이에요. 해양 스포츠를 즐겨보거나, 모래사장에서 추억을 만들어 보세요. 그리고 나서 호텔에서 제공하는 맛있는 식사를 즐기며 하루를 마무리하는 건 어떨까요? 다양한 맛의 즐거움과 친절한 서비스가 여행을 더 특별하게 만들어 줄 거예요. 잊을 수 없는 순간들이 여러분을 기다리고 있답니다.
+
+[씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)](https://www.agoda.com/ko-kr/sea-crest-oceanfront-resort/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 비치에서 즐기는 완벽한 힐링
+서프사이드 비치 리조트 (Surfside Beach Resort)
+    ![서프사이드 비치 리조트 (Surfside Beach Resort)_0_image](https://pix8.agoda.net/hotelImages/2461681/0/d57c289c5590ce43a56250a121fc37f2.jpeg)
+![서프사이드 비치 리조트 (Surfside Beach Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/462240916.jpg?k=df07811ba2d6b686759c561e65c44230bae2931e7b670f24d9567f89872e2466&s=50x50)
+![서프사이드 비치 리조트 (Surfside Beach Resort)_2_image](https://pix8.agoda.net/hotelImages/2461681/-1/b3e491db9ab4ac9082c6c7220033fbec.jpg)
+
+마음속 깊이 상쾌한 바람이 가득 차오르는 서프사이드 비치 리조트는 즐거운 휴식의 시간을 제공합니다. 이곳은 단순히 밤을 묵는 곳이 아니라, 새벽부터 밤까지 매 순간 특별한 추억을 쌓을 수 있는 장소예요. 매일 아침 화사한 해변 산책으로 시작해, 여유로운 풀사이드에서의 태닝, 그리고 매력적으로 늘어선 해변의 레스토랑에서의 식사를 즐길 수 있습니다. 
+
+서프사이드 비치 리조트는 손님들을 환영하는 따뜻한 분위기와 친절한 직원들이 제공하는 서비스로 유명합니다. 룸은 깔끔하고 안락함이 느껴져, 집에 돌아온 듯한 편안함을 주죠. 더불어, 주변 경관은 환상적이며 가족 단위로 머무르기에 적합한 시설들이 잘 갖춰져 있답니다. 방문객들은 이곳에서 즐거운 동네 여행과 다양한 액티비티를 경험하며 잊을 수 없는 순간을 보낼 수 있을 거예요.
+
+[서프사이드 비치 리조트 (Surfside Beach Resort)](https://www.agoda.com/ko-kr/surfside-beach-resort_3/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 청정한 해변으로 떠나는 여유
+Courtyard by Marriott Myrtle Beach Oceanfront
+    ![Courtyard by Marriott Myrtle Beach Oceanfront_0_image](https://pix8.agoda.net/hotelImages/33129276/0/30f005159c4ad12072b5043d0e6ba8ba.jpg)
+![Courtyard by Marriott Myrtle Beach Oceanfront_1_image](https://pix8.agoda.net/hotelImages/30163672/1092492299/4403280d75b21f95c645511b28c17e0b.jpeg)
+![Courtyard by Marriott Myrtle Beach Oceanfront_2_image](https://pix8.agoda.net/hotelImages/30163672/0/6973df09be8f002336c8f8020fc63ac1.jpeg)
+
+아침 햇살이 내리쬐는 마틀 비치의 해변가에서, 하루를 시작해보는 건 어떠세요? 이 호텔은 넓은 창을 통해 파노라마처럼 펼쳐지는 바다 풍경을 자랑해요. 객실은 깔끔하고 현대적인 디자인으로 설계되어 있어, 머무는 동안 편안함을 느낄 수 있답니다. 특히 밤에는 별이 총총한 하늘을 보며 발코니에서 여유를 즐길 수 있어 완벽한 하루의 마무리를 선사해요.
+
+수영장에서 물놀이를 즐기거나, 호텔 내 레스토랑에서 신선한 해산물을 맛보는 걸 추천드릴게요. 라운지에서 느긋하게 휴식을 취하며 커피 한 잔의 여유를 갖는 것도 좋지 않을까요? 이곳의 친절한 직원들은 항상 미소로 맞이하며, 고객의 편의를 최우선으로 생각한답니다. 끝없는 고객 사랑으로 매력을 더하는 이 호텔에서 특별한 시간을 보내보세요.
+
+[Courtyard by Marriott Myrtle Beach Oceanfront](https://www.agoda.com/ko-kr/courtyard-by-marriott-myrtle-beach-oceanfront/hotel/myrtle-beach-sc-us.html)
+ 
+
+
+## 결론
+
+마틀 비치의 각양각색의 호텔들은 여러분의 휴가를 잊지 못할 여행으로 만들어 줄 준비가 되어 있습니다. 가족 단위 여행객에게는 **코랄 비치 리조트**가 적합하며, 이곳에서 휴양과 가족의 즐거움을 동시에 만끽할 수 있습니다. **힐튼 그랜드 베케이션 클럽 오션 엔클레이브**는 해변과 가까워 마틀 비치의 아름다움을 완전히 만끽하고 싶은 분들에게 완벽합니다. **씨 크레스트 오션프런트 리조트**는 해변 전망과 더불어 다양한 활동을 즐기며 편안한 서비스를 제공합니다. 해변 휴양지를 이상적으로 구현한 **서프사이드 비치 리조트**에서는 친절한 서비스와 다채로운 즐길 거리를 경험할 수 있습니다. 마틀 비치 해변가의 완벽한 일출을 감상하고자 한다면 **Courtyard by Marriott Myrtle Beach Oceanfront**가 최적의 선택입니다. 각 호텔들은 각자의 개성과 서비스를 자랑하니, 여러분의 선호와 목적에 맞는 완벽한 휴가를 위해 지금 바로 예약하세요!
+
+e:T2bcf,
+    
+
+
+## 마틀 비치에서 힐링과 모험을 동시에 즐기다!
+
+안녕하세요. 달마 여행가자의 달마입니다! 마틀 비치는 단지 날씨가 따뜻해서가 아니라, 환상적인 해변과 흥미진진한 체험들이 있는 곳으로 유명하죠. 이번 여행에서 *힐링*과 *모험* 모두를 만족시킬 수 있는 호텔들을 소개하려고 해요. 여러분이 꿈꾸는 그림 같은 바다 풍경에서의 휴식에서부터, 짜릿한 모험을 즐길 수 있는 **코랄 비치 리조트**, **오션 엔클레이브 바이 힐튼 그랜드 베케이션스**, **씨 크레스트 오션프런트 리조트**, **서프사이드 비치 리조트**, **코트야드 바이 메리어트 마틀 비치 오션프런트** 등을 통해 경험할 수 있어요. 각 호텔마다 특별한 매력을 지니고 있어 선택의 폭도 다양하답니다. 여행 계획 중이신가요? 그럼 이 글을 끝까지 읽어보세요!
+
+
+## 해변에서의 완벽한 휴식을 꿈꾸세요
+Coral Beach Resort
+    ![Coral Beach Resort_0_image](https://pix8.agoda.net/hotelImages/31449777/0/4b05db002e007616cc5a43ea5d55c73b.jpeg)
+![Coral Beach Resort_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/191269714.jpg?k=231ac598ff61ebf69bd41186754243820df3f1562aa02357b20ee82bcce521b9&s=50x50)
+![Coral Beach Resort_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/52329159.jpg?k=a6d3db4db4b1493f6027b1a6243f3d51e185ae4d4de75a1b50cac0426f1dbbba&s=50x50)
+
+마음속 깊이 간직하고 싶은 완벽한 여행을 꿈꾸고 계신가요? 바로 여기, 코랄 비치 리조트가 그 해답이랍니다. 아름다운 해변을 마주한 이곳에서는 매일 아침 햇살이 눈부시게 비추고, 저녁 노을은 마음의 긴장을 풀어줍니다. 떠들썩한 도시의 번잡함에서 벗어나고 싶은 분들께 이곳은 천국 같은 장소입니다. 또한, 룸에서 듣는 파도의 잔잔한 소리는 자연이 주는 최고의 오케스트라랍니다. 여기서의 시간은 그 누구도 방해할 수 없는 귀중한 순간으로 가득 차 있어요.
+
+이곳은 가족과 함께 방문하기에 더없이 적합한 곳이죠. 아이들은 다양한 시설에서 즐거운 시간을 보내게 될 것이라니 부모님은 좀 더 느긋한 시간을 준비하시길! 매일 새로운 모험이 기다리고 있는 이곳에서의 여행은 그야말로 잊지 못할 경험으로 남을 것입니다. 그리고, 리조트 주변에는 다양한 음식점과 쇼핑몰이 준비되어 있어 언제든지 맛있는 음식과 쇼핑으로 기분 전환을 할 수 있습니다. 그런 작은 즐거움이 쌓여 최고의 여행을 만들게 될 것입니다.
+
+[Coral Beach Resort](https://www.agoda.com/ko-kr/coral-beach-resort/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 바다의 품에서 느끼는 쉼
+힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)
+    ![힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/485682053.jpg?k=c200b559353811349e9d64036c1fadf2306e190086cb8078810d74b1aa9217b1&s=450x450)
+![힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_1_image](https://pix8.agoda.net/hotelImages/7238086/-1/71cbf4bc474f80b4d71b2f5535647fd6.jpg)
+![힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/485681886.jpg?k=fe24f67aa73674a18e737eac5315396bf6a97bd77339802ba35317202f20e00a&s=50x50)
+
+마틀 비치의 매력을 한껏 즐길 수 있는 이곳은 해변 바로 앞에 위치해 있어요. 하늘과 맞닿은 듯한 멋진 수영장에서 몸을 담그는 것은 물론, 끝없이 펼쳐진 수평선을 보며 여유로운 시간을 보낼 수 있답니다. 햇살 좋은 날엔 해변을 따라 산책하며 작고 아기자기한 상점을 구경하는 것도 매우 즐겁죠.
+
+객실은 넓고 청결하며, 고객을 위한 편안한 침대가 준비되어 있어요. 아침에 눈을 뜨면 창밖으로 보이는 환상적인 바다 뷰는 덤이랍니다. 편리하게 하루를 시작할 수 있는 다양한 객실 내 시설도 준비되어 있어, 여행의 피로를 쉽게 풀 수 있을 거예요. 마틀 비치에서의 특별한 하루를 꿈꾸신다면 이곳이 제격일 것 같아요.
+
+[힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)](https://www.agoda.com/ko-kr/ocean-enclave-by-hilton-grand-vacations/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 해변에서 휴양을 만끽하세요
+씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)
+    ![씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_0_image](https://pix8.agoda.net/hotelImages/32179994/0/5c9329f7f8e312d958d2f53f29b0e251.jpg)
+![씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/531364127.jpg?k=c4febc939bde39b2545a7d6fd1b36898d6ce5833e90e039f69af43cea2e98d3d&s=50x50)
+![씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/18658158.jpg?k=5de5a7da3c75d7a68a934f83f4f8add2c121fb988f2250b19298cf3a47d7a0e0&s=50x50)
+
+바다의 향기가 물씬 풍기는 이곳, 이 호텔은 방문객을 마법처럼 끌어당기는 곳이에요. 무엇보다 매력적인 것은 바로 탁 트인 해변 전망과 깔끔한 객실이 제공된다는 점이죠. 푸른 파도가 부서지는 소리를 들으며 커피 한 잔의 여유를 즐기는 건 진정한 휴가의 정수 아닐까요? 아늑한 침대와 세심하게 준비된 편의시설은 피로를 말끔히 씻어줄 거예요.
+
+호텔에 도착하면 가장 먼저 해야 할 일은 해변으로 달려가는 것이에요. 해양 스포츠를 즐겨보거나, 모래사장에서 추억을 만들어 보세요. 그리고 나서 호텔에서 제공하는 맛있는 식사를 즐기며 하루를 마무리하는 건 어떨까요? 다양한 맛의 즐거움과 친절한 서비스가 여행을 더 특별하게 만들어 줄 거예요. 잊을 수 없는 순간들이 여러분을 기다리고 있답니다.
+
+[씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)](https://www.agoda.com/ko-kr/sea-crest-oceanfront-resort/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 비치에서 즐기는 완벽한 힐링
+서프사이드 비치 리조트 (Surfside Beach Resort)
+    ![서프사이드 비치 리조트 (Surfside Beach Resort)_0_image](https://pix8.agoda.net/hotelImages/2461681/0/d57c289c5590ce43a56250a121fc37f2.jpeg)
+![서프사이드 비치 리조트 (Surfside Beach Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/462240916.jpg?k=df07811ba2d6b686759c561e65c44230bae2931e7b670f24d9567f89872e2466&s=50x50)
+![서프사이드 비치 리조트 (Surfside Beach Resort)_2_image](https://pix8.agoda.net/hotelImages/2461681/-1/b3e491db9ab4ac9082c6c7220033fbec.jpg)
+
+마음속 깊이 상쾌한 바람이 가득 차오르는 서프사이드 비치 리조트는 즐거운 휴식의 시간을 제공합니다. 이곳은 단순히 밤을 묵는 곳이 아니라, 새벽부터 밤까지 매 순간 특별한 추억을 쌓을 수 있는 장소예요. 매일 아침 화사한 해변 산책으로 시작해, 여유로운 풀사이드에서의 태닝, 그리고 매력적으로 늘어선 해변의 레스토랑에서의 식사를 즐길 수 있습니다. 
+
+서프사이드 비치 리조트는 손님들을 환영하는 따뜻한 분위기와 친절한 직원들이 제공하는 서비스로 유명합니다. 룸은 깔끔하고 안락함이 느껴져, 집에 돌아온 듯한 편안함을 주죠. 더불어, 주변 경관은 환상적이며 가족 단위로 머무르기에 적합한 시설들이 잘 갖춰져 있답니다. 방문객들은 이곳에서 즐거운 동네 여행과 다양한 액티비티를 경험하며 잊을 수 없는 순간을 보낼 수 있을 거예요.
+
+[서프사이드 비치 리조트 (Surfside Beach Resort)](https://www.agoda.com/ko-kr/surfside-beach-resort_3/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 청정한 해변으로 떠나는 여유
+Courtyard by Marriott Myrtle Beach Oceanfront
+    ![Courtyard by Marriott Myrtle Beach Oceanfront_0_image](https://pix8.agoda.net/hotelImages/33129276/0/30f005159c4ad12072b5043d0e6ba8ba.jpg)
+![Courtyard by Marriott Myrtle Beach Oceanfront_1_image](https://pix8.agoda.net/hotelImages/30163672/1092492299/4403280d75b21f95c645511b28c17e0b.jpeg)
+![Courtyard by Marriott Myrtle Beach Oceanfront_2_image](https://pix8.agoda.net/hotelImages/30163672/0/6973df09be8f002336c8f8020fc63ac1.jpeg)
+
+아침 햇살이 내리쬐는 마틀 비치의 해변가에서, 하루를 시작해보는 건 어떠세요? 이 호텔은 넓은 창을 통해 파노라마처럼 펼쳐지는 바다 풍경을 자랑해요. 객실은 깔끔하고 현대적인 디자인으로 설계되어 있어, 머무는 동안 편안함을 느낄 수 있답니다. 특히 밤에는 별이 총총한 하늘을 보며 발코니에서 여유를 즐길 수 있어 완벽한 하루의 마무리를 선사해요.
+
+수영장에서 물놀이를 즐기거나, 호텔 내 레스토랑에서 신선한 해산물을 맛보는 걸 추천드릴게요. 라운지에서 느긋하게 휴식을 취하며 커피 한 잔의 여유를 갖는 것도 좋지 않을까요? 이곳의 친절한 직원들은 항상 미소로 맞이하며, 고객의 편의를 최우선으로 생각한답니다. 끝없는 고객 사랑으로 매력을 더하는 이 호텔에서 특별한 시간을 보내보세요.
+
+[Courtyard by Marriott Myrtle Beach Oceanfront](https://www.agoda.com/ko-kr/courtyard-by-marriott-myrtle-beach-oceanfront/hotel/myrtle-beach-sc-us.html)
+ 
+
+
+## 결론
+
+마틀 비치의 각양각색의 호텔들은 여러분의 휴가를 잊지 못할 여행으로 만들어 줄 준비가 되어 있습니다. 가족 단위 여행객에게는 **코랄 비치 리조트**가 적합하며, 이곳에서 휴양과 가족의 즐거움을 동시에 만끽할 수 있습니다. **힐튼 그랜드 베케이션 클럽 오션 엔클레이브**는 해변과 가까워 마틀 비치의 아름다움을 완전히 만끽하고 싶은 분들에게 완벽합니다. **씨 크레스트 오션프런트 리조트**는 해변 전망과 더불어 다양한 활동을 즐기며 편안한 서비스를 제공합니다. 해변 휴양지를 이상적으로 구현한 **서프사이드 비치 리조트**에서는 친절한 서비스와 다채로운 즐길 거리를 경험할 수 있습니다. 마틀 비치 해변가의 완벽한 일출을 감상하고자 한다면 **Courtyard by Marriott Myrtle Beach Oceanfront**가 최적의 선택입니다. 각 호텔들은 각자의 개성과 서비스를 자랑하니, 여러분의 선호와 목적에 맞는 완벽한 휴가를 위해 지금 바로 예약하세요!
+
+f:T2bcf,
+    
+
+
+## 마틀 비치에서 힐링과 모험을 동시에 즐기다!
+
+안녕하세요. 달마 여행가자의 달마입니다! 마틀 비치는 단지 날씨가 따뜻해서가 아니라, 환상적인 해변과 흥미진진한 체험들이 있는 곳으로 유명하죠. 이번 여행에서 *힐링*과 *모험* 모두를 만족시킬 수 있는 호텔들을 소개하려고 해요. 여러분이 꿈꾸는 그림 같은 바다 풍경에서의 휴식에서부터, 짜릿한 모험을 즐길 수 있는 **코랄 비치 리조트**, **오션 엔클레이브 바이 힐튼 그랜드 베케이션스**, **씨 크레스트 오션프런트 리조트**, **서프사이드 비치 리조트**, **코트야드 바이 메리어트 마틀 비치 오션프런트** 등을 통해 경험할 수 있어요. 각 호텔마다 특별한 매력을 지니고 있어 선택의 폭도 다양하답니다. 여행 계획 중이신가요? 그럼 이 글을 끝까지 읽어보세요!
+
+
+## 해변에서의 완벽한 휴식을 꿈꾸세요
+Coral Beach Resort
+    ![Coral Beach Resort_0_image](https://pix8.agoda.net/hotelImages/31449777/0/4b05db002e007616cc5a43ea5d55c73b.jpeg)
+![Coral Beach Resort_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/191269714.jpg?k=231ac598ff61ebf69bd41186754243820df3f1562aa02357b20ee82bcce521b9&s=50x50)
+![Coral Beach Resort_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/52329159.jpg?k=a6d3db4db4b1493f6027b1a6243f3d51e185ae4d4de75a1b50cac0426f1dbbba&s=50x50)
+
+마음속 깊이 간직하고 싶은 완벽한 여행을 꿈꾸고 계신가요? 바로 여기, 코랄 비치 리조트가 그 해답이랍니다. 아름다운 해변을 마주한 이곳에서는 매일 아침 햇살이 눈부시게 비추고, 저녁 노을은 마음의 긴장을 풀어줍니다. 떠들썩한 도시의 번잡함에서 벗어나고 싶은 분들께 이곳은 천국 같은 장소입니다. 또한, 룸에서 듣는 파도의 잔잔한 소리는 자연이 주는 최고의 오케스트라랍니다. 여기서의 시간은 그 누구도 방해할 수 없는 귀중한 순간으로 가득 차 있어요.
+
+이곳은 가족과 함께 방문하기에 더없이 적합한 곳이죠. 아이들은 다양한 시설에서 즐거운 시간을 보내게 될 것이라니 부모님은 좀 더 느긋한 시간을 준비하시길! 매일 새로운 모험이 기다리고 있는 이곳에서의 여행은 그야말로 잊지 못할 경험으로 남을 것입니다. 그리고, 리조트 주변에는 다양한 음식점과 쇼핑몰이 준비되어 있어 언제든지 맛있는 음식과 쇼핑으로 기분 전환을 할 수 있습니다. 그런 작은 즐거움이 쌓여 최고의 여행을 만들게 될 것입니다.
+
+[Coral Beach Resort](https://www.agoda.com/ko-kr/coral-beach-resort/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 바다의 품에서 느끼는 쉼
+힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)
+    ![힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/485682053.jpg?k=c200b559353811349e9d64036c1fadf2306e190086cb8078810d74b1aa9217b1&s=450x450)
+![힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_1_image](https://pix8.agoda.net/hotelImages/7238086/-1/71cbf4bc474f80b4d71b2f5535647fd6.jpg)
+![힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/485681886.jpg?k=fe24f67aa73674a18e737eac5315396bf6a97bd77339802ba35317202f20e00a&s=50x50)
+
+마틀 비치의 매력을 한껏 즐길 수 있는 이곳은 해변 바로 앞에 위치해 있어요. 하늘과 맞닿은 듯한 멋진 수영장에서 몸을 담그는 것은 물론, 끝없이 펼쳐진 수평선을 보며 여유로운 시간을 보낼 수 있답니다. 햇살 좋은 날엔 해변을 따라 산책하며 작고 아기자기한 상점을 구경하는 것도 매우 즐겁죠.
+
+객실은 넓고 청결하며, 고객을 위한 편안한 침대가 준비되어 있어요. 아침에 눈을 뜨면 창밖으로 보이는 환상적인 바다 뷰는 덤이랍니다. 편리하게 하루를 시작할 수 있는 다양한 객실 내 시설도 준비되어 있어, 여행의 피로를 쉽게 풀 수 있을 거예요. 마틀 비치에서의 특별한 하루를 꿈꾸신다면 이곳이 제격일 것 같아요.
+
+[힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)](https://www.agoda.com/ko-kr/ocean-enclave-by-hilton-grand-vacations/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 해변에서 휴양을 만끽하세요
+씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)
+    ![씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_0_image](https://pix8.agoda.net/hotelImages/32179994/0/5c9329f7f8e312d958d2f53f29b0e251.jpg)
+![씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/531364127.jpg?k=c4febc939bde39b2545a7d6fd1b36898d6ce5833e90e039f69af43cea2e98d3d&s=50x50)
+![씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/18658158.jpg?k=5de5a7da3c75d7a68a934f83f4f8add2c121fb988f2250b19298cf3a47d7a0e0&s=50x50)
+
+바다의 향기가 물씬 풍기는 이곳, 이 호텔은 방문객을 마법처럼 끌어당기는 곳이에요. 무엇보다 매력적인 것은 바로 탁 트인 해변 전망과 깔끔한 객실이 제공된다는 점이죠. 푸른 파도가 부서지는 소리를 들으며 커피 한 잔의 여유를 즐기는 건 진정한 휴가의 정수 아닐까요? 아늑한 침대와 세심하게 준비된 편의시설은 피로를 말끔히 씻어줄 거예요.
+
+호텔에 도착하면 가장 먼저 해야 할 일은 해변으로 달려가는 것이에요. 해양 스포츠를 즐겨보거나, 모래사장에서 추억을 만들어 보세요. 그리고 나서 호텔에서 제공하는 맛있는 식사를 즐기며 하루를 마무리하는 건 어떨까요? 다양한 맛의 즐거움과 친절한 서비스가 여행을 더 특별하게 만들어 줄 거예요. 잊을 수 없는 순간들이 여러분을 기다리고 있답니다.
+
+[씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)](https://www.agoda.com/ko-kr/sea-crest-oceanfront-resort/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 비치에서 즐기는 완벽한 힐링
+서프사이드 비치 리조트 (Surfside Beach Resort)
+    ![서프사이드 비치 리조트 (Surfside Beach Resort)_0_image](https://pix8.agoda.net/hotelImages/2461681/0/d57c289c5590ce43a56250a121fc37f2.jpeg)
+![서프사이드 비치 리조트 (Surfside Beach Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/462240916.jpg?k=df07811ba2d6b686759c561e65c44230bae2931e7b670f24d9567f89872e2466&s=50x50)
+![서프사이드 비치 리조트 (Surfside Beach Resort)_2_image](https://pix8.agoda.net/hotelImages/2461681/-1/b3e491db9ab4ac9082c6c7220033fbec.jpg)
+
+마음속 깊이 상쾌한 바람이 가득 차오르는 서프사이드 비치 리조트는 즐거운 휴식의 시간을 제공합니다. 이곳은 단순히 밤을 묵는 곳이 아니라, 새벽부터 밤까지 매 순간 특별한 추억을 쌓을 수 있는 장소예요. 매일 아침 화사한 해변 산책으로 시작해, 여유로운 풀사이드에서의 태닝, 그리고 매력적으로 늘어선 해변의 레스토랑에서의 식사를 즐길 수 있습니다. 
+
+서프사이드 비치 리조트는 손님들을 환영하는 따뜻한 분위기와 친절한 직원들이 제공하는 서비스로 유명합니다. 룸은 깔끔하고 안락함이 느껴져, 집에 돌아온 듯한 편안함을 주죠. 더불어, 주변 경관은 환상적이며 가족 단위로 머무르기에 적합한 시설들이 잘 갖춰져 있답니다. 방문객들은 이곳에서 즐거운 동네 여행과 다양한 액티비티를 경험하며 잊을 수 없는 순간을 보낼 수 있을 거예요.
+
+[서프사이드 비치 리조트 (Surfside Beach Resort)](https://www.agoda.com/ko-kr/surfside-beach-resort_3/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 청정한 해변으로 떠나는 여유
+Courtyard by Marriott Myrtle Beach Oceanfront
+    ![Courtyard by Marriott Myrtle Beach Oceanfront_0_image](https://pix8.agoda.net/hotelImages/33129276/0/30f005159c4ad12072b5043d0e6ba8ba.jpg)
+![Courtyard by Marriott Myrtle Beach Oceanfront_1_image](https://pix8.agoda.net/hotelImages/30163672/1092492299/4403280d75b21f95c645511b28c17e0b.jpeg)
+![Courtyard by Marriott Myrtle Beach Oceanfront_2_image](https://pix8.agoda.net/hotelImages/30163672/0/6973df09be8f002336c8f8020fc63ac1.jpeg)
+
+아침 햇살이 내리쬐는 마틀 비치의 해변가에서, 하루를 시작해보는 건 어떠세요? 이 호텔은 넓은 창을 통해 파노라마처럼 펼쳐지는 바다 풍경을 자랑해요. 객실은 깔끔하고 현대적인 디자인으로 설계되어 있어, 머무는 동안 편안함을 느낄 수 있답니다. 특히 밤에는 별이 총총한 하늘을 보며 발코니에서 여유를 즐길 수 있어 완벽한 하루의 마무리를 선사해요.
+
+수영장에서 물놀이를 즐기거나, 호텔 내 레스토랑에서 신선한 해산물을 맛보는 걸 추천드릴게요. 라운지에서 느긋하게 휴식을 취하며 커피 한 잔의 여유를 갖는 것도 좋지 않을까요? 이곳의 친절한 직원들은 항상 미소로 맞이하며, 고객의 편의를 최우선으로 생각한답니다. 끝없는 고객 사랑으로 매력을 더하는 이 호텔에서 특별한 시간을 보내보세요.
+
+[Courtyard by Marriott Myrtle Beach Oceanfront](https://www.agoda.com/ko-kr/courtyard-by-marriott-myrtle-beach-oceanfront/hotel/myrtle-beach-sc-us.html)
+ 
+
+
+## 결론
+
+마틀 비치의 각양각색의 호텔들은 여러분의 휴가를 잊지 못할 여행으로 만들어 줄 준비가 되어 있습니다. 가족 단위 여행객에게는 **코랄 비치 리조트**가 적합하며, 이곳에서 휴양과 가족의 즐거움을 동시에 만끽할 수 있습니다. **힐튼 그랜드 베케이션 클럽 오션 엔클레이브**는 해변과 가까워 마틀 비치의 아름다움을 완전히 만끽하고 싶은 분들에게 완벽합니다. **씨 크레스트 오션프런트 리조트**는 해변 전망과 더불어 다양한 활동을 즐기며 편안한 서비스를 제공합니다. 해변 휴양지를 이상적으로 구현한 **서프사이드 비치 리조트**에서는 친절한 서비스와 다채로운 즐길 거리를 경험할 수 있습니다. 마틀 비치 해변가의 완벽한 일출을 감상하고자 한다면 **Courtyard by Marriott Myrtle Beach Oceanfront**가 최적의 선택입니다. 각 호텔들은 각자의 개성과 서비스를 자랑하니, 여러분의 선호와 목적에 맞는 완벽한 휴가를 위해 지금 바로 예약하세요!
+
+10:T2bcf,
+    
+
+
+## 마틀 비치에서 힐링과 모험을 동시에 즐기다!
+
+안녕하세요. 달마 여행가자의 달마입니다! 마틀 비치는 단지 날씨가 따뜻해서가 아니라, 환상적인 해변과 흥미진진한 체험들이 있는 곳으로 유명하죠. 이번 여행에서 *힐링*과 *모험* 모두를 만족시킬 수 있는 호텔들을 소개하려고 해요. 여러분이 꿈꾸는 그림 같은 바다 풍경에서의 휴식에서부터, 짜릿한 모험을 즐길 수 있는 **코랄 비치 리조트**, **오션 엔클레이브 바이 힐튼 그랜드 베케이션스**, **씨 크레스트 오션프런트 리조트**, **서프사이드 비치 리조트**, **코트야드 바이 메리어트 마틀 비치 오션프런트** 등을 통해 경험할 수 있어요. 각 호텔마다 특별한 매력을 지니고 있어 선택의 폭도 다양하답니다. 여행 계획 중이신가요? 그럼 이 글을 끝까지 읽어보세요!
+
+
+## 해변에서의 완벽한 휴식을 꿈꾸세요
+Coral Beach Resort
+    ![Coral Beach Resort_0_image](https://pix8.agoda.net/hotelImages/31449777/0/4b05db002e007616cc5a43ea5d55c73b.jpeg)
+![Coral Beach Resort_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/191269714.jpg?k=231ac598ff61ebf69bd41186754243820df3f1562aa02357b20ee82bcce521b9&s=50x50)
+![Coral Beach Resort_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/52329159.jpg?k=a6d3db4db4b1493f6027b1a6243f3d51e185ae4d4de75a1b50cac0426f1dbbba&s=50x50)
+
+마음속 깊이 간직하고 싶은 완벽한 여행을 꿈꾸고 계신가요? 바로 여기, 코랄 비치 리조트가 그 해답이랍니다. 아름다운 해변을 마주한 이곳에서는 매일 아침 햇살이 눈부시게 비추고, 저녁 노을은 마음의 긴장을 풀어줍니다. 떠들썩한 도시의 번잡함에서 벗어나고 싶은 분들께 이곳은 천국 같은 장소입니다. 또한, 룸에서 듣는 파도의 잔잔한 소리는 자연이 주는 최고의 오케스트라랍니다. 여기서의 시간은 그 누구도 방해할 수 없는 귀중한 순간으로 가득 차 있어요.
+
+이곳은 가족과 함께 방문하기에 더없이 적합한 곳이죠. 아이들은 다양한 시설에서 즐거운 시간을 보내게 될 것이라니 부모님은 좀 더 느긋한 시간을 준비하시길! 매일 새로운 모험이 기다리고 있는 이곳에서의 여행은 그야말로 잊지 못할 경험으로 남을 것입니다. 그리고, 리조트 주변에는 다양한 음식점과 쇼핑몰이 준비되어 있어 언제든지 맛있는 음식과 쇼핑으로 기분 전환을 할 수 있습니다. 그런 작은 즐거움이 쌓여 최고의 여행을 만들게 될 것입니다.
+
+[Coral Beach Resort](https://www.agoda.com/ko-kr/coral-beach-resort/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 바다의 품에서 느끼는 쉼
+힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)
+    ![힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/485682053.jpg?k=c200b559353811349e9d64036c1fadf2306e190086cb8078810d74b1aa9217b1&s=450x450)
+![힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_1_image](https://pix8.agoda.net/hotelImages/7238086/-1/71cbf4bc474f80b4d71b2f5535647fd6.jpg)
+![힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/485681886.jpg?k=fe24f67aa73674a18e737eac5315396bf6a97bd77339802ba35317202f20e00a&s=50x50)
+
+마틀 비치의 매력을 한껏 즐길 수 있는 이곳은 해변 바로 앞에 위치해 있어요. 하늘과 맞닿은 듯한 멋진 수영장에서 몸을 담그는 것은 물론, 끝없이 펼쳐진 수평선을 보며 여유로운 시간을 보낼 수 있답니다. 햇살 좋은 날엔 해변을 따라 산책하며 작고 아기자기한 상점을 구경하는 것도 매우 즐겁죠.
+
+객실은 넓고 청결하며, 고객을 위한 편안한 침대가 준비되어 있어요. 아침에 눈을 뜨면 창밖으로 보이는 환상적인 바다 뷰는 덤이랍니다. 편리하게 하루를 시작할 수 있는 다양한 객실 내 시설도 준비되어 있어, 여행의 피로를 쉽게 풀 수 있을 거예요. 마틀 비치에서의 특별한 하루를 꿈꾸신다면 이곳이 제격일 것 같아요.
+
+[힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)](https://www.agoda.com/ko-kr/ocean-enclave-by-hilton-grand-vacations/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 해변에서 휴양을 만끽하세요
+씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)
+    ![씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_0_image](https://pix8.agoda.net/hotelImages/32179994/0/5c9329f7f8e312d958d2f53f29b0e251.jpg)
+![씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/531364127.jpg?k=c4febc939bde39b2545a7d6fd1b36898d6ce5833e90e039f69af43cea2e98d3d&s=50x50)
+![씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/18658158.jpg?k=5de5a7da3c75d7a68a934f83f4f8add2c121fb988f2250b19298cf3a47d7a0e0&s=50x50)
+
+바다의 향기가 물씬 풍기는 이곳, 이 호텔은 방문객을 마법처럼 끌어당기는 곳이에요. 무엇보다 매력적인 것은 바로 탁 트인 해변 전망과 깔끔한 객실이 제공된다는 점이죠. 푸른 파도가 부서지는 소리를 들으며 커피 한 잔의 여유를 즐기는 건 진정한 휴가의 정수 아닐까요? 아늑한 침대와 세심하게 준비된 편의시설은 피로를 말끔히 씻어줄 거예요.
+
+호텔에 도착하면 가장 먼저 해야 할 일은 해변으로 달려가는 것이에요. 해양 스포츠를 즐겨보거나, 모래사장에서 추억을 만들어 보세요. 그리고 나서 호텔에서 제공하는 맛있는 식사를 즐기며 하루를 마무리하는 건 어떨까요? 다양한 맛의 즐거움과 친절한 서비스가 여행을 더 특별하게 만들어 줄 거예요. 잊을 수 없는 순간들이 여러분을 기다리고 있답니다.
+
+[씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)](https://www.agoda.com/ko-kr/sea-crest-oceanfront-resort/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 비치에서 즐기는 완벽한 힐링
+서프사이드 비치 리조트 (Surfside Beach Resort)
+    ![서프사이드 비치 리조트 (Surfside Beach Resort)_0_image](https://pix8.agoda.net/hotelImages/2461681/0/d57c289c5590ce43a56250a121fc37f2.jpeg)
+![서프사이드 비치 리조트 (Surfside Beach Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/462240916.jpg?k=df07811ba2d6b686759c561e65c44230bae2931e7b670f24d9567f89872e2466&s=50x50)
+![서프사이드 비치 리조트 (Surfside Beach Resort)_2_image](https://pix8.agoda.net/hotelImages/2461681/-1/b3e491db9ab4ac9082c6c7220033fbec.jpg)
+
+마음속 깊이 상쾌한 바람이 가득 차오르는 서프사이드 비치 리조트는 즐거운 휴식의 시간을 제공합니다. 이곳은 단순히 밤을 묵는 곳이 아니라, 새벽부터 밤까지 매 순간 특별한 추억을 쌓을 수 있는 장소예요. 매일 아침 화사한 해변 산책으로 시작해, 여유로운 풀사이드에서의 태닝, 그리고 매력적으로 늘어선 해변의 레스토랑에서의 식사를 즐길 수 있습니다. 
+
+서프사이드 비치 리조트는 손님들을 환영하는 따뜻한 분위기와 친절한 직원들이 제공하는 서비스로 유명합니다. 룸은 깔끔하고 안락함이 느껴져, 집에 돌아온 듯한 편안함을 주죠. 더불어, 주변 경관은 환상적이며 가족 단위로 머무르기에 적합한 시설들이 잘 갖춰져 있답니다. 방문객들은 이곳에서 즐거운 동네 여행과 다양한 액티비티를 경험하며 잊을 수 없는 순간을 보낼 수 있을 거예요.
+
+[서프사이드 비치 리조트 (Surfside Beach Resort)](https://www.agoda.com/ko-kr/surfside-beach-resort_3/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 청정한 해변으로 떠나는 여유
+Courtyard by Marriott Myrtle Beach Oceanfront
+    ![Courtyard by Marriott Myrtle Beach Oceanfront_0_image](https://pix8.agoda.net/hotelImages/33129276/0/30f005159c4ad12072b5043d0e6ba8ba.jpg)
+![Courtyard by Marriott Myrtle Beach Oceanfront_1_image](https://pix8.agoda.net/hotelImages/30163672/1092492299/4403280d75b21f95c645511b28c17e0b.jpeg)
+![Courtyard by Marriott Myrtle Beach Oceanfront_2_image](https://pix8.agoda.net/hotelImages/30163672/0/6973df09be8f002336c8f8020fc63ac1.jpeg)
+
+아침 햇살이 내리쬐는 마틀 비치의 해변가에서, 하루를 시작해보는 건 어떠세요? 이 호텔은 넓은 창을 통해 파노라마처럼 펼쳐지는 바다 풍경을 자랑해요. 객실은 깔끔하고 현대적인 디자인으로 설계되어 있어, 머무는 동안 편안함을 느낄 수 있답니다. 특히 밤에는 별이 총총한 하늘을 보며 발코니에서 여유를 즐길 수 있어 완벽한 하루의 마무리를 선사해요.
+
+수영장에서 물놀이를 즐기거나, 호텔 내 레스토랑에서 신선한 해산물을 맛보는 걸 추천드릴게요. 라운지에서 느긋하게 휴식을 취하며 커피 한 잔의 여유를 갖는 것도 좋지 않을까요? 이곳의 친절한 직원들은 항상 미소로 맞이하며, 고객의 편의를 최우선으로 생각한답니다. 끝없는 고객 사랑으로 매력을 더하는 이 호텔에서 특별한 시간을 보내보세요.
+
+[Courtyard by Marriott Myrtle Beach Oceanfront](https://www.agoda.com/ko-kr/courtyard-by-marriott-myrtle-beach-oceanfront/hotel/myrtle-beach-sc-us.html)
+ 
+
+
+## 결론
+
+마틀 비치의 각양각색의 호텔들은 여러분의 휴가를 잊지 못할 여행으로 만들어 줄 준비가 되어 있습니다. 가족 단위 여행객에게는 **코랄 비치 리조트**가 적합하며, 이곳에서 휴양과 가족의 즐거움을 동시에 만끽할 수 있습니다. **힐튼 그랜드 베케이션 클럽 오션 엔클레이브**는 해변과 가까워 마틀 비치의 아름다움을 완전히 만끽하고 싶은 분들에게 완벽합니다. **씨 크레스트 오션프런트 리조트**는 해변 전망과 더불어 다양한 활동을 즐기며 편안한 서비스를 제공합니다. 해변 휴양지를 이상적으로 구현한 **서프사이드 비치 리조트**에서는 친절한 서비스와 다채로운 즐길 거리를 경험할 수 있습니다. 마틀 비치 해변가의 완벽한 일출을 감상하고자 한다면 **Courtyard by Marriott Myrtle Beach Oceanfront**가 최적의 선택입니다. 각 호텔들은 각자의 개성과 서비스를 자랑하니, 여러분의 선호와 목적에 맞는 완벽한 휴가를 위해 지금 바로 예약하세요!
+
+11:T2bcf,
+    
+
+
+## 마틀 비치에서 힐링과 모험을 동시에 즐기다!
+
+안녕하세요. 달마 여행가자의 달마입니다! 마틀 비치는 단지 날씨가 따뜻해서가 아니라, 환상적인 해변과 흥미진진한 체험들이 있는 곳으로 유명하죠. 이번 여행에서 *힐링*과 *모험* 모두를 만족시킬 수 있는 호텔들을 소개하려고 해요. 여러분이 꿈꾸는 그림 같은 바다 풍경에서의 휴식에서부터, 짜릿한 모험을 즐길 수 있는 **코랄 비치 리조트**, **오션 엔클레이브 바이 힐튼 그랜드 베케이션스**, **씨 크레스트 오션프런트 리조트**, **서프사이드 비치 리조트**, **코트야드 바이 메리어트 마틀 비치 오션프런트** 등을 통해 경험할 수 있어요. 각 호텔마다 특별한 매력을 지니고 있어 선택의 폭도 다양하답니다. 여행 계획 중이신가요? 그럼 이 글을 끝까지 읽어보세요!
+
+
+## 해변에서의 완벽한 휴식을 꿈꾸세요
+Coral Beach Resort
+    ![Coral Beach Resort_0_image](https://pix8.agoda.net/hotelImages/31449777/0/4b05db002e007616cc5a43ea5d55c73b.jpeg)
+![Coral Beach Resort_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/191269714.jpg?k=231ac598ff61ebf69bd41186754243820df3f1562aa02357b20ee82bcce521b9&s=50x50)
+![Coral Beach Resort_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/52329159.jpg?k=a6d3db4db4b1493f6027b1a6243f3d51e185ae4d4de75a1b50cac0426f1dbbba&s=50x50)
+
+마음속 깊이 간직하고 싶은 완벽한 여행을 꿈꾸고 계신가요? 바로 여기, 코랄 비치 리조트가 그 해답이랍니다. 아름다운 해변을 마주한 이곳에서는 매일 아침 햇살이 눈부시게 비추고, 저녁 노을은 마음의 긴장을 풀어줍니다. 떠들썩한 도시의 번잡함에서 벗어나고 싶은 분들께 이곳은 천국 같은 장소입니다. 또한, 룸에서 듣는 파도의 잔잔한 소리는 자연이 주는 최고의 오케스트라랍니다. 여기서의 시간은 그 누구도 방해할 수 없는 귀중한 순간으로 가득 차 있어요.
+
+이곳은 가족과 함께 방문하기에 더없이 적합한 곳이죠. 아이들은 다양한 시설에서 즐거운 시간을 보내게 될 것이라니 부모님은 좀 더 느긋한 시간을 준비하시길! 매일 새로운 모험이 기다리고 있는 이곳에서의 여행은 그야말로 잊지 못할 경험으로 남을 것입니다. 그리고, 리조트 주변에는 다양한 음식점과 쇼핑몰이 준비되어 있어 언제든지 맛있는 음식과 쇼핑으로 기분 전환을 할 수 있습니다. 그런 작은 즐거움이 쌓여 최고의 여행을 만들게 될 것입니다.
+
+[Coral Beach Resort](https://www.agoda.com/ko-kr/coral-beach-resort/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 바다의 품에서 느끼는 쉼
+힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)
+    ![힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/485682053.jpg?k=c200b559353811349e9d64036c1fadf2306e190086cb8078810d74b1aa9217b1&s=450x450)
+![힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_1_image](https://pix8.agoda.net/hotelImages/7238086/-1/71cbf4bc474f80b4d71b2f5535647fd6.jpg)
+![힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/485681886.jpg?k=fe24f67aa73674a18e737eac5315396bf6a97bd77339802ba35317202f20e00a&s=50x50)
+
+마틀 비치의 매력을 한껏 즐길 수 있는 이곳은 해변 바로 앞에 위치해 있어요. 하늘과 맞닿은 듯한 멋진 수영장에서 몸을 담그는 것은 물론, 끝없이 펼쳐진 수평선을 보며 여유로운 시간을 보낼 수 있답니다. 햇살 좋은 날엔 해변을 따라 산책하며 작고 아기자기한 상점을 구경하는 것도 매우 즐겁죠.
+
+객실은 넓고 청결하며, 고객을 위한 편안한 침대가 준비되어 있어요. 아침에 눈을 뜨면 창밖으로 보이는 환상적인 바다 뷰는 덤이랍니다. 편리하게 하루를 시작할 수 있는 다양한 객실 내 시설도 준비되어 있어, 여행의 피로를 쉽게 풀 수 있을 거예요. 마틀 비치에서의 특별한 하루를 꿈꾸신다면 이곳이 제격일 것 같아요.
+
+[힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)](https://www.agoda.com/ko-kr/ocean-enclave-by-hilton-grand-vacations/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 해변에서 휴양을 만끽하세요
+씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)
+    ![씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_0_image](https://pix8.agoda.net/hotelImages/32179994/0/5c9329f7f8e312d958d2f53f29b0e251.jpg)
+![씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/531364127.jpg?k=c4febc939bde39b2545a7d6fd1b36898d6ce5833e90e039f69af43cea2e98d3d&s=50x50)
+![씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/18658158.jpg?k=5de5a7da3c75d7a68a934f83f4f8add2c121fb988f2250b19298cf3a47d7a0e0&s=50x50)
+
+바다의 향기가 물씬 풍기는 이곳, 이 호텔은 방문객을 마법처럼 끌어당기는 곳이에요. 무엇보다 매력적인 것은 바로 탁 트인 해변 전망과 깔끔한 객실이 제공된다는 점이죠. 푸른 파도가 부서지는 소리를 들으며 커피 한 잔의 여유를 즐기는 건 진정한 휴가의 정수 아닐까요? 아늑한 침대와 세심하게 준비된 편의시설은 피로를 말끔히 씻어줄 거예요.
+
+호텔에 도착하면 가장 먼저 해야 할 일은 해변으로 달려가는 것이에요. 해양 스포츠를 즐겨보거나, 모래사장에서 추억을 만들어 보세요. 그리고 나서 호텔에서 제공하는 맛있는 식사를 즐기며 하루를 마무리하는 건 어떨까요? 다양한 맛의 즐거움과 친절한 서비스가 여행을 더 특별하게 만들어 줄 거예요. 잊을 수 없는 순간들이 여러분을 기다리고 있답니다.
+
+[씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)](https://www.agoda.com/ko-kr/sea-crest-oceanfront-resort/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 비치에서 즐기는 완벽한 힐링
+서프사이드 비치 리조트 (Surfside Beach Resort)
+    ![서프사이드 비치 리조트 (Surfside Beach Resort)_0_image](https://pix8.agoda.net/hotelImages/2461681/0/d57c289c5590ce43a56250a121fc37f2.jpeg)
+![서프사이드 비치 리조트 (Surfside Beach Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/462240916.jpg?k=df07811ba2d6b686759c561e65c44230bae2931e7b670f24d9567f89872e2466&s=50x50)
+![서프사이드 비치 리조트 (Surfside Beach Resort)_2_image](https://pix8.agoda.net/hotelImages/2461681/-1/b3e491db9ab4ac9082c6c7220033fbec.jpg)
+
+마음속 깊이 상쾌한 바람이 가득 차오르는 서프사이드 비치 리조트는 즐거운 휴식의 시간을 제공합니다. 이곳은 단순히 밤을 묵는 곳이 아니라, 새벽부터 밤까지 매 순간 특별한 추억을 쌓을 수 있는 장소예요. 매일 아침 화사한 해변 산책으로 시작해, 여유로운 풀사이드에서의 태닝, 그리고 매력적으로 늘어선 해변의 레스토랑에서의 식사를 즐길 수 있습니다. 
+
+서프사이드 비치 리조트는 손님들을 환영하는 따뜻한 분위기와 친절한 직원들이 제공하는 서비스로 유명합니다. 룸은 깔끔하고 안락함이 느껴져, 집에 돌아온 듯한 편안함을 주죠. 더불어, 주변 경관은 환상적이며 가족 단위로 머무르기에 적합한 시설들이 잘 갖춰져 있답니다. 방문객들은 이곳에서 즐거운 동네 여행과 다양한 액티비티를 경험하며 잊을 수 없는 순간을 보낼 수 있을 거예요.
+
+[서프사이드 비치 리조트 (Surfside Beach Resort)](https://www.agoda.com/ko-kr/surfside-beach-resort_3/hotel/myrtle-beach-sc-us.html)
+ 
+
+## 청정한 해변으로 떠나는 여유
+Courtyard by Marriott Myrtle Beach Oceanfront
+    ![Courtyard by Marriott Myrtle Beach Oceanfront_0_image](https://pix8.agoda.net/hotelImages/33129276/0/30f005159c4ad12072b5043d0e6ba8ba.jpg)
+![Courtyard by Marriott Myrtle Beach Oceanfront_1_image](https://pix8.agoda.net/hotelImages/30163672/1092492299/4403280d75b21f95c645511b28c17e0b.jpeg)
+![Courtyard by Marriott Myrtle Beach Oceanfront_2_image](https://pix8.agoda.net/hotelImages/30163672/0/6973df09be8f002336c8f8020fc63ac1.jpeg)
+
+아침 햇살이 내리쬐는 마틀 비치의 해변가에서, 하루를 시작해보는 건 어떠세요? 이 호텔은 넓은 창을 통해 파노라마처럼 펼쳐지는 바다 풍경을 자랑해요. 객실은 깔끔하고 현대적인 디자인으로 설계되어 있어, 머무는 동안 편안함을 느낄 수 있답니다. 특히 밤에는 별이 총총한 하늘을 보며 발코니에서 여유를 즐길 수 있어 완벽한 하루의 마무리를 선사해요.
+
+수영장에서 물놀이를 즐기거나, 호텔 내 레스토랑에서 신선한 해산물을 맛보는 걸 추천드릴게요. 라운지에서 느긋하게 휴식을 취하며 커피 한 잔의 여유를 갖는 것도 좋지 않을까요? 이곳의 친절한 직원들은 항상 미소로 맞이하며, 고객의 편의를 최우선으로 생각한답니다. 끝없는 고객 사랑으로 매력을 더하는 이 호텔에서 특별한 시간을 보내보세요.
+
+[Courtyard by Marriott Myrtle Beach Oceanfront](https://www.agoda.com/ko-kr/courtyard-by-marriott-myrtle-beach-oceanfront/hotel/myrtle-beach-sc-us.html)
+ 
+
+
+## 결론
+
+마틀 비치의 각양각색의 호텔들은 여러분의 휴가를 잊지 못할 여행으로 만들어 줄 준비가 되어 있습니다. 가족 단위 여행객에게는 **코랄 비치 리조트**가 적합하며, 이곳에서 휴양과 가족의 즐거움을 동시에 만끽할 수 있습니다. **힐튼 그랜드 베케이션 클럽 오션 엔클레이브**는 해변과 가까워 마틀 비치의 아름다움을 완전히 만끽하고 싶은 분들에게 완벽합니다. **씨 크레스트 오션프런트 리조트**는 해변 전망과 더불어 다양한 활동을 즐기며 편안한 서비스를 제공합니다. 해변 휴양지를 이상적으로 구현한 **서프사이드 비치 리조트**에서는 친절한 서비스와 다채로운 즐길 거리를 경험할 수 있습니다. 마틀 비치 해변가의 완벽한 일출을 감상하고자 한다면 **Courtyard by Marriott Myrtle Beach Oceanfront**가 최적의 선택입니다. 각 호텔들은 각자의 개성과 서비스를 자랑하니, 여러분의 선호와 목적에 맞는 완벽한 휴가를 위해 지금 바로 예약하세요!
+
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"마틀 비치, 체험과 힐링이 공존하는 5대 호텔"}],["$","data",null,{"children":"2025-07-04T01:01:28.030Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"북미"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"해변"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"리조트"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"가족"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"휴양"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"편안함"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"자연"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"모험"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"수영장"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"바다뷰"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"마틀비치"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"청결함"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"관광지근처"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"휴양지"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"여행"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"서비스"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"식사"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"전망"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"즐길 거리"}]}],["$","li","[object Object]_19",{"children":["$","span",null,{"children":"추억"}]}],["$","li","[object Object]_20",{"children":["$","span",null,{"children":"현대적"}]}],["$","li","[object Object]_21",{"children":["$","span",null,{"children":"경관"}]}],["$","li","[object Object]_22",{"children":["$","span",null,{"children":"친절"}]}],["$","li","[object Object]_23",{"children":["$","span",null,{"children":"여유"}]}],["$","li","[object Object]_24",{"children":["$","span",null,{"children":"휴식"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"9cb959e2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"마틀 비치에서 힐링과 모험을 동시에 즐기다!"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요. 달마 여행가자의 달마입니다! 마틀 비치는 단지 날씨가 따뜻해서가 아니라, 환상적인 해변과 흥미진진한 체험들이 있는 곳으로 유명하죠. 이번 여행에서 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"힐링"}],"과 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"모험"}]," 모두를 만족시킬 수 있는 호텔들을 소개하려고 해요. 여러분이 꿈꾸는 그림 같은 바다 풍경에서의 휴식에서부터, 짜릿한 모험을 즐길 수 있는 ",["$","strong",null,{"className":"font-black","children":"코랄 비치 리조트"}],", ",["$","strong",null,{"className":"font-black","children":"오션 엔클레이브 바이 힐튼 그랜드 베케이션스"}],", ",["$","strong",null,{"className":"font-black","children":"씨 크레스트 오션프런트 리조트"}],", ",["$","strong",null,{"className":"font-black","children":"서프사이드 비치 리조트"}],", ",["$","strong",null,{"className":"font-black","children":"코트야드 바이 메리어트 마틀 비치 오션프런트"}]," 등을 통해 경험할 수 있어요. 각 호텔마다 특별한 매력을 지니고 있어 선택의 폭도 다양하답니다. 여행 계획 중이신가요? 그럼 이 글을 끝까지 읽어보세요!"]}],"\n",["$","h2",null,{"id":"f1c3e7d8","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"해변에서의 완벽한 휴식을 꿈꾸세요"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Coral Beach Resort\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/31449777/0/4b05db002e007616cc5a43ea5d55c73b.jpeg","alt":"Coral Beach Resort_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/191269714.jpg?k=231ac598ff61ebf69bd41186754243820df3f1562aa02357b20ee82bcce521b9&s=50x50","alt":"Coral Beach Resort_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/52329159.jpg?k=a6d3db4db4b1493f6027b1a6243f3d51e185ae4d4de75a1b50cac0426f1dbbba&s=50x50","alt":"Coral Beach Resort_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"마음속 깊이 간직하고 싶은 완벽한 여행을 꿈꾸고 계신가요? 바로 여기, 코랄 비치 리조트가 그 해답이랍니다. 아름다운 해변을 마주한 이곳에서는 매일 아침 햇살이 눈부시게 비추고, 저녁 노을은 마음의 긴장을 풀어줍니다. 떠들썩한 도시의 번잡함에서 벗어나고 싶은 분들께 이곳은 천국 같은 장소입니다. 또한, 룸에서 듣는 파도의 잔잔한 소리는 자연이 주는 최고의 오케스트라랍니다. 여기서의 시간은 그 누구도 방해할 수 없는 귀중한 순간으로 가득 차 있어요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이곳은 가족과 함께 방문하기에 더없이 적합한 곳이죠. 아이들은 다양한 시설에서 즐거운 시간을 보내게 될 것이라니 부모님은 좀 더 느긋한 시간을 준비하시길! 매일 새로운 모험이 기다리고 있는 이곳에서의 여행은 그야말로 잊지 못할 경험으로 남을 것입니다. 그리고, 리조트 주변에는 다양한 음식점과 쇼핑몰이 준비되어 있어 언제든지 맛있는 음식과 쇼핑으로 기분 전환을 할 수 있습니다. 그런 작은 즐거움이 쌓여 최고의 여행을 만들게 될 것입니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/coral-beach-resort/hotel/myrtle-beach-sc-us.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/coral-beach-resort/hotel/myrtle-beach-sc-us.html"},"children":[{"type":"text","value":"Coral Beach Resort","position":{"start":{"line":20,"column":2,"offset":1420},"end":{"line":20,"column":20,"offset":1438}}}],"position":{"start":{"line":20,"column":1,"offset":1419},"end":{"line":20,"column":99,"offset":1517}}},"children":"Coral Beach Resort"},"post":{"id":"880df5f4-9653-4beb-897a-318c3894728b","title":"마틀 비치, 체험과 힐링이 공존하는 5대 호텔","fileName":"마틀-비치-호텔-힐링-체험-880df5f4","description":"미국 사우스캐롤라이나주 마틀 비치에서의 완벽한 휴가를 위한 호텔을 찾고 계신가요? 'Coral Beach Resort', 'Ocean Enclave by Hilton Grand Vacations', 'Sea Crest Oceanfront Resort', 'Surfside Beach Resort', 그리고 'Courtyard by Marriott Myrtle Beach Oceanfront'는 각각의 독특한 매력과 편안한 휴식을 제공합니다. 가족과의 즐거운 시간, 커플의 로맨틱한 밤, 또는 친구와의 여행까지, 어떤 경험이든 이곳에서 특별하게 만드실 수 있습니다.","date":"2025-07-04T01:01:28.030Z","tags":[{"name":"북미","path":"$$/kr/tags/북미","id":"북미"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"리조트","path":"$$/kr/tags/리조트","id":"리조트"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"휴양","path":"$$/kr/tags/휴양","id":"휴양"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"바다뷰","path":"$$/kr/tags/바다뷰","id":"바다뷰"},{"name":"마틀비치","path":"$$/kr/tags/마틀비치","id":"마틀비치"},{"name":"청결함","path":"$$/kr/tags/청결함","id":"청결함"},{"name":"관광지근처","path":"$$/kr/tags/관광지근처","id":"관광지근처"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"여행","path":"$$/kr/tags/여행","id":"여행"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"식사","path":"$$/kr/tags/식사","id":"식사"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"즐길 거리","path":"$$/kr/tags/즐길-거리","id":"즐길-거리"},{"name":"추억","path":"$$/kr/tags/추억","id":"추억"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"경관","path":"$$/kr/tags/경관","id":"경관"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"여유","path":"$$/kr/tags/여유","id":"여유"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"}],"banner":"/images/9442-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"마틀-비치-호텔-힐링-체험-880df5f4","content":"$d","category":"articles","readMin":"7.4"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"eeb14bad","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"바다의 품에서 느끼는 쉼"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/485682053.jpg?k=c200b559353811349e9d64036c1fadf2306e190086cb8078810d74b1aa9217b1&s=450x450","alt":"힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/7238086/-1/71cbf4bc474f80b4d71b2f5535647fd6.jpg","alt":"힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/485681886.jpg?k=fe24f67aa73674a18e737eac5315396bf6a97bd77339802ba35317202f20e00a&s=50x50","alt":"힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"마틀 비치의 매력을 한껏 즐길 수 있는 이곳은 해변 바로 앞에 위치해 있어요. 하늘과 맞닿은 듯한 멋진 수영장에서 몸을 담그는 것은 물론, 끝없이 펼쳐진 수평선을 보며 여유로운 시간을 보낼 수 있답니다. 햇살 좋은 날엔 해변을 따라 산책하며 작고 아기자기한 상점을 구경하는 것도 매우 즐겁죠."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"객실은 넓고 청결하며, 고객을 위한 편안한 침대가 준비되어 있어요. 아침에 눈을 뜨면 창밖으로 보이는 환상적인 바다 뷰는 덤이랍니다. 편리하게 하루를 시작할 수 있는 다양한 객실 내 시설도 준비되어 있어, 여행의 피로를 쉽게 풀 수 있을 거예요. 마틀 비치에서의 특별한 하루를 꿈꾸신다면 이곳이 제격일 것 같아요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/ocean-enclave-by-hilton-grand-vacations/hotel/myrtle-beach-sc-us.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/ocean-enclave-by-hilton-grand-vacations/hotel/myrtle-beach-sc-us.html"},"children":[{"type":"text","value":"힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)","position":{"start":{"line":33,"column":2,"offset":2635},"end":{"line":33,"column":88,"offset":2721}}}],"position":{"start":{"line":33,"column":1,"offset":2634},"end":{"line":33,"column":188,"offset":2821}}},"children":"힐튼 그랜드 베케이션 클럽 오션 엔클레이브 머틀 비치 (Hilton Grand Vacations Club Ocean Enclave Myrtle Beach)"},"post":{"id":"880df5f4-9653-4beb-897a-318c3894728b","title":"마틀 비치, 체험과 힐링이 공존하는 5대 호텔","fileName":"마틀-비치-호텔-힐링-체험-880df5f4","description":"미국 사우스캐롤라이나주 마틀 비치에서의 완벽한 휴가를 위한 호텔을 찾고 계신가요? 'Coral Beach Resort', 'Ocean Enclave by Hilton Grand Vacations', 'Sea Crest Oceanfront Resort', 'Surfside Beach Resort', 그리고 'Courtyard by Marriott Myrtle Beach Oceanfront'는 각각의 독특한 매력과 편안한 휴식을 제공합니다. 가족과의 즐거운 시간, 커플의 로맨틱한 밤, 또는 친구와의 여행까지, 어떤 경험이든 이곳에서 특별하게 만드실 수 있습니다.","date":"2025-07-04T01:01:28.030Z","tags":[{"name":"북미","path":"$$/kr/tags/북미","id":"북미"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"리조트","path":"$$/kr/tags/리조트","id":"리조트"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"휴양","path":"$$/kr/tags/휴양","id":"휴양"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"바다뷰","path":"$$/kr/tags/바다뷰","id":"바다뷰"},{"name":"마틀비치","path":"$$/kr/tags/마틀비치","id":"마틀비치"},{"name":"청결함","path":"$$/kr/tags/청결함","id":"청결함"},{"name":"관광지근처","path":"$$/kr/tags/관광지근처","id":"관광지근처"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"여행","path":"$$/kr/tags/여행","id":"여행"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"식사","path":"$$/kr/tags/식사","id":"식사"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"즐길 거리","path":"$$/kr/tags/즐길-거리","id":"즐길-거리"},{"name":"추억","path":"$$/kr/tags/추억","id":"추억"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"경관","path":"$$/kr/tags/경관","id":"경관"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"여유","path":"$$/kr/tags/여유","id":"여유"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"}],"banner":"/images/9442-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"마틀-비치-호텔-힐링-체험-880df5f4","content":"$e","category":"articles","readMin":"7.4"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"bba6e36d","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"해변에서 휴양을 만끽하세요"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/32179994/0/5c9329f7f8e312d958d2f53f29b0e251.jpg","alt":"씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/531364127.jpg?k=c4febc939bde39b2545a7d6fd1b36898d6ce5833e90e039f69af43cea2e98d3d&s=50x50","alt":"씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/18658158.jpg?k=5de5a7da3c75d7a68a934f83f4f8add2c121fb988f2250b19298cf3a47d7a0e0&s=50x50","alt":"씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"바다의 향기가 물씬 풍기는 이곳, 이 호텔은 방문객을 마법처럼 끌어당기는 곳이에요. 무엇보다 매력적인 것은 바로 탁 트인 해변 전망과 깔끔한 객실이 제공된다는 점이죠. 푸른 파도가 부서지는 소리를 들으며 커피 한 잔의 여유를 즐기는 건 진정한 휴가의 정수 아닐까요? 아늑한 침대와 세심하게 준비된 편의시설은 피로를 말끔히 씻어줄 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"호텔에 도착하면 가장 먼저 해야 할 일은 해변으로 달려가는 것이에요. 해양 스포츠를 즐겨보거나, 모래사장에서 추억을 만들어 보세요. 그리고 나서 호텔에서 제공하는 맛있는 식사를 즐기며 하루를 마무리하는 건 어떨까요? 다양한 맛의 즐거움과 친절한 서비스가 여행을 더 특별하게 만들어 줄 거예요. 잊을 수 없는 순간들이 여러분을 기다리고 있답니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/sea-crest-oceanfront-resort/hotel/myrtle-beach-sc-us.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/sea-crest-oceanfront-resort/hotel/myrtle-beach-sc-us.html"},"children":[{"type":"text","value":"씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)","position":{"start":{"line":46,"column":2,"offset":3819},"end":{"line":46,"column":48,"offset":3865}}}],"position":{"start":{"line":46,"column":1,"offset":3818},"end":{"line":46,"column":136,"offset":3953}}},"children":"씨 크레스트 오션프런트 리조트 (Sea Crest Oceanfront Resort)"},"post":{"id":"880df5f4-9653-4beb-897a-318c3894728b","title":"마틀 비치, 체험과 힐링이 공존하는 5대 호텔","fileName":"마틀-비치-호텔-힐링-체험-880df5f4","description":"미국 사우스캐롤라이나주 마틀 비치에서의 완벽한 휴가를 위한 호텔을 찾고 계신가요? 'Coral Beach Resort', 'Ocean Enclave by Hilton Grand Vacations', 'Sea Crest Oceanfront Resort', 'Surfside Beach Resort', 그리고 'Courtyard by Marriott Myrtle Beach Oceanfront'는 각각의 독특한 매력과 편안한 휴식을 제공합니다. 가족과의 즐거운 시간, 커플의 로맨틱한 밤, 또는 친구와의 여행까지, 어떤 경험이든 이곳에서 특별하게 만드실 수 있습니다.","date":"2025-07-04T01:01:28.030Z","tags":[{"name":"북미","path":"$$/kr/tags/북미","id":"북미"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"리조트","path":"$$/kr/tags/리조트","id":"리조트"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"휴양","path":"$$/kr/tags/휴양","id":"휴양"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"바다뷰","path":"$$/kr/tags/바다뷰","id":"바다뷰"},{"name":"마틀비치","path":"$$/kr/tags/마틀비치","id":"마틀비치"},{"name":"청결함","path":"$$/kr/tags/청결함","id":"청결함"},{"name":"관광지근처","path":"$$/kr/tags/관광지근처","id":"관광지근처"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"여행","path":"$$/kr/tags/여행","id":"여행"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"식사","path":"$$/kr/tags/식사","id":"식사"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"즐길 거리","path":"$$/kr/tags/즐길-거리","id":"즐길-거리"},{"name":"추억","path":"$$/kr/tags/추억","id":"추억"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"경관","path":"$$/kr/tags/경관","id":"경관"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"여유","path":"$$/kr/tags/여유","id":"여유"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"}],"banner":"/images/9442-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"마틀-비치-호텔-힐링-체험-880df5f4","content":"$f","category":"articles","readMin":"7.4"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"07f248d5","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"비치에서 즐기는 완벽한 힐링"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["서프사이드 비치 리조트 (Surfside Beach Resort)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/2461681/0/d57c289c5590ce43a56250a121fc37f2.jpeg","alt":"서프사이드 비치 리조트 (Surfside Beach Resort)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/462240916.jpg?k=df07811ba2d6b686759c561e65c44230bae2931e7b670f24d9567f89872e2466&s=50x50","alt":"서프사이드 비치 리조트 (Surfside Beach Resort)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/2461681/-1/b3e491db9ab4ac9082c6c7220033fbec.jpg","alt":"서프사이드 비치 리조트 (Surfside Beach Resort)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"마음속 깊이 상쾌한 바람이 가득 차오르는 서프사이드 비치 리조트는 즐거운 휴식의 시간을 제공합니다. 이곳은 단순히 밤을 묵는 곳이 아니라, 새벽부터 밤까지 매 순간 특별한 추억을 쌓을 수 있는 장소예요. 매일 아침 화사한 해변 산책으로 시작해, 여유로운 풀사이드에서의 태닝, 그리고 매력적으로 늘어선 해변의 레스토랑에서의 식사를 즐길 수 있습니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"서프사이드 비치 리조트는 손님들을 환영하는 따뜻한 분위기와 친절한 직원들이 제공하는 서비스로 유명합니다. 룸은 깔끔하고 안락함이 느껴져, 집에 돌아온 듯한 편안함을 주죠. 더불어, 주변 경관은 환상적이며 가족 단위로 머무르기에 적합한 시설들이 잘 갖춰져 있답니다. 방문객들은 이곳에서 즐거운 동네 여행과 다양한 액티비티를 경험하며 잊을 수 없는 순간을 보낼 수 있을 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/surfside-beach-resort_3/hotel/myrtle-beach-sc-us.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/surfside-beach-resort_3/hotel/myrtle-beach-sc-us.html"},"children":[{"type":"text","value":"서프사이드 비치 리조트 (Surfside Beach Resort)","position":{"start":{"line":59,"column":2,"offset":4880},"end":{"line":59,"column":38,"offset":4916}}}],"position":{"start":{"line":59,"column":1,"offset":4879},"end":{"line":59,"column":122,"offset":5000}}},"children":"서프사이드 비치 리조트 (Surfside Beach Resort)"},"post":{"id":"880df5f4-9653-4beb-897a-318c3894728b","title":"마틀 비치, 체험과 힐링이 공존하는 5대 호텔","fileName":"마틀-비치-호텔-힐링-체험-880df5f4","description":"미국 사우스캐롤라이나주 마틀 비치에서의 완벽한 휴가를 위한 호텔을 찾고 계신가요? 'Coral Beach Resort', 'Ocean Enclave by Hilton Grand Vacations', 'Sea Crest Oceanfront Resort', 'Surfside Beach Resort', 그리고 'Courtyard by Marriott Myrtle Beach Oceanfront'는 각각의 독특한 매력과 편안한 휴식을 제공합니다. 가족과의 즐거운 시간, 커플의 로맨틱한 밤, 또는 친구와의 여행까지, 어떤 경험이든 이곳에서 특별하게 만드실 수 있습니다.","date":"2025-07-04T01:01:28.030Z","tags":[{"name":"북미","path":"$$/kr/tags/북미","id":"북미"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"리조트","path":"$$/kr/tags/리조트","id":"리조트"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"휴양","path":"$$/kr/tags/휴양","id":"휴양"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"바다뷰","path":"$$/kr/tags/바다뷰","id":"바다뷰"},{"name":"마틀비치","path":"$$/kr/tags/마틀비치","id":"마틀비치"},{"name":"청결함","path":"$$/kr/tags/청결함","id":"청결함"},{"name":"관광지근처","path":"$$/kr/tags/관광지근처","id":"관광지근처"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"여행","path":"$$/kr/tags/여행","id":"여행"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"식사","path":"$$/kr/tags/식사","id":"식사"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"즐길 거리","path":"$$/kr/tags/즐길-거리","id":"즐길-거리"},{"name":"추억","path":"$$/kr/tags/추억","id":"추억"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"경관","path":"$$/kr/tags/경관","id":"경관"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"여유","path":"$$/kr/tags/여유","id":"여유"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"}],"banner":"/images/9442-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"마틀-비치-호텔-힐링-체험-880df5f4","content":"$10","category":"articles","readMin":"7.4"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"43a1781e","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"청정한 해변으로 떠나는 여유"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Courtyard by Marriott Myrtle Beach Oceanfront\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/33129276/0/30f005159c4ad12072b5043d0e6ba8ba.jpg","alt":"Courtyard by Marriott Myrtle Beach Oceanfront_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/30163672/1092492299/4403280d75b21f95c645511b28c17e0b.jpeg","alt":"Courtyard by Marriott Myrtle Beach Oceanfront_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/30163672/0/6973df09be8f002336c8f8020fc63ac1.jpeg","alt":"Courtyard by Marriott Myrtle Beach Oceanfront_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"아침 햇살이 내리쬐는 마틀 비치의 해변가에서, 하루를 시작해보는 건 어떠세요? 이 호텔은 넓은 창을 통해 파노라마처럼 펼쳐지는 바다 풍경을 자랑해요. 객실은 깔끔하고 현대적인 디자인으로 설계되어 있어, 머무는 동안 편안함을 느낄 수 있답니다. 특히 밤에는 별이 총총한 하늘을 보며 발코니에서 여유를 즐길 수 있어 완벽한 하루의 마무리를 선사해요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"수영장에서 물놀이를 즐기거나, 호텔 내 레스토랑에서 신선한 해산물을 맛보는 걸 추천드릴게요. 라운지에서 느긋하게 휴식을 취하며 커피 한 잔의 여유를 갖는 것도 좋지 않을까요? 이곳의 친절한 직원들은 항상 미소로 맞이하며, 고객의 편의를 최우선으로 생각한답니다. 끝없는 고객 사랑으로 매력을 더하는 이 호텔에서 특별한 시간을 보내보세요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/courtyard-by-marriott-myrtle-beach-oceanfront/hotel/myrtle-beach-sc-us.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/courtyard-by-marriott-myrtle-beach-oceanfront/hotel/myrtle-beach-sc-us.html"},"children":[{"type":"text","value":"Courtyard by Marriott Myrtle Beach Oceanfront","position":{"start":{"line":72,"column":2,"offset":5893},"end":{"line":72,"column":47,"offset":5938}}}],"position":{"start":{"line":72,"column":1,"offset":5892},"end":{"line":72,"column":153,"offset":6044}}},"children":"Courtyard by Marriott Myrtle Beach Oceanfront"},"post":{"id":"880df5f4-9653-4beb-897a-318c3894728b","title":"마틀 비치, 체험과 힐링이 공존하는 5대 호텔","fileName":"마틀-비치-호텔-힐링-체험-880df5f4","description":"미국 사우스캐롤라이나주 마틀 비치에서의 완벽한 휴가를 위한 호텔을 찾고 계신가요? 'Coral Beach Resort', 'Ocean Enclave by Hilton Grand Vacations', 'Sea Crest Oceanfront Resort', 'Surfside Beach Resort', 그리고 'Courtyard by Marriott Myrtle Beach Oceanfront'는 각각의 독특한 매력과 편안한 휴식을 제공합니다. 가족과의 즐거운 시간, 커플의 로맨틱한 밤, 또는 친구와의 여행까지, 어떤 경험이든 이곳에서 특별하게 만드실 수 있습니다.","date":"2025-07-04T01:01:28.030Z","tags":[{"name":"북미","path":"$$/kr/tags/북미","id":"북미"},{"name":"해변","path":"$$/kr/tags/해변","id":"해변"},{"name":"리조트","path":"$$/kr/tags/리조트","id":"리조트"},{"name":"가족","path":"$$/kr/tags/가족","id":"가족"},{"name":"휴양","path":"$$/kr/tags/휴양","id":"휴양"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"자연","path":"$$/kr/tags/자연","id":"자연"},{"name":"모험","path":"$$/kr/tags/모험","id":"모험"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"바다뷰","path":"$$/kr/tags/바다뷰","id":"바다뷰"},{"name":"마틀비치","path":"$$/kr/tags/마틀비치","id":"마틀비치"},{"name":"청결함","path":"$$/kr/tags/청결함","id":"청결함"},{"name":"관광지근처","path":"$$/kr/tags/관광지근처","id":"관광지근처"},{"name":"휴양지","path":"$$/kr/tags/휴양지","id":"휴양지"},{"name":"여행","path":"$$/kr/tags/여행","id":"여행"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"식사","path":"$$/kr/tags/식사","id":"식사"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"즐길 거리","path":"$$/kr/tags/즐길-거리","id":"즐길-거리"},{"name":"추억","path":"$$/kr/tags/추억","id":"추억"},{"name":"현대적","path":"$$/kr/tags/현대적","id":"현대적"},{"name":"경관","path":"$$/kr/tags/경관","id":"경관"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"여유","path":"$$/kr/tags/여유","id":"여유"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"}],"banner":"/images/9442-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"마틀-비치-호텔-힐링-체험-880df5f4","content":"$11","category":"articles","readMin":"7.4"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["마틀 비치의 각양각색의 호텔들은 여러분의 휴가를 잊지 못할 여행으로 만들어 줄 준비가 되어 있습니다. 가족 단위 여행객에게는 ",["$","strong",null,{"className":"font-black","children":"코랄 비치 리조트"}],"가 적합하며, 이곳에서 휴양과 가족의 즐거움을 동시에 만끽할 수 있습니다. ",["$","strong",null,{"className":"font-black","children":"힐튼 그랜드 베케이션 클럽 오션 엔클레이브"}],"는 해변과 가까워 마틀 비치의 아름다움을 완전히 만끽하고 싶은 분들에게 완벽합니다. ",["$","strong",null,{"className":"font-black","children":"씨 크레스트 오션프런트 리조트"}],"는 해변 전망과 더불어 다양한 활동을 즐기며 편안한 서비스를 제공합니다. 해변 휴양지를 이상적으로 구현한 ",["$","strong",null,{"className":"font-black","children":"서프사이드 비치 리조트"}],"에서는 친절한 서비스와 다채로운 즐길 거리를 경험할 수 있습니다. 마틀 비치 해변가의 완벽한 일출을 감상하고자 한다면 ",["$","strong",null,{"className":"font-black","children":"Courtyard by Marriott Myrtle Beach Oceanfront"}],"가 최적의 선택입니다. 각 호텔들은 각자의 개성과 서비스를 자랑하니, 여러분의 선호와 목적에 맞는 완벽한 휴가를 위해 지금 바로 예약하세요!"]}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"마틀 비치, 체험과 힐링이 공존하는 5대 호텔","toc":[{"tagName":"h2","title":"마틀 비치에서 힐링과 모험을 동시에 즐기다!","id":"9cb959e2"},{"tagName":"h2","title":"해변에서의 완벽한 휴식을 꿈꾸세요","id":"f1c3e7d8"},{"tagName":"h2","title":"바다의 품에서 느끼는 쉼","id":"eeb14bad"},{"tagName":"h2","title":"해변에서 휴양을 만끽하세요","id":"bba6e36d"},{"tagName":"h2","title":"비치에서 즐기는 완벽한 힐링","id":"07f248d5"},{"tagName":"h2","title":"청정한 해변으로 떠나는 여유","id":"43a1781e"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

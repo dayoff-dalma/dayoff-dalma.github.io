@@ -1,0 +1,409 @@
+1:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/faaaebde45bfcdd4.css",{"as":"style"}]
+0:["FL5qPEDR-MTJ47-06Xiua",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%ED%82%B9%EC%8A%A4%ED%84%B4-%EC%9D%B8%EC%83%9D%EC%83%B7-%EB%B3%B4%EC%9E%A5-%ED%98%B8%ED%85%94-5%EC%84%A0-b27613a1","d"],{"children":["__PAGE__?{\"slug\":\"킹스턴-인생샷-보장-호텔-5선-b27613a1\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/faaaebde45bfcdd4.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-21fed9d4f5b142b6.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_e8ce0c","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%ED%82%B9%EC%8A%A4%ED%84%B4-%EC%9D%B8%EC%83%9D%EC%83%B7-%EB%B3%B4%EC%9E%A5-%ED%98%B8%ED%85%94-5%EC%84%A0-b27613a1","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"킹스턴-인생샷-보장-호텔-5선-b27613a1\"}"},"styles":[]}],"segment":["slug","%ED%82%B9%EC%8A%A4%ED%84%B4-%EC%9D%B8%EC%83%9D%EC%83%B7-%EB%B3%B4%EC%9E%A5-%ED%98%B8%ED%85%94-5%EC%84%A0-b27613a1","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"킹스턴의 인생샷 보장, 인스타 핫플 호텔 5선 | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"킹스턴에서의 특별한 여행을 꿈꾸세요? 'Spanish Court Hotel', 'The Liguanea Club', 'Courtleigh Hotel & Suites', 'The Jamaica Pegasus Hotel', 'Royal at Courtleigh Towers'는 인생샷을 남기기에 완벽한 장소입니다. 각각의 호텔이 제공하는 독특한 분위기와 최고급 시설이 여러분의 여행을 더욱 특별하게 만들어줄 것입니다. 이 호텔들에서 즐기는 멋진 경치와 잊지 못할 순간들이 여러분의 소셜 미디어를 빛내줄 것입니다!"}],["$","meta","3",{"name":"keywords","content":"중미 및 카리브해,럭셔리,도심,수영장,미식,편안함,친절,세련됨,자메이카,편안한 휴식,도심 속 오아시스,테라스,체육관,킹스턴,고급,음식,전망,고급스러움,편의시설,멋진 뷰,친절한 서비스,현지 음식,피트니스,요리,문화,쇼핑,아늑함,뷰,서비스,조식"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%ED%82%B9%EC%8A%A4%ED%84%B4-%EC%9D%B8%EC%83%9D%EC%83%B7-%EB%B3%B4%EC%9E%A5-%ED%98%B8%ED%85%94-5%EC%84%A0-b27613a1"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"킹스턴의 인생샷 보장, 인스타 핫플 호텔 5선 | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"킹스턴의 인생샷 보장, 인스타 핫플 호텔 5선 | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"킹스턴에서의 특별한 여행을 꿈꾸세요? 'Spanish Court Hotel', 'The Liguanea Club', 'Courtleigh Hotel & Suites', 'The Jamaica Pegasus Hotel', 'Royal at Courtleigh Towers'는 인생샷을 남기기에 완벽한 장소입니다. 각각의 호텔이 제공하는 독특한 분위기와 최고급 시설이 여러분의 여행을 더욱 특별하게 만들어줄 것입니다. 이 호텔들에서 즐기는 멋진 경치와 잊지 못할 순간들이 여러분의 소셜 미디어를 빛내줄 것입니다!"}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%ED%82%B9%EC%8A%A4%ED%84%B4-%EC%9D%B8%EC%83%9D%EC%83%B7-%EB%B3%B4%EC%9E%A5-%ED%98%B8%ED%85%94-5%EC%84%A0-b27613a1"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/19917-1x1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"킹스턴의 인생샷 보장, 인스타 핫플 호텔 5선 | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"킹스턴에서의 특별한 여행을 꿈꾸세요? 'Spanish Court Hotel', 'The Liguanea Club', 'Courtleigh Hotel & Suites', 'The Jamaica Pegasus Hotel', 'Royal at Courtleigh Towers'는 인생샷을 남기기에 완벽한 장소입니다. 각각의 호텔이 제공하는 독특한 분위기와 최고급 시설이 여러분의 여행을 더욱 특별하게 만들어줄 것입니다. 이 호텔들에서 즐기는 멋진 경치와 잊지 못할 순간들이 여러분의 소셜 미디어를 빛내줄 것입니다!"}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/19917-1x1.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+12:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+d:T275e,
+    
+
+
+## 킹스턴에서 인생샷을 남길 수 있는 인기 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다! 오늘은 여러분을 **자메이카 킹스턴의 인생샷 보장 호텔**로 안내할게요. 여행에서 빼놓을 수 없는 건 멋진 사진이잖아요? 특히 인스타그램에 올릴 수 있는 **핫한 스팟**을 찾기 위한 정보라면 눈이 번쩍 뜨일 거예요! 킹스턴에는 숨겨진 매력이 가득한 호텔들이 많은데요, 그중에서도 **이곳에 머문다면 절대 잊지 못할 인생샷**을 남길 수 있는 장소들을 소개해 드릴게요. 낙원 같은 뷰와 고유한 문화를 경험할 수 있는 호텔 5곳과 함께, 잊지 못할 킹스턴의 추억을 만들 준비되셨나요? 지금부터 신나는 탐험이 시작됩니다!
+
+
+## 도시 속 럭셔리 오아시스
+S Hotel Kingston
+    ![S Hotel Kingston_0_image](https://pix8.agoda.net/hotelImages/2673398/0/d21cc66f663da29ddeca7684c7b67853.jpeg)
+![S Hotel Kingston_1_image](https://pix8.agoda.net/hotelImages/38049605/1145337221/8d224a50a33ac35f859ff1d57d86172b.jpeg)
+![S Hotel Kingston_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/325236355.jpg?k=29f6e682365f993f1fc29917ab2d6d1854f47cdd4cf82ff8437849b0f72a410b&s=50x50)
+
+도심 속에서도 완벽한 휴식을 찾고 계신가요? 스페니쉬 코트 호텔은 현대적 디자인과 세련된 인테리어로 여행객에게 새로운 즐거움을 선사해요. 호텔의 수영장은 바쁜 하루를 마치고 편안하게 휴식을 취할 수 있는 이상적인 장소죠. 아침이면 다양한 미식 경험을 제공하는 아침 식사가 고객의 마음을 사로잡아요.
+
+호텔의 위치는 킹스턴의 중심지에 있어 여행의 시작과 끝을 쉽게 계획할 수 있어요. 인근의 다양한 명소와 식당까지 걸어가며 현지의 매력을 느껴보세요. 또한 직원들은 매우 친절해서 방문객들이 머무는 동안 편안함을 느낄 수 있답니다. 이곳에서의 경험은 여러분의 여행을 더욱 특별하게 만들어줄 거예요.
+
+[S Hotel Kingston](https://www.agoda.com/ko-kr/spanish-court-hotel_2/hotel/kingston-jm.html)
+ 
+
+## 열대 속의 아늑함을 즐겨보세요
+더 리구아니아 클럽 (The Liguanea Club)
+    ![더 리구아니아 클럽 (The Liguanea Club)_0_image](https://pix8.agoda.net/hotelImages/10913816/0/61a6dbb03a1285cb31b8557a1ddd46a7.jpeg)
+![더 리구아니아 클럽 (The Liguanea Club)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/39198646.jpg?k=bc05bd02fb34fa14d44fbb6b644868acbea160b88e47e9215b19d052af31b360&s=50x50)
+![더 리구아니아 클럽 (The Liguanea Club)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/271248114.jpg?k=2219862523e96920e9a7dc17c4c7a421cf3b09b5044fe3b73ca40eb047cee325&s=50x50)
+
+자메이카 킹스턴의 중심부에 자리 잡은 특별한 공간이 있어요. 이곳은 넓은 정원과 고풍스러운 건물로 한적한 아침 산책을 즐기기에 완벽한 장소랍니다. 야외 수영장에서 수영을 즐기거나 테라스에서 휴식을 취하며, 도시의 분주함에서 벗어난 여유를 한껏 즐길 수 있어요. 무엇보다 이곳의 체육관은 운동을 사랑하는 여행자들에게 꼭 맞는 시설을 제공하고 있어요.
+
+밤이 되면, 지역 식문화를 경험할 수 있는 레스토랑이 기다리고 있어요. 신선한 재료로 만들어진 다양한 요리는 기분 좋은 맛의 향연을 펼쳐요. 호텔의 친절한 직원들은 언제나 여러분의 편안한 여행을 돕기 위해 최선을 다하고 있답니다. 이곳에 오시면, 특유의 따스한 환대를 직접 느끼실 수 있을 거예요. 나만의 특별한 여행 이야기를 만들어 보세요.
+
+[더 리구아니아 클럽 (The Liguanea Club)](https://www.agoda.com/ko-kr/the-liguanea-club/hotel/kingston-jm.html)
+ 
+
+## 럭셔리와 편안함의 하모니
+Courtleigh Hotel and Suites
+    ![Courtleigh Hotel and Suites_0_image](https://pix8.agoda.net/hotelImages/763/76338/76338_16051218520042282267.jpg)
+![Courtleigh Hotel and Suites_1_image](https://pix8.agoda.net/hotelImages/27805020/1378669/b6468fb04af97743ef9b541bd66e731e.jpeg)
+![Courtleigh Hotel and Suites_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/527073681.jpg?k=50e08e0a13ba464bfb37a14f3147a40b1902c75d6b9b0db42a6320f455ba5c92&s=50x50)
+
+킹스턴에 위치한 이 멋진 호텔은 고풍스러우면서도 세련된 공간 속에서 진정한 안락함을 선사해요. 웅장한 로비를 지나 침실로 들어서면 넉넉한 공간과 고급스러운 가구가 배치되어 있어 투숙객들에게 편안함을 제공하지요. 특히, 창문 밖으로 보이는 멋진 전경이 하루의 피로를 한순간에 잊어버리게 해준답니다. 모든 것이 적절한 조화를 이루고 있어 모든 손님이 편안히 쉴 수 있을 거예요. 어디선가 아름다운 음악이 들려올 것 같은 분위기도 느껴지곤 하지요.
+
+음식 역시 비할 데 없이 훌륭해요. 특히, 현지의 신선한 재료를 활용한 요리들은 더욱 인상적이에요. 오직 이곳에서만 즐길 수 있는 맛을 경험할 때, 킹스턴 방문이 특별하게 느껴질 거예요. 친절한 직원들은 언제나 손님의 필요에 귀 기울이고 있어 머무는 동안 어떤 도움도 기꺼이 제공할 준비가 되어 있답니다. 이 호텔에서의 경험은 마치 예술작품처럼 마음 속에 각인될 거예요.
+
+[Courtleigh Hotel and Suites](https://www.agoda.com/ko-kr/courtleigh-hotel-suites/hotel/kingston-jm.html)
+ 
+
+## 친근한 휴식과 여유의 공간
+더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)
+    ![더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_0_image](https://pix8.agoda.net/hotelImages/2673418/0/74ab4458d9d2dd0cd57e11dec02eb5bb.jpeg)
+![더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/673574828.jpg?k=bd3da86cb9baaa93ff9ddd04fbfba5c669576bf1577207dea8948ef2c0b46bfe&s=50x50)
+![더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/243567916.jpg?k=d9f8ef012c9c06a8a6cd794579f72e685cadf66163f8111f26d9e55c712cbce5&s=50x50)
+
+재미있는 순간들이 많이 기다리고 있는 이곳은 다양한 편의시설로 가득 차 있어요. 객실에서는 따뜻한 색감과 고급스러운 인테리어가 조화를 이루며, 편안하게 휴식을 취할 수 있는 최상의 공간을 제공해요. 그리고 무엇보다도 아침에 눈을 뜨면 창 밖으로 보이는 멋진 뷰는 하루의 시작을 더욱 특별하게 만들어준답니다. 이 호텔은 훌륭한 서비스와 마치 가족 같은 마음으로 다가오는 친절함으로 여러분을 기다리고 있어요.
+
+즐거운 무료 조식을 맛볼 수 있는 이곳에서는 다양한 국제 요리를 즐길 수 있으며, 매일 아침 갓 구운 빵과 달콤한 음료가 준비되어 있어요. 호텔 내 레스토랑에서 경험할 수 있는 현지 음식은 그야말로 잊지 못할 기억이 될 거예요. 피트니스 센터에서의 운동 및 수영장에서의 여유로운 시간을 통해 활기를 되찾을 수 있는 기회를 제공하며, 모든 순간이 특별하게 기록될 수 있도록 배려해주는 것이 이곳의 매력이랍니다.
+
+[더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)](https://www.agoda.com/ko-kr/the-jamaica-pegasus-hotel_2/hotel/kingston-jm.html)
+ 
+
+## 킹스턴의 특별한 휴식 공간
+royal at courtleigh towers
+    ![royal at courtleigh towers_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/692836907.jpg?k=de5b52f9bb89d5fc7d1e8ca2b7083ae25fd0601ce1cfe900decf6e1a0f276caa&s=450x450)
+![royal at courtleigh towers_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/597154373.jpg?k=0ee6551b131c515ef55e67ff1fb595053b48832d14c80966b999723d5be8441f&s=50x50)
+![royal at courtleigh towers_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/572867266.jpg?k=c7773e550c2baf010816cfd486f516aeed8ae5d226ac704c9c334e5bd1db474e&s=50x50)
+
+도심 속에서 피로를 푸는 마법 같은 장소라면 이곳을 먼저 추천할게요. 주위에 다양한 레스토랑과 카페가 있어요. 신선한 재료로 요리된 맛있는 음식들을 맛볼 수 있어요. 또한 가까운 거리에는 문화적 명소와 쇼핑몰이 위치해 있어 언제든지 도시의 활기를 만끽할 수 있답니다.
+
+실내로 들어서면 깔끔하고 일련의 세심한 배려를 느낄 수 있죠. 탁 트인 객실과 아늑한 침대는 하루의 피로를 풀어주기에 충분해요. 뷰도 멋지답니다. 서비스도 훌륭해요. 직원들이 언제나 친절하고 필요한 것이 있을 때는 최대한 빠르게 도와주려고 노력하거든요. 아, 그리고 조식도 잊지 마세요! 아침에 상큼한 시작을 하는데 정말 도움이 돼요.
+
+[royal at courtleigh towers](https://www.agoda.com/ko-kr/royal-at-courtleigh-towers/hotel/all/kingston-jm.html)
+ 
+
+
+## 결론
+
+자메이카의 킹스턴은 매력적인 호텔들이 즐비한 곳입니다. 특히 *S Hotel Kingston*은 세련된 인테리어와 훌륭한 위치 덕에 잊을 수 없는 경험을 선사합니다. *더 리구아니아 클럽*은 아름다운 정원과 다양한 시설로 도심 속에서도 완벽한 휴식을 제공합니다. *Courtleigh Hotel and Suites*는 고급스러운 편안함과 훌륭한 음식으로 특별한 경험을 약속하며, *더 자메이카 페가수스 호텔*에서는 고급스러운 인테리어와 멋진 뷰, 그리고 다양한 편의 시설과 현지 요리를 즐길 수 있습니다. 또한 *Royal at Courtleigh Towers*는 전통과 현대가 어우러진 특별한 휴식처로 완벽한 여정을 보장합니다. 킹스턴에서의 특별한 여행을 계획 중이라면, 이 호텔들에서의 체류를 **지금 예약**해보세요.
+
+e:T275e,
+    
+
+
+## 킹스턴에서 인생샷을 남길 수 있는 인기 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다! 오늘은 여러분을 **자메이카 킹스턴의 인생샷 보장 호텔**로 안내할게요. 여행에서 빼놓을 수 없는 건 멋진 사진이잖아요? 특히 인스타그램에 올릴 수 있는 **핫한 스팟**을 찾기 위한 정보라면 눈이 번쩍 뜨일 거예요! 킹스턴에는 숨겨진 매력이 가득한 호텔들이 많은데요, 그중에서도 **이곳에 머문다면 절대 잊지 못할 인생샷**을 남길 수 있는 장소들을 소개해 드릴게요. 낙원 같은 뷰와 고유한 문화를 경험할 수 있는 호텔 5곳과 함께, 잊지 못할 킹스턴의 추억을 만들 준비되셨나요? 지금부터 신나는 탐험이 시작됩니다!
+
+
+## 도시 속 럭셔리 오아시스
+S Hotel Kingston
+    ![S Hotel Kingston_0_image](https://pix8.agoda.net/hotelImages/2673398/0/d21cc66f663da29ddeca7684c7b67853.jpeg)
+![S Hotel Kingston_1_image](https://pix8.agoda.net/hotelImages/38049605/1145337221/8d224a50a33ac35f859ff1d57d86172b.jpeg)
+![S Hotel Kingston_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/325236355.jpg?k=29f6e682365f993f1fc29917ab2d6d1854f47cdd4cf82ff8437849b0f72a410b&s=50x50)
+
+도심 속에서도 완벽한 휴식을 찾고 계신가요? 스페니쉬 코트 호텔은 현대적 디자인과 세련된 인테리어로 여행객에게 새로운 즐거움을 선사해요. 호텔의 수영장은 바쁜 하루를 마치고 편안하게 휴식을 취할 수 있는 이상적인 장소죠. 아침이면 다양한 미식 경험을 제공하는 아침 식사가 고객의 마음을 사로잡아요.
+
+호텔의 위치는 킹스턴의 중심지에 있어 여행의 시작과 끝을 쉽게 계획할 수 있어요. 인근의 다양한 명소와 식당까지 걸어가며 현지의 매력을 느껴보세요. 또한 직원들은 매우 친절해서 방문객들이 머무는 동안 편안함을 느낄 수 있답니다. 이곳에서의 경험은 여러분의 여행을 더욱 특별하게 만들어줄 거예요.
+
+[S Hotel Kingston](https://www.agoda.com/ko-kr/spanish-court-hotel_2/hotel/kingston-jm.html)
+ 
+
+## 열대 속의 아늑함을 즐겨보세요
+더 리구아니아 클럽 (The Liguanea Club)
+    ![더 리구아니아 클럽 (The Liguanea Club)_0_image](https://pix8.agoda.net/hotelImages/10913816/0/61a6dbb03a1285cb31b8557a1ddd46a7.jpeg)
+![더 리구아니아 클럽 (The Liguanea Club)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/39198646.jpg?k=bc05bd02fb34fa14d44fbb6b644868acbea160b88e47e9215b19d052af31b360&s=50x50)
+![더 리구아니아 클럽 (The Liguanea Club)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/271248114.jpg?k=2219862523e96920e9a7dc17c4c7a421cf3b09b5044fe3b73ca40eb047cee325&s=50x50)
+
+자메이카 킹스턴의 중심부에 자리 잡은 특별한 공간이 있어요. 이곳은 넓은 정원과 고풍스러운 건물로 한적한 아침 산책을 즐기기에 완벽한 장소랍니다. 야외 수영장에서 수영을 즐기거나 테라스에서 휴식을 취하며, 도시의 분주함에서 벗어난 여유를 한껏 즐길 수 있어요. 무엇보다 이곳의 체육관은 운동을 사랑하는 여행자들에게 꼭 맞는 시설을 제공하고 있어요.
+
+밤이 되면, 지역 식문화를 경험할 수 있는 레스토랑이 기다리고 있어요. 신선한 재료로 만들어진 다양한 요리는 기분 좋은 맛의 향연을 펼쳐요. 호텔의 친절한 직원들은 언제나 여러분의 편안한 여행을 돕기 위해 최선을 다하고 있답니다. 이곳에 오시면, 특유의 따스한 환대를 직접 느끼실 수 있을 거예요. 나만의 특별한 여행 이야기를 만들어 보세요.
+
+[더 리구아니아 클럽 (The Liguanea Club)](https://www.agoda.com/ko-kr/the-liguanea-club/hotel/kingston-jm.html)
+ 
+
+## 럭셔리와 편안함의 하모니
+Courtleigh Hotel and Suites
+    ![Courtleigh Hotel and Suites_0_image](https://pix8.agoda.net/hotelImages/763/76338/76338_16051218520042282267.jpg)
+![Courtleigh Hotel and Suites_1_image](https://pix8.agoda.net/hotelImages/27805020/1378669/b6468fb04af97743ef9b541bd66e731e.jpeg)
+![Courtleigh Hotel and Suites_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/527073681.jpg?k=50e08e0a13ba464bfb37a14f3147a40b1902c75d6b9b0db42a6320f455ba5c92&s=50x50)
+
+킹스턴에 위치한 이 멋진 호텔은 고풍스러우면서도 세련된 공간 속에서 진정한 안락함을 선사해요. 웅장한 로비를 지나 침실로 들어서면 넉넉한 공간과 고급스러운 가구가 배치되어 있어 투숙객들에게 편안함을 제공하지요. 특히, 창문 밖으로 보이는 멋진 전경이 하루의 피로를 한순간에 잊어버리게 해준답니다. 모든 것이 적절한 조화를 이루고 있어 모든 손님이 편안히 쉴 수 있을 거예요. 어디선가 아름다운 음악이 들려올 것 같은 분위기도 느껴지곤 하지요.
+
+음식 역시 비할 데 없이 훌륭해요. 특히, 현지의 신선한 재료를 활용한 요리들은 더욱 인상적이에요. 오직 이곳에서만 즐길 수 있는 맛을 경험할 때, 킹스턴 방문이 특별하게 느껴질 거예요. 친절한 직원들은 언제나 손님의 필요에 귀 기울이고 있어 머무는 동안 어떤 도움도 기꺼이 제공할 준비가 되어 있답니다. 이 호텔에서의 경험은 마치 예술작품처럼 마음 속에 각인될 거예요.
+
+[Courtleigh Hotel and Suites](https://www.agoda.com/ko-kr/courtleigh-hotel-suites/hotel/kingston-jm.html)
+ 
+
+## 친근한 휴식과 여유의 공간
+더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)
+    ![더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_0_image](https://pix8.agoda.net/hotelImages/2673418/0/74ab4458d9d2dd0cd57e11dec02eb5bb.jpeg)
+![더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/673574828.jpg?k=bd3da86cb9baaa93ff9ddd04fbfba5c669576bf1577207dea8948ef2c0b46bfe&s=50x50)
+![더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/243567916.jpg?k=d9f8ef012c9c06a8a6cd794579f72e685cadf66163f8111f26d9e55c712cbce5&s=50x50)
+
+재미있는 순간들이 많이 기다리고 있는 이곳은 다양한 편의시설로 가득 차 있어요. 객실에서는 따뜻한 색감과 고급스러운 인테리어가 조화를 이루며, 편안하게 휴식을 취할 수 있는 최상의 공간을 제공해요. 그리고 무엇보다도 아침에 눈을 뜨면 창 밖으로 보이는 멋진 뷰는 하루의 시작을 더욱 특별하게 만들어준답니다. 이 호텔은 훌륭한 서비스와 마치 가족 같은 마음으로 다가오는 친절함으로 여러분을 기다리고 있어요.
+
+즐거운 무료 조식을 맛볼 수 있는 이곳에서는 다양한 국제 요리를 즐길 수 있으며, 매일 아침 갓 구운 빵과 달콤한 음료가 준비되어 있어요. 호텔 내 레스토랑에서 경험할 수 있는 현지 음식은 그야말로 잊지 못할 기억이 될 거예요. 피트니스 센터에서의 운동 및 수영장에서의 여유로운 시간을 통해 활기를 되찾을 수 있는 기회를 제공하며, 모든 순간이 특별하게 기록될 수 있도록 배려해주는 것이 이곳의 매력이랍니다.
+
+[더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)](https://www.agoda.com/ko-kr/the-jamaica-pegasus-hotel_2/hotel/kingston-jm.html)
+ 
+
+## 킹스턴의 특별한 휴식 공간
+royal at courtleigh towers
+    ![royal at courtleigh towers_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/692836907.jpg?k=de5b52f9bb89d5fc7d1e8ca2b7083ae25fd0601ce1cfe900decf6e1a0f276caa&s=450x450)
+![royal at courtleigh towers_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/597154373.jpg?k=0ee6551b131c515ef55e67ff1fb595053b48832d14c80966b999723d5be8441f&s=50x50)
+![royal at courtleigh towers_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/572867266.jpg?k=c7773e550c2baf010816cfd486f516aeed8ae5d226ac704c9c334e5bd1db474e&s=50x50)
+
+도심 속에서 피로를 푸는 마법 같은 장소라면 이곳을 먼저 추천할게요. 주위에 다양한 레스토랑과 카페가 있어요. 신선한 재료로 요리된 맛있는 음식들을 맛볼 수 있어요. 또한 가까운 거리에는 문화적 명소와 쇼핑몰이 위치해 있어 언제든지 도시의 활기를 만끽할 수 있답니다.
+
+실내로 들어서면 깔끔하고 일련의 세심한 배려를 느낄 수 있죠. 탁 트인 객실과 아늑한 침대는 하루의 피로를 풀어주기에 충분해요. 뷰도 멋지답니다. 서비스도 훌륭해요. 직원들이 언제나 친절하고 필요한 것이 있을 때는 최대한 빠르게 도와주려고 노력하거든요. 아, 그리고 조식도 잊지 마세요! 아침에 상큼한 시작을 하는데 정말 도움이 돼요.
+
+[royal at courtleigh towers](https://www.agoda.com/ko-kr/royal-at-courtleigh-towers/hotel/all/kingston-jm.html)
+ 
+
+
+## 결론
+
+자메이카의 킹스턴은 매력적인 호텔들이 즐비한 곳입니다. 특히 *S Hotel Kingston*은 세련된 인테리어와 훌륭한 위치 덕에 잊을 수 없는 경험을 선사합니다. *더 리구아니아 클럽*은 아름다운 정원과 다양한 시설로 도심 속에서도 완벽한 휴식을 제공합니다. *Courtleigh Hotel and Suites*는 고급스러운 편안함과 훌륭한 음식으로 특별한 경험을 약속하며, *더 자메이카 페가수스 호텔*에서는 고급스러운 인테리어와 멋진 뷰, 그리고 다양한 편의 시설과 현지 요리를 즐길 수 있습니다. 또한 *Royal at Courtleigh Towers*는 전통과 현대가 어우러진 특별한 휴식처로 완벽한 여정을 보장합니다. 킹스턴에서의 특별한 여행을 계획 중이라면, 이 호텔들에서의 체류를 **지금 예약**해보세요.
+
+f:T275e,
+    
+
+
+## 킹스턴에서 인생샷을 남길 수 있는 인기 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다! 오늘은 여러분을 **자메이카 킹스턴의 인생샷 보장 호텔**로 안내할게요. 여행에서 빼놓을 수 없는 건 멋진 사진이잖아요? 특히 인스타그램에 올릴 수 있는 **핫한 스팟**을 찾기 위한 정보라면 눈이 번쩍 뜨일 거예요! 킹스턴에는 숨겨진 매력이 가득한 호텔들이 많은데요, 그중에서도 **이곳에 머문다면 절대 잊지 못할 인생샷**을 남길 수 있는 장소들을 소개해 드릴게요. 낙원 같은 뷰와 고유한 문화를 경험할 수 있는 호텔 5곳과 함께, 잊지 못할 킹스턴의 추억을 만들 준비되셨나요? 지금부터 신나는 탐험이 시작됩니다!
+
+
+## 도시 속 럭셔리 오아시스
+S Hotel Kingston
+    ![S Hotel Kingston_0_image](https://pix8.agoda.net/hotelImages/2673398/0/d21cc66f663da29ddeca7684c7b67853.jpeg)
+![S Hotel Kingston_1_image](https://pix8.agoda.net/hotelImages/38049605/1145337221/8d224a50a33ac35f859ff1d57d86172b.jpeg)
+![S Hotel Kingston_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/325236355.jpg?k=29f6e682365f993f1fc29917ab2d6d1854f47cdd4cf82ff8437849b0f72a410b&s=50x50)
+
+도심 속에서도 완벽한 휴식을 찾고 계신가요? 스페니쉬 코트 호텔은 현대적 디자인과 세련된 인테리어로 여행객에게 새로운 즐거움을 선사해요. 호텔의 수영장은 바쁜 하루를 마치고 편안하게 휴식을 취할 수 있는 이상적인 장소죠. 아침이면 다양한 미식 경험을 제공하는 아침 식사가 고객의 마음을 사로잡아요.
+
+호텔의 위치는 킹스턴의 중심지에 있어 여행의 시작과 끝을 쉽게 계획할 수 있어요. 인근의 다양한 명소와 식당까지 걸어가며 현지의 매력을 느껴보세요. 또한 직원들은 매우 친절해서 방문객들이 머무는 동안 편안함을 느낄 수 있답니다. 이곳에서의 경험은 여러분의 여행을 더욱 특별하게 만들어줄 거예요.
+
+[S Hotel Kingston](https://www.agoda.com/ko-kr/spanish-court-hotel_2/hotel/kingston-jm.html)
+ 
+
+## 열대 속의 아늑함을 즐겨보세요
+더 리구아니아 클럽 (The Liguanea Club)
+    ![더 리구아니아 클럽 (The Liguanea Club)_0_image](https://pix8.agoda.net/hotelImages/10913816/0/61a6dbb03a1285cb31b8557a1ddd46a7.jpeg)
+![더 리구아니아 클럽 (The Liguanea Club)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/39198646.jpg?k=bc05bd02fb34fa14d44fbb6b644868acbea160b88e47e9215b19d052af31b360&s=50x50)
+![더 리구아니아 클럽 (The Liguanea Club)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/271248114.jpg?k=2219862523e96920e9a7dc17c4c7a421cf3b09b5044fe3b73ca40eb047cee325&s=50x50)
+
+자메이카 킹스턴의 중심부에 자리 잡은 특별한 공간이 있어요. 이곳은 넓은 정원과 고풍스러운 건물로 한적한 아침 산책을 즐기기에 완벽한 장소랍니다. 야외 수영장에서 수영을 즐기거나 테라스에서 휴식을 취하며, 도시의 분주함에서 벗어난 여유를 한껏 즐길 수 있어요. 무엇보다 이곳의 체육관은 운동을 사랑하는 여행자들에게 꼭 맞는 시설을 제공하고 있어요.
+
+밤이 되면, 지역 식문화를 경험할 수 있는 레스토랑이 기다리고 있어요. 신선한 재료로 만들어진 다양한 요리는 기분 좋은 맛의 향연을 펼쳐요. 호텔의 친절한 직원들은 언제나 여러분의 편안한 여행을 돕기 위해 최선을 다하고 있답니다. 이곳에 오시면, 특유의 따스한 환대를 직접 느끼실 수 있을 거예요. 나만의 특별한 여행 이야기를 만들어 보세요.
+
+[더 리구아니아 클럽 (The Liguanea Club)](https://www.agoda.com/ko-kr/the-liguanea-club/hotel/kingston-jm.html)
+ 
+
+## 럭셔리와 편안함의 하모니
+Courtleigh Hotel and Suites
+    ![Courtleigh Hotel and Suites_0_image](https://pix8.agoda.net/hotelImages/763/76338/76338_16051218520042282267.jpg)
+![Courtleigh Hotel and Suites_1_image](https://pix8.agoda.net/hotelImages/27805020/1378669/b6468fb04af97743ef9b541bd66e731e.jpeg)
+![Courtleigh Hotel and Suites_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/527073681.jpg?k=50e08e0a13ba464bfb37a14f3147a40b1902c75d6b9b0db42a6320f455ba5c92&s=50x50)
+
+킹스턴에 위치한 이 멋진 호텔은 고풍스러우면서도 세련된 공간 속에서 진정한 안락함을 선사해요. 웅장한 로비를 지나 침실로 들어서면 넉넉한 공간과 고급스러운 가구가 배치되어 있어 투숙객들에게 편안함을 제공하지요. 특히, 창문 밖으로 보이는 멋진 전경이 하루의 피로를 한순간에 잊어버리게 해준답니다. 모든 것이 적절한 조화를 이루고 있어 모든 손님이 편안히 쉴 수 있을 거예요. 어디선가 아름다운 음악이 들려올 것 같은 분위기도 느껴지곤 하지요.
+
+음식 역시 비할 데 없이 훌륭해요. 특히, 현지의 신선한 재료를 활용한 요리들은 더욱 인상적이에요. 오직 이곳에서만 즐길 수 있는 맛을 경험할 때, 킹스턴 방문이 특별하게 느껴질 거예요. 친절한 직원들은 언제나 손님의 필요에 귀 기울이고 있어 머무는 동안 어떤 도움도 기꺼이 제공할 준비가 되어 있답니다. 이 호텔에서의 경험은 마치 예술작품처럼 마음 속에 각인될 거예요.
+
+[Courtleigh Hotel and Suites](https://www.agoda.com/ko-kr/courtleigh-hotel-suites/hotel/kingston-jm.html)
+ 
+
+## 친근한 휴식과 여유의 공간
+더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)
+    ![더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_0_image](https://pix8.agoda.net/hotelImages/2673418/0/74ab4458d9d2dd0cd57e11dec02eb5bb.jpeg)
+![더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/673574828.jpg?k=bd3da86cb9baaa93ff9ddd04fbfba5c669576bf1577207dea8948ef2c0b46bfe&s=50x50)
+![더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/243567916.jpg?k=d9f8ef012c9c06a8a6cd794579f72e685cadf66163f8111f26d9e55c712cbce5&s=50x50)
+
+재미있는 순간들이 많이 기다리고 있는 이곳은 다양한 편의시설로 가득 차 있어요. 객실에서는 따뜻한 색감과 고급스러운 인테리어가 조화를 이루며, 편안하게 휴식을 취할 수 있는 최상의 공간을 제공해요. 그리고 무엇보다도 아침에 눈을 뜨면 창 밖으로 보이는 멋진 뷰는 하루의 시작을 더욱 특별하게 만들어준답니다. 이 호텔은 훌륭한 서비스와 마치 가족 같은 마음으로 다가오는 친절함으로 여러분을 기다리고 있어요.
+
+즐거운 무료 조식을 맛볼 수 있는 이곳에서는 다양한 국제 요리를 즐길 수 있으며, 매일 아침 갓 구운 빵과 달콤한 음료가 준비되어 있어요. 호텔 내 레스토랑에서 경험할 수 있는 현지 음식은 그야말로 잊지 못할 기억이 될 거예요. 피트니스 센터에서의 운동 및 수영장에서의 여유로운 시간을 통해 활기를 되찾을 수 있는 기회를 제공하며, 모든 순간이 특별하게 기록될 수 있도록 배려해주는 것이 이곳의 매력이랍니다.
+
+[더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)](https://www.agoda.com/ko-kr/the-jamaica-pegasus-hotel_2/hotel/kingston-jm.html)
+ 
+
+## 킹스턴의 특별한 휴식 공간
+royal at courtleigh towers
+    ![royal at courtleigh towers_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/692836907.jpg?k=de5b52f9bb89d5fc7d1e8ca2b7083ae25fd0601ce1cfe900decf6e1a0f276caa&s=450x450)
+![royal at courtleigh towers_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/597154373.jpg?k=0ee6551b131c515ef55e67ff1fb595053b48832d14c80966b999723d5be8441f&s=50x50)
+![royal at courtleigh towers_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/572867266.jpg?k=c7773e550c2baf010816cfd486f516aeed8ae5d226ac704c9c334e5bd1db474e&s=50x50)
+
+도심 속에서 피로를 푸는 마법 같은 장소라면 이곳을 먼저 추천할게요. 주위에 다양한 레스토랑과 카페가 있어요. 신선한 재료로 요리된 맛있는 음식들을 맛볼 수 있어요. 또한 가까운 거리에는 문화적 명소와 쇼핑몰이 위치해 있어 언제든지 도시의 활기를 만끽할 수 있답니다.
+
+실내로 들어서면 깔끔하고 일련의 세심한 배려를 느낄 수 있죠. 탁 트인 객실과 아늑한 침대는 하루의 피로를 풀어주기에 충분해요. 뷰도 멋지답니다. 서비스도 훌륭해요. 직원들이 언제나 친절하고 필요한 것이 있을 때는 최대한 빠르게 도와주려고 노력하거든요. 아, 그리고 조식도 잊지 마세요! 아침에 상큼한 시작을 하는데 정말 도움이 돼요.
+
+[royal at courtleigh towers](https://www.agoda.com/ko-kr/royal-at-courtleigh-towers/hotel/all/kingston-jm.html)
+ 
+
+
+## 결론
+
+자메이카의 킹스턴은 매력적인 호텔들이 즐비한 곳입니다. 특히 *S Hotel Kingston*은 세련된 인테리어와 훌륭한 위치 덕에 잊을 수 없는 경험을 선사합니다. *더 리구아니아 클럽*은 아름다운 정원과 다양한 시설로 도심 속에서도 완벽한 휴식을 제공합니다. *Courtleigh Hotel and Suites*는 고급스러운 편안함과 훌륭한 음식으로 특별한 경험을 약속하며, *더 자메이카 페가수스 호텔*에서는 고급스러운 인테리어와 멋진 뷰, 그리고 다양한 편의 시설과 현지 요리를 즐길 수 있습니다. 또한 *Royal at Courtleigh Towers*는 전통과 현대가 어우러진 특별한 휴식처로 완벽한 여정을 보장합니다. 킹스턴에서의 특별한 여행을 계획 중이라면, 이 호텔들에서의 체류를 **지금 예약**해보세요.
+
+10:T275e,
+    
+
+
+## 킹스턴에서 인생샷을 남길 수 있는 인기 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다! 오늘은 여러분을 **자메이카 킹스턴의 인생샷 보장 호텔**로 안내할게요. 여행에서 빼놓을 수 없는 건 멋진 사진이잖아요? 특히 인스타그램에 올릴 수 있는 **핫한 스팟**을 찾기 위한 정보라면 눈이 번쩍 뜨일 거예요! 킹스턴에는 숨겨진 매력이 가득한 호텔들이 많은데요, 그중에서도 **이곳에 머문다면 절대 잊지 못할 인생샷**을 남길 수 있는 장소들을 소개해 드릴게요. 낙원 같은 뷰와 고유한 문화를 경험할 수 있는 호텔 5곳과 함께, 잊지 못할 킹스턴의 추억을 만들 준비되셨나요? 지금부터 신나는 탐험이 시작됩니다!
+
+
+## 도시 속 럭셔리 오아시스
+S Hotel Kingston
+    ![S Hotel Kingston_0_image](https://pix8.agoda.net/hotelImages/2673398/0/d21cc66f663da29ddeca7684c7b67853.jpeg)
+![S Hotel Kingston_1_image](https://pix8.agoda.net/hotelImages/38049605/1145337221/8d224a50a33ac35f859ff1d57d86172b.jpeg)
+![S Hotel Kingston_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/325236355.jpg?k=29f6e682365f993f1fc29917ab2d6d1854f47cdd4cf82ff8437849b0f72a410b&s=50x50)
+
+도심 속에서도 완벽한 휴식을 찾고 계신가요? 스페니쉬 코트 호텔은 현대적 디자인과 세련된 인테리어로 여행객에게 새로운 즐거움을 선사해요. 호텔의 수영장은 바쁜 하루를 마치고 편안하게 휴식을 취할 수 있는 이상적인 장소죠. 아침이면 다양한 미식 경험을 제공하는 아침 식사가 고객의 마음을 사로잡아요.
+
+호텔의 위치는 킹스턴의 중심지에 있어 여행의 시작과 끝을 쉽게 계획할 수 있어요. 인근의 다양한 명소와 식당까지 걸어가며 현지의 매력을 느껴보세요. 또한 직원들은 매우 친절해서 방문객들이 머무는 동안 편안함을 느낄 수 있답니다. 이곳에서의 경험은 여러분의 여행을 더욱 특별하게 만들어줄 거예요.
+
+[S Hotel Kingston](https://www.agoda.com/ko-kr/spanish-court-hotel_2/hotel/kingston-jm.html)
+ 
+
+## 열대 속의 아늑함을 즐겨보세요
+더 리구아니아 클럽 (The Liguanea Club)
+    ![더 리구아니아 클럽 (The Liguanea Club)_0_image](https://pix8.agoda.net/hotelImages/10913816/0/61a6dbb03a1285cb31b8557a1ddd46a7.jpeg)
+![더 리구아니아 클럽 (The Liguanea Club)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/39198646.jpg?k=bc05bd02fb34fa14d44fbb6b644868acbea160b88e47e9215b19d052af31b360&s=50x50)
+![더 리구아니아 클럽 (The Liguanea Club)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/271248114.jpg?k=2219862523e96920e9a7dc17c4c7a421cf3b09b5044fe3b73ca40eb047cee325&s=50x50)
+
+자메이카 킹스턴의 중심부에 자리 잡은 특별한 공간이 있어요. 이곳은 넓은 정원과 고풍스러운 건물로 한적한 아침 산책을 즐기기에 완벽한 장소랍니다. 야외 수영장에서 수영을 즐기거나 테라스에서 휴식을 취하며, 도시의 분주함에서 벗어난 여유를 한껏 즐길 수 있어요. 무엇보다 이곳의 체육관은 운동을 사랑하는 여행자들에게 꼭 맞는 시설을 제공하고 있어요.
+
+밤이 되면, 지역 식문화를 경험할 수 있는 레스토랑이 기다리고 있어요. 신선한 재료로 만들어진 다양한 요리는 기분 좋은 맛의 향연을 펼쳐요. 호텔의 친절한 직원들은 언제나 여러분의 편안한 여행을 돕기 위해 최선을 다하고 있답니다. 이곳에 오시면, 특유의 따스한 환대를 직접 느끼실 수 있을 거예요. 나만의 특별한 여행 이야기를 만들어 보세요.
+
+[더 리구아니아 클럽 (The Liguanea Club)](https://www.agoda.com/ko-kr/the-liguanea-club/hotel/kingston-jm.html)
+ 
+
+## 럭셔리와 편안함의 하모니
+Courtleigh Hotel and Suites
+    ![Courtleigh Hotel and Suites_0_image](https://pix8.agoda.net/hotelImages/763/76338/76338_16051218520042282267.jpg)
+![Courtleigh Hotel and Suites_1_image](https://pix8.agoda.net/hotelImages/27805020/1378669/b6468fb04af97743ef9b541bd66e731e.jpeg)
+![Courtleigh Hotel and Suites_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/527073681.jpg?k=50e08e0a13ba464bfb37a14f3147a40b1902c75d6b9b0db42a6320f455ba5c92&s=50x50)
+
+킹스턴에 위치한 이 멋진 호텔은 고풍스러우면서도 세련된 공간 속에서 진정한 안락함을 선사해요. 웅장한 로비를 지나 침실로 들어서면 넉넉한 공간과 고급스러운 가구가 배치되어 있어 투숙객들에게 편안함을 제공하지요. 특히, 창문 밖으로 보이는 멋진 전경이 하루의 피로를 한순간에 잊어버리게 해준답니다. 모든 것이 적절한 조화를 이루고 있어 모든 손님이 편안히 쉴 수 있을 거예요. 어디선가 아름다운 음악이 들려올 것 같은 분위기도 느껴지곤 하지요.
+
+음식 역시 비할 데 없이 훌륭해요. 특히, 현지의 신선한 재료를 활용한 요리들은 더욱 인상적이에요. 오직 이곳에서만 즐길 수 있는 맛을 경험할 때, 킹스턴 방문이 특별하게 느껴질 거예요. 친절한 직원들은 언제나 손님의 필요에 귀 기울이고 있어 머무는 동안 어떤 도움도 기꺼이 제공할 준비가 되어 있답니다. 이 호텔에서의 경험은 마치 예술작품처럼 마음 속에 각인될 거예요.
+
+[Courtleigh Hotel and Suites](https://www.agoda.com/ko-kr/courtleigh-hotel-suites/hotel/kingston-jm.html)
+ 
+
+## 친근한 휴식과 여유의 공간
+더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)
+    ![더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_0_image](https://pix8.agoda.net/hotelImages/2673418/0/74ab4458d9d2dd0cd57e11dec02eb5bb.jpeg)
+![더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/673574828.jpg?k=bd3da86cb9baaa93ff9ddd04fbfba5c669576bf1577207dea8948ef2c0b46bfe&s=50x50)
+![더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/243567916.jpg?k=d9f8ef012c9c06a8a6cd794579f72e685cadf66163f8111f26d9e55c712cbce5&s=50x50)
+
+재미있는 순간들이 많이 기다리고 있는 이곳은 다양한 편의시설로 가득 차 있어요. 객실에서는 따뜻한 색감과 고급스러운 인테리어가 조화를 이루며, 편안하게 휴식을 취할 수 있는 최상의 공간을 제공해요. 그리고 무엇보다도 아침에 눈을 뜨면 창 밖으로 보이는 멋진 뷰는 하루의 시작을 더욱 특별하게 만들어준답니다. 이 호텔은 훌륭한 서비스와 마치 가족 같은 마음으로 다가오는 친절함으로 여러분을 기다리고 있어요.
+
+즐거운 무료 조식을 맛볼 수 있는 이곳에서는 다양한 국제 요리를 즐길 수 있으며, 매일 아침 갓 구운 빵과 달콤한 음료가 준비되어 있어요. 호텔 내 레스토랑에서 경험할 수 있는 현지 음식은 그야말로 잊지 못할 기억이 될 거예요. 피트니스 센터에서의 운동 및 수영장에서의 여유로운 시간을 통해 활기를 되찾을 수 있는 기회를 제공하며, 모든 순간이 특별하게 기록될 수 있도록 배려해주는 것이 이곳의 매력이랍니다.
+
+[더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)](https://www.agoda.com/ko-kr/the-jamaica-pegasus-hotel_2/hotel/kingston-jm.html)
+ 
+
+## 킹스턴의 특별한 휴식 공간
+royal at courtleigh towers
+    ![royal at courtleigh towers_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/692836907.jpg?k=de5b52f9bb89d5fc7d1e8ca2b7083ae25fd0601ce1cfe900decf6e1a0f276caa&s=450x450)
+![royal at courtleigh towers_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/597154373.jpg?k=0ee6551b131c515ef55e67ff1fb595053b48832d14c80966b999723d5be8441f&s=50x50)
+![royal at courtleigh towers_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/572867266.jpg?k=c7773e550c2baf010816cfd486f516aeed8ae5d226ac704c9c334e5bd1db474e&s=50x50)
+
+도심 속에서 피로를 푸는 마법 같은 장소라면 이곳을 먼저 추천할게요. 주위에 다양한 레스토랑과 카페가 있어요. 신선한 재료로 요리된 맛있는 음식들을 맛볼 수 있어요. 또한 가까운 거리에는 문화적 명소와 쇼핑몰이 위치해 있어 언제든지 도시의 활기를 만끽할 수 있답니다.
+
+실내로 들어서면 깔끔하고 일련의 세심한 배려를 느낄 수 있죠. 탁 트인 객실과 아늑한 침대는 하루의 피로를 풀어주기에 충분해요. 뷰도 멋지답니다. 서비스도 훌륭해요. 직원들이 언제나 친절하고 필요한 것이 있을 때는 최대한 빠르게 도와주려고 노력하거든요. 아, 그리고 조식도 잊지 마세요! 아침에 상큼한 시작을 하는데 정말 도움이 돼요.
+
+[royal at courtleigh towers](https://www.agoda.com/ko-kr/royal-at-courtleigh-towers/hotel/all/kingston-jm.html)
+ 
+
+
+## 결론
+
+자메이카의 킹스턴은 매력적인 호텔들이 즐비한 곳입니다. 특히 *S Hotel Kingston*은 세련된 인테리어와 훌륭한 위치 덕에 잊을 수 없는 경험을 선사합니다. *더 리구아니아 클럽*은 아름다운 정원과 다양한 시설로 도심 속에서도 완벽한 휴식을 제공합니다. *Courtleigh Hotel and Suites*는 고급스러운 편안함과 훌륭한 음식으로 특별한 경험을 약속하며, *더 자메이카 페가수스 호텔*에서는 고급스러운 인테리어와 멋진 뷰, 그리고 다양한 편의 시설과 현지 요리를 즐길 수 있습니다. 또한 *Royal at Courtleigh Towers*는 전통과 현대가 어우러진 특별한 휴식처로 완벽한 여정을 보장합니다. 킹스턴에서의 특별한 여행을 계획 중이라면, 이 호텔들에서의 체류를 **지금 예약**해보세요.
+
+11:T275e,
+    
+
+
+## 킹스턴에서 인생샷을 남길 수 있는 인기 호텔 5선
+
+안녕하세요. 달마야 여행가자의 달마입니다! 오늘은 여러분을 **자메이카 킹스턴의 인생샷 보장 호텔**로 안내할게요. 여행에서 빼놓을 수 없는 건 멋진 사진이잖아요? 특히 인스타그램에 올릴 수 있는 **핫한 스팟**을 찾기 위한 정보라면 눈이 번쩍 뜨일 거예요! 킹스턴에는 숨겨진 매력이 가득한 호텔들이 많은데요, 그중에서도 **이곳에 머문다면 절대 잊지 못할 인생샷**을 남길 수 있는 장소들을 소개해 드릴게요. 낙원 같은 뷰와 고유한 문화를 경험할 수 있는 호텔 5곳과 함께, 잊지 못할 킹스턴의 추억을 만들 준비되셨나요? 지금부터 신나는 탐험이 시작됩니다!
+
+
+## 도시 속 럭셔리 오아시스
+S Hotel Kingston
+    ![S Hotel Kingston_0_image](https://pix8.agoda.net/hotelImages/2673398/0/d21cc66f663da29ddeca7684c7b67853.jpeg)
+![S Hotel Kingston_1_image](https://pix8.agoda.net/hotelImages/38049605/1145337221/8d224a50a33ac35f859ff1d57d86172b.jpeg)
+![S Hotel Kingston_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/325236355.jpg?k=29f6e682365f993f1fc29917ab2d6d1854f47cdd4cf82ff8437849b0f72a410b&s=50x50)
+
+도심 속에서도 완벽한 휴식을 찾고 계신가요? 스페니쉬 코트 호텔은 현대적 디자인과 세련된 인테리어로 여행객에게 새로운 즐거움을 선사해요. 호텔의 수영장은 바쁜 하루를 마치고 편안하게 휴식을 취할 수 있는 이상적인 장소죠. 아침이면 다양한 미식 경험을 제공하는 아침 식사가 고객의 마음을 사로잡아요.
+
+호텔의 위치는 킹스턴의 중심지에 있어 여행의 시작과 끝을 쉽게 계획할 수 있어요. 인근의 다양한 명소와 식당까지 걸어가며 현지의 매력을 느껴보세요. 또한 직원들은 매우 친절해서 방문객들이 머무는 동안 편안함을 느낄 수 있답니다. 이곳에서의 경험은 여러분의 여행을 더욱 특별하게 만들어줄 거예요.
+
+[S Hotel Kingston](https://www.agoda.com/ko-kr/spanish-court-hotel_2/hotel/kingston-jm.html)
+ 
+
+## 열대 속의 아늑함을 즐겨보세요
+더 리구아니아 클럽 (The Liguanea Club)
+    ![더 리구아니아 클럽 (The Liguanea Club)_0_image](https://pix8.agoda.net/hotelImages/10913816/0/61a6dbb03a1285cb31b8557a1ddd46a7.jpeg)
+![더 리구아니아 클럽 (The Liguanea Club)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/39198646.jpg?k=bc05bd02fb34fa14d44fbb6b644868acbea160b88e47e9215b19d052af31b360&s=50x50)
+![더 리구아니아 클럽 (The Liguanea Club)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/271248114.jpg?k=2219862523e96920e9a7dc17c4c7a421cf3b09b5044fe3b73ca40eb047cee325&s=50x50)
+
+자메이카 킹스턴의 중심부에 자리 잡은 특별한 공간이 있어요. 이곳은 넓은 정원과 고풍스러운 건물로 한적한 아침 산책을 즐기기에 완벽한 장소랍니다. 야외 수영장에서 수영을 즐기거나 테라스에서 휴식을 취하며, 도시의 분주함에서 벗어난 여유를 한껏 즐길 수 있어요. 무엇보다 이곳의 체육관은 운동을 사랑하는 여행자들에게 꼭 맞는 시설을 제공하고 있어요.
+
+밤이 되면, 지역 식문화를 경험할 수 있는 레스토랑이 기다리고 있어요. 신선한 재료로 만들어진 다양한 요리는 기분 좋은 맛의 향연을 펼쳐요. 호텔의 친절한 직원들은 언제나 여러분의 편안한 여행을 돕기 위해 최선을 다하고 있답니다. 이곳에 오시면, 특유의 따스한 환대를 직접 느끼실 수 있을 거예요. 나만의 특별한 여행 이야기를 만들어 보세요.
+
+[더 리구아니아 클럽 (The Liguanea Club)](https://www.agoda.com/ko-kr/the-liguanea-club/hotel/kingston-jm.html)
+ 
+
+## 럭셔리와 편안함의 하모니
+Courtleigh Hotel and Suites
+    ![Courtleigh Hotel and Suites_0_image](https://pix8.agoda.net/hotelImages/763/76338/76338_16051218520042282267.jpg)
+![Courtleigh Hotel and Suites_1_image](https://pix8.agoda.net/hotelImages/27805020/1378669/b6468fb04af97743ef9b541bd66e731e.jpeg)
+![Courtleigh Hotel and Suites_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/527073681.jpg?k=50e08e0a13ba464bfb37a14f3147a40b1902c75d6b9b0db42a6320f455ba5c92&s=50x50)
+
+킹스턴에 위치한 이 멋진 호텔은 고풍스러우면서도 세련된 공간 속에서 진정한 안락함을 선사해요. 웅장한 로비를 지나 침실로 들어서면 넉넉한 공간과 고급스러운 가구가 배치되어 있어 투숙객들에게 편안함을 제공하지요. 특히, 창문 밖으로 보이는 멋진 전경이 하루의 피로를 한순간에 잊어버리게 해준답니다. 모든 것이 적절한 조화를 이루고 있어 모든 손님이 편안히 쉴 수 있을 거예요. 어디선가 아름다운 음악이 들려올 것 같은 분위기도 느껴지곤 하지요.
+
+음식 역시 비할 데 없이 훌륭해요. 특히, 현지의 신선한 재료를 활용한 요리들은 더욱 인상적이에요. 오직 이곳에서만 즐길 수 있는 맛을 경험할 때, 킹스턴 방문이 특별하게 느껴질 거예요. 친절한 직원들은 언제나 손님의 필요에 귀 기울이고 있어 머무는 동안 어떤 도움도 기꺼이 제공할 준비가 되어 있답니다. 이 호텔에서의 경험은 마치 예술작품처럼 마음 속에 각인될 거예요.
+
+[Courtleigh Hotel and Suites](https://www.agoda.com/ko-kr/courtleigh-hotel-suites/hotel/kingston-jm.html)
+ 
+
+## 친근한 휴식과 여유의 공간
+더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)
+    ![더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_0_image](https://pix8.agoda.net/hotelImages/2673418/0/74ab4458d9d2dd0cd57e11dec02eb5bb.jpeg)
+![더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/673574828.jpg?k=bd3da86cb9baaa93ff9ddd04fbfba5c669576bf1577207dea8948ef2c0b46bfe&s=50x50)
+![더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/243567916.jpg?k=d9f8ef012c9c06a8a6cd794579f72e685cadf66163f8111f26d9e55c712cbce5&s=50x50)
+
+재미있는 순간들이 많이 기다리고 있는 이곳은 다양한 편의시설로 가득 차 있어요. 객실에서는 따뜻한 색감과 고급스러운 인테리어가 조화를 이루며, 편안하게 휴식을 취할 수 있는 최상의 공간을 제공해요. 그리고 무엇보다도 아침에 눈을 뜨면 창 밖으로 보이는 멋진 뷰는 하루의 시작을 더욱 특별하게 만들어준답니다. 이 호텔은 훌륭한 서비스와 마치 가족 같은 마음으로 다가오는 친절함으로 여러분을 기다리고 있어요.
+
+즐거운 무료 조식을 맛볼 수 있는 이곳에서는 다양한 국제 요리를 즐길 수 있으며, 매일 아침 갓 구운 빵과 달콤한 음료가 준비되어 있어요. 호텔 내 레스토랑에서 경험할 수 있는 현지 음식은 그야말로 잊지 못할 기억이 될 거예요. 피트니스 센터에서의 운동 및 수영장에서의 여유로운 시간을 통해 활기를 되찾을 수 있는 기회를 제공하며, 모든 순간이 특별하게 기록될 수 있도록 배려해주는 것이 이곳의 매력이랍니다.
+
+[더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)](https://www.agoda.com/ko-kr/the-jamaica-pegasus-hotel_2/hotel/kingston-jm.html)
+ 
+
+## 킹스턴의 특별한 휴식 공간
+royal at courtleigh towers
+    ![royal at courtleigh towers_0_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/692836907.jpg?k=de5b52f9bb89d5fc7d1e8ca2b7083ae25fd0601ce1cfe900decf6e1a0f276caa&s=450x450)
+![royal at courtleigh towers_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/597154373.jpg?k=0ee6551b131c515ef55e67ff1fb595053b48832d14c80966b999723d5be8441f&s=50x50)
+![royal at courtleigh towers_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/572867266.jpg?k=c7773e550c2baf010816cfd486f516aeed8ae5d226ac704c9c334e5bd1db474e&s=50x50)
+
+도심 속에서 피로를 푸는 마법 같은 장소라면 이곳을 먼저 추천할게요. 주위에 다양한 레스토랑과 카페가 있어요. 신선한 재료로 요리된 맛있는 음식들을 맛볼 수 있어요. 또한 가까운 거리에는 문화적 명소와 쇼핑몰이 위치해 있어 언제든지 도시의 활기를 만끽할 수 있답니다.
+
+실내로 들어서면 깔끔하고 일련의 세심한 배려를 느낄 수 있죠. 탁 트인 객실과 아늑한 침대는 하루의 피로를 풀어주기에 충분해요. 뷰도 멋지답니다. 서비스도 훌륭해요. 직원들이 언제나 친절하고 필요한 것이 있을 때는 최대한 빠르게 도와주려고 노력하거든요. 아, 그리고 조식도 잊지 마세요! 아침에 상큼한 시작을 하는데 정말 도움이 돼요.
+
+[royal at courtleigh towers](https://www.agoda.com/ko-kr/royal-at-courtleigh-towers/hotel/all/kingston-jm.html)
+ 
+
+
+## 결론
+
+자메이카의 킹스턴은 매력적인 호텔들이 즐비한 곳입니다. 특히 *S Hotel Kingston*은 세련된 인테리어와 훌륭한 위치 덕에 잊을 수 없는 경험을 선사합니다. *더 리구아니아 클럽*은 아름다운 정원과 다양한 시설로 도심 속에서도 완벽한 휴식을 제공합니다. *Courtleigh Hotel and Suites*는 고급스러운 편안함과 훌륭한 음식으로 특별한 경험을 약속하며, *더 자메이카 페가수스 호텔*에서는 고급스러운 인테리어와 멋진 뷰, 그리고 다양한 편의 시설과 현지 요리를 즐길 수 있습니다. 또한 *Royal at Courtleigh Towers*는 전통과 현대가 어우러진 특별한 휴식처로 완벽한 여정을 보장합니다. 킹스턴에서의 특별한 여행을 계획 중이라면, 이 호텔들에서의 체류를 **지금 예약**해보세요.
+
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"킹스턴의 인생샷 보장, 인스타 핫플 호텔 5선"}],["$","data",null,{"children":"2025-07-17T08:30:33.778Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"중미 및 카리브해"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"럭셔리"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"도심"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"수영장"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"미식"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"편안함"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"친절"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"세련됨"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"자메이카"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"편안한 휴식"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"도심 속 오아시스"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"테라스"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"체육관"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"킹스턴"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"고급"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"음식"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"전망"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"고급스러움"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"편의시설"}]}],["$","li","[object Object]_19",{"children":["$","span",null,{"children":"멋진 뷰"}]}],["$","li","[object Object]_20",{"children":["$","span",null,{"children":"친절한 서비스"}]}],["$","li","[object Object]_21",{"children":["$","span",null,{"children":"현지 음식"}]}],["$","li","[object Object]_22",{"children":["$","span",null,{"children":"피트니스"}]}],["$","li","[object Object]_23",{"children":["$","span",null,{"children":"요리"}]}],["$","li","[object Object]_24",{"children":["$","span",null,{"children":"문화"}]}],["$","li","[object Object]_25",{"children":["$","span",null,{"children":"쇼핑"}]}],["$","li","[object Object]_26",{"children":["$","span",null,{"children":"아늑함"}]}],["$","li","[object Object]_27",{"children":["$","span",null,{"children":"뷰"}]}],["$","li","[object Object]_28",{"children":["$","span",null,{"children":"서비스"}]}],["$","li","[object Object]_29",{"children":["$","span",null,{"children":"조식"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"fa2fcbca","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"킹스턴에서 인생샷을 남길 수 있는 인기 호텔 5선"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요. 달마야 여행가자의 달마입니다! 오늘은 여러분을 ",["$","strong",null,{"className":"font-black","children":"자메이카 킹스턴의 인생샷 보장 호텔"}],"로 안내할게요. 여행에서 빼놓을 수 없는 건 멋진 사진이잖아요? 특히 인스타그램에 올릴 수 있는 ",["$","strong",null,{"className":"font-black","children":"핫한 스팟"}],"을 찾기 위한 정보라면 눈이 번쩍 뜨일 거예요! 킹스턴에는 숨겨진 매력이 가득한 호텔들이 많은데요, 그중에서도 ",["$","strong",null,{"className":"font-black","children":"이곳에 머문다면 절대 잊지 못할 인생샷"}],"을 남길 수 있는 장소들을 소개해 드릴게요. 낙원 같은 뷰와 고유한 문화를 경험할 수 있는 호텔 5곳과 함께, 잊지 못할 킹스턴의 추억을 만들 준비되셨나요? 지금부터 신나는 탐험이 시작됩니다!"]}],"\n",["$","h2",null,{"id":"e52f113d","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"도시 속 럭셔리 오아시스"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["S Hotel Kingston\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/2673398/0/d21cc66f663da29ddeca7684c7b67853.jpeg","alt":"S Hotel Kingston_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/38049605/1145337221/8d224a50a33ac35f859ff1d57d86172b.jpeg","alt":"S Hotel Kingston_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/325236355.jpg?k=29f6e682365f993f1fc29917ab2d6d1854f47cdd4cf82ff8437849b0f72a410b&s=50x50","alt":"S Hotel Kingston_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"도심 속에서도 완벽한 휴식을 찾고 계신가요? 스페니쉬 코트 호텔은 현대적 디자인과 세련된 인테리어로 여행객에게 새로운 즐거움을 선사해요. 호텔의 수영장은 바쁜 하루를 마치고 편안하게 휴식을 취할 수 있는 이상적인 장소죠. 아침이면 다양한 미식 경험을 제공하는 아침 식사가 고객의 마음을 사로잡아요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"호텔의 위치는 킹스턴의 중심지에 있어 여행의 시작과 끝을 쉽게 계획할 수 있어요. 인근의 다양한 명소와 식당까지 걸어가며 현지의 매력을 느껴보세요. 또한 직원들은 매우 친절해서 방문객들이 머무는 동안 편안함을 느낄 수 있답니다. 이곳에서의 경험은 여러분의 여행을 더욱 특별하게 만들어줄 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/spanish-court-hotel_2/hotel/kingston-jm.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/spanish-court-hotel_2/hotel/kingston-jm.html"},"children":[{"type":"text","value":"S Hotel Kingston","position":{"start":{"line":20,"column":2,"offset":1133},"end":{"line":20,"column":18,"offset":1149}}}],"position":{"start":{"line":20,"column":1,"offset":1132},"end":{"line":20,"column":93,"offset":1224}}},"children":"S Hotel Kingston"},"post":{"id":"b27613a1-e3c8-4899-9849-10a7cd0dab33","title":"킹스턴의 인생샷 보장, 인스타 핫플 호텔 5선","fileName":"킹스턴-인생샷-보장-호텔-5선-b27613a1","description":"킹스턴에서의 특별한 여행을 꿈꾸세요? 'Spanish Court Hotel', 'The Liguanea Club', 'Courtleigh Hotel & Suites', 'The Jamaica Pegasus Hotel', 'Royal at Courtleigh Towers'는 인생샷을 남기기에 완벽한 장소입니다. 각각의 호텔이 제공하는 독특한 분위기와 최고급 시설이 여러분의 여행을 더욱 특별하게 만들어줄 것입니다. 이 호텔들에서 즐기는 멋진 경치와 잊지 못할 순간들이 여러분의 소셜 미디어를 빛내줄 것입니다!","date":"2025-07-17T08:30:33.778Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"미식","path":"$$/kr/tags/미식","id":"미식"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"세련됨","path":"$$/kr/tags/세련됨","id":"세련됨"},{"name":"자메이카","path":"$$/kr/tags/자메이카","id":"자메이카"},{"name":"편안한 휴식","path":"$$/kr/tags/편안한-휴식","id":"편안한-휴식"},{"name":"도심 속 오아시스","path":"$$/kr/tags/도심-속-오아시스","id":"도심-속-오아시스"},{"name":"테라스","path":"$$/kr/tags/테라스","id":"테라스"},{"name":"체육관","path":"$$/kr/tags/체육관","id":"체육관"},{"name":"킹스턴","path":"$$/kr/tags/킹스턴","id":"킹스턴"},{"name":"고급","path":"$$/kr/tags/고급","id":"고급"},{"name":"음식","path":"$$/kr/tags/음식","id":"음식"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"고급스러움","path":"$$/kr/tags/고급스러움","id":"고급스러움"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"멋진 뷰","path":"$$/kr/tags/멋진-뷰","id":"멋진-뷰"},{"name":"친절한 서비스","path":"$$/kr/tags/친절한-서비스","id":"친절한-서비스"},{"name":"현지 음식","path":"$$/kr/tags/현지-음식","id":"현지-음식"},{"name":"피트니스","path":"$$/kr/tags/피트니스","id":"피트니스"},{"name":"요리","path":"$$/kr/tags/요리","id":"요리"},{"name":"문화","path":"$$/kr/tags/문화","id":"문화"},{"name":"쇼핑","path":"$$/kr/tags/쇼핑","id":"쇼핑"},{"name":"아늑함","path":"$$/kr/tags/아늑함","id":"아늑함"},{"name":"뷰","path":"$$/kr/tags/뷰","id":"뷰"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"}],"banner":"/images/19917-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"킹스턴-인생샷-보장-호텔-5선-b27613a1","content":"$d","category":"articles","readMin":"6.9"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"aa78bef0","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"열대 속의 아늑함을 즐겨보세요"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["더 리구아니아 클럽 (The Liguanea Club)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/10913816/0/61a6dbb03a1285cb31b8557a1ddd46a7.jpeg","alt":"더 리구아니아 클럽 (The Liguanea Club)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/39198646.jpg?k=bc05bd02fb34fa14d44fbb6b644868acbea160b88e47e9215b19d052af31b360&s=50x50","alt":"더 리구아니아 클럽 (The Liguanea Club)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/271248114.jpg?k=2219862523e96920e9a7dc17c4c7a421cf3b09b5044fe3b73ca40eb047cee325&s=50x50","alt":"더 리구아니아 클럽 (The Liguanea Club)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"자메이카 킹스턴의 중심부에 자리 잡은 특별한 공간이 있어요. 이곳은 넓은 정원과 고풍스러운 건물로 한적한 아침 산책을 즐기기에 완벽한 장소랍니다. 야외 수영장에서 수영을 즐기거나 테라스에서 휴식을 취하며, 도시의 분주함에서 벗어난 여유를 한껏 즐길 수 있어요. 무엇보다 이곳의 체육관은 운동을 사랑하는 여행자들에게 꼭 맞는 시설을 제공하고 있어요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"밤이 되면, 지역 식문화를 경험할 수 있는 레스토랑이 기다리고 있어요. 신선한 재료로 만들어진 다양한 요리는 기분 좋은 맛의 향연을 펼쳐요. 호텔의 친절한 직원들은 언제나 여러분의 편안한 여행을 돕기 위해 최선을 다하고 있답니다. 이곳에 오시면, 특유의 따스한 환대를 직접 느끼실 수 있을 거예요. 나만의 특별한 여행 이야기를 만들어 보세요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/the-liguanea-club/hotel/kingston-jm.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/the-liguanea-club/hotel/kingston-jm.html"},"children":[{"type":"text","value":"더 리구아니아 클럽 (The Liguanea Club)","position":{"start":{"line":33,"column":2,"offset":2166},"end":{"line":33,"column":32,"offset":2196}}}],"position":{"start":{"line":33,"column":1,"offset":2165},"end":{"line":33,"column":103,"offset":2267}}},"children":"더 리구아니아 클럽 (The Liguanea Club)"},"post":{"id":"b27613a1-e3c8-4899-9849-10a7cd0dab33","title":"킹스턴의 인생샷 보장, 인스타 핫플 호텔 5선","fileName":"킹스턴-인생샷-보장-호텔-5선-b27613a1","description":"킹스턴에서의 특별한 여행을 꿈꾸세요? 'Spanish Court Hotel', 'The Liguanea Club', 'Courtleigh Hotel & Suites', 'The Jamaica Pegasus Hotel', 'Royal at Courtleigh Towers'는 인생샷을 남기기에 완벽한 장소입니다. 각각의 호텔이 제공하는 독특한 분위기와 최고급 시설이 여러분의 여행을 더욱 특별하게 만들어줄 것입니다. 이 호텔들에서 즐기는 멋진 경치와 잊지 못할 순간들이 여러분의 소셜 미디어를 빛내줄 것입니다!","date":"2025-07-17T08:30:33.778Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"미식","path":"$$/kr/tags/미식","id":"미식"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"세련됨","path":"$$/kr/tags/세련됨","id":"세련됨"},{"name":"자메이카","path":"$$/kr/tags/자메이카","id":"자메이카"},{"name":"편안한 휴식","path":"$$/kr/tags/편안한-휴식","id":"편안한-휴식"},{"name":"도심 속 오아시스","path":"$$/kr/tags/도심-속-오아시스","id":"도심-속-오아시스"},{"name":"테라스","path":"$$/kr/tags/테라스","id":"테라스"},{"name":"체육관","path":"$$/kr/tags/체육관","id":"체육관"},{"name":"킹스턴","path":"$$/kr/tags/킹스턴","id":"킹스턴"},{"name":"고급","path":"$$/kr/tags/고급","id":"고급"},{"name":"음식","path":"$$/kr/tags/음식","id":"음식"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"고급스러움","path":"$$/kr/tags/고급스러움","id":"고급스러움"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"멋진 뷰","path":"$$/kr/tags/멋진-뷰","id":"멋진-뷰"},{"name":"친절한 서비스","path":"$$/kr/tags/친절한-서비스","id":"친절한-서비스"},{"name":"현지 음식","path":"$$/kr/tags/현지-음식","id":"현지-음식"},{"name":"피트니스","path":"$$/kr/tags/피트니스","id":"피트니스"},{"name":"요리","path":"$$/kr/tags/요리","id":"요리"},{"name":"문화","path":"$$/kr/tags/문화","id":"문화"},{"name":"쇼핑","path":"$$/kr/tags/쇼핑","id":"쇼핑"},{"name":"아늑함","path":"$$/kr/tags/아늑함","id":"아늑함"},{"name":"뷰","path":"$$/kr/tags/뷰","id":"뷰"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"}],"banner":"/images/19917-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"킹스턴-인생샷-보장-호텔-5선-b27613a1","content":"$e","category":"articles","readMin":"6.9"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"20839239","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"럭셔리와 편안함의 하모니"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Courtleigh Hotel and Suites\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/763/76338/76338_16051218520042282267.jpg","alt":"Courtleigh Hotel and Suites_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/27805020/1378669/b6468fb04af97743ef9b541bd66e731e.jpeg","alt":"Courtleigh Hotel and Suites_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/527073681.jpg?k=50e08e0a13ba464bfb37a14f3147a40b1902c75d6b9b0db42a6320f455ba5c92&s=50x50","alt":"Courtleigh Hotel and Suites_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"킹스턴에 위치한 이 멋진 호텔은 고풍스러우면서도 세련된 공간 속에서 진정한 안락함을 선사해요. 웅장한 로비를 지나 침실로 들어서면 넉넉한 공간과 고급스러운 가구가 배치되어 있어 투숙객들에게 편안함을 제공하지요. 특히, 창문 밖으로 보이는 멋진 전경이 하루의 피로를 한순간에 잊어버리게 해준답니다. 모든 것이 적절한 조화를 이루고 있어 모든 손님이 편안히 쉴 수 있을 거예요. 어디선가 아름다운 음악이 들려올 것 같은 분위기도 느껴지곤 하지요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"음식 역시 비할 데 없이 훌륭해요. 특히, 현지의 신선한 재료를 활용한 요리들은 더욱 인상적이에요. 오직 이곳에서만 즐길 수 있는 맛을 경험할 때, 킹스턴 방문이 특별하게 느껴질 거예요. 친절한 직원들은 언제나 손님의 필요에 귀 기울이고 있어 머무는 동안 어떤 도움도 기꺼이 제공할 준비가 되어 있답니다. 이 호텔에서의 경험은 마치 예술작품처럼 마음 속에 각인될 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/courtleigh-hotel-suites/hotel/kingston-jm.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/courtleigh-hotel-suites/hotel/kingston-jm.html"},"children":[{"type":"text","value":"Courtleigh Hotel and Suites","position":{"start":{"line":46,"column":2,"offset":3206},"end":{"line":46,"column":29,"offset":3233}}}],"position":{"start":{"line":46,"column":1,"offset":3205},"end":{"line":46,"column":106,"offset":3310}}},"children":"Courtleigh Hotel and Suites"},"post":{"id":"b27613a1-e3c8-4899-9849-10a7cd0dab33","title":"킹스턴의 인생샷 보장, 인스타 핫플 호텔 5선","fileName":"킹스턴-인생샷-보장-호텔-5선-b27613a1","description":"킹스턴에서의 특별한 여행을 꿈꾸세요? 'Spanish Court Hotel', 'The Liguanea Club', 'Courtleigh Hotel & Suites', 'The Jamaica Pegasus Hotel', 'Royal at Courtleigh Towers'는 인생샷을 남기기에 완벽한 장소입니다. 각각의 호텔이 제공하는 독특한 분위기와 최고급 시설이 여러분의 여행을 더욱 특별하게 만들어줄 것입니다. 이 호텔들에서 즐기는 멋진 경치와 잊지 못할 순간들이 여러분의 소셜 미디어를 빛내줄 것입니다!","date":"2025-07-17T08:30:33.778Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"미식","path":"$$/kr/tags/미식","id":"미식"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"세련됨","path":"$$/kr/tags/세련됨","id":"세련됨"},{"name":"자메이카","path":"$$/kr/tags/자메이카","id":"자메이카"},{"name":"편안한 휴식","path":"$$/kr/tags/편안한-휴식","id":"편안한-휴식"},{"name":"도심 속 오아시스","path":"$$/kr/tags/도심-속-오아시스","id":"도심-속-오아시스"},{"name":"테라스","path":"$$/kr/tags/테라스","id":"테라스"},{"name":"체육관","path":"$$/kr/tags/체육관","id":"체육관"},{"name":"킹스턴","path":"$$/kr/tags/킹스턴","id":"킹스턴"},{"name":"고급","path":"$$/kr/tags/고급","id":"고급"},{"name":"음식","path":"$$/kr/tags/음식","id":"음식"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"고급스러움","path":"$$/kr/tags/고급스러움","id":"고급스러움"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"멋진 뷰","path":"$$/kr/tags/멋진-뷰","id":"멋진-뷰"},{"name":"친절한 서비스","path":"$$/kr/tags/친절한-서비스","id":"친절한-서비스"},{"name":"현지 음식","path":"$$/kr/tags/현지-음식","id":"현지-음식"},{"name":"피트니스","path":"$$/kr/tags/피트니스","id":"피트니스"},{"name":"요리","path":"$$/kr/tags/요리","id":"요리"},{"name":"문화","path":"$$/kr/tags/문화","id":"문화"},{"name":"쇼핑","path":"$$/kr/tags/쇼핑","id":"쇼핑"},{"name":"아늑함","path":"$$/kr/tags/아늑함","id":"아늑함"},{"name":"뷰","path":"$$/kr/tags/뷰","id":"뷰"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"}],"banner":"/images/19917-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"킹스턴-인생샷-보장-호텔-5선-b27613a1","content":"$f","category":"articles","readMin":"6.9"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"090cc594","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"친근한 휴식과 여유의 공간"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/2673418/0/74ab4458d9d2dd0cd57e11dec02eb5bb.jpeg","alt":"더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/673574828.jpg?k=bd3da86cb9baaa93ff9ddd04fbfba5c669576bf1577207dea8948ef2c0b46bfe&s=50x50","alt":"더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/243567916.jpg?k=d9f8ef012c9c06a8a6cd794579f72e685cadf66163f8111f26d9e55c712cbce5&s=50x50","alt":"더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"재미있는 순간들이 많이 기다리고 있는 이곳은 다양한 편의시설로 가득 차 있어요. 객실에서는 따뜻한 색감과 고급스러운 인테리어가 조화를 이루며, 편안하게 휴식을 취할 수 있는 최상의 공간을 제공해요. 그리고 무엇보다도 아침에 눈을 뜨면 창 밖으로 보이는 멋진 뷰는 하루의 시작을 더욱 특별하게 만들어준답니다. 이 호텔은 훌륭한 서비스와 마치 가족 같은 마음으로 다가오는 친절함으로 여러분을 기다리고 있어요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"즐거운 무료 조식을 맛볼 수 있는 이곳에서는 다양한 국제 요리를 즐길 수 있으며, 매일 아침 갓 구운 빵과 달콤한 음료가 준비되어 있어요. 호텔 내 레스토랑에서 경험할 수 있는 현지 음식은 그야말로 잊지 못할 기억이 될 거예요. 피트니스 센터에서의 운동 및 수영장에서의 여유로운 시간을 통해 활기를 되찾을 수 있는 기회를 제공하며, 모든 순간이 특별하게 기록될 수 있도록 배려해주는 것이 이곳의 매력이랍니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/the-jamaica-pegasus-hotel_2/hotel/kingston-jm.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/the-jamaica-pegasus-hotel_2/hotel/kingston-jm.html"},"children":[{"type":"text","value":"더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)","position":{"start":{"line":59,"column":2,"offset":4367},"end":{"line":59,"column":44,"offset":4409}}}],"position":{"start":{"line":59,"column":1,"offset":4366},"end":{"line":59,"column":125,"offset":4490}}},"children":"더 자메이카 페가수스 호텔 (The Jamaica Pegasus Hotel)"},"post":{"id":"b27613a1-e3c8-4899-9849-10a7cd0dab33","title":"킹스턴의 인생샷 보장, 인스타 핫플 호텔 5선","fileName":"킹스턴-인생샷-보장-호텔-5선-b27613a1","description":"킹스턴에서의 특별한 여행을 꿈꾸세요? 'Spanish Court Hotel', 'The Liguanea Club', 'Courtleigh Hotel & Suites', 'The Jamaica Pegasus Hotel', 'Royal at Courtleigh Towers'는 인생샷을 남기기에 완벽한 장소입니다. 각각의 호텔이 제공하는 독특한 분위기와 최고급 시설이 여러분의 여행을 더욱 특별하게 만들어줄 것입니다. 이 호텔들에서 즐기는 멋진 경치와 잊지 못할 순간들이 여러분의 소셜 미디어를 빛내줄 것입니다!","date":"2025-07-17T08:30:33.778Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"미식","path":"$$/kr/tags/미식","id":"미식"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"세련됨","path":"$$/kr/tags/세련됨","id":"세련됨"},{"name":"자메이카","path":"$$/kr/tags/자메이카","id":"자메이카"},{"name":"편안한 휴식","path":"$$/kr/tags/편안한-휴식","id":"편안한-휴식"},{"name":"도심 속 오아시스","path":"$$/kr/tags/도심-속-오아시스","id":"도심-속-오아시스"},{"name":"테라스","path":"$$/kr/tags/테라스","id":"테라스"},{"name":"체육관","path":"$$/kr/tags/체육관","id":"체육관"},{"name":"킹스턴","path":"$$/kr/tags/킹스턴","id":"킹스턴"},{"name":"고급","path":"$$/kr/tags/고급","id":"고급"},{"name":"음식","path":"$$/kr/tags/음식","id":"음식"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"고급스러움","path":"$$/kr/tags/고급스러움","id":"고급스러움"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"멋진 뷰","path":"$$/kr/tags/멋진-뷰","id":"멋진-뷰"},{"name":"친절한 서비스","path":"$$/kr/tags/친절한-서비스","id":"친절한-서비스"},{"name":"현지 음식","path":"$$/kr/tags/현지-음식","id":"현지-음식"},{"name":"피트니스","path":"$$/kr/tags/피트니스","id":"피트니스"},{"name":"요리","path":"$$/kr/tags/요리","id":"요리"},{"name":"문화","path":"$$/kr/tags/문화","id":"문화"},{"name":"쇼핑","path":"$$/kr/tags/쇼핑","id":"쇼핑"},{"name":"아늑함","path":"$$/kr/tags/아늑함","id":"아늑함"},{"name":"뷰","path":"$$/kr/tags/뷰","id":"뷰"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"}],"banner":"/images/19917-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"킹스턴-인생샷-보장-호텔-5선-b27613a1","content":"$10","category":"articles","readMin":"6.9"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"08df91ef","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"킹스턴의 특별한 휴식 공간"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["royal at courtleigh towers\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/692836907.jpg?k=de5b52f9bb89d5fc7d1e8ca2b7083ae25fd0601ce1cfe900decf6e1a0f276caa&s=450x450","alt":"royal at courtleigh towers_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/597154373.jpg?k=0ee6551b131c515ef55e67ff1fb595053b48832d14c80966b999723d5be8441f&s=50x50","alt":"royal at courtleigh towers_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/572867266.jpg?k=c7773e550c2baf010816cfd486f516aeed8ae5d226ac704c9c334e5bd1db474e&s=50x50","alt":"royal at courtleigh towers_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"도심 속에서 피로를 푸는 마법 같은 장소라면 이곳을 먼저 추천할게요. 주위에 다양한 레스토랑과 카페가 있어요. 신선한 재료로 요리된 맛있는 음식들을 맛볼 수 있어요. 또한 가까운 거리에는 문화적 명소와 쇼핑몰이 위치해 있어 언제든지 도시의 활기를 만끽할 수 있답니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"실내로 들어서면 깔끔하고 일련의 세심한 배려를 느낄 수 있죠. 탁 트인 객실과 아늑한 침대는 하루의 피로를 풀어주기에 충분해요. 뷰도 멋지답니다. 서비스도 훌륭해요. 직원들이 언제나 친절하고 필요한 것이 있을 때는 최대한 빠르게 도와주려고 노력하거든요. 아, 그리고 조식도 잊지 마세요! 아침에 상큼한 시작을 하는데 정말 도움이 돼요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/royal-at-courtleigh-towers/hotel/all/kingston-jm.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/royal-at-courtleigh-towers/hotel/all/kingston-jm.html"},"children":[{"type":"text","value":"royal at courtleigh towers","position":{"start":{"line":72,"column":2,"offset":5424},"end":{"line":72,"column":28,"offset":5450}}}],"position":{"start":{"line":72,"column":1,"offset":5423},"end":{"line":72,"column":112,"offset":5534}}},"children":"royal at courtleigh towers"},"post":{"id":"b27613a1-e3c8-4899-9849-10a7cd0dab33","title":"킹스턴의 인생샷 보장, 인스타 핫플 호텔 5선","fileName":"킹스턴-인생샷-보장-호텔-5선-b27613a1","description":"킹스턴에서의 특별한 여행을 꿈꾸세요? 'Spanish Court Hotel', 'The Liguanea Club', 'Courtleigh Hotel & Suites', 'The Jamaica Pegasus Hotel', 'Royal at Courtleigh Towers'는 인생샷을 남기기에 완벽한 장소입니다. 각각의 호텔이 제공하는 독특한 분위기와 최고급 시설이 여러분의 여행을 더욱 특별하게 만들어줄 것입니다. 이 호텔들에서 즐기는 멋진 경치와 잊지 못할 순간들이 여러분의 소셜 미디어를 빛내줄 것입니다!","date":"2025-07-17T08:30:33.778Z","tags":[{"name":"중미 및 카리브해","path":"$$/kr/tags/중미-및-카리브해","id":"중미-및-카리브해"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"수영장","path":"$$/kr/tags/수영장","id":"수영장"},{"name":"미식","path":"$$/kr/tags/미식","id":"미식"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"친절","path":"$$/kr/tags/친절","id":"친절"},{"name":"세련됨","path":"$$/kr/tags/세련됨","id":"세련됨"},{"name":"자메이카","path":"$$/kr/tags/자메이카","id":"자메이카"},{"name":"편안한 휴식","path":"$$/kr/tags/편안한-휴식","id":"편안한-휴식"},{"name":"도심 속 오아시스","path":"$$/kr/tags/도심-속-오아시스","id":"도심-속-오아시스"},{"name":"테라스","path":"$$/kr/tags/테라스","id":"테라스"},{"name":"체육관","path":"$$/kr/tags/체육관","id":"체육관"},{"name":"킹스턴","path":"$$/kr/tags/킹스턴","id":"킹스턴"},{"name":"고급","path":"$$/kr/tags/고급","id":"고급"},{"name":"음식","path":"$$/kr/tags/음식","id":"음식"},{"name":"전망","path":"$$/kr/tags/전망","id":"전망"},{"name":"고급스러움","path":"$$/kr/tags/고급스러움","id":"고급스러움"},{"name":"편의시설","path":"$$/kr/tags/편의시설","id":"편의시설"},{"name":"멋진 뷰","path":"$$/kr/tags/멋진-뷰","id":"멋진-뷰"},{"name":"친절한 서비스","path":"$$/kr/tags/친절한-서비스","id":"친절한-서비스"},{"name":"현지 음식","path":"$$/kr/tags/현지-음식","id":"현지-음식"},{"name":"피트니스","path":"$$/kr/tags/피트니스","id":"피트니스"},{"name":"요리","path":"$$/kr/tags/요리","id":"요리"},{"name":"문화","path":"$$/kr/tags/문화","id":"문화"},{"name":"쇼핑","path":"$$/kr/tags/쇼핑","id":"쇼핑"},{"name":"아늑함","path":"$$/kr/tags/아늑함","id":"아늑함"},{"name":"뷰","path":"$$/kr/tags/뷰","id":"뷰"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"조식","path":"$$/kr/tags/조식","id":"조식"}],"banner":"/images/19917-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"킹스턴-인생샷-보장-호텔-5선-b27613a1","content":"$11","category":"articles","readMin":"6.9"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["자메이카의 킹스턴은 매력적인 호텔들이 즐비한 곳입니다. 특히 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"S Hotel Kingston"}],"은 세련된 인테리어와 훌륭한 위치 덕에 잊을 수 없는 경험을 선사합니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"더 리구아니아 클럽"}],"은 아름다운 정원과 다양한 시설로 도심 속에서도 완벽한 휴식을 제공합니다. ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Courtleigh Hotel and Suites"}],"는 고급스러운 편안함과 훌륭한 음식으로 특별한 경험을 약속하며, ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"더 자메이카 페가수스 호텔"}],"에서는 고급스러운 인테리어와 멋진 뷰, 그리고 다양한 편의 시설과 현지 요리를 즐길 수 있습니다. 또한 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":"Royal at Courtleigh Towers"}],"는 전통과 현대가 어우러진 특별한 휴식처로 완벽한 여정을 보장합니다. 킹스턴에서의 특별한 여행을 계획 중이라면, 이 호텔들에서의 체류를 ",["$","strong",null,{"className":"font-black","children":"지금 예약"}],"해보세요."]}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"킹스턴의 인생샷 보장, 인스타 핫플 호텔 5선","toc":[{"tagName":"h2","title":"킹스턴에서 인생샷을 남길 수 있는 인기 호텔 5선","id":"fa2fcbca"},{"tagName":"h2","title":"도시 속 럭셔리 오아시스","id":"e52f113d"},{"tagName":"h2","title":"열대 속의 아늑함을 즐겨보세요","id":"aa78bef0"},{"tagName":"h2","title":"럭셔리와 편안함의 하모니","id":"20839239"},{"tagName":"h2","title":"친근한 휴식과 여유의 공간","id":"090cc594"},{"tagName":"h2","title":"킹스턴의 특별한 휴식 공간","id":"08df91ef"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

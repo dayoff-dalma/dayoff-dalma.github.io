@@ -1,0 +1,278 @@
+1:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/faaaebde45bfcdd4.css",{"as":"style"}]
+0:["FL5qPEDR-MTJ47-06Xiua",[[["",{"children":["kr",{"children":["articles",{"children":[["slug","%ED%91%B8%EB%86%88%ED%8E%9C-%EC%9D%B8%EC%8B%B8%EB%93%A4%EC%9D%B4-%EC%B0%BE%EB%8A%94-%EB%8F%84%EC%8B%AC-%EC%86%8D-%ED%9E%90%EB%A7%81-%ED%98%B8%ED%85%94-4%EC%84%A0-230cd46b","d"],{"children":["__PAGE__?{\"slug\":\"푸놈펜-인싸들이-찾는-도심-속-힐링-호텔-4선-230cd46b\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/faaaebde45bfcdd4.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-21fed9d4f5b142b6.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-fe4f516c1ac1dd0f.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_e8ce0c","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","kr","children","articles","children",["slug","%ED%91%B8%EB%86%88%ED%8E%9C-%EC%9D%B8%EC%8B%B8%EB%93%A4%EC%9D%B4-%EC%B0%BE%EB%8A%94-%EB%8F%84%EC%8B%AC-%EC%86%8D-%ED%9E%90%EB%A7%81-%ED%98%B8%ED%85%94-4%EC%84%A0-230cd46b","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"푸놈펜-인싸들이-찾는-도심-속-힐링-호텔-4선-230cd46b\"}"},"styles":[]}],"segment":["slug","%ED%91%B8%EB%86%88%ED%8E%9C-%EC%9D%B8%EC%8B%B8%EB%93%A4%EC%9D%B4-%EC%B0%BE%EB%8A%94-%EB%8F%84%EC%8B%AC-%EC%86%8D-%ED%9E%90%EB%A7%81-%ED%98%B8%ED%85%94-4%EC%84%A0-230cd46b","d"]},"styles":[]}],"segment":"articles"},"styles":[]}],"segment":"kr"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"푸놈펜 인싸들이 찾는 도심 속 힐링 호텔 4선 | 달마야 여행가자"}],["$","meta","2",{"name":"description","content":"요즘 핫한 푸놈펜에서도 트렌디한 인싸들이 찾아가는 호텔들만을 엄선했습니다. 'The Plantation Urban Resort and Spa', 'Nagaworld Hotel & Entertainment Complex', 'Aquarius Hotel & Urban Resort', 'Palace Gate Hotel & Resort'는 모두 도심에서 느낄 수 있는 특별한 경험을 선사합니다. 이곳에서 도심 속 힐링을 만끽하세요!"}],["$","meta","3",{"name":"keywords","content":"아시아,도심,리조트,편안함,스파,휴양,크메르,럭셔리,미식,서비스,도심리조트,옥상수영장,편안한숙박,아침식사,낭만,휴식,여행,고급,관광"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://dalmapping.com/articles/%ED%91%B8%EB%86%88%ED%8E%9C-%EC%9D%B8%EC%8B%B8%EB%93%A4%EC%9D%B4-%EC%B0%BE%EB%8A%94-%EB%8F%84%EC%8B%AC-%EC%86%8D-%ED%9E%90%EB%A7%81-%ED%98%B8%ED%85%94-4%EC%84%A0-230cd46b"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"푸놈펜 인싸들이 찾는 도심 속 힐링 호텔 4선 | 달마야 여행가자"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"푸놈펜 인싸들이 찾는 도심 속 힐링 호텔 4선 | 달마야 여행가자"}],["$","meta","10",{"property":"og:description","content":"요즘 핫한 푸놈펜에서도 트렌디한 인싸들이 찾아가는 호텔들만을 엄선했습니다. 'The Plantation Urban Resort and Spa', 'Nagaworld Hotel & Entertainment Complex', 'Aquarius Hotel & Urban Resort', 'Palace Gate Hotel & Resort'는 모두 도심에서 느낄 수 있는 특별한 경험을 선사합니다. 이곳에서 도심 속 힐링을 만끽하세요!"}],["$","meta","11",{"property":"og:url","content":"https://dalmapping.com/articles/%ED%91%B8%EB%86%88%ED%8E%9C-%EC%9D%B8%EC%8B%B8%EB%93%A4%EC%9D%B4-%EC%B0%BE%EB%8A%94-%EB%8F%84%EC%8B%AC-%EC%86%8D-%ED%9E%90%EB%A7%81-%ED%98%B8%ED%85%94-4%EC%84%A0-230cd46b"}],["$","meta","12",{"property":"og:site_name","content":"달마야 여행가자"}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://dalmapping.com/images/4816-1x1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"달마야 여행가자"}],["$","meta","18",{"name":"twitter:title","content":"푸놈펜 인싸들이 찾는 도심 속 힐링 호텔 4선 | 달마야 여행가자"}],["$","meta","19",{"name":"twitter:description","content":"요즘 핫한 푸놈펜에서도 트렌디한 인싸들이 찾아가는 호텔들만을 엄선했습니다. 'The Plantation Urban Resort and Spa', 'Nagaworld Hotel & Entertainment Complex', 'Aquarius Hotel & Urban Resort', 'Palace Gate Hotel & Resort'는 모두 도심에서 느낄 수 있는 특별한 경험을 선사합니다. 이곳에서 도심 속 힐링을 만끽하세요!"}],["$","meta","20",{"name":"twitter:image","content":"https://dalmapping.com/images/4816-1x1.jpg"}],["$","link","21",{"rel":"icon","href":"https://dalmapping.com/favicon.ico"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://dalmapping.com/favicon.ico"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":28895,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+b:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"Image","async":false}
+c:I{"id":86233,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+11:I{"id":27434,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","430:static/chunks/430-3d4bdcbb44e90e70.js","368:static/chunks/app/kr/articles/[slug]/page-c2bf98051c4fe3d3.js"],"name":"","async":false}
+d:T2518,
+    
+
+
+## 푸놈펜 도심 속에서 마음의 안식을 찾을 수 있는 4대 힐링 호텔
+
+안녕하세요. 여행을 사랑하는 모든 분들! 오늘 소개해드릴 특별한 여행지는 바로 **캄보디아의 심장** 푸놈펜에서 찾을 수 있는 도심 속 힐링 호텔들이에요. 하루의 피곤함을 풀어줄 완벽한 휴식처, 그리고 도심의 생동감을 동시에 느낄 수 있는 곳들을 소개하려고 합니다. 바쁜 일상에서 잠시 벗어나 **마음의 여유**를 찾고 싶다면, 이번 기사를 주목해 주세요. 푸놈펜의 색다른 매력을 경험할 수 있는 이 호텔들은 여행자들을 위한 최고의 선택지가 될 것입니다. 숨겨진 도시 속 오아시스와 같은 장소들입니다. 그럼 함께 떠나볼까요?
+
+
+## 프놈펜의 숨겨진 도심 휴양지
+플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)
+    ![플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)_0_image](https://pix8.agoda.net/hotelImages/288094/0/9a47f999366512c998ddb3f72e68bbdc.jpeg)
+![플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)_1_image](https://pix8.agoda.net/hotelImages/288094/-1/6059061cb07189b7686fdab4c1a9fe24.jpg)
+![플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/85515300.jpg)
+
+프놈펜의 중심가를 거닐다 보면, **아름다운 도시 리조트**가 하나 눈에 띄어요. 바로 이곳은 바쁜 일상 속 잠시의 **도피처**처럼 느껴지는 곳이에요. 내부는 현대적인 디자인과 전통적인 크메르 스타일이 조화롭게 어우러져, 다른 세계에 있는 것 같은 기분을 느끼게 해요. 객실은 넓고 깔끔하며, 마침내 긴 하루를 보낸 후 편안하게 쉴 수 있는 공간을 제공해요. 아침에는 조용한 정원에서 **싱그러운 아침 식사**를 즐길 수 있어요. 마치 감각적인 도시 속에서 자연을 만끽하는 기분이랄까요?
+
+저녁이 되면 몸과 마음의 긴장을 풀 수 있는 스파에서 **휴식을 취해보세요**. 이곳의 스파는 전문가들이 다양한 치료법을 제공해, 머리부터 발끝까지 **완벽하게 재충전**할 수 있는 기회가 될 거예요. 도시의 소음을 피하고 싶은 날에는 바깥의 소란스러운 풍경과는 달리, 풀사이드에서 느긋하게 시간을 보내는 것도 좋아요. 방문할 때마다 **기분 좋은 경험**이 되는 이곳은 프놈펜의 진정한 보석이 아닐까 싶어요.
+
+[플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)](https://www.agoda.com/ko-kr/the-plantation-urban-resort-and-spa/hotel/phnom-penh-kh.html)
+ 
+
+## 도시의 품격 있는 안식처
+나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)
+    ![나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)_0_image](https://pix8.agoda.net/hotelImages/109123/0/cf76cd0101dec3537d6a19c879c44174.jpg)
+![나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/642483253.jpg)
+![나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)_2_image](https://pix8.agoda.net/hotelImages/109123/-1/8cd96ec959b5ee7c2702e042acb3bc23.jpg)
+
+프놈펜의 활기찬 분위기와는 대조적으로, 이곳은 여행자의 피로를 풀어주기에 최적의 장소에요. 호텔에 들어서면 넓고 고급스러운 로비가 반겨주고, 어디든 볼 수 있는 미소 가득한 직원들의 서비스가 눈에 띄어요. 이곳의 객실은 현대적인 감각으로 꾸며져 있으며, 편안한 침대와 세련된 인테리어 덕분에 일상의 스트레스를 잊을 수 있는 공간이에요. 특히, 야경이 아름다운 창문 밖 전경은 눈을 즐겁게 해주지요.
+
+레스토랑과 바에서 제공하는 다양한 음식과 음료는 미식가들의 입맛을 사로잡기에 충분해요. 카지노와 사우나, 스파 등 다양한 부대시설도 여행의 지루함을 덜어주고, 관광을 마친 후에도 즐거움을 계속 느낄 수 있게 해줘요. 주변 관광지도 도보로 쉽게 접근할 수 있어, 도시 탐방 중간중간 쉬어가기에 딱이에요. 편리함과 즐거움을 동시에 추구하는 여행자에게 이곳은 완벽한 선택이랍니다!
+
+[나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)](https://www.agoda.com/ko-kr/nagaworld-hotel-entertainment-complex/hotel/phnom-penh-kh.html)
+ 
+
+## 도심 속 오아시스에서의 편안한 휴식
+아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)
+    ![아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)_0_image](https://pix8.agoda.net/hotelImages/119/1193236/1193236_16062812260044171977.jpg)
+![아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/72042101.jpg)
+![아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/72035165.jpg)
+
+도심 속 바쁜 일상에서 벗어나 편안한 휴식을 취하고 싶다면, 한적한 리조트에 머물러보는 것은 어떠신가요? **리조트의 옥상 수영장**은 도시의 전경을 감상하며 수영을 즐길 수 있게 해주고, 주변 소음에서 벗어나 한적함을 만끽할 수 있어요. 아침 햇살이 내리쬐는 수영장 옆에서는 최고급 아침 식사가 준비되어 있어, 새로운 하루를 활기차게 시작할 수 있답니다.
+
+뿐만 아니라, 이곳에서는 피곤한 몸과 마음을 달래줄 다양한 서비스가 마련되어 있어요. **호텔 내 스파 시설**에서 **전문 테라피스트**가 제공하는 차원이 다른 마사지로 하루의 피로를 말끔히 씻어내 보세요. 인근 유명 관광지로의 접근성도 뛰어나기 때문에, 도심 관광을 즐기기에 최적의 위치랍니다. 따뜻한 서비스와 청결한 객실이 호텔을 더욱 특별하게 만들어 줍니다.
+
+[아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)](https://www.agoda.com/ko-kr/aquarius-hotel-urban-resort/hotel/phnom-penh-kh.html)
+ 
+
+## 프놈펜에서의 낭만적인 휴식
+팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)
+    ![팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)_0_image](https://cdn6.agoda.net/images/property/flex/AgodaLuxeBadge_26px.svg)
+![팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)_1_image](https://pix8.agoda.net/hotelImages/2223004/0/f25c2176957962109fc4281a6184900c.jpg)
+![팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)_2_image](https://pix8.agoda.net/hotelImages/2223004/-1/541c1a2017d6205a9cc3a93b7ba1915d.jpg)
+
+프놈펜에서의 특별한 휴가를 계획하고 계신가요? 이번에 소개할 프놈펜의 숨은 보석, 바로 이 리조트에서의 휴식은 모든 여행자들의 마음을 사로잡을 거예요. 이곳은 현대적인 편의시설과 고급스러운 분위기가 어우러져 어딜 가나 환상적인 전망을 제공합니다. 특히, 스파와 수영장은 하루의 피로를 모두 풀어주는 완벽한 공간이죠. 또한, 리조트의 레스토랑에서는 그 지역만큼이나 다양한 요리들을 맛볼 수 있어 미각을 만족시켜 줄 거예요.
+
+호텔의 위치는 여행자들이 프놈펜에서 가장 매력적인 장소로 쉽게 접근할 수 있게 도와줘요. 도심 속의 평화로운 도피처에서 여유 있는 휴식을 즐기거나 가까운 관광 명소를 방문하며 다양한 경험을 더할 수 있어요. 고객 서비스 역시 친절하고 세심해서, 머무는 동안 언제든지 도움을 받을 수 있어 마음이 놓여요. 그러니 이곳에서의 하루는 기대 이상의 시간이 될 거라는 점을 확신합니다.
+
+[팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)](https://www.agoda.com/ko-kr/palace-gate-hotel-resort/hotel/phnom-penh-kh.html)
+ 
+
+
+## 결론
+
+프놈펜에서의 특별한 여행을 계획 중이라면, *플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)*의 현대적이면서도 전통적인 조화가 돋보이는 럭셔리를 경험해보세요. 프놈펜의 매력을 현대적 감각으로 전달하는 *나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)*에서는 미식과 휴식을 동시에 즐길 수 있습니다. 또한, 도심 속 오아시스 같은 *아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)*에서 특별한 편안함을 만끽해보세요. 마지막으로, 프놈펜의 경관을 더하여 고급스러운 시설과 친절한 서비스로 특별한 휴식을 제공하는 *팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)*이 있습니다. 이제 당신의 여행을 완성할 단 한 곳을 예약해보세요. 프놈펜에서의 잊지 못할 순간들이 당신을 기다리고 있습니다.
+
+e:T2518,
+    
+
+
+## 푸놈펜 도심 속에서 마음의 안식을 찾을 수 있는 4대 힐링 호텔
+
+안녕하세요. 여행을 사랑하는 모든 분들! 오늘 소개해드릴 특별한 여행지는 바로 **캄보디아의 심장** 푸놈펜에서 찾을 수 있는 도심 속 힐링 호텔들이에요. 하루의 피곤함을 풀어줄 완벽한 휴식처, 그리고 도심의 생동감을 동시에 느낄 수 있는 곳들을 소개하려고 합니다. 바쁜 일상에서 잠시 벗어나 **마음의 여유**를 찾고 싶다면, 이번 기사를 주목해 주세요. 푸놈펜의 색다른 매력을 경험할 수 있는 이 호텔들은 여행자들을 위한 최고의 선택지가 될 것입니다. 숨겨진 도시 속 오아시스와 같은 장소들입니다. 그럼 함께 떠나볼까요?
+
+
+## 프놈펜의 숨겨진 도심 휴양지
+플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)
+    ![플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)_0_image](https://pix8.agoda.net/hotelImages/288094/0/9a47f999366512c998ddb3f72e68bbdc.jpeg)
+![플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)_1_image](https://pix8.agoda.net/hotelImages/288094/-1/6059061cb07189b7686fdab4c1a9fe24.jpg)
+![플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/85515300.jpg)
+
+프놈펜의 중심가를 거닐다 보면, **아름다운 도시 리조트**가 하나 눈에 띄어요. 바로 이곳은 바쁜 일상 속 잠시의 **도피처**처럼 느껴지는 곳이에요. 내부는 현대적인 디자인과 전통적인 크메르 스타일이 조화롭게 어우러져, 다른 세계에 있는 것 같은 기분을 느끼게 해요. 객실은 넓고 깔끔하며, 마침내 긴 하루를 보낸 후 편안하게 쉴 수 있는 공간을 제공해요. 아침에는 조용한 정원에서 **싱그러운 아침 식사**를 즐길 수 있어요. 마치 감각적인 도시 속에서 자연을 만끽하는 기분이랄까요?
+
+저녁이 되면 몸과 마음의 긴장을 풀 수 있는 스파에서 **휴식을 취해보세요**. 이곳의 스파는 전문가들이 다양한 치료법을 제공해, 머리부터 발끝까지 **완벽하게 재충전**할 수 있는 기회가 될 거예요. 도시의 소음을 피하고 싶은 날에는 바깥의 소란스러운 풍경과는 달리, 풀사이드에서 느긋하게 시간을 보내는 것도 좋아요. 방문할 때마다 **기분 좋은 경험**이 되는 이곳은 프놈펜의 진정한 보석이 아닐까 싶어요.
+
+[플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)](https://www.agoda.com/ko-kr/the-plantation-urban-resort-and-spa/hotel/phnom-penh-kh.html)
+ 
+
+## 도시의 품격 있는 안식처
+나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)
+    ![나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)_0_image](https://pix8.agoda.net/hotelImages/109123/0/cf76cd0101dec3537d6a19c879c44174.jpg)
+![나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/642483253.jpg)
+![나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)_2_image](https://pix8.agoda.net/hotelImages/109123/-1/8cd96ec959b5ee7c2702e042acb3bc23.jpg)
+
+프놈펜의 활기찬 분위기와는 대조적으로, 이곳은 여행자의 피로를 풀어주기에 최적의 장소에요. 호텔에 들어서면 넓고 고급스러운 로비가 반겨주고, 어디든 볼 수 있는 미소 가득한 직원들의 서비스가 눈에 띄어요. 이곳의 객실은 현대적인 감각으로 꾸며져 있으며, 편안한 침대와 세련된 인테리어 덕분에 일상의 스트레스를 잊을 수 있는 공간이에요. 특히, 야경이 아름다운 창문 밖 전경은 눈을 즐겁게 해주지요.
+
+레스토랑과 바에서 제공하는 다양한 음식과 음료는 미식가들의 입맛을 사로잡기에 충분해요. 카지노와 사우나, 스파 등 다양한 부대시설도 여행의 지루함을 덜어주고, 관광을 마친 후에도 즐거움을 계속 느낄 수 있게 해줘요. 주변 관광지도 도보로 쉽게 접근할 수 있어, 도시 탐방 중간중간 쉬어가기에 딱이에요. 편리함과 즐거움을 동시에 추구하는 여행자에게 이곳은 완벽한 선택이랍니다!
+
+[나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)](https://www.agoda.com/ko-kr/nagaworld-hotel-entertainment-complex/hotel/phnom-penh-kh.html)
+ 
+
+## 도심 속 오아시스에서의 편안한 휴식
+아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)
+    ![아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)_0_image](https://pix8.agoda.net/hotelImages/119/1193236/1193236_16062812260044171977.jpg)
+![아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/72042101.jpg)
+![아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/72035165.jpg)
+
+도심 속 바쁜 일상에서 벗어나 편안한 휴식을 취하고 싶다면, 한적한 리조트에 머물러보는 것은 어떠신가요? **리조트의 옥상 수영장**은 도시의 전경을 감상하며 수영을 즐길 수 있게 해주고, 주변 소음에서 벗어나 한적함을 만끽할 수 있어요. 아침 햇살이 내리쬐는 수영장 옆에서는 최고급 아침 식사가 준비되어 있어, 새로운 하루를 활기차게 시작할 수 있답니다.
+
+뿐만 아니라, 이곳에서는 피곤한 몸과 마음을 달래줄 다양한 서비스가 마련되어 있어요. **호텔 내 스파 시설**에서 **전문 테라피스트**가 제공하는 차원이 다른 마사지로 하루의 피로를 말끔히 씻어내 보세요. 인근 유명 관광지로의 접근성도 뛰어나기 때문에, 도심 관광을 즐기기에 최적의 위치랍니다. 따뜻한 서비스와 청결한 객실이 호텔을 더욱 특별하게 만들어 줍니다.
+
+[아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)](https://www.agoda.com/ko-kr/aquarius-hotel-urban-resort/hotel/phnom-penh-kh.html)
+ 
+
+## 프놈펜에서의 낭만적인 휴식
+팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)
+    ![팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)_0_image](https://cdn6.agoda.net/images/property/flex/AgodaLuxeBadge_26px.svg)
+![팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)_1_image](https://pix8.agoda.net/hotelImages/2223004/0/f25c2176957962109fc4281a6184900c.jpg)
+![팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)_2_image](https://pix8.agoda.net/hotelImages/2223004/-1/541c1a2017d6205a9cc3a93b7ba1915d.jpg)
+
+프놈펜에서의 특별한 휴가를 계획하고 계신가요? 이번에 소개할 프놈펜의 숨은 보석, 바로 이 리조트에서의 휴식은 모든 여행자들의 마음을 사로잡을 거예요. 이곳은 현대적인 편의시설과 고급스러운 분위기가 어우러져 어딜 가나 환상적인 전망을 제공합니다. 특히, 스파와 수영장은 하루의 피로를 모두 풀어주는 완벽한 공간이죠. 또한, 리조트의 레스토랑에서는 그 지역만큼이나 다양한 요리들을 맛볼 수 있어 미각을 만족시켜 줄 거예요.
+
+호텔의 위치는 여행자들이 프놈펜에서 가장 매력적인 장소로 쉽게 접근할 수 있게 도와줘요. 도심 속의 평화로운 도피처에서 여유 있는 휴식을 즐기거나 가까운 관광 명소를 방문하며 다양한 경험을 더할 수 있어요. 고객 서비스 역시 친절하고 세심해서, 머무는 동안 언제든지 도움을 받을 수 있어 마음이 놓여요. 그러니 이곳에서의 하루는 기대 이상의 시간이 될 거라는 점을 확신합니다.
+
+[팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)](https://www.agoda.com/ko-kr/palace-gate-hotel-resort/hotel/phnom-penh-kh.html)
+ 
+
+
+## 결론
+
+프놈펜에서의 특별한 여행을 계획 중이라면, *플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)*의 현대적이면서도 전통적인 조화가 돋보이는 럭셔리를 경험해보세요. 프놈펜의 매력을 현대적 감각으로 전달하는 *나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)*에서는 미식과 휴식을 동시에 즐길 수 있습니다. 또한, 도심 속 오아시스 같은 *아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)*에서 특별한 편안함을 만끽해보세요. 마지막으로, 프놈펜의 경관을 더하여 고급스러운 시설과 친절한 서비스로 특별한 휴식을 제공하는 *팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)*이 있습니다. 이제 당신의 여행을 완성할 단 한 곳을 예약해보세요. 프놈펜에서의 잊지 못할 순간들이 당신을 기다리고 있습니다.
+
+f:T2518,
+    
+
+
+## 푸놈펜 도심 속에서 마음의 안식을 찾을 수 있는 4대 힐링 호텔
+
+안녕하세요. 여행을 사랑하는 모든 분들! 오늘 소개해드릴 특별한 여행지는 바로 **캄보디아의 심장** 푸놈펜에서 찾을 수 있는 도심 속 힐링 호텔들이에요. 하루의 피곤함을 풀어줄 완벽한 휴식처, 그리고 도심의 생동감을 동시에 느낄 수 있는 곳들을 소개하려고 합니다. 바쁜 일상에서 잠시 벗어나 **마음의 여유**를 찾고 싶다면, 이번 기사를 주목해 주세요. 푸놈펜의 색다른 매력을 경험할 수 있는 이 호텔들은 여행자들을 위한 최고의 선택지가 될 것입니다. 숨겨진 도시 속 오아시스와 같은 장소들입니다. 그럼 함께 떠나볼까요?
+
+
+## 프놈펜의 숨겨진 도심 휴양지
+플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)
+    ![플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)_0_image](https://pix8.agoda.net/hotelImages/288094/0/9a47f999366512c998ddb3f72e68bbdc.jpeg)
+![플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)_1_image](https://pix8.agoda.net/hotelImages/288094/-1/6059061cb07189b7686fdab4c1a9fe24.jpg)
+![플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/85515300.jpg)
+
+프놈펜의 중심가를 거닐다 보면, **아름다운 도시 리조트**가 하나 눈에 띄어요. 바로 이곳은 바쁜 일상 속 잠시의 **도피처**처럼 느껴지는 곳이에요. 내부는 현대적인 디자인과 전통적인 크메르 스타일이 조화롭게 어우러져, 다른 세계에 있는 것 같은 기분을 느끼게 해요. 객실은 넓고 깔끔하며, 마침내 긴 하루를 보낸 후 편안하게 쉴 수 있는 공간을 제공해요. 아침에는 조용한 정원에서 **싱그러운 아침 식사**를 즐길 수 있어요. 마치 감각적인 도시 속에서 자연을 만끽하는 기분이랄까요?
+
+저녁이 되면 몸과 마음의 긴장을 풀 수 있는 스파에서 **휴식을 취해보세요**. 이곳의 스파는 전문가들이 다양한 치료법을 제공해, 머리부터 발끝까지 **완벽하게 재충전**할 수 있는 기회가 될 거예요. 도시의 소음을 피하고 싶은 날에는 바깥의 소란스러운 풍경과는 달리, 풀사이드에서 느긋하게 시간을 보내는 것도 좋아요. 방문할 때마다 **기분 좋은 경험**이 되는 이곳은 프놈펜의 진정한 보석이 아닐까 싶어요.
+
+[플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)](https://www.agoda.com/ko-kr/the-plantation-urban-resort-and-spa/hotel/phnom-penh-kh.html)
+ 
+
+## 도시의 품격 있는 안식처
+나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)
+    ![나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)_0_image](https://pix8.agoda.net/hotelImages/109123/0/cf76cd0101dec3537d6a19c879c44174.jpg)
+![나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/642483253.jpg)
+![나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)_2_image](https://pix8.agoda.net/hotelImages/109123/-1/8cd96ec959b5ee7c2702e042acb3bc23.jpg)
+
+프놈펜의 활기찬 분위기와는 대조적으로, 이곳은 여행자의 피로를 풀어주기에 최적의 장소에요. 호텔에 들어서면 넓고 고급스러운 로비가 반겨주고, 어디든 볼 수 있는 미소 가득한 직원들의 서비스가 눈에 띄어요. 이곳의 객실은 현대적인 감각으로 꾸며져 있으며, 편안한 침대와 세련된 인테리어 덕분에 일상의 스트레스를 잊을 수 있는 공간이에요. 특히, 야경이 아름다운 창문 밖 전경은 눈을 즐겁게 해주지요.
+
+레스토랑과 바에서 제공하는 다양한 음식과 음료는 미식가들의 입맛을 사로잡기에 충분해요. 카지노와 사우나, 스파 등 다양한 부대시설도 여행의 지루함을 덜어주고, 관광을 마친 후에도 즐거움을 계속 느낄 수 있게 해줘요. 주변 관광지도 도보로 쉽게 접근할 수 있어, 도시 탐방 중간중간 쉬어가기에 딱이에요. 편리함과 즐거움을 동시에 추구하는 여행자에게 이곳은 완벽한 선택이랍니다!
+
+[나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)](https://www.agoda.com/ko-kr/nagaworld-hotel-entertainment-complex/hotel/phnom-penh-kh.html)
+ 
+
+## 도심 속 오아시스에서의 편안한 휴식
+아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)
+    ![아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)_0_image](https://pix8.agoda.net/hotelImages/119/1193236/1193236_16062812260044171977.jpg)
+![아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/72042101.jpg)
+![아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/72035165.jpg)
+
+도심 속 바쁜 일상에서 벗어나 편안한 휴식을 취하고 싶다면, 한적한 리조트에 머물러보는 것은 어떠신가요? **리조트의 옥상 수영장**은 도시의 전경을 감상하며 수영을 즐길 수 있게 해주고, 주변 소음에서 벗어나 한적함을 만끽할 수 있어요. 아침 햇살이 내리쬐는 수영장 옆에서는 최고급 아침 식사가 준비되어 있어, 새로운 하루를 활기차게 시작할 수 있답니다.
+
+뿐만 아니라, 이곳에서는 피곤한 몸과 마음을 달래줄 다양한 서비스가 마련되어 있어요. **호텔 내 스파 시설**에서 **전문 테라피스트**가 제공하는 차원이 다른 마사지로 하루의 피로를 말끔히 씻어내 보세요. 인근 유명 관광지로의 접근성도 뛰어나기 때문에, 도심 관광을 즐기기에 최적의 위치랍니다. 따뜻한 서비스와 청결한 객실이 호텔을 더욱 특별하게 만들어 줍니다.
+
+[아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)](https://www.agoda.com/ko-kr/aquarius-hotel-urban-resort/hotel/phnom-penh-kh.html)
+ 
+
+## 프놈펜에서의 낭만적인 휴식
+팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)
+    ![팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)_0_image](https://cdn6.agoda.net/images/property/flex/AgodaLuxeBadge_26px.svg)
+![팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)_1_image](https://pix8.agoda.net/hotelImages/2223004/0/f25c2176957962109fc4281a6184900c.jpg)
+![팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)_2_image](https://pix8.agoda.net/hotelImages/2223004/-1/541c1a2017d6205a9cc3a93b7ba1915d.jpg)
+
+프놈펜에서의 특별한 휴가를 계획하고 계신가요? 이번에 소개할 프놈펜의 숨은 보석, 바로 이 리조트에서의 휴식은 모든 여행자들의 마음을 사로잡을 거예요. 이곳은 현대적인 편의시설과 고급스러운 분위기가 어우러져 어딜 가나 환상적인 전망을 제공합니다. 특히, 스파와 수영장은 하루의 피로를 모두 풀어주는 완벽한 공간이죠. 또한, 리조트의 레스토랑에서는 그 지역만큼이나 다양한 요리들을 맛볼 수 있어 미각을 만족시켜 줄 거예요.
+
+호텔의 위치는 여행자들이 프놈펜에서 가장 매력적인 장소로 쉽게 접근할 수 있게 도와줘요. 도심 속의 평화로운 도피처에서 여유 있는 휴식을 즐기거나 가까운 관광 명소를 방문하며 다양한 경험을 더할 수 있어요. 고객 서비스 역시 친절하고 세심해서, 머무는 동안 언제든지 도움을 받을 수 있어 마음이 놓여요. 그러니 이곳에서의 하루는 기대 이상의 시간이 될 거라는 점을 확신합니다.
+
+[팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)](https://www.agoda.com/ko-kr/palace-gate-hotel-resort/hotel/phnom-penh-kh.html)
+ 
+
+
+## 결론
+
+프놈펜에서의 특별한 여행을 계획 중이라면, *플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)*의 현대적이면서도 전통적인 조화가 돋보이는 럭셔리를 경험해보세요. 프놈펜의 매력을 현대적 감각으로 전달하는 *나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)*에서는 미식과 휴식을 동시에 즐길 수 있습니다. 또한, 도심 속 오아시스 같은 *아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)*에서 특별한 편안함을 만끽해보세요. 마지막으로, 프놈펜의 경관을 더하여 고급스러운 시설과 친절한 서비스로 특별한 휴식을 제공하는 *팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)*이 있습니다. 이제 당신의 여행을 완성할 단 한 곳을 예약해보세요. 프놈펜에서의 잊지 못할 순간들이 당신을 기다리고 있습니다.
+
+10:T2518,
+    
+
+
+## 푸놈펜 도심 속에서 마음의 안식을 찾을 수 있는 4대 힐링 호텔
+
+안녕하세요. 여행을 사랑하는 모든 분들! 오늘 소개해드릴 특별한 여행지는 바로 **캄보디아의 심장** 푸놈펜에서 찾을 수 있는 도심 속 힐링 호텔들이에요. 하루의 피곤함을 풀어줄 완벽한 휴식처, 그리고 도심의 생동감을 동시에 느낄 수 있는 곳들을 소개하려고 합니다. 바쁜 일상에서 잠시 벗어나 **마음의 여유**를 찾고 싶다면, 이번 기사를 주목해 주세요. 푸놈펜의 색다른 매력을 경험할 수 있는 이 호텔들은 여행자들을 위한 최고의 선택지가 될 것입니다. 숨겨진 도시 속 오아시스와 같은 장소들입니다. 그럼 함께 떠나볼까요?
+
+
+## 프놈펜의 숨겨진 도심 휴양지
+플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)
+    ![플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)_0_image](https://pix8.agoda.net/hotelImages/288094/0/9a47f999366512c998ddb3f72e68bbdc.jpeg)
+![플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)_1_image](https://pix8.agoda.net/hotelImages/288094/-1/6059061cb07189b7686fdab4c1a9fe24.jpg)
+![플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/85515300.jpg)
+
+프놈펜의 중심가를 거닐다 보면, **아름다운 도시 리조트**가 하나 눈에 띄어요. 바로 이곳은 바쁜 일상 속 잠시의 **도피처**처럼 느껴지는 곳이에요. 내부는 현대적인 디자인과 전통적인 크메르 스타일이 조화롭게 어우러져, 다른 세계에 있는 것 같은 기분을 느끼게 해요. 객실은 넓고 깔끔하며, 마침내 긴 하루를 보낸 후 편안하게 쉴 수 있는 공간을 제공해요. 아침에는 조용한 정원에서 **싱그러운 아침 식사**를 즐길 수 있어요. 마치 감각적인 도시 속에서 자연을 만끽하는 기분이랄까요?
+
+저녁이 되면 몸과 마음의 긴장을 풀 수 있는 스파에서 **휴식을 취해보세요**. 이곳의 스파는 전문가들이 다양한 치료법을 제공해, 머리부터 발끝까지 **완벽하게 재충전**할 수 있는 기회가 될 거예요. 도시의 소음을 피하고 싶은 날에는 바깥의 소란스러운 풍경과는 달리, 풀사이드에서 느긋하게 시간을 보내는 것도 좋아요. 방문할 때마다 **기분 좋은 경험**이 되는 이곳은 프놈펜의 진정한 보석이 아닐까 싶어요.
+
+[플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)](https://www.agoda.com/ko-kr/the-plantation-urban-resort-and-spa/hotel/phnom-penh-kh.html)
+ 
+
+## 도시의 품격 있는 안식처
+나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)
+    ![나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)_0_image](https://pix8.agoda.net/hotelImages/109123/0/cf76cd0101dec3537d6a19c879c44174.jpg)
+![나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/642483253.jpg)
+![나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)_2_image](https://pix8.agoda.net/hotelImages/109123/-1/8cd96ec959b5ee7c2702e042acb3bc23.jpg)
+
+프놈펜의 활기찬 분위기와는 대조적으로, 이곳은 여행자의 피로를 풀어주기에 최적의 장소에요. 호텔에 들어서면 넓고 고급스러운 로비가 반겨주고, 어디든 볼 수 있는 미소 가득한 직원들의 서비스가 눈에 띄어요. 이곳의 객실은 현대적인 감각으로 꾸며져 있으며, 편안한 침대와 세련된 인테리어 덕분에 일상의 스트레스를 잊을 수 있는 공간이에요. 특히, 야경이 아름다운 창문 밖 전경은 눈을 즐겁게 해주지요.
+
+레스토랑과 바에서 제공하는 다양한 음식과 음료는 미식가들의 입맛을 사로잡기에 충분해요. 카지노와 사우나, 스파 등 다양한 부대시설도 여행의 지루함을 덜어주고, 관광을 마친 후에도 즐거움을 계속 느낄 수 있게 해줘요. 주변 관광지도 도보로 쉽게 접근할 수 있어, 도시 탐방 중간중간 쉬어가기에 딱이에요. 편리함과 즐거움을 동시에 추구하는 여행자에게 이곳은 완벽한 선택이랍니다!
+
+[나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)](https://www.agoda.com/ko-kr/nagaworld-hotel-entertainment-complex/hotel/phnom-penh-kh.html)
+ 
+
+## 도심 속 오아시스에서의 편안한 휴식
+아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)
+    ![아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)_0_image](https://pix8.agoda.net/hotelImages/119/1193236/1193236_16062812260044171977.jpg)
+![아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)_1_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/72042101.jpg)
+![아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)_2_image](https://q-xx.bstatic.com/xdata/images/hotel/max500/72035165.jpg)
+
+도심 속 바쁜 일상에서 벗어나 편안한 휴식을 취하고 싶다면, 한적한 리조트에 머물러보는 것은 어떠신가요? **리조트의 옥상 수영장**은 도시의 전경을 감상하며 수영을 즐길 수 있게 해주고, 주변 소음에서 벗어나 한적함을 만끽할 수 있어요. 아침 햇살이 내리쬐는 수영장 옆에서는 최고급 아침 식사가 준비되어 있어, 새로운 하루를 활기차게 시작할 수 있답니다.
+
+뿐만 아니라, 이곳에서는 피곤한 몸과 마음을 달래줄 다양한 서비스가 마련되어 있어요. **호텔 내 스파 시설**에서 **전문 테라피스트**가 제공하는 차원이 다른 마사지로 하루의 피로를 말끔히 씻어내 보세요. 인근 유명 관광지로의 접근성도 뛰어나기 때문에, 도심 관광을 즐기기에 최적의 위치랍니다. 따뜻한 서비스와 청결한 객실이 호텔을 더욱 특별하게 만들어 줍니다.
+
+[아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)](https://www.agoda.com/ko-kr/aquarius-hotel-urban-resort/hotel/phnom-penh-kh.html)
+ 
+
+## 프놈펜에서의 낭만적인 휴식
+팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)
+    ![팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)_0_image](https://cdn6.agoda.net/images/property/flex/AgodaLuxeBadge_26px.svg)
+![팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)_1_image](https://pix8.agoda.net/hotelImages/2223004/0/f25c2176957962109fc4281a6184900c.jpg)
+![팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)_2_image](https://pix8.agoda.net/hotelImages/2223004/-1/541c1a2017d6205a9cc3a93b7ba1915d.jpg)
+
+프놈펜에서의 특별한 휴가를 계획하고 계신가요? 이번에 소개할 프놈펜의 숨은 보석, 바로 이 리조트에서의 휴식은 모든 여행자들의 마음을 사로잡을 거예요. 이곳은 현대적인 편의시설과 고급스러운 분위기가 어우러져 어딜 가나 환상적인 전망을 제공합니다. 특히, 스파와 수영장은 하루의 피로를 모두 풀어주는 완벽한 공간이죠. 또한, 리조트의 레스토랑에서는 그 지역만큼이나 다양한 요리들을 맛볼 수 있어 미각을 만족시켜 줄 거예요.
+
+호텔의 위치는 여행자들이 프놈펜에서 가장 매력적인 장소로 쉽게 접근할 수 있게 도와줘요. 도심 속의 평화로운 도피처에서 여유 있는 휴식을 즐기거나 가까운 관광 명소를 방문하며 다양한 경험을 더할 수 있어요. 고객 서비스 역시 친절하고 세심해서, 머무는 동안 언제든지 도움을 받을 수 있어 마음이 놓여요. 그러니 이곳에서의 하루는 기대 이상의 시간이 될 거라는 점을 확신합니다.
+
+[팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)](https://www.agoda.com/ko-kr/palace-gate-hotel-resort/hotel/phnom-penh-kh.html)
+ 
+
+
+## 결론
+
+프놈펜에서의 특별한 여행을 계획 중이라면, *플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)*의 현대적이면서도 전통적인 조화가 돋보이는 럭셔리를 경험해보세요. 프놈펜의 매력을 현대적 감각으로 전달하는 *나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)*에서는 미식과 휴식을 동시에 즐길 수 있습니다. 또한, 도심 속 오아시스 같은 *아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)*에서 특별한 편안함을 만끽해보세요. 마지막으로, 프놈펜의 경관을 더하여 고급스러운 시설과 친절한 서비스로 특별한 휴식을 제공하는 *팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)*이 있습니다. 이제 당신의 여행을 완성할 단 한 곳을 예약해보세요. 프놈펜에서의 잊지 못할 순간들이 당신을 기다리고 있습니다.
+
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]"}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"border-b-[0.6px] pb-[40px] border-gray-200","children":[["$","h1",null,{"className":"text-[30px] font-bold leading-[150%]","children":"푸놈펜 인싸들이 찾는 도심 속 힐링 호텔 4선"}],["$","data",null,{"children":"2025-08-31T01:00:02.599Z"}],["$","ul",null,{"className":"flex flex-row flex-wrap gap-[10px]","children":[["$","li","[object Object]_0",{"children":["$","span",null,{"children":"아시아"}]}],["$","li","[object Object]_1",{"children":["$","span",null,{"children":"도심"}]}],["$","li","[object Object]_2",{"children":["$","span",null,{"children":"리조트"}]}],["$","li","[object Object]_3",{"children":["$","span",null,{"children":"편안함"}]}],["$","li","[object Object]_4",{"children":["$","span",null,{"children":"스파"}]}],["$","li","[object Object]_5",{"children":["$","span",null,{"children":"휴양"}]}],["$","li","[object Object]_6",{"children":["$","span",null,{"children":"크메르"}]}],["$","li","[object Object]_7",{"children":["$","span",null,{"children":"럭셔리"}]}],["$","li","[object Object]_8",{"children":["$","span",null,{"children":"미식"}]}],["$","li","[object Object]_9",{"children":["$","span",null,{"children":"서비스"}]}],["$","li","[object Object]_10",{"children":["$","span",null,{"children":"도심리조트"}]}],["$","li","[object Object]_11",{"children":["$","span",null,{"children":"옥상수영장"}]}],["$","li","[object Object]_12",{"children":["$","span",null,{"children":"편안한숙박"}]}],["$","li","[object Object]_13",{"children":["$","span",null,{"children":"아침식사"}]}],["$","li","[object Object]_14",{"children":["$","span",null,{"children":"낭만"}]}],["$","li","[object Object]_15",{"children":["$","span",null,{"children":"휴식"}]}],["$","li","[object Object]_16",{"children":["$","span",null,{"children":"여행"}]}],["$","li","[object Object]_17",{"children":["$","span",null,{"children":"고급"}]}],["$","li","[object Object]_18",{"children":["$","span",null,{"children":"관광"}]}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"231439dd","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"푸놈펜 도심 속에서 마음의 안식을 찾을 수 있는 4대 힐링 호텔"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["안녕하세요. 여행을 사랑하는 모든 분들! 오늘 소개해드릴 특별한 여행지는 바로 ",["$","strong",null,{"className":"font-black","children":"캄보디아의 심장"}]," 푸놈펜에서 찾을 수 있는 도심 속 힐링 호텔들이에요. 하루의 피곤함을 풀어줄 완벽한 휴식처, 그리고 도심의 생동감을 동시에 느낄 수 있는 곳들을 소개하려고 합니다. 바쁜 일상에서 잠시 벗어나 ",["$","strong",null,{"className":"font-black","children":"마음의 여유"}],"를 찾고 싶다면, 이번 기사를 주목해 주세요. 푸놈펜의 색다른 매력을 경험할 수 있는 이 호텔들은 여행자들을 위한 최고의 선택지가 될 것입니다. 숨겨진 도시 속 오아시스와 같은 장소들입니다. 그럼 함께 떠나볼까요?"]}],"\n",["$","h2",null,{"id":"b9c4f14c","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"프놈펜의 숨겨진 도심 휴양지"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/288094/0/9a47f999366512c998ddb3f72e68bbdc.jpeg","alt":"플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/288094/-1/6059061cb07189b7686fdab4c1a9fe24.jpg","alt":"플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/85515300.jpg","alt":"플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["프놈펜의 중심가를 거닐다 보면, ",["$","strong",null,{"className":"font-black","children":"아름다운 도시 리조트"}],"가 하나 눈에 띄어요. 바로 이곳은 바쁜 일상 속 잠시의 ",["$","strong",null,{"className":"font-black","children":"도피처"}],"처럼 느껴지는 곳이에요. 내부는 현대적인 디자인과 전통적인 크메르 스타일이 조화롭게 어우러져, 다른 세계에 있는 것 같은 기분을 느끼게 해요. 객실은 넓고 깔끔하며, 마침내 긴 하루를 보낸 후 편안하게 쉴 수 있는 공간을 제공해요. 아침에는 조용한 정원에서 ",["$","strong",null,{"className":"font-black","children":"싱그러운 아침 식사"}],"를 즐길 수 있어요. 마치 감각적인 도시 속에서 자연을 만끽하는 기분이랄까요?"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["저녁이 되면 몸과 마음의 긴장을 풀 수 있는 스파에서 ",["$","strong",null,{"className":"font-black","children":"휴식을 취해보세요"}],". 이곳의 스파는 전문가들이 다양한 치료법을 제공해, 머리부터 발끝까지 ",["$","strong",null,{"className":"font-black","children":"완벽하게 재충전"}],"할 수 있는 기회가 될 거예요. 도시의 소음을 피하고 싶은 날에는 바깥의 소란스러운 풍경과는 달리, 풀사이드에서 느긋하게 시간을 보내는 것도 좋아요. 방문할 때마다 ",["$","strong",null,{"className":"font-black","children":"기분 좋은 경험"}],"이 되는 이곳은 프놈펜의 진정한 보석이 아닐까 싶어요."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/the-plantation-urban-resort-and-spa/hotel/phnom-penh-kh.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/the-plantation-urban-resort-and-spa/hotel/phnom-penh-kh.html"},"children":[{"type":"text","value":"플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)","position":{"start":{"line":20,"column":2,"offset":1339},"end":{"line":20,"column":51,"offset":1388}}}],"position":{"start":{"line":20,"column":1,"offset":1338},"end":{"line":20,"column":142,"offset":1479}}},"children":"플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)"},"post":{"id":"230cd46b-5fe9-4673-96b3-c97c39ccae17","title":"푸놈펜 인싸들이 찾는 도심 속 힐링 호텔 4선","fileName":"푸놈펜-인싸들이-찾는-도심-속-힐링-호텔-4선-230cd46b","description":"요즘 핫한 푸놈펜에서도 트렌디한 인싸들이 찾아가는 호텔들만을 엄선했습니다. 'The Plantation Urban Resort and Spa', 'Nagaworld Hotel & Entertainment Complex', 'Aquarius Hotel & Urban Resort', 'Palace Gate Hotel & Resort'는 모두 도심에서 느낄 수 있는 특별한 경험을 선사합니다. 이곳에서 도심 속 힐링을 만끽하세요!","date":"2025-08-31T01:00:02.599Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"리조트","path":"$$/kr/tags/리조트","id":"리조트"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"휴양","path":"$$/kr/tags/휴양","id":"휴양"},{"name":"크메르","path":"$$/kr/tags/크메르","id":"크메르"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"미식","path":"$$/kr/tags/미식","id":"미식"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"도심리조트","path":"$$/kr/tags/도심리조트","id":"도심리조트"},{"name":"옥상수영장","path":"$$/kr/tags/옥상수영장","id":"옥상수영장"},{"name":"편안한숙박","path":"$$/kr/tags/편안한숙박","id":"편안한숙박"},{"name":"아침식사","path":"$$/kr/tags/아침식사","id":"아침식사"},{"name":"낭만","path":"$$/kr/tags/낭만","id":"낭만"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"여행","path":"$$/kr/tags/여행","id":"여행"},{"name":"고급","path":"$$/kr/tags/고급","id":"고급"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"}],"banner":"/images/4816-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"푸놈펜-인싸들이-찾는-도심-속-힐링-호텔-4선-230cd46b","content":"$d","category":"articles","readMin":"6.6"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"c85d568e","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"도시의 품격 있는 안식처"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/109123/0/cf76cd0101dec3537d6a19c879c44174.jpg","alt":"나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/642483253.jpg","alt":"나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/109123/-1/8cd96ec959b5ee7c2702e042acb3bc23.jpg","alt":"나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"프놈펜의 활기찬 분위기와는 대조적으로, 이곳은 여행자의 피로를 풀어주기에 최적의 장소에요. 호텔에 들어서면 넓고 고급스러운 로비가 반겨주고, 어디든 볼 수 있는 미소 가득한 직원들의 서비스가 눈에 띄어요. 이곳의 객실은 현대적인 감각으로 꾸며져 있으며, 편안한 침대와 세련된 인테리어 덕분에 일상의 스트레스를 잊을 수 있는 공간이에요. 특히, 야경이 아름다운 창문 밖 전경은 눈을 즐겁게 해주지요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"레스토랑과 바에서 제공하는 다양한 음식과 음료는 미식가들의 입맛을 사로잡기에 충분해요. 카지노와 사우나, 스파 등 다양한 부대시설도 여행의 지루함을 덜어주고, 관광을 마친 후에도 즐거움을 계속 느낄 수 있게 해줘요. 주변 관광지도 도보로 쉽게 접근할 수 있어, 도시 탐방 중간중간 쉬어가기에 딱이에요. 편리함과 즐거움을 동시에 추구하는 여행자에게 이곳은 완벽한 선택이랍니다!"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/nagaworld-hotel-entertainment-complex/hotel/phnom-penh-kh.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/nagaworld-hotel-entertainment-complex/hotel/phnom-penh-kh.html"},"children":[{"type":"text","value":"나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)","position":{"start":{"line":33,"column":2,"offset":2461},"end":{"line":33,"column":65,"offset":2524}}}],"position":{"start":{"line":33,"column":1,"offset":2460},"end":{"line":33,"column":158,"offset":2617}}},"children":"나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)"},"post":{"id":"230cd46b-5fe9-4673-96b3-c97c39ccae17","title":"푸놈펜 인싸들이 찾는 도심 속 힐링 호텔 4선","fileName":"푸놈펜-인싸들이-찾는-도심-속-힐링-호텔-4선-230cd46b","description":"요즘 핫한 푸놈펜에서도 트렌디한 인싸들이 찾아가는 호텔들만을 엄선했습니다. 'The Plantation Urban Resort and Spa', 'Nagaworld Hotel & Entertainment Complex', 'Aquarius Hotel & Urban Resort', 'Palace Gate Hotel & Resort'는 모두 도심에서 느낄 수 있는 특별한 경험을 선사합니다. 이곳에서 도심 속 힐링을 만끽하세요!","date":"2025-08-31T01:00:02.599Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"리조트","path":"$$/kr/tags/리조트","id":"리조트"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"휴양","path":"$$/kr/tags/휴양","id":"휴양"},{"name":"크메르","path":"$$/kr/tags/크메르","id":"크메르"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"미식","path":"$$/kr/tags/미식","id":"미식"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"도심리조트","path":"$$/kr/tags/도심리조트","id":"도심리조트"},{"name":"옥상수영장","path":"$$/kr/tags/옥상수영장","id":"옥상수영장"},{"name":"편안한숙박","path":"$$/kr/tags/편안한숙박","id":"편안한숙박"},{"name":"아침식사","path":"$$/kr/tags/아침식사","id":"아침식사"},{"name":"낭만","path":"$$/kr/tags/낭만","id":"낭만"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"여행","path":"$$/kr/tags/여행","id":"여행"},{"name":"고급","path":"$$/kr/tags/고급","id":"고급"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"}],"banner":"/images/4816-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"푸놈펜-인싸들이-찾는-도심-속-힐링-호텔-4선-230cd46b","content":"$e","category":"articles","readMin":"6.6"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"8dc0af4f","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"도심 속 오아시스에서의 편안한 휴식"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/119/1193236/1193236_16062812260044171977.jpg","alt":"아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/72042101.jpg","alt":"아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://q-xx.bstatic.com/xdata/images/hotel/max500/72035165.jpg","alt":"아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["도심 속 바쁜 일상에서 벗어나 편안한 휴식을 취하고 싶다면, 한적한 리조트에 머물러보는 것은 어떠신가요? ",["$","strong",null,{"className":"font-black","children":"리조트의 옥상 수영장"}],"은 도시의 전경을 감상하며 수영을 즐길 수 있게 해주고, 주변 소음에서 벗어나 한적함을 만끽할 수 있어요. 아침 햇살이 내리쬐는 수영장 옆에서는 최고급 아침 식사가 준비되어 있어, 새로운 하루를 활기차게 시작할 수 있답니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["뿐만 아니라, 이곳에서는 피곤한 몸과 마음을 달래줄 다양한 서비스가 마련되어 있어요. ",["$","strong",null,{"className":"font-black","children":"호텔 내 스파 시설"}],"에서 ",["$","strong",null,{"className":"font-black","children":"전문 테라피스트"}],"가 제공하는 차원이 다른 마사지로 하루의 피로를 말끔히 씻어내 보세요. 인근 유명 관광지로의 접근성도 뛰어나기 때문에, 도심 관광을 즐기기에 최적의 위치랍니다. 따뜻한 서비스와 청결한 객실이 호텔을 더욱 특별하게 만들어 줍니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/aquarius-hotel-urban-resort/hotel/phnom-penh-kh.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/aquarius-hotel-urban-resort/hotel/phnom-penh-kh.html"},"children":[{"type":"text","value":"아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)","position":{"start":{"line":46,"column":2,"offset":3505},"end":{"line":46,"column":52,"offset":3555}}}],"position":{"start":{"line":46,"column":1,"offset":3504},"end":{"line":46,"column":135,"offset":3638}}},"children":"아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)"},"post":{"id":"230cd46b-5fe9-4673-96b3-c97c39ccae17","title":"푸놈펜 인싸들이 찾는 도심 속 힐링 호텔 4선","fileName":"푸놈펜-인싸들이-찾는-도심-속-힐링-호텔-4선-230cd46b","description":"요즘 핫한 푸놈펜에서도 트렌디한 인싸들이 찾아가는 호텔들만을 엄선했습니다. 'The Plantation Urban Resort and Spa', 'Nagaworld Hotel & Entertainment Complex', 'Aquarius Hotel & Urban Resort', 'Palace Gate Hotel & Resort'는 모두 도심에서 느낄 수 있는 특별한 경험을 선사합니다. 이곳에서 도심 속 힐링을 만끽하세요!","date":"2025-08-31T01:00:02.599Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"리조트","path":"$$/kr/tags/리조트","id":"리조트"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"휴양","path":"$$/kr/tags/휴양","id":"휴양"},{"name":"크메르","path":"$$/kr/tags/크메르","id":"크메르"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"미식","path":"$$/kr/tags/미식","id":"미식"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"도심리조트","path":"$$/kr/tags/도심리조트","id":"도심리조트"},{"name":"옥상수영장","path":"$$/kr/tags/옥상수영장","id":"옥상수영장"},{"name":"편안한숙박","path":"$$/kr/tags/편안한숙박","id":"편안한숙박"},{"name":"아침식사","path":"$$/kr/tags/아침식사","id":"아침식사"},{"name":"낭만","path":"$$/kr/tags/낭만","id":"낭만"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"여행","path":"$$/kr/tags/여행","id":"여행"},{"name":"고급","path":"$$/kr/tags/고급","id":"고급"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"}],"banner":"/images/4816-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"푸놈펜-인싸들이-찾는-도심-속-힐링-호텔-4선-230cd46b","content":"$f","category":"articles","readMin":"6.6"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"81ff4f56","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"프놈펜에서의 낭만적인 휴식"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://cdn6.agoda.net/images/property/flex/AgodaLuxeBadge_26px.svg","alt":"팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)_0_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/2223004/0/f25c2176957962109fc4281a6184900c.jpg","alt":"팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)_1_image"}],"\n",["$","$Lb",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":100,"height":100,"src":"https://pix8.agoda.net/hotelImages/2223004/-1/541c1a2017d6205a9cc3a93b7ba1915d.jpg","alt":"팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)_2_image"}]]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"프놈펜에서의 특별한 휴가를 계획하고 계신가요? 이번에 소개할 프놈펜의 숨은 보석, 바로 이 리조트에서의 휴식은 모든 여행자들의 마음을 사로잡을 거예요. 이곳은 현대적인 편의시설과 고급스러운 분위기가 어우러져 어딜 가나 환상적인 전망을 제공합니다. 특히, 스파와 수영장은 하루의 피로를 모두 풀어주는 완벽한 공간이죠. 또한, 리조트의 레스토랑에서는 그 지역만큼이나 다양한 요리들을 맛볼 수 있어 미각을 만족시켜 줄 거예요."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"호텔의 위치는 여행자들이 프놈펜에서 가장 매력적인 장소로 쉽게 접근할 수 있게 도와줘요. 도심 속의 평화로운 도피처에서 여유 있는 휴식을 즐기거나 가까운 관광 명소를 방문하며 다양한 경험을 더할 수 있어요. 고객 서비스 역시 친절하고 세심해서, 머무는 동안 언제든지 도움을 받을 수 있어 마음이 놓여요. 그러니 이곳에서의 하루는 기대 이상의 시간이 될 거라는 점을 확신합니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["$","$Lc",null,{"props":{"href":"https://www.agoda.com/ko-kr/palace-gate-hotel-resort/hotel/phnom-penh-kh.html","node":{"type":"element","tagName":"a","properties":{"href":"https://www.agoda.com/ko-kr/palace-gate-hotel-resort/hotel/phnom-penh-kh.html"},"children":[{"type":"text","value":"팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)","position":{"start":{"line":59,"column":2,"offset":4624},"end":{"line":59,"column":61,"offset":4683}}}],"position":{"start":{"line":59,"column":1,"offset":4623},"end":{"line":59,"column":141,"offset":4763}}},"children":"팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)"},"post":{"id":"230cd46b-5fe9-4673-96b3-c97c39ccae17","title":"푸놈펜 인싸들이 찾는 도심 속 힐링 호텔 4선","fileName":"푸놈펜-인싸들이-찾는-도심-속-힐링-호텔-4선-230cd46b","description":"요즘 핫한 푸놈펜에서도 트렌디한 인싸들이 찾아가는 호텔들만을 엄선했습니다. 'The Plantation Urban Resort and Spa', 'Nagaworld Hotel & Entertainment Complex', 'Aquarius Hotel & Urban Resort', 'Palace Gate Hotel & Resort'는 모두 도심에서 느낄 수 있는 특별한 경험을 선사합니다. 이곳에서 도심 속 힐링을 만끽하세요!","date":"2025-08-31T01:00:02.599Z","tags":[{"name":"아시아","path":"$$/kr/tags/아시아","id":"아시아"},{"name":"도심","path":"$$/kr/tags/도심","id":"도심"},{"name":"리조트","path":"$$/kr/tags/리조트","id":"리조트"},{"name":"편안함","path":"$$/kr/tags/편안함","id":"편안함"},{"name":"스파","path":"$$/kr/tags/스파","id":"스파"},{"name":"휴양","path":"$$/kr/tags/휴양","id":"휴양"},{"name":"크메르","path":"$$/kr/tags/크메르","id":"크메르"},{"name":"럭셔리","path":"$$/kr/tags/럭셔리","id":"럭셔리"},{"name":"미식","path":"$$/kr/tags/미식","id":"미식"},{"name":"서비스","path":"$$/kr/tags/서비스","id":"서비스"},{"name":"도심리조트","path":"$$/kr/tags/도심리조트","id":"도심리조트"},{"name":"옥상수영장","path":"$$/kr/tags/옥상수영장","id":"옥상수영장"},{"name":"편안한숙박","path":"$$/kr/tags/편안한숙박","id":"편안한숙박"},{"name":"아침식사","path":"$$/kr/tags/아침식사","id":"아침식사"},{"name":"낭만","path":"$$/kr/tags/낭만","id":"낭만"},{"name":"휴식","path":"$$/kr/tags/휴식","id":"휴식"},{"name":"여행","path":"$$/kr/tags/여행","id":"여행"},{"name":"고급","path":"$$/kr/tags/고급","id":"고급"},{"name":"관광","path":"$$/kr/tags/관광","id":"관광"}],"banner":"/images/4816-1x1.jpg","author":"달마","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"푸놈펜-인싸들이-찾는-도심-속-힐링-호텔-4선-230cd46b","content":"$10","category":"articles","readMin":"6.6"},"language":"kr"}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"프놈펜에서의 특별한 여행을 계획 중이라면, *플랜테이션 어반 리조트 앤 스파 (Plantation Urban Resort & Spa)*의 현대적이면서도 전통적인 조화가 돋보이는 럭셔리를 경험해보세요. 프놈펜의 매력을 현대적 감각으로 전달하는 *나가월드 호텔 앤 엔터테인먼트 콤플렉스 (NagaWorld Hotel & Entertainment Complex)*에서는 미식과 휴식을 동시에 즐길 수 있습니다. 또한, 도심 속 오아시스 같은 *아쿠아리우스 호텔 앤 어반 리조트 (Aquarius Hotel & Urban Resort)*에서 특별한 편안함을 만끽해보세요. 마지막으로, 프놈펜의 경관을 더하여 고급스러운 시설과 친절한 서비스로 특별한 휴식을 제공하는 *팔래스 게이트 호텔 앤 리조트 바이 EHM (Palace Gate Hotel & Resort By EHM)*이 있습니다. 이제 당신의 여행을 완성할 단 한 곳을 예약해보세요. 프놈펜에서의 잊지 못할 순간들이 당신을 기다리고 있습니다."}]]}]}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L11",null,{"articleTitle":"푸놈펜 인싸들이 찾는 도심 속 힐링 호텔 4선","toc":[{"tagName":"h2","title":"푸놈펜 도심 속에서 마음의 안식을 찾을 수 있는 4대 힐링 호텔","id":"231439dd"},{"tagName":"h2","title":"프놈펜의 숨겨진 도심 휴양지","id":"b9c4f14c"},{"tagName":"h2","title":"도시의 품격 있는 안식처","id":"c85d568e"},{"tagName":"h2","title":"도심 속 오아시스에서의 편안한 휴식","id":"8dc0af4f"},{"tagName":"h2","title":"프놈펜에서의 낭만적인 휴식","id":"81ff4f56"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null
